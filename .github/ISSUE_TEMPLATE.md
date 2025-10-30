@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 30, 2025
+title: Latest 15 Papers - October 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,46 +7,50 @@ labels: documentation
 ## LLM AND data
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis](http://arxiv.org/abs/2510.24695v1)** | 2025-10-28 | <details><summary>https...</summary><p>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</p></details> |
-| **[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](http://arxiv.org/abs/2510.24606v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Workshop on Efficient Reasoning</p></details> |
-| **[Law in Silico: Simulating Legal Society with LLM-Based Agents](http://arxiv.org/abs/2510.24442v1)** | 2025-10-28 |  |
-| **[Uncovering Gaps Between RFC Updates and TCP/IP Implementations: LLM-Facilitated Differential Checks on Intermediate Representations](http://arxiv.org/abs/2510.24408v1)** | 2025-10-28 | 15 pages, 7 figures |
-| **[APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training](http://arxiv.org/abs/2510.24397v1)** | 2025-10-28 | 46 pages |
-| **[Automatically Benchmarking LLM Code Agents through Agent-Driven Annotation and Evaluation](http://arxiv.org/abs/2510.24358v1)** | 2025-10-28 |  |
-| **[MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools](http://arxiv.org/abs/2510.24284v1)** | 2025-10-28 |  |
-| **[GRAPHIA: Harnessing Social Graph Data to Enhance LLM-Based Social Simulation](http://arxiv.org/abs/2510.24251v1)** | 2025-10-28 |  |
-| **[Evaluating LLMs on Generating Age-Appropriate Child-Like Conversations](http://arxiv.org/abs/2510.24250v1)** | 2025-10-28 | <details><summary>11 pa...</summary><p>11 pages excluding references and appendix. 3 figures and 6 tables</p></details> |
-| **[TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration](http://arxiv.org/abs/2410.20445v5)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025, https://github.com/tsinghua-fib-lab/TrajAgent</p></details> |
+| **[The Limits of Obliviate: Evaluating Unlearning in LLMs via Stimulus-Knowledge Entanglement-Behavior Framework](http://arxiv.org/abs/2510.25732v1)** | 2025-10-29 | 14 pages, 11 figures |
+| **[Interpreting LLMs as Credit Risk Classifiers: Do Their Feature Explanations Align with Classical ML?](http://arxiv.org/abs/2510.25701v1)** | 2025-10-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables, CIKM 2025 FinFAI workshop</p></details> |
+| **[Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs](http://arxiv.org/abs/2507.14785v2)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted at AI4FCF-ICDM 2025</p></details> |
+| **[The Sign Estimator: LLM Alignment in the Face of Choice Heterogeneity](http://arxiv.org/abs/2510.23965v2)** | 2025-10-29 |  |
+| **[Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs](http://arxiv.org/abs/2510.25441v1)** | 2025-10-29 | 27 pages, 5 figures |
+| **[Monitoring Transformative Technological Convergence Through LLM-Extracted Semantic Entity Triple Graphs](http://arxiv.org/abs/2510.25370v1)** | 2025-10-29 |  |
+| **[Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation](http://arxiv.org/abs/2503.05493v2)** | 2025-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025 DB Track Accepted Paper</p></details> |
+| **[WEST: LLM based Speech Toolkit for Speech Understanding, Generation, and Interaction](http://arxiv.org/abs/2509.19902v2)** | 2025-10-29 |  |
+| **[Augmenting Dialog with Think-Aloud Utterances for Modeling Individual Personality Traits by LLM](http://arxiv.org/abs/2510.09158v2)** | 2025-10-29 | <details><summary>8 pag...</summary><p>8 pages, 1 figure. Accepted at the First Workshop on Tailoring AI: Exploring Active and Passive LLM Personalization (PALS2025@EMNLP2025)</p></details> |
+| **[Testing Cross-Lingual Text Comprehension In LLMs Using Next Sentence Prediction](http://arxiv.org/abs/2510.25187v1)** | 2025-10-29 |  |
 
 ## LLM AND data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis](http://arxiv.org/abs/2510.24695v1)** | 2025-10-28 | <details><summary>https...</summary><p>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</p></details> |
-| **[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](http://arxiv.org/abs/2510.24606v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Workshop on Efficient Reasoning</p></details> |
-| **[Law in Silico: Simulating Legal Society with LLM-Based Agents](http://arxiv.org/abs/2510.24442v1)** | 2025-10-28 |  |
-| **[Uncovering Gaps Between RFC Updates and TCP/IP Implementations: LLM-Facilitated Differential Checks on Intermediate Representations](http://arxiv.org/abs/2510.24408v1)** | 2025-10-28 | 15 pages, 7 figures |
-| **[APTBench: Benchmarking Agentic Potential of Base LLMs During Pre-Training](http://arxiv.org/abs/2510.24397v1)** | 2025-10-28 | 46 pages |
-| **[Automatically Benchmarking LLM Code Agents through Agent-Driven Annotation and Evaluation](http://arxiv.org/abs/2510.24358v1)** | 2025-10-28 |  |
-| **[MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools](http://arxiv.org/abs/2510.24284v1)** | 2025-10-28 |  |
-| **[GRAPHIA: Harnessing Social Graph Data to Enhance LLM-Based Social Simulation](http://arxiv.org/abs/2510.24251v1)** | 2025-10-28 |  |
-| **[Evaluating LLMs on Generating Age-Appropriate Child-Like Conversations](http://arxiv.org/abs/2510.24250v1)** | 2025-10-28 | <details><summary>11 pa...</summary><p>11 pages excluding references and appendix. 3 figures and 6 tables</p></details> |
-| **[TrajAgent: An LLM-Agent Framework for Trajectory Modeling via Large-and-Small Model Collaboration](http://arxiv.org/abs/2410.20445v5)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025, https://github.com/tsinghua-fib-lab/TrajAgent</p></details> |
+| **[The Limits of Obliviate: Evaluating Unlearning in LLMs via Stimulus-Knowledge Entanglement-Behavior Framework](http://arxiv.org/abs/2510.25732v1)** | 2025-10-29 | 14 pages, 11 figures |
+| **[Interpreting LLMs as Credit Risk Classifiers: Do Their Feature Explanations Align with Classical ML?](http://arxiv.org/abs/2510.25701v1)** | 2025-10-29 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables, CIKM 2025 FinFAI workshop</p></details> |
+| **[Exploring the In-Context Learning Capabilities of LLMs for Money Laundering Detection in Financial Graphs](http://arxiv.org/abs/2507.14785v2)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted at AI4FCF-ICDM 2025</p></details> |
+| **[The Sign Estimator: LLM Alignment in the Face of Choice Heterogeneity](http://arxiv.org/abs/2510.23965v2)** | 2025-10-29 |  |
+| **[Grounded in Reality: Learning and Deploying Proactive LLM from Offline Logs](http://arxiv.org/abs/2510.25441v1)** | 2025-10-29 | 27 pages, 5 figures |
+| **[Monitoring Transformative Technological Convergence Through LLM-Extracted Semantic Entity Triple Graphs](http://arxiv.org/abs/2510.25370v1)** | 2025-10-29 |  |
+| **[Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation](http://arxiv.org/abs/2503.05493v2)** | 2025-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025 DB Track Accepted Paper</p></details> |
+| **[WEST: LLM based Speech Toolkit for Speech Understanding, Generation, and Interaction](http://arxiv.org/abs/2509.19902v2)** | 2025-10-29 |  |
+| **[Augmenting Dialog with Think-Aloud Utterances for Modeling Individual Personality Traits by LLM](http://arxiv.org/abs/2510.09158v2)** | 2025-10-29 | <details><summary>8 pag...</summary><p>8 pages, 1 figure. Accepted at the First Workshop on Tailoring AI: Exploring Active and Passive LLM Personalization (PALS2025@EMNLP2025)</p></details> |
+| **[Testing Cross-Lingual Text Comprehension In LLMs Using Next Sentence Prediction](http://arxiv.org/abs/2510.25187v1)** | 2025-10-29 |  |
 
 ## large language model AND math reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Does Object Binding Naturally Emerge in Large Pretrained Vision Transformers?](http://arxiv.org/abs/2510.24709v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted as a Spotlight at NeurIPS 2025</p></details> |
+| **[Gaperon: A Peppered English-French Generative Language Model Suite](http://arxiv.org/abs/2510.25771v1)** | 2025-10-29 |  |
+| **[Decomposition-Enhanced Training for Post-Hoc Attributions In Language Models](http://arxiv.org/abs/2510.25766v1)** | 2025-10-29 | Post-hoc attribution |
+| **[Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks](http://arxiv.org/abs/2510.25760v1)** | 2025-10-29 |  |
+| **[Scaling Latent Reasoning via Looped Language Models](http://arxiv.org/abs/2510.25741v1)** | 2025-10-29 |  |
+| **[Spontaneous Giving and Calculated Greed in Language Models](http://arxiv.org/abs/2502.17720v4)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 main conference and selected as an Oral Presentation</p></details> |
+| **[To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models](http://arxiv.org/abs/2412.15584v3)** | 2025-10-29 |  |
+| **[MP-FVM: Enhancing Finite Volume Method for Water Infiltration Modeling in Unsaturated Soils via Message-passing Encoder-decoder Network](http://arxiv.org/abs/2310.02806v3)** | 2025-10-29 | <details><summary>36 pa...</summary><p>36 pages, 14 figures, Accepted by Computers and Geotechnics</p></details> |
+| **[EHR-R1: A Reasoning-Enhanced Foundational Language Model for Electronic Health Record Analysis](http://arxiv.org/abs/2510.25628v1)** | 2025-10-29 |  |
+| **[Are Language Models Efficient Reasoners? A Perspective from Logic Programming](http://arxiv.org/abs/2510.25626v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[Fine-Tuned Language Models for Domain-Specific Summarization and Tagging](http://arxiv.org/abs/2510.25460v1)** | 2025-10-29 |  |
 
 ## large language model AND data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pearl: A Foundation Model for Placing Every Atom in the Right Location](http://arxiv.org/abs/2510.24670v1)** | 2025-10-28 |  |
-| **[Arena-Lite: Efficient and Reliable Large Language Model Evaluation via Tournament-Based Direct Comparisons](http://arxiv.org/abs/2411.01281v6)** | 2025-10-28 | <details><summary>8 pag...</summary><p>8 pages for main body, 19 pages in total</p></details> |
-| **[Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning](http://arxiv.org/abs/2510.24650v1)** | 2025-10-28 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, and 2 tables</p></details> |
-| **[Hybrid Deep Learning Model to Estimate Cognitive Effort from fNIRS Signals](http://arxiv.org/abs/2504.13883v3)** | 2025-10-28 |  |
-| **[GroundLoc: Efficient Large-Scale Outdoor LiDAR-Only Localization](http://arxiv.org/abs/2510.24623v1)** | 2025-10-28 |  |
-| **[Long-Context Modeling with Dynamic Hierarchical Sparse Attention for On-Device LLMs](http://arxiv.org/abs/2510.24606v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Workshop on Efficient Reasoning</p></details> |
-| **[Comparison of generalised additive models and neural networks in applications: A systematic review](http://arxiv.org/abs/2510.24601v1)** | 2025-10-28 |  |
-| **[TableTime: Reformulating Time Series Classification as Training-Free Table Understanding with Large Language Models](http://arxiv.org/abs/2411.15737v4)** | 2025-10-28 |  |
-| **[FedMAP: Personalised Federated Learning for Real Large-Scale Healthcare Systems](http://arxiv.org/abs/2405.19000v2)** | 2025-10-28 |  |
+| **[Gaperon: A Peppered English-French Generative Language Model Suite](http://arxiv.org/abs/2510.25771v1)** | 2025-10-29 |  |
+| **[Neural Stochastic Flows: Solver-Free Modelling and Inference for SDE Solutions](http://arxiv.org/abs/2510.25769v1)** | 2025-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (poster). Project page: https://nkiyohara.github.io/nsf-neurips2025/</p></details> |
+| **[MLPrE -- A tool for preprocessing and exploratory data analysis prior to machine learning model construction](http://arxiv.org/abs/2510.25755v1)** | 2025-10-29 |  |
+| **[Scaling Latent Reasoning via Looped Language Models](http://arxiv.org/abs/2510.25741v1)** | 2025-10-29 |  |
 
