@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 05, 2025
+title: Latest 15 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,52 +7,50 @@ labels: documentation
 ## LLM AND data
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking LLMs in Web API Integration Tasks](http://arxiv.org/abs/2509.20172v3)** | 2025-11-03 | <details><summary>To be...</summary><p>To be published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; switched to IEEE conference template</p></details> |
-| **[InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research](http://arxiv.org/abs/2510.27598v2)** | 2025-11-03 |  |
-| **[Teaching According to Talents! Instruction Tuning LLMs with Competence-Aware Curriculum Learning](http://arxiv.org/abs/2509.13790v2)** | 2025-11-03 | EMNLP 2025 Findings |
-| **[MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts](http://arxiv.org/abs/2510.13500v2)** | 2025-11-03 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
-| **[Enhancing Reasoning Abilities of Small LLMs with Cognitive Alignment](http://arxiv.org/abs/2504.09802v2)** | 2025-11-03 | <details><summary>emnlp...</summary><p>emnlp 2025 main conference</p></details> |
-| **[DITTO: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation](http://arxiv.org/abs/2510.10987v2)** | 2025-11-03 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, preprint</p></details> |
-| **[FTSmartAudit: A Knowledge Distillation-Enhanced Framework for Automated Smart Contract Auditing Using Fine-Tuned LLMs](http://arxiv.org/abs/2410.13918v3)** | 2025-11-03 | 18 pages, 7 figures |
-| **[The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](http://arxiv.org/abs/2407.19354v2)** | 2025-11-02 | <details><summary>35 pa...</summary><p>35 pages, 19 figures. Accepted to ACM Computing Surveys (CSUR), 2025</p></details> |
-| **[PPMI: Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](http://arxiv.org/abs/2506.17336v3)** | 2025-11-01 | 29 pages |
+| **[A Comparative Analysis of LLM Adaptation: SFT, LoRA, and ICL in Data-Scarce Scenarios](http://arxiv.org/abs/2511.00130v2)** | 2025-11-04 |  |
+| **[Federated Attention: A Distributed Paradigm for Collaborative LLM Inference over Edge Networks](http://arxiv.org/abs/2511.02647v1)** | 2025-11-04 |  |
+| **[The Realignment Problem: When Right becomes Wrong in LLMs](http://arxiv.org/abs/2511.02623v1)** | 2025-11-04 | 23 Pages |
+| **[Beyond the Link: Assessing LLMs' ability to Classify Political Content across Global Media](http://arxiv.org/abs/2506.17435v2)** | 2025-11-04 |  |
+| **[How well do LLMs reason over tabular data, really?](http://arxiv.org/abs/2505.07453v3)** | 2025-11-04 | 10 pages, 4 figures |
+| **[On The Dangers of Poisoned LLMs In Security Automation](http://arxiv.org/abs/2511.02600v1)** | 2025-11-04 | 5 pages, 1 figure |
+| **[A Survey on LLM Mid-Training](http://arxiv.org/abs/2510.23081v2)** | 2025-11-04 |  |
+| **[Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas](http://arxiv.org/abs/2511.02458v1)** | 2025-11-04 | <details><summary>9 pag...</summary><p>9 pages, 8-pages appendix, accepted at ICAIF 25</p></details> |
+| **[Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents](http://arxiv.org/abs/2509.04731v3)** | 2025-11-04 | <details><summary>In th...</summary><p>In the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Embodied World Models for Decision Making (EWM)</p></details> |
 
 ## LLM AND data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking LLMs in Web API Integration Tasks](http://arxiv.org/abs/2509.20172v3)** | 2025-11-03 | <details><summary>To be...</summary><p>To be published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; switched to IEEE conference template</p></details> |
-| **[InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research](http://arxiv.org/abs/2510.27598v2)** | 2025-11-03 |  |
-| **[Teaching According to Talents! Instruction Tuning LLMs with Competence-Aware Curriculum Learning](http://arxiv.org/abs/2509.13790v2)** | 2025-11-03 | EMNLP 2025 Findings |
-| **[MedREK: Retrieval-Based Editing for Medical LLMs with Key-Aware Prompts](http://arxiv.org/abs/2510.13500v2)** | 2025-11-03 | <details><summary>Prepr...</summary><p>Preprint, work in progress</p></details> |
-| **[Enhancing Reasoning Abilities of Small LLMs with Cognitive Alignment](http://arxiv.org/abs/2504.09802v2)** | 2025-11-03 | <details><summary>emnlp...</summary><p>emnlp 2025 main conference</p></details> |
-| **[DITTO: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation](http://arxiv.org/abs/2510.10987v2)** | 2025-11-03 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, preprint</p></details> |
-| **[FTSmartAudit: A Knowledge Distillation-Enhanced Framework for Automated Smart Contract Auditing Using Fine-Tuned LLMs](http://arxiv.org/abs/2410.13918v3)** | 2025-11-03 | 18 pages, 7 figures |
-| **[The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](http://arxiv.org/abs/2407.19354v2)** | 2025-11-02 | <details><summary>35 pa...</summary><p>35 pages, 19 figures. Accepted to ACM Computing Surveys (CSUR), 2025</p></details> |
-| **[PPMI: Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases](http://arxiv.org/abs/2506.17336v3)** | 2025-11-01 | 29 pages |
+| **[A Comparative Analysis of LLM Adaptation: SFT, LoRA, and ICL in Data-Scarce Scenarios](http://arxiv.org/abs/2511.00130v2)** | 2025-11-04 |  |
+| **[Federated Attention: A Distributed Paradigm for Collaborative LLM Inference over Edge Networks](http://arxiv.org/abs/2511.02647v1)** | 2025-11-04 |  |
+| **[The Realignment Problem: When Right becomes Wrong in LLMs](http://arxiv.org/abs/2511.02623v1)** | 2025-11-04 | 23 Pages |
+| **[Beyond the Link: Assessing LLMs' ability to Classify Political Content across Global Media](http://arxiv.org/abs/2506.17435v2)** | 2025-11-04 |  |
+| **[How well do LLMs reason over tabular data, really?](http://arxiv.org/abs/2505.07453v3)** | 2025-11-04 | 10 pages, 4 figures |
+| **[On The Dangers of Poisoned LLMs In Security Automation](http://arxiv.org/abs/2511.02600v1)** | 2025-11-04 | 5 pages, 1 figure |
+| **[A Survey on LLM Mid-Training](http://arxiv.org/abs/2510.23081v2)** | 2025-11-04 |  |
+| **[Prompting for Policy: Forecasting Macroeconomic Scenarios with Synthetic LLM Personas](http://arxiv.org/abs/2511.02458v1)** | 2025-11-04 | <details><summary>9 pag...</summary><p>9 pages, 8-pages appendix, accepted at ICAIF 25</p></details> |
+| **[Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents](http://arxiv.org/abs/2509.04731v3)** | 2025-11-04 | <details><summary>In th...</summary><p>In the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Embodied World Models for Decision Making (EWM)</p></details> |
 
 ## large language model AND math reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automotive Crash Dynamics Modeling Accelerated with Machine Learning](http://arxiv.org/abs/2510.15201v3)** | 2025-11-03 |  |
-| **[Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling](http://arxiv.org/abs/2505.15715v2)** | 2025-11-03 |  |
-| **[Stable but Miscalibrated: A Kantian View on Overconfidence from Filters to Large Language Models](http://arxiv.org/abs/2510.14925v2)** | 2025-11-03 | <details><summary>21 pa...</summary><p>21 pages, 2 figures, preliminary version</p></details> |
-| **[JudgeLRM: Large Reasoning Models as a Judge](http://arxiv.org/abs/2504.00050v3)** | 2025-11-03 | Preprint |
-| **[Diversity-Aware Policy Optimization for Large Language Model Reasoning](http://arxiv.org/abs/2505.23433v2)** | 2025-11-03 |  |
-| **[Towards Transparent Reasoning: What Drives Faithfulness in Large Language Models?](http://arxiv.org/abs/2510.24236v2)** | 2025-11-03 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling</p></details> |
-| **[Scaling Latent Reasoning via Looped Language Models](http://arxiv.org/abs/2510.25741v2)** | 2025-11-03 |  |
-| **[Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models](http://arxiv.org/abs/2505.13143v2)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025 (37 pages)</p></details> |
-| **[Complex QA and language models hybrid architectures, Survey](http://arxiv.org/abs/2302.09051v5)** | 2025-11-03 |  |
-| **[Training Large Language Models to Reason in a Continuous Latent Space](http://arxiv.org/abs/2412.06769v3)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
+| **[Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for Understanding Anything](http://arxiv.org/abs/2511.02834v1)** | 2025-11-04 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, 14 tables. Under Review</p></details> |
+| **[Agentic World Modeling for 6G: Near-Real-Time Generative State-Space Reasoning](http://arxiv.org/abs/2511.02748v1)** | 2025-11-04 | <details><summary>13 Pa...</summary><p>13 Pages, 3 Figures, 4 Tables</p></details> |
+| **[Tokens, the oft-overlooked appetizer: Large language models, the distributional hypothesis, and meaning](http://arxiv.org/abs/2412.10924v8)** | 2025-11-04 |  |
+| **[VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation Models](http://arxiv.org/abs/2511.02712v1)** | 2025-11-04 | 41 pages, 26 figures |
+| **[Audio-Thinker: Guiding Audio Language Model When and How to Think via Reinforcement Learning](http://arxiv.org/abs/2508.08039v3)** | 2025-11-04 | preprint |
+| **[Apriel-H1: Towards Efficient Enterprise Reasoning Models](http://arxiv.org/abs/2511.02651v1)** | 2025-11-04 |  |
+| **[A Large Language Model for Corporate Credit Scoring](http://arxiv.org/abs/2511.02593v1)** | 2025-11-04 |  |
+| **[The ORCA Benchmark: Evaluating Real-World Calculation Accuracy in Large Language Models](http://arxiv.org/abs/2511.02589v1)** | 2025-11-04 |  |
+| **[Knowledge Graph-enhanced Large Language Model for Incremental Game PlayTesting](http://arxiv.org/abs/2511.02534v1)** | 2025-11-04 |  |
 
 ## large language model AND data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Declarative Data Pipeline for Large Scale ML Services](http://arxiv.org/abs/2508.15105v3)** | 2025-11-03 |  |
-| **[JobHop: A Large-Scale Dataset of Career Trajectories](http://arxiv.org/abs/2505.07653v2)** | 2025-11-03 |  |
-| **[Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling](http://arxiv.org/abs/2505.15715v2)** | 2025-11-03 |  |
-| **[Forging Time Series with Language: A Large Language Model Approach to Synthetic Data Generation](http://arxiv.org/abs/2505.17103v2)** | 2025-11-03 |  |
-| **[Best Practices for Biorisk Evaluations on Open-Weight Bio-Foundation Models](http://arxiv.org/abs/2510.27629v2)** | 2025-11-03 | 17 Pages, 5 figures |
-| **[Khiops: An End-to-End, Frugal AutoML and XAI Machine Learning Solution for Large, Multi-Table Databases](http://arxiv.org/abs/2508.20519v3)** | 2025-11-03 |  |
-| **[Towards Large-Scale In-Context Reinforcement Learning by Meta-Training in Randomized Worlds](http://arxiv.org/abs/2502.02869v4)** | 2025-11-03 | NeruIPS 2025 |
-| **[GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering](http://arxiv.org/abs/2510.14270v2)** | 2025-11-03 |  |
+| **[TabTune: A Unified Library for Inference and Fine-Tuning Tabular Foundation Models](http://arxiv.org/abs/2511.02802v1)** | 2025-11-04 |  |
+| **[Fast, Private, and Protected: Safeguarding Data Privacy and Defending Against Model Poisoning Attacks in Federated Learning](http://arxiv.org/abs/2511.02797v1)** | 2025-11-04 |  |
+| **[LAWCAT: Efficient Distillation from Quadratic to Linear Attention with Convolution across Tokens for Long Context Modeling](http://arxiv.org/abs/2509.18467v2)** | 2025-11-04 | <details><summary>17 pa...</summary><p>17 pages, 8 figures. EMNLP2025 Findings</p></details> |
+| **[XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations](http://arxiv.org/abs/2511.02776v1)** | 2025-11-04 |  |
+| **[Accumulating Context Changes the Beliefs of Language Models](http://arxiv.org/abs/2511.01805v2)** | 2025-11-04 |  |
+| **[AI Diffusion in Low Resource Language Countries](http://arxiv.org/abs/2511.02752v1)** | 2025-11-04 | <details><summary>9 pag...</summary><p>9 pages, 4 tables. Also available at https://aka.ms/AI_Diffusion_Low_Resource_Language_Countries</p></details> |
+| **[Agentic World Modeling for 6G: Near-Real-Time Generative State-Space Reasoning](http://arxiv.org/abs/2511.02748v1)** | 2025-11-04 | <details><summary>13 Pa...</summary><p>13 Pages, 3 Figures, 4 Tables</p></details> |
 
