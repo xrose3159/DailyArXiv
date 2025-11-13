@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,8 +35,8 @@ labels: documentation
 ## large language model AND math reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning](https://arxiv.org/pdf/2208.05358v1)** | 2022-08-11 | <details><summary>NeSy ...</summary><p>NeSy 2022, 16th International Workshop on Neural-Symbolic Learning and Reasoning, Cumberland Lodge, Windsor, UK</p></details> |
 | **[Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models](https://arxiv.org/pdf/2504.16883v1)** | 2025-04-24 | <details><summary>Prese...</summary><p>Presented at the 2025 ACM Workshop on Human-AI Interaction for Augmented Reasoning</p></details> |
+| **[CLEVR-Math: A Dataset for Compositional Language, Visual and Mathematical Reasoning](https://arxiv.org/pdf/2208.05358v1)** | 2022-08-11 | <details><summary>NeSy ...</summary><p>NeSy 2022, 16th International Workshop on Neural-Symbolic Learning and Reasoning, Cumberland Lodge, Windsor, UK</p></details> |
 | **[STEM-POM: Evaluating Language Models Math-Symbol Reasoning in Document Parsing](https://arxiv.org/pdf/2411.00387v3)** | 2025-06-03 | <details><summary>ACL 2...</summary><p>ACL 2025; NeurIPS Math-AI 2024; Code and Data: https://github.com/jiaruzouu/STEM-PoM</p></details> |
 | **[Adaptive Dual Reasoner: Large Reasoning Models Can Think Efficiently by Hybrid Reasoning](https://arxiv.org/pdf/2510.10207v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 Workshop on Efficient Reasoning</p></details> |
 | **[A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614v1)** | 2025-03-28 | <details><summary>Surve...</summary><p>Survey, 32 pages, Large Reasoning Models, Efficient Reasoning for Language, Multimodality, and Beyond</p></details> |
@@ -44,7 +44,7 @@ labels: documentation
 | **[A Survey of Reasoning with Foundation Models](https://arxiv.org/pdf/2312.11562v5)** | 2024-01-26 | <details><summary>20 Fi...</summary><p>20 Figures, 160 Pages, 750+ References, Project Page https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models</p></details> |
 | **[ARS: Adaptive Reasoning Suppression for Efficient Large Reasoning Language Models](https://arxiv.org/pdf/2510.00071v2)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by 39th NeurIPS - Foundations of Reasoning in Language Models</p></details> |
 | **[Math Neurosurgery: Isolating Language Models' Math Reasoning Abilities Using Only Forward Passes](https://arxiv.org/pdf/2410.16930v4)** | 2025-06-19 | <details><summary>38 pa...</summary><p>38 pages, 54 figures, Accepted to ACL 2025 (Main)</p></details> |
-| **[I-RAVEN-X: Benchmarking Generalization and Robustness of Analogical and Mathematical Reasoning in Large Language and Reasoning Models](https://arxiv.org/pdf/2510.17496v2)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on Mathematical Reasoning and AI (MATH-AI), NeurIPS 2025</p></details> |
+| **[How well do SOTA legal reasoning models support abductive reasoning?](https://arxiv.org/pdf/2304.06912v2)** | 2023-06-30 | <details><summary>Works...</summary><p>Workshop on Logic Programming and Legal Reasoning, @ICLP 2023</p></details> |
 
 ## large language model AND data selection
 | **Title** | **Date** | **Comment** |
