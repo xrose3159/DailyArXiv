@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2025
+title: Latest 15 Papers - November 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,51 +7,52 @@ labels: documentation
 ## LLM AND data
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Teaching LLMs to See and Guide: Context-Aware Real-Time Assistance in Augmented Reality](https://arxiv.org/abs/2511.00730v3)** | 2025-11-13 | <details><summary>This ...</summary><p>This work is intended for submission to the IEEE Transactions on Systems, Man, and Cybernetics: Systems for possible publication</p></details> |
-| **[LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning](https://arxiv.org/abs/2511.10459v1)** | 2025-11-13 |  |
-| **[REACT-LLM: A Benchmark for Evaluating LLM Integration with Causal Features in Clinical Prognostic Tasks](https://arxiv.org/abs/2511.07127v3)** | 2025-11-13 |  |
-| **[Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study](https://arxiv.org/abs/2506.19794v5)** | 2025-11-13 | AAAI 2026 (oral) |
-| **[Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation](https://arxiv.org/abs/2511.10233v1)** | 2025-11-13 | <details><summary>21 pa...</summary><p>21 pages; To be published in AAAI-26</p></details> |
-| **[LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis](https://arxiv.org/abs/2511.08903v2)** | 2025-11-13 |  |
-| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v1)** | 2025-11-13 | 20 pages, 13 figures |
-| **[FHIR-AgentBench: Benchmarking LLM Agents for Realistic Interoperable EHR Question Answering](https://arxiv.org/abs/2509.19319v2)** | 2025-11-13 | <details><summary>ML4H ...</summary><p>ML4H 2025 Proceedings</p></details> |
-| **[Pricing Online LLM Services with Data-Calibrated Stackelberg Routing Game](https://arxiv.org/abs/2511.09062v2)** | 2025-11-13 | Extended version |
-| **[WaterMod: Modular Token-Rank Partitioning for Probability-Balanced LLM Watermarking](https://arxiv.org/abs/2511.07863v2)** | 2025-11-13 | <details><summary>AAAI ...</summary><p>AAAI 2026 (Oral). This is the extended preprint of the copyrighted version at AAAI</p></details> |
+| **[Privacy Challenges and Solutions in Retrieval-Augmented Generation-Enhanced LLMs for Healthcare Chatbots: A Review of Applications, Risks, and Future Directions](https://arxiv.org/abs/2511.11347v1)** | 2025-11-14 | 23 pages, 2 figures |
+| **[AIonopedia: an LLM agent orchestrating multimodal learning for ionic liquid discovery](https://arxiv.org/abs/2511.11257v1)** | 2025-11-14 |  |
+| **[Prompt Engineering vs. Fine-Tuning for LLM-Based Vulnerability Detection in Solana and Algorand Smart Contracts](https://arxiv.org/abs/2511.11250v1)** | 2025-11-14 |  |
+| **[Utilizing LLMs for Industrial Process Automation: A Case Study on Modifying RAPID Programs](https://arxiv.org/abs/2511.11125v1)** | 2025-11-14 | <details><summary>Submi...</summary><p>Submitted to the International Conference on Software Engineering (ICSE) track Software Engineering in Practice (SEIP) 2026</p></details> |
+| **[Strada-LLM: Graph LLM for traffic prediction](https://arxiv.org/abs/2410.20856v3)** | 2025-11-14 | 13 pages |
+| **[DialogGraph-LLM: Graph-Informed LLMs for End-to-End Audio Dialogue Intent Recognition](https://arxiv.org/abs/2511.11000v1)** | 2025-11-14 | <details><summary>8 pag...</summary><p>8 pages, 2 figures; Series: Frontiers in Artificial Intelligence and Applications, Volume 413: ECAI 2025</p></details> |
+| **[Text-to-SQL Domain Adaptation via Human-LLM Collaborative Data Annotation](https://arxiv.org/abs/2502.15980v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by IUI'25 Code & Demo: https://github.com/magic-YuanTian/SQLsynth</p></details> |
+| **[Bot Meets Shortcut: How Can LLMs Aid in Handling Unknown Invariance OOD Scenarios?](https://arxiv.org/abs/2511.08455v3)** | 2025-11-14 |  |
+| **[Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning](https://arxiv.org/abs/2505.16270v2)** | 2025-11-14 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
+| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v2)** | 2025-11-14 | 20 pages, 13 figures |
 
 ## LLM AND data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Teaching LLMs to See and Guide: Context-Aware Real-Time Assistance in Augmented Reality](https://arxiv.org/abs/2511.00730v3)** | 2025-11-13 | <details><summary>This ...</summary><p>This work is intended for submission to the IEEE Transactions on Systems, Man, and Cybernetics: Systems for possible publication</p></details> |
-| **[Scalable Synthesis of distributed LLM workloads through Symbolic Tensor Graphs](https://arxiv.org/abs/2511.10480v1)** | 2025-11-13 |  |
-| **[LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning](https://arxiv.org/abs/2511.10459v1)** | 2025-11-13 |  |
-| **[REACT-LLM: A Benchmark for Evaluating LLM Integration with Causal Features in Clinical Prognostic Tasks](https://arxiv.org/abs/2511.07127v3)** | 2025-11-13 |  |
-| **[Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study](https://arxiv.org/abs/2506.19794v5)** | 2025-11-13 | AAAI 2026 (oral) |
-| **[MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal LLMs](https://arxiv.org/abs/2511.07250v2)** | 2025-11-13 |  |
-| **[Bridging Synthetic and Real Routing Problems via LLM-Guided Instance Generation and Progressive Adaptation](https://arxiv.org/abs/2511.10233v1)** | 2025-11-13 | <details><summary>21 pa...</summary><p>21 pages; To be published in AAAI-26</p></details> |
-| **[LLM-Guided Probabilistic Fusion for Label-Efficient Document Layout Analysis](https://arxiv.org/abs/2511.08903v2)** | 2025-11-13 |  |
-| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v1)** | 2025-11-13 | 20 pages, 13 figures |
-| **[FHIR-AgentBench: Benchmarking LLM Agents for Realistic Interoperable EHR Question Answering](https://arxiv.org/abs/2509.19319v2)** | 2025-11-13 | <details><summary>ML4H ...</summary><p>ML4H 2025 Proceedings</p></details> |
+| **[Privacy Challenges and Solutions in Retrieval-Augmented Generation-Enhanced LLMs for Healthcare Chatbots: A Review of Applications, Risks, and Future Directions](https://arxiv.org/abs/2511.11347v1)** | 2025-11-14 | 23 pages, 2 figures |
+| **[AIonopedia: an LLM agent orchestrating multimodal learning for ionic liquid discovery](https://arxiv.org/abs/2511.11257v1)** | 2025-11-14 |  |
+| **[Prompt Engineering vs. Fine-Tuning for LLM-Based Vulnerability Detection in Solana and Algorand Smart Contracts](https://arxiv.org/abs/2511.11250v1)** | 2025-11-14 |  |
+| **[Utilizing LLMs for Industrial Process Automation: A Case Study on Modifying RAPID Programs](https://arxiv.org/abs/2511.11125v1)** | 2025-11-14 | <details><summary>Submi...</summary><p>Submitted to the International Conference on Software Engineering (ICSE) track Software Engineering in Practice (SEIP) 2026</p></details> |
+| **[Strada-LLM: Graph LLM for traffic prediction](https://arxiv.org/abs/2410.20856v3)** | 2025-11-14 | 13 pages |
+| **[DialogGraph-LLM: Graph-Informed LLMs for End-to-End Audio Dialogue Intent Recognition](https://arxiv.org/abs/2511.11000v1)** | 2025-11-14 | <details><summary>8 pag...</summary><p>8 pages, 2 figures; Series: Frontiers in Artificial Intelligence and Applications, Volume 413: ECAI 2025</p></details> |
+| **[Text-to-SQL Domain Adaptation via Human-LLM Collaborative Data Annotation](https://arxiv.org/abs/2502.15980v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by IUI'25 Code & Demo: https://github.com/magic-YuanTian/SQLsynth</p></details> |
+| **[Bot Meets Shortcut: How Can LLMs Aid in Handling Unknown Invariance OOD Scenarios?](https://arxiv.org/abs/2511.08455v3)** | 2025-11-14 |  |
+| **[Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning](https://arxiv.org/abs/2505.16270v2)** | 2025-11-14 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Spotlight</p></details> |
+| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v2)** | 2025-11-14 | 20 pages, 13 figures |
 
 ## large language model AND math reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Instella: Fully Open Language Models with Stellar Performance](https://arxiv.org/abs/2511.10628v1)** | 2025-11-13 |  |
-| **[Model-oriented Graph Distances via Partially Ordered Sets](https://arxiv.org/abs/2511.10625v1)** | 2025-11-13 |  |
-| **[SSR: Socratic Self-Refine for Large Language Model Reasoning](https://arxiv.org/abs/2511.10621v1)** | 2025-11-13 | <details><summary>Prepr...</summary><p>Preprint; work in progress</p></details> |
-| **[Belief Net: A Filter-Based Framework for Learning Hidden Markov Models from Observations](https://arxiv.org/abs/2511.10571v1)** | 2025-11-13 | <details><summary>19 pa...</summary><p>19 pages, 7 pages, submitted to conference: L4DC 2026</p></details> |
-| **[Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models](https://arxiv.org/abs/2511.02162v3)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025, Conference on Neural Information Processing Systems, Creative AI Track</p></details> |
-| **[Exploring State Tracking Capabilities of Large Language Models](https://arxiv.org/abs/2511.10457v1)** | 2025-11-13 |  |
+| **[LARM: A Large Articulated-Object Reconstruction Model](https://arxiv.org/abs/2511.11563v1)** | 2025-11-14 | <details><summary>proje...</summary><p>project page: https://sylviayuan-sy.github.io/larm-site/</p></details> |
+| **[PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning](https://arxiv.org/abs/2511.11562v1)** | 2025-11-14 |  |
+| **[Sensory-Motor Control with Large Language Models via Iterative Policy Refinement](https://arxiv.org/abs/2506.04867v3)** | 2025-11-14 | <details><summary>Artic...</summary><p>Article updated with results from gpt-oss:120b and gpt-oss:20b. 27 pages (13 pages are from appendix), 8 figures, 2 tables, code for experiments replication and supplementary material provided at https://github.com/jtyska/llm-robotics-article/</p></details> |
+| **[Bridging Hidden States in Vision-Language Models](https://arxiv.org/abs/2511.11526v1)** | 2025-11-14 |  |
+| **[Large Language Model-assisted Autonomous Vehicle Recovery from Immobilization](https://arxiv.org/abs/2510.26023v2)** | 2025-11-14 | 7 pages |
+| **[Latent Principle Discovery for Language Model Self-Improvement](https://arxiv.org/abs/2505.16927v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[MicroVQA++: High-Quality Microscopy Reasoning Dataset with Weakly Supervised Graphs for Multimodal Large Language Model](https://arxiv.org/abs/2511.11407v1)** | 2025-11-14 | 11 pages, 4 figures |
+| **[CAMA: Enhancing Mathematical Reasoning in Large Language Models with Causal Knowledge](https://arxiv.org/abs/2508.02583v3)** | 2025-11-14 |  |
 
 ## large language model AND data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Instella: Fully Open Language Models with Stellar Performance](https://arxiv.org/abs/2511.10628v1)** | 2025-11-13 |  |
-| **[Know Your Limits: Entropy Estimation Modeling for Compression and Generalization](https://arxiv.org/abs/2511.10618v1)** | 2025-11-13 |  |
-| **[BATIS: Bayesian Approaches for Targeted Improvement of Species Distribution Models](https://arxiv.org/abs/2510.19749v2)** | 2025-11-13 |  |
-| **[Are Foundational Atomistic Models Reliable for Finite-Temperature Molecular Dynamics?](https://arxiv.org/abs/2503.08207v3)** | 2025-11-13 | 18 pages, 5 figures |
-| **[Belief Net: A Filter-Based Framework for Learning Hidden Markov Models from Observations](https://arxiv.org/abs/2511.10571v1)** | 2025-11-13 | <details><summary>19 pa...</summary><p>19 pages, 7 pages, submitted to conference: L4DC 2026</p></details> |
-| **[Biologically-Informed Hybrid Membership Inference Attacks on Generative Genomic Models](https://arxiv.org/abs/2511.07503v2)** | 2025-11-13 |  |
-| **[Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling](https://arxiv.org/abs/2511.10501v1)** | 2025-11-13 | 26 pages |
-| **[Two Heads are Better than One: Robust Learning Meets Multi-branch Models](https://arxiv.org/abs/2208.08083v4)** | 2025-11-13 | <details><summary>Camer...</summary><p>Camera-ready version for ICPADS 2025</p></details> |
-| **[Intrinsic Dimensionality as a Model-Free Measure of Class Imbalance](https://arxiv.org/abs/2511.10475v1)** | 2025-11-13 | 45 pages, 11 figures |
+| **[CodeWiki: Evaluating AI's Ability to Generate Holistic Documentation for Large-Scale Codebases](https://arxiv.org/abs/2510.24428v3)** | 2025-11-14 |  |
+| **[Sensory-Motor Control with Large Language Models via Iterative Policy Refinement](https://arxiv.org/abs/2506.04867v3)** | 2025-11-14 | <details><summary>Artic...</summary><p>Article updated with results from gpt-oss:120b and gpt-oss:20b. 27 pages (13 pages are from appendix), 8 figures, 2 tables, code for experiments replication and supplementary material provided at https://github.com/jtyska/llm-robotics-article/</p></details> |
+| **[Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness](https://arxiv.org/abs/2405.08151v3)** | 2025-11-14 |  |
+| **[Scalable Policy Evaluation with Video World Models](https://arxiv.org/abs/2511.11520v1)** | 2025-11-14 |  |
+| **[OpenUS: A Fully Open-Source Foundation Model for Ultrasound Image Analysis via Self-Adaptive Masked Contrastive Learning](https://arxiv.org/abs/2511.11510v1)** | 2025-11-14 |  |
+| **[Metric Learning Encoding Models: A Multivariate Framework for Interpreting Neural Representations](https://arxiv.org/abs/2402.11608v2)** | 2025-11-14 | 30 pages, 20 figures |
+| **[The Persistence of Cultural Memory: Investigating Multimodal Iconicity in Diffusion Models](https://arxiv.org/abs/2511.11435v1)** | 2025-11-14 |  |
+| **[Large Language Model-assisted Autonomous Vehicle Recovery from Immobilization](https://arxiv.org/abs/2510.26023v2)** | 2025-11-14 | 7 pages |
 
