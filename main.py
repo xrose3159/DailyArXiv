@@ -12,10 +12,10 @@ current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
 
 # 修改关键词结构为双层列表
 keywords = [
-    ["LLM", "data"],      # 第一组：
-    ["LLM","data synthesis"],    # 第二组：
-    ["large language model", "math reasoning"],  # 第三组：
-    ["large language model", "data selection"]  # 第四组：
+    ["data synthesis"],      # 第一组：
+    ["data selection"],    # 第二组：
+    ["MLLMs"],  # 第三组：
+    ["data curation"]  # 第四组：
 ]
 
 max_result = 10
