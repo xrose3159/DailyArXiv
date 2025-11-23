@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 21, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,42 +7,51 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data](https://arxiv.org/abs/2511.15704v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project webpage: https://xiongyicai.github.io/In-N-On/</p></details> |
-| **[Hyperspectral Image Classification using Spectral-Spatial Mixer Network](https://arxiv.org/abs/2511.15692v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted for WHISPERS2025</p></details> |
-| **[Coresets from Trajectories: Selecting Data via Correlation of Loss Differences](https://arxiv.org/abs/2508.20230v2)** | 2025-11-19 |  |
-| **[Walrus: A Cross-Domain Foundation Model for Continuum Dynamics](https://arxiv.org/abs/2511.15684v1)** | 2025-11-19 |  |
+| **[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Project page: https://linear-gradient-matching.github.io/ Code: https://github.com/GeorgeCazenavette/linear-gradient-matching</p></details> |
+| **[EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards](https://arxiv.org/abs/2511.16672v1)** | 2025-11-20 | <details><summary>9 Pag...</summary><p>9 Pages, 6 Figures, 4 Tables</p></details> |
+| **[NoPo-Avatar: Generalizable and Animatable Avatars from Sparse Inputs without Human Poses](https://arxiv.org/abs/2511.16673v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS'25; project page: https://wenj.github.io/NoPo-Avatar/</p></details> |
+| **[Learning to Think Fast and Slow for Visual Language Models](https://arxiv.org/abs/2511.16670v1)** | 2025-11-20 |  |
+| **[Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/abs/2511.16669v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project page: https://video-as-answer.github.io/</p></details> |
+| **[SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation](https://arxiv.org/abs/2511.16666v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight), Project Page: https://henghuiding.com/SceneDesigner/</p></details> |
+| **[Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations](https://arxiv.org/abs/2511.16661v1)** | 2025-11-20 |  |
+| **[Enhancing Forex Forecasting Accuracy: The Impact of Hybrid Variable Sets in Cognitive Algorithmic Trading Systems](https://arxiv.org/abs/2511.16657v1)** | 2025-11-20 | Paper not published |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tokenisation over Bounded Alphabets is Hard](https://arxiv.org/abs/2511.15709v1)** | 2025-11-19 |  |
-| **[In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data](https://arxiv.org/abs/2511.15704v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project webpage: https://xiongyicai.github.io/In-N-On/</p></details> |
-| **[Hyperspectral Image Classification using Spectral-Spatial Mixer Network](https://arxiv.org/abs/2511.15692v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted for WHISPERS2025</p></details> |
-| **[Coresets from Trajectories: Selecting Data via Correlation of Loss Differences](https://arxiv.org/abs/2508.20230v2)** | 2025-11-19 |  |
-| **[Walrus: A Cross-Domain Foundation Model for Continuum Dynamics](https://arxiv.org/abs/2511.15684v1)** | 2025-11-19 |  |
+| **[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Project page: https://linear-gradient-matching.github.io/ Code: https://github.com/GeorgeCazenavette/linear-gradient-matching</p></details> |
+| **[EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards](https://arxiv.org/abs/2511.16672v1)** | 2025-11-20 | <details><summary>9 Pag...</summary><p>9 Pages, 6 Figures, 4 Tables</p></details> |
+| **[NoPo-Avatar: Generalizable and Animatable Avatars from Sparse Inputs without Human Poses](https://arxiv.org/abs/2511.16673v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS'25; project page: https://wenj.github.io/NoPo-Avatar/</p></details> |
+| **[Learning to Think Fast and Slow for Visual Language Models](https://arxiv.org/abs/2511.16670v1)** | 2025-11-20 |  |
+| **[Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/abs/2511.16669v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project page: https://video-as-answer.github.io/</p></details> |
+| **[SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation](https://arxiv.org/abs/2511.16666v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight), Project Page: https://henghuiding.com/SceneDesigner/</p></details> |
+| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v1)** | 2025-11-20 |  |
+| **[Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs](https://arxiv.org/abs/2511.16664v1)** | 2025-11-20 |  |
+| **[Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations](https://arxiv.org/abs/2511.16661v1)** | 2025-11-20 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MoDES: Accelerating Mixture-of-Experts Multimodal Large Language Models via Dynamic Expert Skipping](https://arxiv.org/abs/2511.15690v1)** | 2025-11-19 | <details><summary>Code ...</summary><p>Code will be released upon acceptance</p></details> |
-| **[Agent-SAMA: State-Aware Mobile Assistant](https://arxiv.org/abs/2505.23596v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted to AAAI-26 (Main Technical Track)</p></details> |
-| **[Multimodal Evaluation of Russian-language Architectures](https://arxiv.org/abs/2511.15552v1)** | 2025-11-19 |  |
-| **[Euclid's Gift: Enhancing Spatial Perception and Reasoning in Vision-Language Models via Geometric Surrogate Tasks](https://arxiv.org/abs/2509.24473v3)** | 2025-11-19 |  |
-| **[Verb Mirage: Unveiling and Assessing Verb Concept Hallucinations in Multimodal Large Language Models](https://arxiv.org/abs/2412.04939v2)** | 2025-11-19 | Accepted by AAAI-26 |
-| **[ANTS: Adaptive Negative Textual Space Shaping for OOD Detection via Test-Time MLLM Understanding and Reasoning](https://arxiv.org/abs/2509.03951v3)** | 2025-11-19 |  |
-| **[Can MLLMs Detect Phishing? A Comprehensive Security Benchmark Suite Focusing on Dynamic Threats and Multimodal Evaluation in Academic Environments](https://arxiv.org/abs/2511.15165v1)** | 2025-11-19 |  |
-| **[UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://arxiv.org/abs/2510.13515v2)** | 2025-11-19 | <details><summary>AAAI2...</summary><p>AAAI2026 Oral, Webpage:https://garygutc.github.io/UniME-v2/</p></details> |
-| **[A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models](https://arxiv.org/abs/2511.15098v1)** | 2025-11-19 | 14 pages, 2 figures |
-| **[MOON: Generative MLLM-based Multimodal Representation Learning for E-commerce Product Understanding](https://arxiv.org/abs/2508.11999v3)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted by WSDM 2026. 11 pages, 9 figures</p></details> |
+| **[SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635v1)** | 2025-11-20 | 20 pages |
+| **[You Only Forward Once: An Efficient Compositional Judging Paradigm](https://arxiv.org/abs/2511.16600v1)** | 2025-11-20 |  |
+| **[Multimodal Evaluation of Russian-language Architectures](https://arxiv.org/abs/2511.15552v2)** | 2025-11-20 |  |
+| **[Conan: Progressive Learning to Reason Like a Detective over Multi-Scale Visual Evidence](https://arxiv.org/abs/2510.20470v2)** | 2025-11-20 |  |
+| **[Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security](https://arxiv.org/abs/2511.16229v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by NDSS 2026</p></details> |
+| **[Can MLLMs Read the Room? A Multimodal Benchmark for Assessing Deception in Multi-Party Social Interactions](https://arxiv.org/abs/2511.16221v1)** | 2025-11-20 |  |
+| **[Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning](https://arxiv.org/abs/2511.16160v1)** | 2025-11-20 |  |
+| **[Reasoning Guided Embeddings: Leveraging MLLM Reasoning for Improved Multimodal Retrieval](https://arxiv.org/abs/2511.16150v1)** | 2025-11-20 |  |
+| **[Towards Efficient Multimodal Unified Reasoning Model via Model Merging](https://arxiv.org/abs/2510.08987v2)** | 2025-11-20 | <details><summary>Techn...</summary><p>Technical report, Code will be available at https://github.com/buptyqx/Tiny-R1V</p></details> |
+| **[Revisiting Model Inversion Evaluation: From Misleading Standards to Reliable Privacy Assessment](https://arxiv.org/abs/2505.03519v4)** | 2025-11-20 | <details><summary>To su...</summary><p>To support future work, we release our MLLM-based MI evaluation framework and benchmarking suite at https://github.com/hosytuyen/MI-Eval-MLLM</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoMa v2: Harder Better Faster Denser Feature Matching](https://arxiv.org/abs/2511.15706v1)** | 2025-11-19 |  |
-| **[GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization](https://arxiv.org/abs/2511.15705v1)** | 2025-11-19 |  |
-| **[In-N-On: Scaling Egocentric Manipulation with in-the-wild and on-task Data](https://arxiv.org/abs/2511.15704v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project webpage: https://xiongyicai.github.io/In-N-On/</p></details> |
-| **[Hyperspectral Image Classification using Spectral-Spatial Mixer Network](https://arxiv.org/abs/2511.15692v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted for WHISPERS2025</p></details> |
-| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
-| **[Coresets from Trajectories: Selecting Data via Correlation of Loss Differences](https://arxiv.org/abs/2508.20230v2)** | 2025-11-19 |  |
-| **[Walrus: A Cross-Domain Foundation Model for Continuum Dynamics](https://arxiv.org/abs/2511.15684v1)** | 2025-11-19 |  |
+| **[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Project page: https://linear-gradient-matching.github.io/ Code: https://github.com/GeorgeCazenavette/linear-gradient-matching</p></details> |
+| **[EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards](https://arxiv.org/abs/2511.16672v1)** | 2025-11-20 | <details><summary>9 Pag...</summary><p>9 Pages, 6 Figures, 4 Tables</p></details> |
+| **[NoPo-Avatar: Generalizable and Animatable Avatars from Sparse Inputs without Human Poses](https://arxiv.org/abs/2511.16673v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS'25; project page: https://wenj.github.io/NoPo-Avatar/</p></details> |
+| **[Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/abs/2511.16671v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project Page: https://think-while-gen.github.io Code: https://github.com/ZiyuGuo99/Thinking-while-Generating</p></details> |
+| **[Learning to Think Fast and Slow for Visual Language Models](https://arxiv.org/abs/2511.16670v1)** | 2025-11-20 |  |
+| **[Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO](https://arxiv.org/abs/2511.16669v1)** | 2025-11-20 | <details><summary>Proje...</summary><p>Project page: https://video-as-answer.github.io/</p></details> |
+| **[SceneDesigner: Controllable Multi-Object Image Generation with 9-DoF Pose Manipulation](https://arxiv.org/abs/2511.16666v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight), Project Page: https://henghuiding.com/SceneDesigner/</p></details> |
+| **[Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations](https://arxiv.org/abs/2511.16661v1)** | 2025-11-20 |  |
 
