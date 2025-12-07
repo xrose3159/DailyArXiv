@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,52 +7,46 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/abs/2512.04085v1)** | 2025-12-03 |  |
-| **[SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows](https://arxiv.org/abs/2512.04084v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project Page: https://qinyu-allen-zhao.github.io/SimFlow/</p></details> |
-| **[Radiance Meshes for Volumetric Reconstruction](https://arxiv.org/abs/2512.04076v1)** | 2025-12-03 | <details><summary>Websi...</summary><p>Website: half-potato.gitlab.io/rm</p></details> |
-| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](https://arxiv.org/abs/2503.18929v2)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages</p></details> |
-| **[SkillFactory: Self-Distillation For Learning Cognitive Behaviors](https://arxiv.org/abs/2512.04072v1)** | 2025-12-03 |  |
-| **[Interactive and Hybrid Imitation Learning: Provably Beating Behavior Cloning](https://arxiv.org/abs/2412.07057v2)** | 2025-12-03 | <details><summary>42 pa...</summary><p>42 pages, Accepted by NeurIPS 2025</p></details> |
-| **[PCS Workflow for Veridical Data Science in the Age of AI](https://arxiv.org/abs/2508.00835v2)** | 2025-12-03 |  |
-| **[Fare Comparison App of Uber, Ola and Rapido](https://arxiv.org/abs/2512.04065v1)** | 2025-12-03 | 4 pages |
-| **[A Chronological Analysis of the Evolution of SmartNICs](https://arxiv.org/abs/2512.04054v1)** | 2025-12-03 | <details><summary>8 pag...</summary><p>8 pages, 13 figures, 2 tables, Southern Africa Telecommunication Networks and Applications Conference (SATNAC) 2025</p></details> |
+| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1)** | 2025-12-04 | 37 pages |
+| **[NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation](https://arxiv.org/abs/2512.05106v1)** | 2025-12-04 |  |
+| **[Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning](https://arxiv.org/abs/2512.05105v1)** | 2025-12-04 |  |
+| **[TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103v1)** | 2025-12-04 |  |
+| **[BioAnalyst: A Foundation Model for Biodiversity](https://arxiv.org/abs/2507.09080v2)** | 2025-12-04 |  |
+| **[Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction](https://arxiv.org/abs/2512.05092v1)** | 2025-12-04 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/abs/2512.04085v1)** | 2025-12-03 |  |
-| **[SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows](https://arxiv.org/abs/2512.04084v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project Page: https://qinyu-allen-zhao.github.io/SimFlow/</p></details> |
-| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](https://arxiv.org/abs/2503.18929v2)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages</p></details> |
-| **[SkillFactory: Self-Distillation For Learning Cognitive Behaviors](https://arxiv.org/abs/2512.04072v1)** | 2025-12-03 |  |
-| **[Interactive and Hybrid Imitation Learning: Provably Beating Behavior Cloning](https://arxiv.org/abs/2412.07057v2)** | 2025-12-03 | <details><summary>42 pa...</summary><p>42 pages, Accepted by NeurIPS 2025</p></details> |
-| **[PCS Workflow for Veridical Data Science in the Age of AI](https://arxiv.org/abs/2508.00835v2)** | 2025-12-03 |  |
-| **[Fare Comparison App of Uber, Ola and Rapido](https://arxiv.org/abs/2512.04065v1)** | 2025-12-03 | 4 pages |
-| **[Inference for location and height of peaks of a standardized field after selection](https://arxiv.org/abs/2512.04059v1)** | 2025-12-03 |  |
+| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1)** | 2025-12-04 | 37 pages |
+| **[Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting](https://arxiv.org/abs/2512.05113v1)** | 2025-12-04 | <details><summary>WACV ...</summary><p>WACV 2025. Project page: https://chien90190.github.io/splannequin/</p></details> |
+| **[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://github.com/CaraJ7/DraCo</p></details> |
+| **[Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning](https://arxiv.org/abs/2512.05105v1)** | 2025-12-04 |  |
+| **[NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation](https://arxiv.org/abs/2512.05106v1)** | 2025-12-04 |  |
+| **[TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103v1)** | 2025-12-04 |  |
+| **[BioAnalyst: A Foundation Model for Biodiversity](https://arxiv.org/abs/2507.09080v2)** | 2025-12-04 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning](https://arxiv.org/abs/2512.03963v1)** | 2025-12-03 |  |
-| **[Thinking with Programming Vision: Towards a Unified View for Thinking with Images](https://arxiv.org/abs/2512.03746v1)** | 2025-12-03 |  |
-| **[Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning](https://arxiv.org/abs/2512.03667v1)** | 2025-12-03 | Technical report |
-| **[ToG-Bench: Task-Oriented Spatio-Temporal Grounding in Egocentric Videos](https://arxiv.org/abs/2512.03666v1)** | 2025-12-03 | 26 pages |
-| **[OneThinker: All-in-one Reasoning Model for Image and Video](https://arxiv.org/abs/2512.03043v2)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page: https://github.com/tulerfeng/OneThinker</p></details> |
-| **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v1)** | 2025-12-03 | Accepted at KDD 2026 |
-| **[SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism](https://arxiv.org/abs/2507.01513v2)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[V-ITI: Mitigating Hallucinations in Multimodal Large Language Models via Visual Inference-Time Intervention](https://arxiv.org/abs/2512.03542v1)** | 2025-12-03 |  |
-| **[OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2512.03532v1)** | 2025-12-03 |  |
-| **[Guard Me If You Know Me: Protecting Specific Face-Identity from Deepfakes](https://arxiv.org/abs/2505.19582v2)** | 2025-12-03 |  |
+| **[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://github.com/CaraJ7/DraCo</p></details> |
+| **[SA-IQA: Redefining Image Quality Assessment for Spatial Aesthetics with Multi-Dimensional Rewards](https://arxiv.org/abs/2512.05098v1)** | 2025-12-04 |  |
+| **[Visual Reasoning Tracer: Object-Level Grounded Reasoning Benchmark](https://arxiv.org/abs/2512.05091v1)** | 2025-12-04 | <details><summary>Techn...</summary><p>Technical Report; Project Page: https://harboryuan.github.io/visual-reasoning-tracer</p></details> |
+| **[SO-Bench: A Structural Output Evaluation of Multimodal LLMs](https://arxiv.org/abs/2511.21750v2)** | 2025-12-04 | <details><summary>v2 pr...</summary><p>v2 preprint. Fixed some typos, add a discussion about limitation, provide pseudo-codes for eval</p></details> |
+| **[COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence](https://arxiv.org/abs/2512.04563v1)** | 2025-12-04 |  |
+| **[ViRectify: A Challenging Benchmark for Video Reasoning Correction with Multimodal Large Language Models](https://arxiv.org/abs/2512.01424v3)** | 2025-12-04 | 22 pages, 11 figures |
+| **[BiTAgent: A Task-Aware Modular Framework for Bidirectional Coupling between Multimodal Large Language Models and World Models](https://arxiv.org/abs/2512.04513v1)** | 2025-12-04 |  |
+| **[ViDiC: Video Difference Captioning](https://arxiv.org/abs/2512.03405v2)** | 2025-12-04 |  |
+| **[StreamEQA: Towards Streaming Video Understanding for Embodied Scenarios](https://arxiv.org/abs/2512.04451v1)** | 2025-12-04 |  |
+| **[TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning](https://arxiv.org/abs/2512.03963v2)** | 2025-12-04 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/abs/2512.04085v1)** | 2025-12-03 |  |
-| **[SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows](https://arxiv.org/abs/2512.04084v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project Page: https://qinyu-allen-zhao.github.io/SimFlow/</p></details> |
-| **[Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training](https://arxiv.org/abs/2503.18929v2)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; 27 pages</p></details> |
-| **[SkillFactory: Self-Distillation For Learning Cognitive Behaviors](https://arxiv.org/abs/2512.04072v1)** | 2025-12-03 |  |
-| **[Interactive and Hybrid Imitation Learning: Provably Beating Behavior Cloning](https://arxiv.org/abs/2412.07057v2)** | 2025-12-03 | <details><summary>42 pa...</summary><p>42 pages, Accepted by NeurIPS 2025</p></details> |
-| **[PCS Workflow for Veridical Data Science in the Age of AI](https://arxiv.org/abs/2508.00835v2)** | 2025-12-03 |  |
-| **[Fare Comparison App of Uber, Ola and Rapido](https://arxiv.org/abs/2512.04065v1)** | 2025-12-03 | 4 pages |
-| **[A Chronological Analysis of the Evolution of SmartNICs](https://arxiv.org/abs/2512.04054v1)** | 2025-12-03 | <details><summary>8 pag...</summary><p>8 pages, 13 figures, 2 tables, Southern Africa Telecommunication Networks and Applications Conference (SATNAC) 2025</p></details> |
-| **[RELIC: Interactive Video World Model with Long-Horizon Memory](https://arxiv.org/abs/2512.04040v1)** | 2025-12-03 | 22 pages |
+| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1)** | 2025-12-04 | 37 pages |
+| **[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://github.com/CaraJ7/DraCo</p></details> |
+| **[ShadowDraw: From Any Object to Shadow-Drawing Compositional Art](https://arxiv.org/abs/2512.05110v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project page: https://red-fairy.github.io/ShadowDraw/</p></details> |
+| **[NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation](https://arxiv.org/abs/2512.05106v1)** | 2025-12-04 |  |
+| **[Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning](https://arxiv.org/abs/2512.05105v1)** | 2025-12-04 |  |
+| **[TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103v1)** | 2025-12-04 |  |
+| **[BioAnalyst: A Foundation Model for Biodiversity](https://arxiv.org/abs/2507.09080v2)** | 2025-12-04 |  |
 
