@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 09, 2025
+title: Latest 15 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,51 +7,51 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/2512.05965v1)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project page: https://appletea233.github.io/think-while-edit</p></details> |
-| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
-| **[iMotion-LLM: Instruction-Conditioned Trajectory Generation](https://arxiv.org/abs/2406.06211v3)** | 2025-12-05 |  |
-| **[SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](https://arxiv.org/abs/2512.05955v1)** | 2025-12-05 |  |
-| **[Trusted AI Agents in the Cloud](https://arxiv.org/abs/2512.05951v1)** | 2025-12-05 |  |
-| **[Impugan: Learning Conditional Generative Models for Robust Data Imputation](https://arxiv.org/abs/2512.05950v1)** | 2025-12-05 |  |
-| **[Developing synthetic microdata through machine learning for firm-level business surveys](https://arxiv.org/abs/2512.05948v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
-| **[Designing an Optimal Sensor Network via Minimizing Information Loss](https://arxiv.org/abs/2512.05940v1)** | 2025-12-05 | <details><summary>37 pa...</summary><p>37 pages, 15 figures. Accepted to Bayesian Analysis</p></details> |
+| **[Do Generalisation Results Generalise?](https://arxiv.org/abs/2512.07832v1)** | 2025-12-08 |  |
+| **[UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](https://arxiv.org/abs/2512.07831v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project Website https://jackailab.github.io/Projects/UnityVideo</p></details> |
+| **[TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103v2)** | 2025-12-08 |  |
+| **[An Adaptive Multi-Layered Honeynet Architecture for Threat Behavior Analysis via Deep Learning](https://arxiv.org/abs/2512.07827v1)** | 2025-12-08 |  |
+| **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v1)** | 2025-12-08 | 38 pages |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling](https://arxiv.org/abs/2512.07821v1)** | 2025-12-08 |  |
+| **[Beyond the Singular: Revealing the Value of Multiple Generations in Benchmark Evaluation](https://arxiv.org/abs/2502.08943v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025 Workshop on LLM Evals</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/2512.05965v1)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project page: https://appletea233.github.io/think-while-edit</p></details> |
-| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
-| **[iMotion-LLM: Instruction-Conditioned Trajectory Generation](https://arxiv.org/abs/2406.06211v3)** | 2025-12-05 |  |
-| **[SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](https://arxiv.org/abs/2512.05955v1)** | 2025-12-05 |  |
-| **[Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning](https://arxiv.org/abs/2512.05953v1)** | 2025-12-05 |  |
-| **[Trusted AI Agents in the Cloud](https://arxiv.org/abs/2512.05951v1)** | 2025-12-05 |  |
-| **[Impugan: Learning Conditional Generative Models for Robust Data Imputation](https://arxiv.org/abs/2512.05950v1)** | 2025-12-05 |  |
-| **[Developing synthetic microdata through machine learning for firm-level business surveys](https://arxiv.org/abs/2512.05948v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
-| **[Designing an Optimal Sensor Network via Minimizing Information Loss](https://arxiv.org/abs/2512.05940v1)** | 2025-12-05 | <details><summary>37 pa...</summary><p>37 pages, 15 figures. Accepted to Bayesian Analysis</p></details> |
+| **[Do Generalisation Results Generalise?](https://arxiv.org/abs/2512.07832v1)** | 2025-12-08 |  |
+| **[UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](https://arxiv.org/abs/2512.07831v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project Website https://jackailab.github.io/Projects/UnityVideo</p></details> |
+| **[TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103v2)** | 2025-12-08 |  |
+| **[An Adaptive Multi-Layered Honeynet Architecture for Threat Behavior Analysis via Deep Learning](https://arxiv.org/abs/2512.07827v1)** | 2025-12-08 |  |
+| **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v1)** | 2025-12-08 | 38 pages |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling](https://arxiv.org/abs/2512.07821v1)** | 2025-12-08 |  |
+| **[Beyond the Singular: Revealing the Value of Multiple Generations in Benchmark Evaluation](https://arxiv.org/abs/2502.08943v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025 Workshop on LLM Evals</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/2512.05965v1)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project page: https://appletea233.github.io/think-while-edit</p></details> |
-| **[VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack](https://arxiv.org/abs/2512.05853v1)** | 2025-12-05 |  |
-| **[Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding](https://arxiv.org/abs/2512.05774v1)** | 2025-12-05 | <details><summary>Websi...</summary><p>Website: https://activevideoperception.github.io/</p></details> |
-| **[ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior](https://arxiv.org/abs/2512.05745v1)** | 2025-12-05 |  |
-| **[Efficient Distributed MLLM Training with Cornstarch](https://arxiv.org/abs/2503.11367v3)** | 2025-12-05 |  |
-| **[Language-Instructed Reasoning for Group Activity Detection via Multimodal Large Language Model](https://arxiv.org/abs/2509.16054v2)** | 2025-12-05 | <details><summary>This ...</summary><p>This work is being incorporated into a larger study</p></details> |
-| **[Interleaved Latent Visual Reasoning with Selective Perceptual Modeling](https://arxiv.org/abs/2512.05665v1)** | 2025-12-05 | <details><summary>11 pa...</summary><p>11 pages, 6 figures. Code available at https://github.com/XD111ds/ILVR</p></details> |
-| **[REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding](https://arxiv.org/abs/2511.13026v2)** | 2025-12-05 |  |
-| **[ReSem3D: Refinable 3D Spatial Constraints via Fine-Grained Semantic Grounding for Generalizable Robotic Manipulation](https://arxiv.org/abs/2507.18262v3)** | 2025-12-05 | 12 pages,9 figures |
-| **[MIND: Multi-rationale INtegrated Discriminative Reasoning Framework for Multi-modal Large Models](https://arxiv.org/abs/2512.05530v1)** | 2025-12-05 |  |
+| **[SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery](https://arxiv.org/abs/2512.07733v1)** | 2025-12-08 |  |
+| **[SAVE: Sparse Autoencoder-Driven Visual Information Enhancement for Mitigating Object Hallucination](https://arxiv.org/abs/2512.07730v1)** | 2025-12-08 | WACV 2026 |
+| **[Seeing through Imagination: Learning Scene Geometry via Implicit Spatial World Modeling](https://arxiv.org/abs/2512.01821v2)** | 2025-12-08 |  |
+| **[HalluShift++: Bridging Language and Vision through Internal Representation Shifts for Hierarchical Hallucinations in MLLMs](https://arxiv.org/abs/2512.07687v1)** | 2025-12-08 |  |
+| **[InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization](https://arxiv.org/abs/2508.05731v2)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Oral Presentation)</p></details> |
+| **[VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack](https://arxiv.org/abs/2512.05853v2)** | 2025-12-08 |  |
+| **[MMRPT: MultiModal Reinforcement Pre-Training via Masked Vision-Dependent Reasoning](https://arxiv.org/abs/2512.07203v1)** | 2025-12-08 | 7 pages, 1 figures |
+| **[ChartAnchor: Chart Grounding with Structural-Semantic Fidelity](https://arxiv.org/abs/2512.01017v2)** | 2025-12-08 |  |
+| **[START: Spatial and Textual Learning for Chart Understanding](https://arxiv.org/abs/2512.07186v1)** | 2025-12-08 | <details><summary>WACV2...</summary><p>WACV2026 Camera Ready</p></details> |
+| **[When Privacy Meets Recovery: The Overlooked Half of Surrogate-Driven Privacy Preservation for MLLM Editing](https://arxiv.org/abs/2512.07166v1)** | 2025-12-08 | 9 pages,7figures |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/2512.05965v1)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project page: https://appletea233.github.io/think-while-edit</p></details> |
-| **[M4-RAG: A Massive-Scale Multilingual Multi-Cultural Multimodal RAG](https://arxiv.org/abs/2512.05959v1)** | 2025-12-05 | Preprint |
-| **[iMotion-LLM: Instruction-Conditioned Trajectory Generation](https://arxiv.org/abs/2406.06211v3)** | 2025-12-05 |  |
-| **[SIMPACT: Simulation-Enabled Action Planning using Vision-Language Models](https://arxiv.org/abs/2512.05955v1)** | 2025-12-05 |  |
-| **[Trusted AI Agents in the Cloud](https://arxiv.org/abs/2512.05951v1)** | 2025-12-05 |  |
-| **[Impugan: Learning Conditional Generative Models for Robust Data Imputation](https://arxiv.org/abs/2512.05950v1)** | 2025-12-05 |  |
-| **[Developing synthetic microdata through machine learning for firm-level business surveys](https://arxiv.org/abs/2512.05948v1)** | 2025-12-05 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 6 tables</p></details> |
-| **[Designing an Optimal Sensor Network via Minimizing Information Loss](https://arxiv.org/abs/2512.05940v1)** | 2025-12-05 | <details><summary>37 pa...</summary><p>37 pages, 15 figures. Accepted to Bayesian Analysis</p></details> |
+| **[Relational Visual Similarity](https://arxiv.org/abs/2512.07833v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project page, data, and code: https://thaoshibe.github.io/relsim</p></details> |
+| **[Do Generalisation Results Generalise?](https://arxiv.org/abs/2512.07832v1)** | 2025-12-08 |  |
+| **[UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](https://arxiv.org/abs/2512.07831v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project Website https://jackailab.github.io/Projects/UnityVideo</p></details> |
+| **[TV2TV: A Unified Framework for Interleaved Language and Video Generation](https://arxiv.org/abs/2512.05103v2)** | 2025-12-08 |  |
+| **[An Adaptive Multi-Layered Honeynet Architecture for Threat Behavior Analysis via Deep Learning](https://arxiv.org/abs/2512.07827v1)** | 2025-12-08 |  |
+| **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v1)** | 2025-12-08 | 38 pages |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling](https://arxiv.org/abs/2512.07821v1)** | 2025-12-08 |  |
+| **[Beyond the Singular: Revealing the Value of Multiple Generations in Benchmark Evaluation](https://arxiv.org/abs/2502.08943v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025 Workshop on LLM Evals</p></details> |
 
