@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 18, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
-| **[CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives](https://arxiv.org/abs/2512.14696v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://crisp-real2sim.github.io/CRISP-Real2Sim/</p></details> |
-| **[Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines](https://arxiv.org/abs/2512.11844v2)** | 2025-12-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop: First Workshop on LLM Persona Modeling (Oral)</p></details> |
-| **[Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://microsoft.github.io/TRELLIS.2/</p></details> |
-| **[MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/abs/2512.14691v1)** | 2025-12-16 | work in progress |
-| **[CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation](https://arxiv.org/abs/2512.14689v1)** | 2025-12-16 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project page: https://nvlabs.github.io/CHIP/</p></details> |
-| **[Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization](https://arxiv.org/abs/2512.14687v1)** | 2025-12-16 | 12 pages, 2 figures |
-| **[Misspecification-robust amortised simulation-based inference using variational methods](https://arxiv.org/abs/2509.05724v3)** | 2025-12-16 | <details><summary>Latex...</summary><p>Latex edits, fixed typos</p></details> |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
+| **[Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712v1)** | 2025-12-17 | 28 pages, 12 figures |
+| **[Learning Model Parameter Dynamics in a Combination Therapy for Bladder Cancer from Sparse Biological Data](https://arxiv.org/abs/2512.15706v1)** | 2025-12-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Learning from Time Series for Health</p></details> |
+| **[Dynamic Rebatching for Efficient Early-Exit Inference with DREX](https://arxiv.org/abs/2512.15705v1)** | 2025-12-17 |  |
+| **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692v1)** | 2025-12-17 |  |
+| **[Multi-Modal Semantic Communication](https://arxiv.org/abs/2512.15691v1)** | 2025-12-17 |  |
+| **[Data-intrinsic approximation in metric spaces](https://arxiv.org/abs/2510.13496v2)** | 2025-12-17 |  |
+| **[MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/abs/2512.14691v2)** | 2025-12-17 | work in progress |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
-| **[CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives](https://arxiv.org/abs/2512.14696v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://crisp-real2sim.github.io/CRISP-Real2Sim/</p></details> |
-| **[Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines](https://arxiv.org/abs/2512.11844v2)** | 2025-12-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop: First Workshop on LLM Persona Modeling (Oral)</p></details> |
-| **[Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://microsoft.github.io/TRELLIS.2/</p></details> |
-| **[MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/abs/2512.14691v1)** | 2025-12-16 | work in progress |
-| **[CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation](https://arxiv.org/abs/2512.14689v1)** | 2025-12-16 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project page: https://nvlabs.github.io/CHIP/</p></details> |
-| **[Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization](https://arxiv.org/abs/2512.14687v1)** | 2025-12-16 | 12 pages, 2 figures |
-| **[Misspecification-robust amortised simulation-based inference using variational methods](https://arxiv.org/abs/2509.05724v3)** | 2025-12-16 | <details><summary>Latex...</summary><p>Latex edits, fixed typos</p></details> |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
+| **[Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712v1)** | 2025-12-17 | 28 pages, 12 figures |
+| **[Learning Model Parameter Dynamics in a Combination Therapy for Bladder Cancer from Sparse Biological Data](https://arxiv.org/abs/2512.15706v1)** | 2025-12-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Learning from Time Series for Health</p></details> |
+| **[Dynamic Rebatching for Efficient Early-Exit Inference with DREX](https://arxiv.org/abs/2512.15705v1)** | 2025-12-17 |  |
+| **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692v1)** | 2025-12-17 |  |
+| **[Multi-Modal Semantic Communication](https://arxiv.org/abs/2512.15691v1)** | 2025-12-17 |  |
+| **[Data-intrinsic approximation in metric spaces](https://arxiv.org/abs/2510.13496v2)** | 2025-12-17 |  |
+| **[MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/abs/2512.14691v2)** | 2025-12-17 | work in progress |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning](https://arxiv.org/abs/2512.15693v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project Page: https://github.com/JoeLeelyf/Skyra</p></details> |
+| **[EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration](https://arxiv.org/abs/2512.15528v1)** | 2025-12-17 |  |
+| **[DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245v3)** | 2025-12-17 | <details><summary>Accep...</summary><p>Accepted to Visual Intelligence</p></details> |
+| **[Do MLLMs Exhibit Human-like Perceptual Behaviors? HVSBench: A Benchmark for MLLM Alignment with Human Perceptual Behavior](https://arxiv.org/abs/2412.09603v3)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://jiaying.link/HVSBench/</p></details> |
+| **[ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking](https://arxiv.org/abs/2512.14654v2)** | 2025-12-17 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Leon-LihongWang/ViRC</p></details> |
+| **[EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](https://arxiv.org/abs/2512.15160v1)** | 2025-12-17 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 6 tables</p></details> |
+| **[SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification](https://arxiv.org/abs/2512.15052v1)** | 2025-12-17 | <details><summary>Under...</summary><p>Under Review for ACL 2026</p></details> |
+| **[Evaluating Large Language Models on Multimodal Chemistry Olympiad Exams](https://arxiv.org/abs/2512.14989v1)** | 2025-12-17 | <details><summary>Publi...</summary><p>Published at Communications Chemistry</p></details> |
+| **[TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation](https://arxiv.org/abs/2512.14938v1)** | 2025-12-16 | <details><summary>open-...</summary><p>open-sourced single-person full-body talking video generation dataset, training code and checkpoints</p></details> |
 | **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
-| **[ViRC: Enhancing Visual Interleaved Mathematical CoT with Reason Chunking](https://arxiv.org/abs/2512.14654v1)** | 2025-12-16 | <details><summary>Code ...</summary><p>Code is available at https://github.com/Leon-LihongWang/ViRC</p></details> |
-| **[Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video Understanding](https://arxiv.org/abs/2503.09143v2)** | 2025-12-16 | <details><summary>This ...</summary><p>This paper is accepted by AAAI 2026</p></details> |
-| **[Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity](https://arxiv.org/abs/2512.14320v1)** | 2025-12-16 | 11 pages, 4 figures |
-| **[Why Reinforcement Fine-Tuning Enables MLLMs Preserve Prior Knowledge Better: A Data Perspective](https://arxiv.org/abs/2506.23508v3)** | 2025-12-16 | 28 pages (Preprint.) |
-| **[Assessing Greenspace Attractiveness with ChatGPT, Claude, and Gemini: Do AI Models Reflect Human Perceptions?](https://arxiv.org/abs/2512.11827v2)** | 2025-12-16 |  |
-| **[Incentivizing Tool-augmented Thinking with Images for Medical Image Analysis](https://arxiv.org/abs/2512.14157v1)** | 2025-12-16 |  |
-| **[ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning](https://arxiv.org/abs/2512.14040v1)** | 2025-12-16 |  |
-| **[MMhops-R1: Multimodal Multi-hop Reasoning](https://arxiv.org/abs/2512.13573v2)** | 2025-12-16 | Acceped by AAAI 2026 |
-| **[KFS-Bench: Comprehensive Evaluation of Key Frame Sampling in Long Video Understanding](https://arxiv.org/abs/2512.14017v1)** | 2025-12-16 | WACV2026 |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
-| **[CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives](https://arxiv.org/abs/2512.14696v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://crisp-real2sim.github.io/CRISP-Real2Sim/</p></details> |
-| **[Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines](https://arxiv.org/abs/2512.11844v2)** | 2025-12-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop: First Workshop on LLM Persona Modeling (Oral)</p></details> |
-| **[Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://microsoft.github.io/TRELLIS.2/</p></details> |
-| **[MMGR: Multi-Modal Generative Reasoning](https://arxiv.org/abs/2512.14691v1)** | 2025-12-16 | work in progress |
-| **[CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation](https://arxiv.org/abs/2512.14689v1)** | 2025-12-16 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project page: https://nvlabs.github.io/CHIP/</p></details> |
-| **[Spoken DialogSum: An Emotion-Rich Conversational Dataset for Spoken Dialogue Summarization](https://arxiv.org/abs/2512.14687v1)** | 2025-12-16 | 12 pages, 2 figures |
-| **[Misspecification-robust amortised simulation-based inference using variational methods](https://arxiv.org/abs/2509.05724v3)** | 2025-12-16 | <details><summary>Latex...</summary><p>Latex edits, fixed typos</p></details> |
+| **[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/abs/2512.15715v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://github.com/facebookresearch/pixio</p></details> |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
+| **[Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712v1)** | 2025-12-17 | 28 pages, 12 figures |
+| **[Learning Model Parameter Dynamics in a Combination Therapy for Bladder Cancer from Sparse Biological Data](https://arxiv.org/abs/2512.15706v1)** | 2025-12-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Learning from Time Series for Health</p></details> |
+| **[Dynamic Rebatching for Efficient Early-Exit Inference with DREX](https://arxiv.org/abs/2512.15705v1)** | 2025-12-17 |  |
+| **[FrontierCS: Evolving Challenges for Evolving Intelligence](https://arxiv.org/abs/2512.15699v1)** | 2025-12-17 | <details><summary>Code ...</summary><p>Code with instruction: https://github.com/FrontierCS/Frontier-CS</p></details> |
+| **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692v1)** | 2025-12-17 |  |
+| **[Multi-Modal Semantic Communication](https://arxiv.org/abs/2512.15691v1)** | 2025-12-17 |  |
 
