@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,54 +7,46 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://arxiv.org/abs/2512.19693v1)** | 2025-12-22 | <details><summary>Code ...</summary><p>Code link: https://github.com/WeichenFan/UAE</p></details> |
-| **[Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models](https://arxiv.org/abs/2512.19692v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project Page: https://pabloruizponce.com/papers/Interact2Ar</p></details> |
-| **[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)** | 2025-12-22 |  |
-| **[Zero-shot Reconstruction of In-Scene Object Manipulation from Video](https://arxiv.org/abs/2512.19684v1)** | 2025-12-22 |  |
-| **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/abs/2512.19683v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://harmlesssr.github.io/openbench/</p></details> |
-| **[GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators](https://arxiv.org/abs/2512.19682v1)** | 2025-12-22 | <details><summary>Our c...</summary><p>Our codes are available at https://github.com/Gen-Verse/GenEnv</p></details> |
-| **[LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?](https://arxiv.org/abs/2510.09595v2)** | 2025-12-22 |  |
-| **[VA-$π$: Variational Policy Alignment for Pixel-Aware Autoregressive Generation](https://arxiv.org/abs/2512.19680v1)** | 2025-12-22 | 21 pages, 24 figures |
-| **[Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning](https://arxiv.org/abs/2512.19676v1)** | 2025-12-22 |  |
+| **[LongVideoAgent: Multi-Agent Reasoning with Long Videos](https://arxiv.org/abs/2512.20618v1)** | 2025-12-23 |  |
+| **[FedPOD: the deployable units of training for federated learning](https://arxiv.org/abs/2512.20610v1)** | 2025-12-23 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, MICCAI</p></details> |
+| **[Saddle-to-Saddle Dynamics Explains A Simplicity Bias Across Neural Network Architectures](https://arxiv.org/abs/2512.20607v1)** | 2025-12-23 |  |
+| **[On the near-tightness of $χ\leq 2r$: a general $σ$-ary construction and a binary case via LFSRs](https://arxiv.org/abs/2512.20598v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to LATIN 2026. 16 pages, 0 figures</p></details> |
+| **[Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?](https://arxiv.org/abs/2512.17038v2)** | 2025-12-23 | <details><summary>25 pa...</summary><p>25 pages main text, 21 figures, 7 tables, 6 pages appendix</p></details> |
+| **[Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem](https://arxiv.org/abs/2512.20583v1)** | 2025-12-23 | <details><summary>To ap...</summary><p>To appear in PETS 2026</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://arxiv.org/abs/2512.19693v1)** | 2025-12-22 | <details><summary>Code ...</summary><p>Code link: https://github.com/WeichenFan/UAE</p></details> |
-| **[Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models](https://arxiv.org/abs/2512.19692v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project Page: https://pabloruizponce.com/papers/Interact2Ar</p></details> |
-| **[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)** | 2025-12-22 |  |
-| **[Zero-shot Reconstruction of In-Scene Object Manipulation from Video](https://arxiv.org/abs/2512.19684v1)** | 2025-12-22 |  |
-| **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/abs/2512.19683v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://harmlesssr.github.io/openbench/</p></details> |
-| **[GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators](https://arxiv.org/abs/2512.19682v1)** | 2025-12-22 | <details><summary>Our c...</summary><p>Our codes are available at https://github.com/Gen-Verse/GenEnv</p></details> |
-| **[An Adaptive Graphical Lasso Approach to Modeling Symptom Networks of Common Mental Disorders in Eritrean Refugee Population](https://arxiv.org/abs/2512.19681v1)** | 2025-12-22 | 34 pages, 7 figures |
-| **[LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?](https://arxiv.org/abs/2510.09595v2)** | 2025-12-22 |  |
-| **[VA-$π$: Variational Policy Alignment for Pixel-Aware Autoregressive Generation](https://arxiv.org/abs/2512.19680v1)** | 2025-12-22 | 21 pages, 24 figures |
-| **[Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning](https://arxiv.org/abs/2512.19676v1)** | 2025-12-22 |  |
+| **[LongVideoAgent: Multi-Agent Reasoning with Long Videos](https://arxiv.org/abs/2512.20618v1)** | 2025-12-23 |  |
+| **[FedPOD: the deployable units of training for federated learning](https://arxiv.org/abs/2512.20610v1)** | 2025-12-23 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, MICCAI</p></details> |
+| **[Saddle-to-Saddle Dynamics Explains A Simplicity Bias Across Neural Network Architectures](https://arxiv.org/abs/2512.20607v1)** | 2025-12-23 |  |
+| **[Learning Informative Attention Weights for Person Re-Identification](https://arxiv.org/abs/2505.08961v2)** | 2025-12-23 |  |
+| **[On the near-tightness of $χ\leq 2r$: a general $σ$-ary construction and a binary case via LFSRs](https://arxiv.org/abs/2512.20598v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to LATIN 2026. 16 pages, 0 figures</p></details> |
+| **[Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs](https://arxiv.org/abs/2512.20595v1)** | 2025-12-23 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 9 tables. Cube available at https://github.com/dana-23/cube-bench</p></details> |
+| **[Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?](https://arxiv.org/abs/2512.17038v2)** | 2025-12-23 | <details><summary>25 pa...</summary><p>25 pages main text, 21 figures, 7 tables, 6 pages appendix</p></details> |
+| **[Leveraging High-Fidelity Digital Models and Reinforcement Learning for Mission Engineering: A Case Study of Aerial Firefighting Under Perfect Information](https://arxiv.org/abs/2512.20589v1)** | 2025-12-23 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/abs/2512.19683v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://harmlesssr.github.io/openbench/</p></details> |
-| **[MapTrace: Scalable Data Generation for Route Tracing on Maps](https://arxiv.org/abs/2512.19609v1)** | 2025-12-22 |  |
-| **[InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback](https://arxiv.org/abs/2505.23950v2)** | 2025-12-22 |  |
-| **[Anatomy-R1: Enhancing Anatomy Reasoning in Multimodal Large Language Models via Anatomical Similarity Curriculum and Group Diversity Augmentation](https://arxiv.org/abs/2512.19512v1)** | 2025-12-22 |  |
-| **[D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning](https://arxiv.org/abs/2512.19443v1)** | 2025-12-22 |  |
-| **[PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models](https://arxiv.org/abs/2512.19350v1)** | 2025-12-22 |  |
-| **[3SGen: Unified Subject, Style, and Structure-Driven Image Generation with Adaptive Task-specific Memory](https://arxiv.org/abs/2512.19271v1)** | 2025-12-22 |  |
-| **[Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization](https://arxiv.org/abs/2506.11712v3)** | 2025-12-22 | NeurIPS 2025 |
-| **[Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval?](https://arxiv.org/abs/2512.19115v1)** | 2025-12-22 |  |
-| **[FC-MIR: A Mobile Screen Awareness Framework for Intent-Aware Recommendation based on Frame-Compressed Multimodal Trajectory Reasoning](https://arxiv.org/abs/2512.19107v1)** | 2025-12-22 |  |
+| **[SpatialTree: How Spatial Abilities Branch Out in MLLMs](https://arxiv.org/abs/2512.20617v1)** | 2025-12-23 | <details><summary>webpa...</summary><p>webpage: https://spatialtree.github.io/</p></details> |
+| **[Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs](https://arxiv.org/abs/2512.20595v1)** | 2025-12-23 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 9 tables. Cube available at https://github.com/dana-23/cube-bench</p></details> |
+| **[UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images](https://arxiv.org/abs/2512.20479v1)** | 2025-12-23 | <details><summary>22 pa...</summary><p>22 pages, 25 figures, SIGGRAPH Asia 2025, Conference Paper</p></details> |
+| **[Heartcare Suite: A Unified Multimodal ECG Suite for Dual Signal-Image Modeling and Understanding](https://arxiv.org/abs/2506.05831v3)** | 2025-12-23 |  |
+| **[Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification](https://arxiv.org/abs/2507.11662v2)** | 2025-12-23 | <details><summary>Our c...</summary><p>Our code, models, and data are publicly available at https://mshalimay.github.io/agreement-bias-sgv/</p></details> |
+| **[HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection](https://arxiv.org/abs/2512.17601v2)** | 2025-12-23 | AAAI 2026 Oral |
+| **[TongSIM: A General Platform for Simulating Intelligent Machines](https://arxiv.org/abs/2512.20206v1)** | 2025-12-23 |  |
+| **[Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography](https://arxiv.org/abs/2512.20168v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper is accepted by Network and Distributed System Security Symposium (NDSS) 2026</p></details> |
+| **[RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/abs/2507.19280v3)** | 2025-12-23 |  |
+| **[M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/abs/2512.20136v1)** | 2025-12-23 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://arxiv.org/abs/2512.19693v1)** | 2025-12-22 | <details><summary>Code ...</summary><p>Code link: https://github.com/WeichenFan/UAE</p></details> |
-| **[Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models](https://arxiv.org/abs/2512.19692v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project Page: https://pabloruizponce.com/papers/Interact2Ar</p></details> |
-| **[Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning](https://arxiv.org/abs/2512.19687v1)** | 2025-12-22 |  |
-| **[Zero-shot Reconstruction of In-Scene Object Manipulation from Video](https://arxiv.org/abs/2512.19684v1)** | 2025-12-22 |  |
-| **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/abs/2512.19683v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://harmlesssr.github.io/openbench/</p></details> |
-| **[GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators](https://arxiv.org/abs/2512.19682v1)** | 2025-12-22 | <details><summary>Our c...</summary><p>Our codes are available at https://github.com/Gen-Verse/GenEnv</p></details> |
-| **[LiveOIBench: Can Large Language Models Outperform Human Contestants in Informatics Olympiads?](https://arxiv.org/abs/2510.09595v2)** | 2025-12-22 |  |
-| **[VA-$π$: Variational Policy Alignment for Pixel-Aware Autoregressive Generation](https://arxiv.org/abs/2512.19680v1)** | 2025-12-22 | 21 pages, 24 figures |
-| **[Efficient Vision Mamba for MRI Super-Resolution via Hybrid Selective Scanning](https://arxiv.org/abs/2512.19676v1)** | 2025-12-22 |  |
+| **[LongVideoAgent: Multi-Agent Reasoning with Long Videos](https://arxiv.org/abs/2512.20618v1)** | 2025-12-23 |  |
+| **[FedPOD: the deployable units of training for federated learning](https://arxiv.org/abs/2512.20610v1)** | 2025-12-23 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, MICCAI</p></details> |
+| **[Saddle-to-Saddle Dynamics Explains A Simplicity Bias Across Neural Network Architectures](https://arxiv.org/abs/2512.20607v1)** | 2025-12-23 |  |
+| **[On the near-tightness of $χ\leq 2r$: a general $σ$-ary construction and a binary case via LFSRs](https://arxiv.org/abs/2512.20598v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to LATIN 2026. 16 pages, 0 figures</p></details> |
+| **[Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?](https://arxiv.org/abs/2512.17038v2)** | 2025-12-23 | <details><summary>25 pa...</summary><p>25 pages main text, 21 figures, 7 tables, 6 pages appendix</p></details> |
+| **[Making Sense of Private Advertising: A Principled Approach to a Complex Ecosystem](https://arxiv.org/abs/2512.20583v1)** | 2025-12-23 | <details><summary>To ap...</summary><p>To appear in PETS 2026</p></details> |
 
