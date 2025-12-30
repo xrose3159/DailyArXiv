@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 30, 2025
+title: Latest 15 Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,49 +7,45 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Experimental End-to-End Optimization of Directly Modulated Laser-based IM/DD Transmission](https://arxiv.org/abs/2508.19910v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, published in journal of lightwave technology</p></details> |
-| **[Learning Association via Track-Detection Matching for Multi-Object Tracking](https://arxiv.org/abs/2512.22105v1)** | 2025-12-26 | <details><summary>14 pa...</summary><p>14 pages (+4 for references), 8 tables, 4 figures</p></details> |
-| **[Explainable Multimodal Regression via Information Decomposition](https://arxiv.org/abs/2512.22102v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://github.com/zhaozhaoma/PIDReg</p></details> |
-| **[Rewards-based image analysis in microscopy](https://arxiv.org/abs/2502.18522v2)** | 2025-12-26 | 41 pages, 11 figures |
-| **[A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting](https://arxiv.org/abs/2512.22101v1)** | 2025-12-26 | <details><summary>3 pag...</summary><p>3 pages, 3 figures; Accepted by 1st Workshop on GenAI, Agents and the Future of VIS as Mini-challenge paper and win the Honorable Mention award. Submit number is 7597 and the paper is archived on the workshop website: https://visxgenai.github.io/subs-2025/7597/7597-doc.pdf</p></details> |
-| **[Exact inference via quasi-conjugacy in two-parameter Poisson-Dirichlet hidden Markov models](https://arxiv.org/abs/2512.22098v1)** | 2025-12-26 |  |
-| **[Towards a Functionally Complete and Parameterizable TFHE Processor](https://arxiv.org/abs/2510.23483v2)** | 2025-12-26 |  |
-| **[Bidirectional Mamba for Single-Cell Data: Efficient Context Learning with Biological Fidelity](https://arxiv.org/abs/2504.16956v2)** | 2025-12-26 |  |
+| **[GrOMP: Grasped Object Manifold Projection for Multimodal Imitation Learning of Manipulation](https://arxiv.org/abs/2512.03347v2)** | 2025-12-29 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables</p></details> |
+| **[Bellman Calibration for V-Learning in Offline Reinforcement Learning](https://arxiv.org/abs/2512.23694v1)** | 2025-12-29 |  |
+| **[Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection](https://arxiv.org/abs/2403.04809v2)** | 2025-12-29 |  |
+| **[Preconditioning for Accelerated Gradient Descent Optimization and Regularization](https://arxiv.org/abs/2410.00232v2)** | 2025-12-29 | 21 pages |
+| **[Complete and bi-continuous invariant of protein backbones under rigid motion](https://arxiv.org/abs/2410.08203v3)** | 2025-12-29 | <details><summary>This ...</summary><p>This version updated bibliographic details of published references and corrected a few typos. The official version appeared in the journal MATCH Communications in Mathematical and in Computer Chemistry, v.94(1), p.97-134 (2025). The latest version is maintained at https://kurlin.org/projects/geometry-proteins/complete-invariants-proteins.pdf</p></details> |
+| **[Automating the Analysis of Parsing Algorithms (and other Dynamic Programs)](https://arxiv.org/abs/2512.23665v1)** | 2025-12-29 | <details><summary>2021 ...</summary><p>2021 manuscript; accepted by TACL but not revised for publication</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Experimental End-to-End Optimization of Directly Modulated Laser-based IM/DD Transmission](https://arxiv.org/abs/2508.19910v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, published in journal of lightwave technology</p></details> |
-| **[Pruning as a Game: Equilibrium-Driven Sparsification of Neural Networks](https://arxiv.org/abs/2512.22106v1)** | 2025-12-26 | <details><summary>Prepr...</summary><p>Preprint. Under review / to be submitted to a conference</p></details> |
-| **[Learning Association via Track-Detection Matching for Multi-Object Tracking](https://arxiv.org/abs/2512.22105v1)** | 2025-12-26 | <details><summary>14 pa...</summary><p>14 pages (+4 for references), 8 tables, 4 figures</p></details> |
-| **[Explainable Multimodal Regression via Information Decomposition](https://arxiv.org/abs/2512.22102v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://github.com/zhaozhaoma/PIDReg</p></details> |
-| **[Rewards-based image analysis in microscopy](https://arxiv.org/abs/2502.18522v2)** | 2025-12-26 | 41 pages, 11 figures |
-| **[A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting](https://arxiv.org/abs/2512.22101v1)** | 2025-12-26 | <details><summary>3 pag...</summary><p>3 pages, 3 figures; Accepted by 1st Workshop on GenAI, Agents and the Future of VIS as Mini-challenge paper and win the Honorable Mention award. Submit number is 7597 and the paper is archived on the workshop website: https://visxgenai.github.io/subs-2025/7597/7597-doc.pdf</p></details> |
-| **[Exact inference via quasi-conjugacy in two-parameter Poisson-Dirichlet hidden Markov models](https://arxiv.org/abs/2512.22098v1)** | 2025-12-26 |  |
+| **[GrOMP: Grasped Object Manifold Projection for Multimodal Imitation Learning of Manipulation](https://arxiv.org/abs/2512.03347v2)** | 2025-12-29 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables</p></details> |
+| **[Bellman Calibration for V-Learning in Offline Reinforcement Learning](https://arxiv.org/abs/2512.23694v1)** | 2025-12-29 |  |
+| **[The Minimum Subgraph Complementation Problem](https://arxiv.org/abs/2512.23687v1)** | 2025-12-29 |  |
+| **[Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection](https://arxiv.org/abs/2403.04809v2)** | 2025-12-29 |  |
+| **[Preconditioning for Accelerated Gradient Descent Optimization and Regularization](https://arxiv.org/abs/2410.00232v2)** | 2025-12-29 | 21 pages |
+| **[Complete and bi-continuous invariant of protein backbones under rigid motion](https://arxiv.org/abs/2410.08203v3)** | 2025-12-29 | <details><summary>This ...</summary><p>This version updated bibliographic details of published references and corrected a few typos. The official version appeared in the journal MATCH Communications in Mathematical and in Computer Chemistry, v.94(1), p.97-134 (2025). The latest version is maintained at https://kurlin.org/projects/geometry-proteins/complete-invariants-proteins.pdf</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception](https://arxiv.org/abs/2512.22009v1)** | 2025-12-26 |  |
-| **[Perceive and Calibrate: Analyzing and Enhancing Robustness of Medical Multi-Modal Large Language Models](https://arxiv.org/abs/2512.21964v1)** | 2025-12-26 |  |
-| **[RoadSceneVQA: Benchmarking Visual Question Answering in Roadside Perception Systems for Intelligent Transportation System](https://arxiv.org/abs/2511.18286v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, accepted by AAAI 2026. The model is also called Dream, to the other me in the world forever</p></details> |
-| **[D2Pruner: Debiased Importance and Structural Diversity for MLLM Token Pruning](https://arxiv.org/abs/2512.19443v2)** | 2025-12-26 |  |
-| **[OmniBrainBench: A Comprehensive Multimodal Benchmark for Brain Imaging Analysis Across Multi-stage Clinical Tasks](https://arxiv.org/abs/2511.00846v2)** | 2025-12-26 |  |
-| **[UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture](https://arxiv.org/abs/2512.21675v1)** | 2025-12-25 | <details><summary>27 pa...</summary><p>27 pages, 14 figures, 17 tables</p></details> |
-| **[TAMEing Long Contexts in Personalization: Towards Training-Free and State-Aware MLLM Personalized Assistant](https://arxiv.org/abs/2512.21616v1)** | 2025-12-25 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 research track. Code and data are available at https://github.com/ronpay/TAME</p></details> |
-| **[EraseLoRA: MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal](https://arxiv.org/abs/2512.21545v1)** | 2025-12-25 |  |
-| **[SIFThinker: Spatially-Aware Image Focus for Visual Reasoning](https://arxiv.org/abs/2508.06259v5)** | 2025-12-25 | 15 pages, 13 figures |
-| **[LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis](https://arxiv.org/abs/2512.21482v1)** | 2025-12-25 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables</p></details> |
+| **[ThinkGen: Generalized Thinking for Visual Generation](https://arxiv.org/abs/2512.23568v1)** | 2025-12-29 |  |
+| **[RxnBench: A Multimodal Benchmark for Evaluating Large Language Models on Chemical Reaction Understanding from Scientific Literature](https://arxiv.org/abs/2512.23565v1)** | 2025-12-29 |  |
+| **[SpatialMosaic: A Multiview VLM Dataset for Partial Visibility](https://arxiv.org/abs/2512.23365v1)** | 2025-12-29 |  |
+| **[ReSemAct: Advancing Fine-Grained Robotic Manipulation via Semantic Structuring and Affordance Refinement](https://arxiv.org/abs/2507.18262v4)** | 2025-12-29 | <details><summary>Code ...</summary><p>Code and videos: https://github.com/scy-v/ReSemAct and https://resemact.github.io</p></details> |
+| **[MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding](https://arxiv.org/abs/2510.23479v2)** | 2025-12-29 | <details><summary>Code ...</summary><p>Code Link: https://github.com/JinXins/MergeMix</p></details> |
+| **[MM-UAVBench: How Well Do Multimodal Large Language Models See, Think, and Plan in Low-Altitude UAV Scenarios?](https://arxiv.org/abs/2512.23219v1)** | 2025-12-29 | 25 pages |
+| **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/abs/2512.19683v2)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project page: https://mingrui-wu.github.io/openbench/</p></details> |
+| **[REVEALER: Reinforcement-Guided Visual Reasoning for Element-Level Text-Image Alignment Evaluation](https://arxiv.org/abs/2512.23169v1)** | 2025-12-29 |  |
+| **[ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations](https://arxiv.org/abs/2505.14404v3)** | 2025-12-28 |  |
+| **[MME-CC: A Challenging Multi-Modal Evaluation Benchmark of Cognitive Capacity](https://arxiv.org/abs/2511.03146v2)** | 2025-12-28 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Experimental End-to-End Optimization of Directly Modulated Laser-based IM/DD Transmission](https://arxiv.org/abs/2508.19910v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, published in journal of lightwave technology</p></details> |
-| **[Learning Association via Track-Detection Matching for Multi-Object Tracking](https://arxiv.org/abs/2512.22105v1)** | 2025-12-26 | <details><summary>14 pa...</summary><p>14 pages (+4 for references), 8 tables, 4 figures</p></details> |
-| **[Explainable Multimodal Regression via Information Decomposition](https://arxiv.org/abs/2512.22102v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://github.com/zhaozhaoma/PIDReg</p></details> |
-| **[Rewards-based image analysis in microscopy](https://arxiv.org/abs/2502.18522v2)** | 2025-12-26 | 41 pages, 11 figures |
-| **[A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting](https://arxiv.org/abs/2512.22101v1)** | 2025-12-26 | <details><summary>3 pag...</summary><p>3 pages, 3 figures; Accepted by 1st Workshop on GenAI, Agents and the Future of VIS as Mini-challenge paper and win the Honorable Mention award. Submit number is 7597 and the paper is archived on the workshop website: https://visxgenai.github.io/subs-2025/7597/7597-doc.pdf</p></details> |
-| **[Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis](https://arxiv.org/abs/2512.22100v1)** | 2025-12-26 | <details><summary>under...</summary><p>under review by Springer</p></details> |
-| **[Exact inference via quasi-conjugacy in two-parameter Poisson-Dirichlet hidden Markov models](https://arxiv.org/abs/2512.22098v1)** | 2025-12-26 |  |
-| **[Towards a Functionally Complete and Parameterizable TFHE Processor](https://arxiv.org/abs/2510.23483v2)** | 2025-12-26 |  |
+| **[Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation](https://arxiv.org/abs/2512.23705v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project Page: https://daniellli.github.io/projects/DKT/; Code: https://github.com/Daniellli/DKT; Dataset: https://huggingface.co/datasets/Daniellesry/TransPhy3D</p></details> |
+| **[GrOMP: Grasped Object Manifold Projection for Multimodal Imitation Learning of Manipulation](https://arxiv.org/abs/2512.03347v2)** | 2025-12-29 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables</p></details> |
+| **[Bellman Calibration for V-Learning in Offline Reinforcement Learning](https://arxiv.org/abs/2512.23694v1)** | 2025-12-29 |  |
+| **[Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection](https://arxiv.org/abs/2403.04809v2)** | 2025-12-29 |  |
+| **[Preconditioning for Accelerated Gradient Descent Optimization and Regularization](https://arxiv.org/abs/2410.00232v2)** | 2025-12-29 | 21 pages |
+| **[Complete and bi-continuous invariant of protein backbones under rigid motion](https://arxiv.org/abs/2410.08203v3)** | 2025-12-29 | <details><summary>This ...</summary><p>This version updated bibliographic details of published references and corrected a few typos. The official version appeared in the journal MATCH Communications in Mathematical and in Computer Chemistry, v.94(1), p.97-134 (2025). The latest version is maintained at https://kurlin.org/projects/geometry-proteins/complete-invariants-proteins.pdf</p></details> |
+| **[Automating the Analysis of Parsing Algorithms (and other Dynamic Programs)](https://arxiv.org/abs/2512.23665v1)** | 2025-12-29 | <details><summary>2021 ...</summary><p>2021 manuscript; accepted by TACL but not revised for publication</p></details> |
 
