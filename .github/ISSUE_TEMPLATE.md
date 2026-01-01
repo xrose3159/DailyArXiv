@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 01, 2026
+title: Latest 15 Papers - January 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,45 +7,47 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GrOMP: Grasped Object Manifold Projection for Multimodal Imitation Learning of Manipulation](https://arxiv.org/abs/2512.03347v2)** | 2025-12-29 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables</p></details> |
-| **[Bellman Calibration for V-Learning in Offline Reinforcement Learning](https://arxiv.org/abs/2512.23694v1)** | 2025-12-29 |  |
-| **[Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection](https://arxiv.org/abs/2403.04809v2)** | 2025-12-29 |  |
-| **[Preconditioning for Accelerated Gradient Descent Optimization and Regularization](https://arxiv.org/abs/2410.00232v2)** | 2025-12-29 | 21 pages |
-| **[Complete and bi-continuous invariant of protein backbones under rigid motion](https://arxiv.org/abs/2410.08203v3)** | 2025-12-29 | <details><summary>This ...</summary><p>This version updated bibliographic details of published references and corrected a few typos. The official version appeared in the journal MATCH Communications in Mathematical and in Computer Chemistry, v.94(1), p.97-134 (2025). The latest version is maintained at https://kurlin.org/projects/geometry-proteins/complete-invariants-proteins.pdf</p></details> |
-| **[Automating the Analysis of Parsing Algorithms (and other Dynamic Programs)](https://arxiv.org/abs/2512.23665v1)** | 2025-12-29 | <details><summary>2021 ...</summary><p>2021 manuscript; accepted by TACL but not revised for publication</p></details> |
+| **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](https://arxiv.org/abs/2512.25075v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://zheninghuang.github.io/Space-Time-Pilot/ Code: https://github.com/ZheningHuang/spacetimepilot</p></details> |
+| **[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://yichuanh.github.io/GaMO/</p></details> |
+| **[Coordinated Humanoid Manipulation with Choice Policies](https://arxiv.org/abs/2512.25072v1)** | 2025-12-31 | <details><summary>Code ...</summary><p>Code and Website: https://choice-policy.github.io/</p></details> |
+| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v1)** | 2025-12-31 | 45 pages |
+| **[FineTec: Fine-Grained Action Recognition Under Temporal Corruption via Skeleton Decomposition and Sequence Completion](https://arxiv.org/abs/2512.25067v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing](https://arxiv.org/abs/2512.25066v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project Page https://hjrphoebus.github.io/X-Dub</p></details> |
+| **[Vulcan: Instance-Optimal Systems Heuristics Through LLM-Driven Search](https://arxiv.org/abs/2512.25065v1)** | 2025-12-31 | <details><summary>27 pa...</summary><p>27 pages, 11 figures, 7 tables</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GrOMP: Grasped Object Manifold Projection for Multimodal Imitation Learning of Manipulation](https://arxiv.org/abs/2512.03347v2)** | 2025-12-29 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables</p></details> |
-| **[Bellman Calibration for V-Learning in Offline Reinforcement Learning](https://arxiv.org/abs/2512.23694v1)** | 2025-12-29 |  |
-| **[The Minimum Subgraph Complementation Problem](https://arxiv.org/abs/2512.23687v1)** | 2025-12-29 |  |
-| **[Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection](https://arxiv.org/abs/2403.04809v2)** | 2025-12-29 |  |
-| **[Preconditioning for Accelerated Gradient Descent Optimization and Regularization](https://arxiv.org/abs/2410.00232v2)** | 2025-12-29 | 21 pages |
-| **[Complete and bi-continuous invariant of protein backbones under rigid motion](https://arxiv.org/abs/2410.08203v3)** | 2025-12-29 | <details><summary>This ...</summary><p>This version updated bibliographic details of published references and corrected a few typos. The official version appeared in the journal MATCH Communications in Mathematical and in Computer Chemistry, v.94(1), p.97-134 (2025). The latest version is maintained at https://kurlin.org/projects/geometry-proteins/complete-invariants-proteins.pdf</p></details> |
+| **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](https://arxiv.org/abs/2512.25075v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://zheninghuang.github.io/Space-Time-Pilot/ Code: https://github.com/ZheningHuang/spacetimepilot</p></details> |
+| **[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://yichuanh.github.io/GaMO/</p></details> |
+| **[Coordinated Humanoid Manipulation with Choice Policies](https://arxiv.org/abs/2512.25072v1)** | 2025-12-31 | <details><summary>Code ...</summary><p>Code and Website: https://choice-policy.github.io/</p></details> |
+| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v1)** | 2025-12-31 | 45 pages |
+| **[FineTec: Fine-Grained Action Recognition Under Temporal Corruption via Skeleton Decomposition and Sequence Completion](https://arxiv.org/abs/2512.25067v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing](https://arxiv.org/abs/2512.25066v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project Page https://hjrphoebus.github.io/X-Dub</p></details> |
+| **[Many Minds from One Model: Bayesian Transformers for Population Intelligence](https://arxiv.org/abs/2512.25063v1)** | 2025-12-31 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ThinkGen: Generalized Thinking for Visual Generation](https://arxiv.org/abs/2512.23568v1)** | 2025-12-29 |  |
-| **[RxnBench: A Multimodal Benchmark for Evaluating Large Language Models on Chemical Reaction Understanding from Scientific Literature](https://arxiv.org/abs/2512.23565v1)** | 2025-12-29 |  |
-| **[SpatialMosaic: A Multiview VLM Dataset for Partial Visibility](https://arxiv.org/abs/2512.23365v1)** | 2025-12-29 |  |
-| **[ReSemAct: Advancing Fine-Grained Robotic Manipulation via Semantic Structuring and Affordance Refinement](https://arxiv.org/abs/2507.18262v4)** | 2025-12-29 | <details><summary>Code ...</summary><p>Code and videos: https://github.com/scy-v/ReSemAct and https://resemact.github.io</p></details> |
-| **[MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding](https://arxiv.org/abs/2510.23479v2)** | 2025-12-29 | <details><summary>Code ...</summary><p>Code Link: https://github.com/JinXins/MergeMix</p></details> |
-| **[MM-UAVBench: How Well Do Multimodal Large Language Models See, Think, and Plan in Low-Altitude UAV Scenarios?](https://arxiv.org/abs/2512.23219v1)** | 2025-12-29 | 25 pages |
-| **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/abs/2512.19683v2)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project page: https://mingrui-wu.github.io/openbench/</p></details> |
-| **[REVEALER: Reinforcement-Guided Visual Reasoning for Element-Level Text-Image Alignment Evaluation](https://arxiv.org/abs/2512.23169v1)** | 2025-12-29 |  |
-| **[ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations](https://arxiv.org/abs/2505.14404v3)** | 2025-12-28 |  |
-| **[MME-CC: A Challenging Multi-Modal Evaluation Benchmark of Cognitive Capacity](https://arxiv.org/abs/2511.03146v2)** | 2025-12-28 |  |
+| **[FinMMDocR: Benchmarking Financial Multimodal Reasoning with Scenario Awareness, Document Understanding, and Multi-Step Computation](https://arxiv.org/abs/2512.24903v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 Main Track</p></details> |
+| **[VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents](https://arxiv.org/abs/2512.24851v1)** | 2025-12-31 |  |
+| **[Zoomer: Adaptive Image Focus Optimization for Black-box MLLM](https://arxiv.org/abs/2505.00742v2)** | 2025-12-31 | TMLR accepted |
+| **[Chrono: A Simple Blueprint for Representing Time in MLLMs](https://arxiv.org/abs/2406.18113v6)** | 2025-12-31 | <details><summary>Code:...</summary><p>Code: https://github.com/sudo-Boris/mr-Blip. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). Under review</p></details> |
+| **[MCITlib: Multimodal Continual Instruction Tuning Library and Benchmark](https://arxiv.org/abs/2508.07307v3)** | 2025-12-31 | Preprint |
+| **[TIM-PRM: Verifying multimodal reasoning with Tool-Integrated PRM](https://arxiv.org/abs/2511.22998v2)** | 2025-12-31 | 12 pages |
+| **[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666v5)** | 2025-12-31 |  |
+| **[Do Language Models Associate Sound with Meaning? A Multimodal Study of Sound Symbolism](https://arxiv.org/abs/2511.10045v4)** | 2025-12-31 | <details><summary>33 pa...</summary><p>33 pages, 27 tables, 10 figures</p></details> |
+| **[Guiding Cross-Modal Representations with MLLM Priors via Preference Alignment](https://arxiv.org/abs/2506.06970v3)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[From Static to Dynamic: Evaluating the Perceptual Impact of Dynamic Elements in Urban Scenes Using Generative Inpainting](https://arxiv.org/abs/2512.24513v1)** | 2025-12-30 | 31 pages, 5 figures |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation](https://arxiv.org/abs/2512.23705v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project Page: https://daniellli.github.io/projects/DKT/; Code: https://github.com/Daniellli/DKT; Dataset: https://huggingface.co/datasets/Daniellesry/TransPhy3D</p></details> |
-| **[GrOMP: Grasped Object Manifold Projection for Multimodal Imitation Learning of Manipulation](https://arxiv.org/abs/2512.03347v2)** | 2025-12-29 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables</p></details> |
-| **[Bellman Calibration for V-Learning in Offline Reinforcement Learning](https://arxiv.org/abs/2512.23694v1)** | 2025-12-29 |  |
-| **[Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection](https://arxiv.org/abs/2403.04809v2)** | 2025-12-29 |  |
-| **[Preconditioning for Accelerated Gradient Descent Optimization and Regularization](https://arxiv.org/abs/2410.00232v2)** | 2025-12-29 | 21 pages |
-| **[Complete and bi-continuous invariant of protein backbones under rigid motion](https://arxiv.org/abs/2410.08203v3)** | 2025-12-29 | <details><summary>This ...</summary><p>This version updated bibliographic details of published references and corrected a few typos. The official version appeared in the journal MATCH Communications in Mathematical and in Computer Chemistry, v.94(1), p.97-134 (2025). The latest version is maintained at https://kurlin.org/projects/geometry-proteins/complete-invariants-proteins.pdf</p></details> |
-| **[Automating the Analysis of Parsing Algorithms (and other Dynamic Programs)](https://arxiv.org/abs/2512.23665v1)** | 2025-12-29 | <details><summary>2021 ...</summary><p>2021 manuscript; accepted by TACL but not revised for publication</p></details> |
+| **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](https://arxiv.org/abs/2512.25075v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://zheninghuang.github.io/Space-Time-Pilot/ Code: https://github.com/ZheningHuang/spacetimepilot</p></details> |
+| **[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://yichuanh.github.io/GaMO/</p></details> |
+| **[Coordinated Humanoid Manipulation with Choice Policies](https://arxiv.org/abs/2512.25072v1)** | 2025-12-31 | <details><summary>Code ...</summary><p>Code and Website: https://choice-policy.github.io/</p></details> |
+| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v1)** | 2025-12-31 | 45 pages |
+| **[FineTec: Fine-Grained Action Recognition Under Temporal Corruption via Skeleton Decomposition and Sequence Completion](https://arxiv.org/abs/2512.25067v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing](https://arxiv.org/abs/2512.25066v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project Page https://hjrphoebus.github.io/X-Dub</p></details> |
+| **[Many Minds from One Model: Bayesian Transformers for Population Intelligence](https://arxiv.org/abs/2512.25063v1)** | 2025-12-31 |  |
 
