@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,53 +7,56 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Heterogeneous Low-Bandwidth Pre-Training of LLMs](https://arxiv.org/abs/2601.02360v1)** | 2026-01-05 |  |
-| **[EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection](https://arxiv.org/abs/2506.09827v3)** | 2026-01-05 |  |
-| **[SpatialBench: Can Agents Analyze Real-World Spatial Biology Data?](https://arxiv.org/abs/2512.21907v2)** | 2026-01-05 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 4 tables; NeurIPS 2024 format</p></details> |
-| **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sparkstj.github.io/talk2move</p></details> |
-| **[PRIMAD-LID: A Developed Framework for Computational Reproducibility](https://arxiv.org/abs/2601.02349v1)** | 2026-01-05 |  |
-| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v2)** | 2026-01-05 | 45 pages |
-| **[Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling](https://arxiv.org/abs/2601.02346v1)** | 2026-01-05 |  |
-| **[Causal Multi-fidelity Surrogate Forward and Inverse Models for ICF Implosions](https://arxiv.org/abs/2509.05510v2)** | 2026-01-05 |  |
-| **[SteganoBackdoor: Stealthy and Data-Efficient Backdoor Attacks on Language Models](https://arxiv.org/abs/2511.14301v3)** | 2026-01-05 |  |
+| **[Aligning Text, Images, and 3D Structure Token-by-Token](https://arxiv.org/abs/2506.08002v2)** | 2026-01-06 | <details><summary>Proje...</summary><p>Project webpage: https://glab-caltech.github.io/kyvo/</p></details> |
+| **[Automated Semantic Rules Detection (ASRD) for Emergent Communication Interpretation](https://arxiv.org/abs/2601.03254v1)** | 2026-01-06 |  |
+| **[InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](https://arxiv.org/abs/2601.03252v1)** | 2026-01-06 | 19 pages, 13 figures |
+| **[A Versatile Multimodal Agent for Multimedia Content Generation](https://arxiv.org/abs/2601.03250v1)** | 2026-01-06 |  |
+| **[STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning](https://arxiv.org/abs/2601.03248v1)** | 2026-01-06 | <details><summary>prepr...</summary><p>preprint, we release our code publicly at https://github.com/LingFengGold/STReasoner</p></details> |
+| **[ShareChat: A Dataset of Chatbot Conversations in the Wild](https://arxiv.org/abs/2512.17843v2)** | 2026-01-06 |  |
+| **[Nonlinear Spectral Modeling and Control of Soft-Robotic Muscles from Data](https://arxiv.org/abs/2601.03247v1)** | 2026-01-06 |  |
+| **[Self-Supervised Learning from Noisy and Incomplete Data](https://arxiv.org/abs/2601.03244v1)** | 2026-01-06 |  |
+| **[SLIM: Stealthy Low-Coverage Black-Box Watermarking via Latent-Space Confusion Zones](https://arxiv.org/abs/2601.03242v1)** | 2026-01-06 |  |
+| **[On the Capacity Region of Individual Key Rates in Vector Linear Secure Aggregation](https://arxiv.org/abs/2601.03241v1)** | 2026-01-06 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Heterogeneous Low-Bandwidth Pre-Training of LLMs](https://arxiv.org/abs/2601.02360v1)** | 2026-01-05 |  |
-| **[EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection](https://arxiv.org/abs/2506.09827v3)** | 2026-01-05 |  |
-| **[SpatialBench: Can Agents Analyze Real-World Spatial Biology Data?](https://arxiv.org/abs/2512.21907v2)** | 2026-01-05 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 4 tables; NeurIPS 2024 format</p></details> |
-| **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sparkstj.github.io/talk2move</p></details> |
-| **[PRIMAD-LID: A Developed Framework for Computational Reproducibility](https://arxiv.org/abs/2601.02349v1)** | 2026-01-05 |  |
-| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v2)** | 2026-01-05 | 45 pages |
-| **[Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling](https://arxiv.org/abs/2601.02346v1)** | 2026-01-05 |  |
-| **[Question Answering for Multi-Release Systems: A Case Study at Ciena](https://arxiv.org/abs/2601.02345v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted for publication in SANER 2026</p></details> |
-| **[Causal Multi-fidelity Surrogate Forward and Inverse Models for ICF Implosions](https://arxiv.org/abs/2509.05510v2)** | 2026-01-05 |  |
+| **[Aligning Text, Images, and 3D Structure Token-by-Token](https://arxiv.org/abs/2506.08002v2)** | 2026-01-06 | <details><summary>Proje...</summary><p>Project webpage: https://glab-caltech.github.io/kyvo/</p></details> |
+| **[Automated Semantic Rules Detection (ASRD) for Emergent Communication Interpretation](https://arxiv.org/abs/2601.03254v1)** | 2026-01-06 |  |
+| **[A Versatile Multimodal Agent for Multimedia Content Generation](https://arxiv.org/abs/2601.03250v1)** | 2026-01-06 |  |
+| **[STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning](https://arxiv.org/abs/2601.03248v1)** | 2026-01-06 | <details><summary>prepr...</summary><p>preprint, we release our code publicly at https://github.com/LingFengGold/STReasoner</p></details> |
+| **[ShareChat: A Dataset of Chatbot Conversations in the Wild](https://arxiv.org/abs/2512.17843v2)** | 2026-01-06 |  |
+| **[Nonlinear Spectral Modeling and Control of Soft-Robotic Muscles from Data](https://arxiv.org/abs/2601.03247v1)** | 2026-01-06 |  |
+| **[Self-Routing RAG: Binding Selective Retrieval with Knowledge Verbalization](https://arxiv.org/abs/2504.01018v3)** | 2026-01-06 |  |
+| **[Self-Supervised Learning from Noisy and Incomplete Data](https://arxiv.org/abs/2601.03244v1)** | 2026-01-06 |  |
+| **[SLIM: Stealthy Low-Coverage Black-Box Watermarking via Latent-Space Confusion Zones](https://arxiv.org/abs/2601.03242v1)** | 2026-01-06 |  |
+| **[On the Capacity Region of Individual Key Rates in Vector Linear Secure Aggregation](https://arxiv.org/abs/2601.03241v1)** | 2026-01-06 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Emotion-Coherent Reasoning for Multimodal LLMs via Emotional Rationale Verifier](https://arxiv.org/abs/2510.23506v4)** | 2026-01-05 | 15 pages, 11 figures |
-| **[TalkPhoto: A Versatile Training-Free Conversational Assistant for Intelligent Image Editing](https://arxiv.org/abs/2601.01915v1)** | 2026-01-05 | <details><summary>a Con...</summary><p>a Conversational Assistant for Intelligent Image Editing</p></details> |
-| **[DermoGPT: Open Weights and Open Data for Morphology-Grounded Dermatological Reasoning MLLMs](https://arxiv.org/abs/2601.01868v1)** | 2026-01-05 |  |
-| **[Video Detective: Seek Critical Clues Recurrently to Answer Question from Long Videos](https://arxiv.org/abs/2512.17229v2)** | 2026-01-05 |  |
-| **[OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs](https://arxiv.org/abs/2601.01592v1)** | 2026-01-04 |  |
-| **[FaithAct: Faithfulness Planning and Acting in MLLMs](https://arxiv.org/abs/2511.08409v2)** | 2026-01-04 | <details><summary>16 pa...</summary><p>16 pages, updated version</p></details> |
-| **[Reasoning Beyond Limits: Advances and Open Problems for LLMs](https://arxiv.org/abs/2503.22732v2)** | 2026-01-03 | <details><summary>The p...</summary><p>The paper is published ICT Express Volume 11, Issue 6, December 2025, Pages 1054-1096</p></details> |
-| **[SGM: Safety Glasses for Multimodal Large Language Models via Neuron-Level Detoxification](https://arxiv.org/abs/2512.15052v2)** | 2026-01-03 | <details><summary>Under...</summary><p>Under Review for ACL 2026</p></details> |
-| **[SDEval: Safety Dynamic Evaluation for Multimodal Large Language Models](https://arxiv.org/abs/2508.06142v2)** | 2026-01-03 | AAAI 2026 poster |
-| **[NarrativeTrack: Evaluating Video Language Models Beyond the Frame](https://arxiv.org/abs/2601.01095v1)** | 2026-01-03 | <details><summary>Video...</summary><p>VideoLLM Fine-Grained Evaluation</p></details> |
+| **[Empowering Reliable Visual-Centric Instruction Following in MLLMs](https://arxiv.org/abs/2601.03198v1)** | 2026-01-06 | Submitted to ARR Jan |
+| **[Text-Guided Layer Fusion Mitigates Hallucination in Multimodal LLMs](https://arxiv.org/abs/2601.03100v1)** | 2026-01-06 |  |
+| **[ELMM: Efficient Lightweight Multimodal Large Language Models for Multimodal Knowledge Graph Completion](https://arxiv.org/abs/2510.16753v2)** | 2026-01-06 | 14 pages, 5 figures |
+| **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v1)** | 2026-01-06 |  |
+| **[BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](https://arxiv.org/abs/2507.14632v3)** | 2026-01-06 |  |
+| **[Protecting multimodal large language models against misleading visualizations](https://arxiv.org/abs/2502.20503v5)** | 2026-01-06 | <details><summary>Prepr...</summary><p>Preprint. Code and data available at https://github.com/UKPLab/arxiv2025-misleading-visualizations</p></details> |
+| **[CVBench: Benchmarking Cross-Video Synergies for Complex Multimodal Reasoning](https://arxiv.org/abs/2508.19542v4)** | 2026-01-06 |  |
+| **[Towards Faithful Reasoning in Comics for Small MLLMs](https://arxiv.org/abs/2601.02991v1)** | 2026-01-06 |  |
+| **[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://arxiv.org/abs/2509.21799v2)** | 2026-01-06 |  |
+| **[PrismVAU: Prompt-Refined Inference System for Multimodal Video Anomaly Understanding](https://arxiv.org/abs/2601.02927v1)** | 2026-01-06 | <details><summary>This ...</summary><p>This paper has been accepted to the 6th Workshop on Real-World Surveillance: Applications and Challenges (WACV 2025)</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Heterogeneous Low-Bandwidth Pre-Training of LLMs](https://arxiv.org/abs/2601.02360v1)** | 2026-01-05 |  |
-| **[EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection](https://arxiv.org/abs/2506.09827v3)** | 2026-01-05 |  |
-| **[SpatialBench: Can Agents Analyze Real-World Spatial Biology Data?](https://arxiv.org/abs/2512.21907v2)** | 2026-01-05 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 4 tables; NeurIPS 2024 format</p></details> |
-| **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sparkstj.github.io/talk2move</p></details> |
-| **[PRIMAD-LID: A Developed Framework for Computational Reproducibility](https://arxiv.org/abs/2601.02349v1)** | 2026-01-05 |  |
-| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v2)** | 2026-01-05 | 45 pages |
-| **[Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling](https://arxiv.org/abs/2601.02346v1)** | 2026-01-05 |  |
-| **[Causal Multi-fidelity Surrogate Forward and Inverse Models for ICF Implosions](https://arxiv.org/abs/2509.05510v2)** | 2026-01-05 |  |
-| **[SteganoBackdoor: Stealthy and Data-Efficient Backdoor Attacks on Language Models](https://arxiv.org/abs/2511.14301v3)** | 2026-01-05 |  |
+| **[Aligning Text, Images, and 3D Structure Token-by-Token](https://arxiv.org/abs/2506.08002v2)** | 2026-01-06 | <details><summary>Proje...</summary><p>Project webpage: https://glab-caltech.github.io/kyvo/</p></details> |
+| **[Automated Semantic Rules Detection (ASRD) for Emergent Communication Interpretation](https://arxiv.org/abs/2601.03254v1)** | 2026-01-06 |  |
+| **[InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields](https://arxiv.org/abs/2601.03252v1)** | 2026-01-06 | 19 pages, 13 figures |
+| **[A Versatile Multimodal Agent for Multimedia Content Generation](https://arxiv.org/abs/2601.03250v1)** | 2026-01-06 |  |
+| **[STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning](https://arxiv.org/abs/2601.03248v1)** | 2026-01-06 | <details><summary>prepr...</summary><p>preprint, we release our code publicly at https://github.com/LingFengGold/STReasoner</p></details> |
+| **[ShareChat: A Dataset of Chatbot Conversations in the Wild](https://arxiv.org/abs/2512.17843v2)** | 2026-01-06 |  |
+| **[Nonlinear Spectral Modeling and Control of Soft-Robotic Muscles from Data](https://arxiv.org/abs/2601.03247v1)** | 2026-01-06 |  |
+| **[Self-Supervised Learning from Noisy and Incomplete Data](https://arxiv.org/abs/2601.03244v1)** | 2026-01-06 |  |
+| **[SLIM: Stealthy Low-Coverage Black-Box Watermarking via Latent-Space Confusion Zones](https://arxiv.org/abs/2601.03242v1)** | 2026-01-06 |  |
+| **[On the Capacity Region of Individual Key Rates in Vector Linear Secure Aggregation](https://arxiv.org/abs/2601.03241v1)** | 2026-01-06 |  |
 
