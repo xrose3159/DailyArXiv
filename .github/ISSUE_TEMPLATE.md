@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 14, 2026
+title: Latest 15 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,46 +7,46 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tuning-free Visual Effect Transfer across Videos](https://arxiv.org/abs/2601.07833v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project Page: $\href{https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/}{this\ URL}$</p></details> |
-| **[Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823v1)** | 2026-01-12 |  |
-| **[Asymptotically well-calibrated Bayesian $p$-value using the Kolmogorov-Smirnov statistic](https://arxiv.org/abs/2504.14077v3)** | 2026-01-12 |  |
-| **[CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace](https://arxiv.org/abs/2512.01384v3)** | 2026-01-12 | <details><summary>Revis...</summary><p>Revised for clarity and correctness; improved exposition and fixed minor issues</p></details> |
-| **[EEG-to-fMRI synthesis of task-evoked and spontaneous brain activity: addressing issues of statistical significance and generalizability](https://arxiv.org/abs/2504.10752v2)** | 2026-01-12 |  |
-| **[ORACLE: Explaining Feature Interactions in Neural Networks with ANOVA](https://arxiv.org/abs/2509.10825v4)** | 2026-01-12 | <details><summary>v4: R...</summary><p>v4: Revised for clarity and correctness; improved exposition and fixed minor issues</p></details> |
-| **[Data-driven control of hydraulic impact hammers under strict operational and control constraints](https://arxiv.org/abs/2601.07813v1)** | 2026-01-12 | 21 pages, 14 figures |
+| **[RAVEN: Erasing Invisible Watermarks via Novel View Synthesis](https://arxiv.org/abs/2601.08832v1)** | 2026-01-13 | 13 pages |
+| **[Motion Attribution for Video Generation](https://arxiv.org/abs/2601.08828v1)** | 2026-01-13 | <details><summary>See t...</summary><p>See the project website at https://research.nvidia.com/labs/sil/projects/MOTIVE/</p></details> |
+| **[SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning](https://arxiv.org/abs/2510.22454v2)** | 2026-01-13 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
+| **[A two-step approach to production frontier estimation and the Matsuoka's distribution](https://arxiv.org/abs/2311.06086v3)** | 2026-01-13 | <details><summary>Suple...</summary><p>Suplementary material is presented along with the paper</p></details> |
+| **[Reasoning Matters for 3D Visual Grounding](https://arxiv.org/abs/2601.08811v1)** | 2026-01-13 | <details><summary>2025 ...</summary><p>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language, Vision and Action in 3D Environments</p></details> |
+| **[A Vision for Multisensory Intelligence: Sensing, Science, and Synergy](https://arxiv.org/abs/2601.04563v3)** | 2026-01-13 |  |
+| **[Aggregating Diverse Cue Experts for AI-Generated Image Detection](https://arxiv.org/abs/2601.08790v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tuning-free Visual Effect Transfer across Videos](https://arxiv.org/abs/2601.07833v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project Page: $\href{https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/}{this\ URL}$</p></details> |
-| **[Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823v1)** | 2026-01-12 |  |
-| **[Asymptotically well-calibrated Bayesian $p$-value using the Kolmogorov-Smirnov statistic](https://arxiv.org/abs/2504.14077v3)** | 2026-01-12 |  |
-| **[CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace](https://arxiv.org/abs/2512.01384v3)** | 2026-01-12 | <details><summary>Revis...</summary><p>Revised for clarity and correctness; improved exposition and fixed minor issues</p></details> |
-| **[EEG-to-fMRI synthesis of task-evoked and spontaneous brain activity: addressing issues of statistical significance and generalizability](https://arxiv.org/abs/2504.10752v2)** | 2026-01-12 |  |
-| **[ORACLE: Explaining Feature Interactions in Neural Networks with ANOVA](https://arxiv.org/abs/2509.10825v4)** | 2026-01-12 | <details><summary>v4: R...</summary><p>v4: Revised for clarity and correctness; improved exposition and fixed minor issues</p></details> |
+| **[3AM: Segment Anything with Geometric Consistency in Videos](https://arxiv.org/abs/2601.08831v1)** | 2026-01-13 | <details><summary>Proje...</summary><p>Project page: https://jayisaking.github.io/3AM-Page/</p></details> |
+| **[Motion Attribution for Video Generation](https://arxiv.org/abs/2601.08828v1)** | 2026-01-13 | <details><summary>See t...</summary><p>See the project website at https://research.nvidia.com/labs/sil/projects/MOTIVE/</p></details> |
+| **[SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning](https://arxiv.org/abs/2510.22454v2)** | 2026-01-13 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
+| **[A two-step approach to production frontier estimation and the Matsuoka's distribution](https://arxiv.org/abs/2311.06086v3)** | 2026-01-13 | <details><summary>Suple...</summary><p>Suplementary material is presented along with the paper</p></details> |
+| **[Reasoning Matters for 3D Visual Grounding](https://arxiv.org/abs/2601.08811v1)** | 2026-01-13 | <details><summary>2025 ...</summary><p>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language, Vision and Action in 3D Environments</p></details> |
+| **[MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm](https://arxiv.org/abs/2601.08800v1)** | 2026-01-13 | <details><summary>Submi...</summary><p>Submitted to ICDCS 2026</p></details> |
+| **[The Conflict Graph Design: Estimating Causal Effects under Arbitrary Neighborhood Interference](https://arxiv.org/abs/2411.10908v3)** | 2026-01-13 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LangHOPS: Language Grounded Hierarchical Open-Vocabulary Part Segmentation](https://arxiv.org/abs/2510.25263v3)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 14 tables, Neurips 2025</p></details> |
-| **[PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs](https://arxiv.org/abs/2601.07645v1)** | 2026-01-12 | under review |
-| **[Seeing Right but Saying Wrong: Inter- and Intra-Layer Refinement in MLLMs without Training](https://arxiv.org/abs/2601.07359v1)** | 2026-01-12 |  |
-| **[Mimic Human Cognition, Master Multi-Image Reasoning: A Meta-Action Framework for Enhanced Visual Understanding](https://arxiv.org/abs/2601.07298v1)** | 2026-01-12 |  |
-| **[Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models](https://arxiv.org/abs/2501.13772v4)** | 2026-01-12 |  |
-| **[A3: Android Agent Arena for Mobile GUI Agents with Essential-State Procedural Evaluation](https://arxiv.org/abs/2501.01149v3)** | 2026-01-12 |  |
-| **[Towards Trustworthy Dermatology MLLMs: A Benchmark and Multimodal Evaluator for Diagnostic Narratives](https://arxiv.org/abs/2511.09195v2)** | 2026-01-12 |  |
-| **[Aligning Findings with Diagnosis: A Self-Consistent Reinforcement Learning Framework for Trustworthy Radiology Reporting](https://arxiv.org/abs/2601.03321v2)** | 2026-01-12 |  |
-| **[Can Textual Reasoning Improve the Performance of MLLMs on Fine-grained Visual Classification?](https://arxiv.org/abs/2601.06993v1)** | 2026-01-11 | 10 pages, 8 figures |
-| **[Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding](https://arxiv.org/abs/2505.05026v4)** | 2026-01-11 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, Our code and dataset: https://github.com/jeochris/wiserui-bench</p></details> |
+| **[M3CoTBench: Benchmark Chain-of-Thought of MLLMs in Medical Image Understanding](https://arxiv.org/abs/2601.08758v1)** | 2026-01-13 | 40 pages, 8 pages |
+| **[MoHoBench: Assessing Honesty of Multimodal Large Language Models via Unanswerable Visual Questions](https://arxiv.org/abs/2507.21503v4)** | 2026-01-13 | AAAI2026 Oral |
+| **[Incentivizing Cardiologist-Like Reasoning in MLLMs for Interpretable Echocardiographic Diagnosis](https://arxiv.org/abs/2601.08440v1)** | 2026-01-13 |  |
+| **[KidVis: Do Multimodal Large Language Models Possess the Visual Perceptual Capabilities of a 6-Year-Old?](https://arxiv.org/abs/2601.08292v1)** | 2026-01-13 |  |
+| **[Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization](https://arxiv.org/abs/2601.06224v2)** | 2026-01-13 | AAAI-2026 Poster |
+| **[GI-Bench: A Panoramic Benchmark Revealing the Knowledge-Experience Dissociation of Multimodal Large Language Models in Gastrointestinal Endoscopy Against Clinical Standards](https://arxiv.org/abs/2601.08183v1)** | 2026-01-13 | <details><summary>45 pa...</summary><p>45 pages, 17 figures, 6 tables. Leaderboard available at: https://roterdl.github.io/GIBench/ . Includes supplementary material</p></details> |
+| **[The Agent's First Day: Benchmarking Learning, Exploration, and Scheduling in the Workplace Scenarios](https://arxiv.org/abs/2601.08173v1)** | 2026-01-13 |  |
+| **[Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention](https://arxiv.org/abs/2601.08151v1)** | 2026-01-13 |  |
+| **[COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence](https://arxiv.org/abs/2503.03215v2)** | 2026-01-13 | <details><summary>This ...</summary><p>This manuscript (arXiv:2503.03215) is being withdrawn at the supervisor's request. The content is preliminary and needs further internal revision and approval before public release. We will resubmit a revised version after completion. Apologies for the inconvenience</p></details> |
+| **[PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection](https://arxiv.org/abs/2502.12119v3)** | 2026-01-13 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tuning-free Visual Effect Transfer across Videos](https://arxiv.org/abs/2601.07833v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project Page: $\href{https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/}{this\ URL}$</p></details> |
-| **[Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823v1)** | 2026-01-12 |  |
-| **[Asymptotically well-calibrated Bayesian $p$-value using the Kolmogorov-Smirnov statistic](https://arxiv.org/abs/2504.14077v3)** | 2026-01-12 |  |
-| **[CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace](https://arxiv.org/abs/2512.01384v3)** | 2026-01-12 | <details><summary>Revis...</summary><p>Revised for clarity and correctness; improved exposition and fixed minor issues</p></details> |
-| **[EEG-to-fMRI synthesis of task-evoked and spontaneous brain activity: addressing issues of statistical significance and generalizability](https://arxiv.org/abs/2504.10752v2)** | 2026-01-12 |  |
-| **[ORACLE: Explaining Feature Interactions in Neural Networks with ANOVA](https://arxiv.org/abs/2509.10825v4)** | 2026-01-12 | <details><summary>v4: R...</summary><p>v4: Revised for clarity and correctness; improved exposition and fixed minor issues</p></details> |
-| **[Data-driven control of hydraulic impact hammers under strict operational and control constraints](https://arxiv.org/abs/2601.07813v1)** | 2026-01-12 | 21 pages, 14 figures |
+| **[Motion Attribution for Video Generation](https://arxiv.org/abs/2601.08828v1)** | 2026-01-13 | <details><summary>See t...</summary><p>See the project website at https://research.nvidia.com/labs/sil/projects/MOTIVE/</p></details> |
+| **[SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning](https://arxiv.org/abs/2510.22454v2)** | 2026-01-13 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
+| **[A two-step approach to production frontier estimation and the Matsuoka's distribution](https://arxiv.org/abs/2311.06086v3)** | 2026-01-13 | <details><summary>Suple...</summary><p>Suplementary material is presented along with the paper</p></details> |
+| **[FilmSceneDesigner: Chaining Set Design for Procedural Film Scene Generation](https://arxiv.org/abs/2511.19137v2)** | 2026-01-13 |  |
+| **[Reasoning Matters for 3D Visual Grounding](https://arxiv.org/abs/2601.08811v1)** | 2026-01-13 | <details><summary>2025 ...</summary><p>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language, Vision and Action in 3D Environments</p></details> |
+| **[On the use of graph models to achieve individual and group fairness](https://arxiv.org/abs/2601.08784v1)** | 2026-01-13 | 75 pages, 46 figures |
 
