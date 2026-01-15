@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,46 +7,44 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RAVEN: Erasing Invisible Watermarks via Novel View Synthesis](https://arxiv.org/abs/2601.08832v1)** | 2026-01-13 | 13 pages |
-| **[Motion Attribution for Video Generation](https://arxiv.org/abs/2601.08828v1)** | 2026-01-13 | <details><summary>See t...</summary><p>See the project website at https://research.nvidia.com/labs/sil/projects/MOTIVE/</p></details> |
-| **[SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning](https://arxiv.org/abs/2510.22454v2)** | 2026-01-13 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
-| **[A two-step approach to production frontier estimation and the Matsuoka's distribution](https://arxiv.org/abs/2311.06086v3)** | 2026-01-13 | <details><summary>Suple...</summary><p>Suplementary material is presented along with the paper</p></details> |
-| **[Reasoning Matters for 3D Visual Grounding](https://arxiv.org/abs/2601.08811v1)** | 2026-01-13 | <details><summary>2025 ...</summary><p>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language, Vision and Action in 3D Environments</p></details> |
-| **[A Vision for Multisensory Intelligence: Sensing, Science, and Synergy](https://arxiv.org/abs/2601.04563v3)** | 2026-01-13 |  |
-| **[Aggregating Diverse Cue Experts for AI-Generated Image Detection](https://arxiv.org/abs/2601.08790v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering](https://arxiv.org/abs/2601.09697v1)** | 2026-01-14 | <details><summary>Proje...</summary><p>Project page: https://ayushtewari.com/projects/srender/</p></details> |
+| **[Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design](https://arxiv.org/abs/2601.09693v1)** | 2026-01-14 | <details><summary>ELLIS...</summary><p>ELLIS ML4Molecules Workshop 2025, ELLIS Unconference, Copenhagen 2025</p></details> |
+| **[Routing with Generated Data: Annotation-Free LLM Skill Estimation and Expert Selection](https://arxiv.org/abs/2601.09692v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/tianyiniu/RoutingGenData</p></details> |
+| **[DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation](https://arxiv.org/abs/2601.09688v1)** | 2026-01-14 | <details><summary>Sourc...</summary><p>Source code: https://github.com/Infinity-AILab/DeepResearchEval</p></details> |
+| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[3AM: Segment Anything with Geometric Consistency in Videos](https://arxiv.org/abs/2601.08831v1)** | 2026-01-13 | <details><summary>Proje...</summary><p>Project page: https://jayisaking.github.io/3AM-Page/</p></details> |
-| **[Motion Attribution for Video Generation](https://arxiv.org/abs/2601.08828v1)** | 2026-01-13 | <details><summary>See t...</summary><p>See the project website at https://research.nvidia.com/labs/sil/projects/MOTIVE/</p></details> |
-| **[SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning](https://arxiv.org/abs/2510.22454v2)** | 2026-01-13 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
-| **[A two-step approach to production frontier estimation and the Matsuoka's distribution](https://arxiv.org/abs/2311.06086v3)** | 2026-01-13 | <details><summary>Suple...</summary><p>Suplementary material is presented along with the paper</p></details> |
-| **[Reasoning Matters for 3D Visual Grounding](https://arxiv.org/abs/2601.08811v1)** | 2026-01-13 | <details><summary>2025 ...</summary><p>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language, Vision and Action in 3D Environments</p></details> |
-| **[MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm](https://arxiv.org/abs/2601.08800v1)** | 2026-01-13 | <details><summary>Submi...</summary><p>Submitted to ICDCS 2026</p></details> |
-| **[The Conflict Graph Design: Estimating Causal Effects under Arbitrary Neighborhood Interference](https://arxiv.org/abs/2411.10908v3)** | 2026-01-13 |  |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3](https://arxiv.org/abs/2601.09699v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/FudanCVL/SAM3-DMS</p></details> |
+| **[LLMs can Compress LLMs: Adaptive Pruning by Agents](https://arxiv.org/abs/2601.09694v1)** | 2026-01-14 | 17 Pages |
+| **[Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design](https://arxiv.org/abs/2601.09693v1)** | 2026-01-14 | <details><summary>ELLIS...</summary><p>ELLIS ML4Molecules Workshop 2025, ELLIS Unconference, Copenhagen 2025</p></details> |
+| **[Routing with Generated Data: Annotation-Free LLM Skill Estimation and Expert Selection](https://arxiv.org/abs/2601.09692v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/tianyiniu/RoutingGenData</p></details> |
+| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[M3CoTBench: Benchmark Chain-of-Thought of MLLMs in Medical Image Understanding](https://arxiv.org/abs/2601.08758v1)** | 2026-01-13 | 40 pages, 8 pages |
-| **[MoHoBench: Assessing Honesty of Multimodal Large Language Models via Unanswerable Visual Questions](https://arxiv.org/abs/2507.21503v4)** | 2026-01-13 | AAAI2026 Oral |
-| **[Incentivizing Cardiologist-Like Reasoning in MLLMs for Interpretable Echocardiographic Diagnosis](https://arxiv.org/abs/2601.08440v1)** | 2026-01-13 |  |
-| **[KidVis: Do Multimodal Large Language Models Possess the Visual Perceptual Capabilities of a 6-Year-Old?](https://arxiv.org/abs/2601.08292v1)** | 2026-01-13 |  |
-| **[Ground What You See: Hallucination-Resistant MLLMs via Caption Feedback, Diversity-Aware Sampling, and Conflict Regularization](https://arxiv.org/abs/2601.06224v2)** | 2026-01-13 | AAAI-2026 Poster |
-| **[GI-Bench: A Panoramic Benchmark Revealing the Knowledge-Experience Dissociation of Multimodal Large Language Models in Gastrointestinal Endoscopy Against Clinical Standards](https://arxiv.org/abs/2601.08183v1)** | 2026-01-13 | <details><summary>45 pa...</summary><p>45 pages, 17 figures, 6 tables. Leaderboard available at: https://roterdl.github.io/GIBench/ . Includes supplementary material</p></details> |
-| **[The Agent's First Day: Benchmarking Learning, Exploration, and Scheduling in the Workplace Scenarios](https://arxiv.org/abs/2601.08173v1)** | 2026-01-13 |  |
-| **[Where Does Vision Meet Language? Understanding and Refining Visual Fusion in MLLMs via Contrastive Attention](https://arxiv.org/abs/2601.08151v1)** | 2026-01-13 |  |
-| **[COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence](https://arxiv.org/abs/2503.03215v2)** | 2026-01-13 | <details><summary>This ...</summary><p>This manuscript (arXiv:2503.03215) is being withdrawn at the supervisor's request. The content is preliminary and needs further internal revision and approval before public release. We will resubmit a revised version after completion. Apologies for the inconvenience</p></details> |
-| **[PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection](https://arxiv.org/abs/2502.12119v3)** | 2026-01-13 |  |
+| **[OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2601.09575v1)** | 2026-01-14 | <details><summary>proje...</summary><p>project page: https://peterjohnsonhuang.github.io/openvoxel-pages/</p></details> |
+| **[Do Language Models Associate Sound with Meaning? A Multimodal Study of Sound Symbolism](https://arxiv.org/abs/2511.10045v5)** | 2026-01-14 | <details><summary>33 pa...</summary><p>33 pages, 27 tables, 10 figures</p></details> |
+| **[Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning](https://arxiv.org/abs/2601.09536v1)** | 2026-01-14 |  |
+| **[Video-MSR: Benchmarking Multi-hop Spatial Reasoning Capabilities of MLLMs](https://arxiv.org/abs/2601.09430v1)** | 2026-01-14 |  |
+| **[SLAM-LLM: A Modular, Open-Source Multimodal Large Language Model Framework and Best Practice for Speech, Language, Audio and Music Processing](https://arxiv.org/abs/2601.09385v1)** | 2026-01-14 | <details><summary>Publi...</summary><p>Published in IEEE Journal of Selected Topics in Signal Processing (JSTSP)</p></details> |
+| **[See More, Store Less: Memory-Efficient Resolution for Video Moment Retrieval](https://arxiv.org/abs/2601.09350v1)** | 2026-01-14 |  |
+| **[Multi-Modal LLM based Image Captioning in ICT: Bridging the Gap Between General and Industry Domain](https://arxiv.org/abs/2601.09298v1)** | 2026-01-14 |  |
+| **[MCGA: A Multi-task Classical Chinese Literary Genre Audio Corpus](https://arxiv.org/abs/2601.09270v1)** | 2026-01-14 |  |
+| **[M3CoTBench: Benchmark Chain-of-Thought of MLLMs in Medical Image Understanding](https://arxiv.org/abs/2601.08758v2)** | 2026-01-14 | 40 pages, 8 figures |
+| **[The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113v1)** | 2026-01-14 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Motion Attribution for Video Generation](https://arxiv.org/abs/2601.08828v1)** | 2026-01-13 | <details><summary>See t...</summary><p>See the project website at https://research.nvidia.com/labs/sil/projects/MOTIVE/</p></details> |
-| **[SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning](https://arxiv.org/abs/2510.22454v2)** | 2026-01-13 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
-| **[A two-step approach to production frontier estimation and the Matsuoka's distribution](https://arxiv.org/abs/2311.06086v3)** | 2026-01-13 | <details><summary>Suple...</summary><p>Suplementary material is presented along with the paper</p></details> |
-| **[FilmSceneDesigner: Chaining Set Design for Procedural Film Scene Generation](https://arxiv.org/abs/2511.19137v2)** | 2026-01-13 |  |
-| **[Reasoning Matters for 3D Visual Grounding](https://arxiv.org/abs/2601.08811v1)** | 2026-01-13 | <details><summary>2025 ...</summary><p>2025 CVPR Workshop on 3D-LLM/VLA: Bridging Language, Vision and Action in 3D Environments</p></details> |
-| **[On the use of graph models to achieve individual and group fairness](https://arxiv.org/abs/2601.08784v1)** | 2026-01-13 | 75 pages, 46 figures |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design](https://arxiv.org/abs/2601.09693v1)** | 2026-01-14 | <details><summary>ELLIS...</summary><p>ELLIS ML4Molecules Workshop 2025, ELLIS Unconference, Copenhagen 2025</p></details> |
+| **[Routing with Generated Data: Annotation-Free LLM Skill Estimation and Expert Selection](https://arxiv.org/abs/2601.09692v1)** | 2026-01-14 | <details><summary>Code:...</summary><p>Code: https://github.com/tianyiniu/RoutingGenData</p></details> |
+| **[LARGE: A Locally Adaptive Regularization Approach for Estimating Gaussian Graphical Models](https://arxiv.org/abs/2601.09686v1)** | 2026-01-14 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
+| **[OptiMind: Teaching LLMs to Think Like Optimization Experts](https://arxiv.org/abs/2509.22979v2)** | 2026-01-14 |  |
+| **[Bayesian Semi-Blind Deconvolution at Scale](https://arxiv.org/abs/2601.09677v1)** | 2026-01-14 |  |
 
