@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,53 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Point Bridge: 3D Representations for Cross Domain Policy Learning](https://arxiv.org/abs/2601.16212v1)** | 2026-01-22 |  |
-| **[GutenOCR: A Grounded Vision-Language Front-End for Documents](https://arxiv.org/abs/2601.14490v2)** | 2026-01-22 |  |
-| **[Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2601.16208v1)** | 2026-01-22 | <details><summary>websi...</summary><p>website: https://rae-dit.github.io/scale-rae/</p></details> |
-| **[IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance](https://arxiv.org/abs/2601.16207v1)** | 2026-01-22 |  |
-| **[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project Page: https://llm-in-sandbox.github.io</p></details> |
-| **[Counterfactual Training: Teaching Models Plausible and Actionable Explanations](https://arxiv.org/abs/2601.16205v1)** | 2026-01-22 | <details><summary>This ...</summary><p>This work has been accepted for publication at the 2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). The final version will be available on IEEE Xplore</p></details> |
-| **[Training-Free Geospatial Place Representation Learning from Large-Scale Point-of-Interest Graph Data](https://arxiv.org/abs/2507.02921v3)** | 2026-01-22 |  |
-| **[360Anything: Geometry-Free Lifting of Images and Videos to 360°](https://arxiv.org/abs/2601.16192v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project page: https://360anything.github.io/</p></details> |
+| **[AnyView: Synthesizing Any Novel View in Dynamic Scenes](https://arxiv.org/abs/2601.16982v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project webpage: https://tri-ml.github.io/AnyView/</p></details> |
+| **[A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs](https://arxiv.org/abs/2601.16979v1)** | 2026-01-23 | 9 pages, 6 figures |
+| **[Towards Reasoning for PDE Foundation Models: A Reward-Model-Driven Inference-Time-Scaling Algorithm](https://arxiv.org/abs/2509.02846v3)** | 2026-01-23 |  |
+| **[Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection](https://arxiv.org/abs/2601.16976v1)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted to IEEE. 15 pages, 2 figures</p></details> |
+| **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261v3)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published on Proceedings of the ACM on Web Conference 2026 (WWW 2026)</p></details> |
+| **[VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://arxiv.org/abs/2601.16973v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project page: https://visgym.github.io/</p></details> |
+| **[Provable Differentially Private Computation of the Cross-Attention Mechanism](https://arxiv.org/abs/2407.14717v3)** | 2026-01-23 |  |
+| **[Ultrafast topological data analysis reveals pandemic-scale dynamics of convergent evolution](https://arxiv.org/abs/2106.07292v4)** | 2026-01-23 | substantial revision |
+| **[Probabilistic Graphical Models in Astronomy](https://arxiv.org/abs/2601.16959v1)** | 2026-01-23 | 11 pages, 3 figures |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback](https://arxiv.org/abs/2601.16214v1)** | 2026-01-22 |  |
-| **[Point Bridge: 3D Representations for Cross Domain Policy Learning](https://arxiv.org/abs/2601.16212v1)** | 2026-01-22 |  |
-| **[GutenOCR: A Grounded Vision-Language Front-End for Documents](https://arxiv.org/abs/2601.14490v2)** | 2026-01-22 |  |
-| **[Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2601.16208v1)** | 2026-01-22 | <details><summary>websi...</summary><p>website: https://rae-dit.github.io/scale-rae/</p></details> |
-| **[IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance](https://arxiv.org/abs/2601.16207v1)** | 2026-01-22 |  |
-| **[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project Page: https://llm-in-sandbox.github.io</p></details> |
-| **[Counterfactual Training: Teaching Models Plausible and Actionable Explanations](https://arxiv.org/abs/2601.16205v1)** | 2026-01-22 | <details><summary>This ...</summary><p>This work has been accepted for publication at the 2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). The final version will be available on IEEE Xplore</p></details> |
-| **[Training-Free Geospatial Place Representation Learning from Large-Scale Point-of-Interest Graph Data](https://arxiv.org/abs/2507.02921v3)** | 2026-01-22 |  |
+| **[AnyView: Synthesizing Any Novel View in Dynamic Scenes](https://arxiv.org/abs/2601.16982v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project webpage: https://tri-ml.github.io/AnyView/</p></details> |
+| **[A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs](https://arxiv.org/abs/2601.16979v1)** | 2026-01-23 | 9 pages, 6 figures |
+| **[Towards Reasoning for PDE Foundation Models: A Reward-Model-Driven Inference-Time-Scaling Algorithm](https://arxiv.org/abs/2509.02846v3)** | 2026-01-23 |  |
+| **[Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection](https://arxiv.org/abs/2601.16976v1)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted to IEEE. 15 pages, 2 figures</p></details> |
+| **[Scribble-Supervised Medical Image Segmentation with Dynamic Teacher Switching and Hierarchical Consistency](https://arxiv.org/abs/2601.14563v3)** | 2026-01-23 |  |
+| **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261v3)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published on Proceedings of the ACM on Web Conference 2026 (WWW 2026)</p></details> |
+| **[VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://arxiv.org/abs/2601.16973v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project page: https://visgym.github.io/</p></details> |
+| **[Provable Differentially Private Computation of the Cross-Attention Mechanism](https://arxiv.org/abs/2407.14717v3)** | 2026-01-23 |  |
+| **[Ultrafast topological data analysis reveals pandemic-scale dynamics of convergent evolution](https://arxiv.org/abs/2106.07292v4)** | 2026-01-23 | substantial revision |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Provable Robustness in Multimodal Large Language Models via Feature Space Smoothing](https://arxiv.org/abs/2601.16200v1)** | 2026-01-22 | Under review |
-| **[Is this chart lying to me? Automating the detection of misleading visualizations](https://arxiv.org/abs/2508.21675v2)** | 2026-01-22 | <details><summary>Prepr...</summary><p>Preprint under review. Code and data available at: https://github.com/UKPLab/arxiv2025-misviz</p></details> |
-| **[SAMTok: Representing Any Mask with Two Words](https://arxiv.org/abs/2601.16093v1)** | 2026-01-22 | 27 pages, 11 figures |
-| **[PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models](https://arxiv.org/abs/2601.16007v1)** | 2026-01-22 |  |
-| **[The Percept-V Challenge: Can Multimodal LLMs Crack Simple Perception Problems?](https://arxiv.org/abs/2508.21143v3)** | 2026-01-22 |  |
-| **[DF-LLaVA: Unlocking MLLM's potential for Synthetic Image Detection via Prompt-Guided Knowledge Injection](https://arxiv.org/abs/2509.14957v2)** | 2026-01-22 | Under review |
-| **[Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs](https://arxiv.org/abs/2601.15698v1)** | 2026-01-22 |  |
-| **[Explainable Deepfake Detection with RL Enhanced Self-Blended Images](https://arxiv.org/abs/2601.15624v1)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739v3)** | 2026-01-22 | <details><summary>Accep...</summary><p>Accepted by Visual Intelligence</p></details> |
-| **[VIOLA: Towards Video In-Context Learning with Minimal Annotations](https://arxiv.org/abs/2601.15549v1)** | 2026-01-22 |  |
+| **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v2)** | 2026-01-23 |  |
+| **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v2)** | 2026-01-23 |  |
+| **[OnlineSI: Taming Large Language Model for Online 3D Understanding and Grounding](https://arxiv.org/abs/2601.16538v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project Page: https://onlinesi.github.io/</p></details> |
+| **[TangramPuzzle: Evaluating Multimodal Large Language Models with Compositional Spatial Reasoning](https://arxiv.org/abs/2601.16520v1)** | 2026-01-23 |  |
+| **[Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods](https://arxiv.org/abs/2510.07143v2)** | 2026-01-23 | <details><summary>Code:...</summary><p>Code: https://github.com/Chenfei-Liao/VTC-Bench; Project Page: https://chenfei-liao.github.io/VTC-Bench-Page/</p></details> |
+| **[Order from Chaos: Physical World Understanding from Glitchy Gameplay Videos](https://arxiv.org/abs/2601.16471v1)** | 2026-01-23 | Accepted by TMLR |
+| **[Emotion-LLaMAv2 and MMEVerse: A New Framework and Benchmark for Multimodal Emotion Understanding](https://arxiv.org/abs/2601.16449v1)** | 2026-01-23 |  |
+| **[Learning Domain Knowledge in Multimodal Large Language Models through Reinforcement Fine-Tuning](https://arxiv.org/abs/2601.16419v1)** | 2026-01-23 |  |
+| **[Hierarchy-Aware Multimodal Unlearning for Medical AI](https://arxiv.org/abs/2512.09867v3)** | 2026-01-23 | <details><summary>Datas...</summary><p>Dataset and Code: https://github.com/fengli-wu/MedForget</p></details> |
+| **[WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning](https://arxiv.org/abs/2509.04744v2)** | 2026-01-23 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Point Bridge: 3D Representations for Cross Domain Policy Learning](https://arxiv.org/abs/2601.16212v1)** | 2026-01-22 |  |
-| **[GutenOCR: A Grounded Vision-Language Front-End for Documents](https://arxiv.org/abs/2601.14490v2)** | 2026-01-22 |  |
-| **[Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders](https://arxiv.org/abs/2601.16208v1)** | 2026-01-22 | <details><summary>websi...</summary><p>website: https://rae-dit.github.io/scale-rae/</p></details> |
-| **[IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance](https://arxiv.org/abs/2601.16207v1)** | 2026-01-22 |  |
-| **[LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project Page: https://llm-in-sandbox.github.io</p></details> |
-| **[Counterfactual Training: Teaching Models Plausible and Actionable Explanations](https://arxiv.org/abs/2601.16205v1)** | 2026-01-22 | <details><summary>This ...</summary><p>This work has been accepted for publication at the 2026 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). The final version will be available on IEEE Xplore</p></details> |
-| **[Training-Free Geospatial Place Representation Learning from Large-Scale Point-of-Interest Graph Data](https://arxiv.org/abs/2507.02921v3)** | 2026-01-22 |  |
-| **[360Anything: Geometry-Free Lifting of Images and Videos to 360°](https://arxiv.org/abs/2601.16192v1)** | 2026-01-22 | <details><summary>Proje...</summary><p>Project page: https://360anything.github.io/</p></details> |
+| **[AnyView: Synthesizing Any Novel View in Dynamic Scenes](https://arxiv.org/abs/2601.16982v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project webpage: https://tri-ml.github.io/AnyView/</p></details> |
+| **[SyncLight: Controllable and Consistent Multi-View Relighting](https://arxiv.org/abs/2601.16981v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project page: http://sync-light.github.io</p></details> |
+| **[A Scalable Measure of Loss Landscape Curvature for Analyzing the Training Dynamics of LLMs](https://arxiv.org/abs/2601.16979v1)** | 2026-01-23 | 9 pages, 6 figures |
+| **[Towards Reasoning for PDE Foundation Models: A Reward-Model-Driven Inference-Time-Scaling Algorithm](https://arxiv.org/abs/2509.02846v3)** | 2026-01-23 |  |
+| **[Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection](https://arxiv.org/abs/2601.16976v1)** | 2026-01-23 | <details><summary>Submi...</summary><p>Submitted to IEEE. 15 pages, 2 figures</p></details> |
+| **[LLM Reasoning for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.18261v3)** | 2026-01-23 | <details><summary>Publi...</summary><p>Published on Proceedings of the ACM on Web Conference 2026 (WWW 2026)</p></details> |
+| **[VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents](https://arxiv.org/abs/2601.16973v1)** | 2026-01-23 | <details><summary>Proje...</summary><p>Project page: https://visgym.github.io/</p></details> |
+| **[Provable Differentially Private Computation of the Cross-Attention Mechanism](https://arxiv.org/abs/2407.14717v3)** | 2026-01-23 |  |
+| **[Ultrafast topological data analysis reveals pandemic-scale dynamics of convergent evolution](https://arxiv.org/abs/2106.07292v4)** | 2026-01-23 | substantial revision |
 
