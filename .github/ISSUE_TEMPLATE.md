@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,47 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluation of Oncotimia: An LLM based system for supporting tumour boards](https://arxiv.org/abs/2601.19899v1)** | 2026-01-27 | 9 pages, 2 figures |
-| **["Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessnes](https://arxiv.org/abs/2508.13187v2)** | 2026-01-27 |  |
-| **[Artificial Intelligence in Spanish Gastroenterology: high expectations, limited integration. A national survey](https://arxiv.org/abs/2601.17011v2)** | 2026-01-27 |  |
-| **[AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v1)** | 2026-01-27 | 22 pages, 2 figures |
-| **[RHSIA: Real-time Hemodynamics Surrogation for Non-idealized Intracranial Aneurysms](https://arxiv.org/abs/2601.19876v1)** | 2026-01-27 |  |
-| **[Reflective Translation: Improving Low-Resource Machine Translation via Structured Self-Reflection](https://arxiv.org/abs/2601.19871v1)** | 2026-01-27 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 6 tables. Accepted to the NeurIPS 2025 Workshop on Multilingual Representation Learning (Mexico City) and the AAAI 2025 Workshop on Language Models for Under-Resourced Communities (LM4UC). Code and data available at: https://github.com/Nickcheng123/reflective-translation-mt</p></details> |
+| **[An Automated Grey Literature Extraction Tool for Software Engineering](https://arxiv.org/abs/2512.23066v2)** | 2026-01-28 |  |
+| **[FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models](https://arxiv.org/abs/2601.20857v1)** | 2026-01-28 | <details><summary>Our p...</summary><p>Our project page is at https://xdimlab.github.io/freefix</p></details> |
+| **[From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images](https://arxiv.org/abs/2601.17934v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
+| **[Exploring Transformer Placement in Variational Autoencoders for Tabular Data Generation](https://arxiv.org/abs/2601.20854v1)** | 2026-01-28 |  |
+| **[C3Box: A CLIP-based Class-Incremental Learning Toolbox](https://arxiv.org/abs/2601.20852v1)** | 2026-01-28 | <details><summary>The c...</summary><p>The code is available at https://github.com/LAMDA-CL/C3Box</p></details> |
+| **[End-to-end example-based sim-to-real RL policy transfer based on neural stylisation with application to robotic cutting](https://arxiv.org/abs/2601.20846v1)** | 2026-01-28 | <details><summary>14 pa...</summary><p>14 pages, 9 figures. Submitted to Nature Scientific Reports</p></details> |
+| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluation of Oncotimia: An LLM based system for supporting tumour boards](https://arxiv.org/abs/2601.19899v1)** | 2026-01-27 | 9 pages, 2 figures |
-| **["Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessnes](https://arxiv.org/abs/2508.13187v2)** | 2026-01-27 |  |
-| **[Artificial Intelligence in Spanish Gastroenterology: high expectations, limited integration. A national survey](https://arxiv.org/abs/2601.17011v2)** | 2026-01-27 |  |
-| **[AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v1)** | 2026-01-27 | 22 pages, 2 figures |
-| **[SONIC: Spectral Oriented Neural Invariant Convolutions](https://arxiv.org/abs/2601.19884v1)** | 2026-01-27 | <details><summary>10 pa...</summary><p>10 pages, 4 figures. Accepted at ICLR 2026</p></details> |
-| **[RHSIA: Real-time Hemodynamics Surrogation for Non-idealized Intracranial Aneurysms](https://arxiv.org/abs/2601.19876v1)** | 2026-01-27 |  |
+| **[From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images](https://arxiv.org/abs/2601.17934v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
+| **[Exploring Transformer Placement in Variational Autoencoders for Tabular Data Generation](https://arxiv.org/abs/2601.20854v1)** | 2026-01-28 |  |
+| **[C3Box: A CLIP-based Class-Incremental Learning Toolbox](https://arxiv.org/abs/2601.20852v1)** | 2026-01-28 | <details><summary>The c...</summary><p>The code is available at https://github.com/LAMDA-CL/C3Box</p></details> |
+| **[End-to-end example-based sim-to-real RL policy transfer based on neural stylisation with application to robotic cutting](https://arxiv.org/abs/2601.20846v1)** | 2026-01-28 | <details><summary>14 pa...</summary><p>14 pages, 9 figures. Submitted to Nature Scientific Reports</p></details> |
+| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
+| **[BlindSight: Harnessing Sparsity for Efficient Vision-Language Models](https://arxiv.org/abs/2507.09071v2)** | 2026-01-28 |  |
+| **[Reward Models Inherit Value Biases from Pretraining](https://arxiv.org/abs/2601.20838v1)** | 2026-01-28 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues](https://arxiv.org/abs/2601.19750v1)** | 2026-01-27 |  |
-| **[Out-of-Distribution Generalization via Invariant Trajectories for Multimodal Large Language Model Editing](https://arxiv.org/abs/2601.19700v1)** | 2026-01-27 |  |
-| **[Human Cognitive Benchmarks Reveal Foundational Visual Gaps in MLLMs](https://arxiv.org/abs/2502.16435v3)** | 2026-01-27 | <details><summary>Updat...</summary><p>Update: Evaluated 23 SOTA MLLMs</p></details> |
-| **[EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models](https://arxiv.org/abs/2502.04424v3)** | 2026-01-27 |  |
-| **[Up to 36x Speedup: Mask-based Parallel Inference Paradigm for Key Information Extraction in MLLMs](https://arxiv.org/abs/2601.19613v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[CCFQA: A Benchmark for Cross-Lingual and Cross-Modal Speech and Text Factuality Evaluation](https://arxiv.org/abs/2508.07295v3)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026</p></details> |
-| **[Towards Pixel-Level VLM Perception via Simple Points Prediction](https://arxiv.org/abs/2601.19228v1)** | 2026-01-27 |  |
-| **[UniPCB: A Unified Vision-Language Benchmark for Open-Ended PCB Quality Inspection](https://arxiv.org/abs/2601.19222v1)** | 2026-01-27 |  |
-| **[CoReTab: Improving Multimodal Table Understanding with Code-driven Reasoning](https://arxiv.org/abs/2601.19193v1)** | 2026-01-27 | <details><summary>accep...</summary><p>accepted to EACL'26 (main conference)</p></details> |
-| **[BTCChat: Advancing Remote Sensing Bi-temporal Change Captioning with Multimodal Large Language Model](https://arxiv.org/abs/2509.05895v2)** | 2026-01-27 | <details><summary>5 pag...</summary><p>5 pages, 2 figures; Accepted by ICASSP 2026</p></details> |
+| **[MemCtrl: Using MLLMs as Active Memory Controllers on Embodied Agents](https://arxiv.org/abs/2601.20831v1)** | 2026-01-28 |  |
+| **[LLMBind: A Unified Modality-Task Integration Framework](https://arxiv.org/abs/2402.14891v6)** | 2026-01-28 |  |
+| **[Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?](https://arxiv.org/abs/2506.10912v3)** | 2026-01-28 |  |
+| **[Compression Tells Intelligence: Visual Coding, Visual Token Technology, and the Unification](https://arxiv.org/abs/2601.20742v1)** | 2026-01-28 |  |
+| **[X-SAM: From Segment Anything to Any Segmentation](https://arxiv.org/abs/2508.04655v2)** | 2026-01-28 | AAAI2026 |
+| **[Decoupling Perception and Calibration: Label-Efficient Image Quality Assessment Framework](https://arxiv.org/abs/2601.20689v1)** | 2026-01-28 |  |
+| **[When Vision Meets Texts in Listwise Reranking](https://arxiv.org/abs/2601.20623v1)** | 2026-01-28 |  |
+| **[GDCNet: Generative Discrepancy Comparison Network for Multimodal Sarcasm Detection](https://arxiv.org/abs/2601.20618v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</p></details> |
+| **[Benchmarking Multimodal Large Language Models for Missing Modality Completion in Product Catalogues](https://arxiv.org/abs/2601.19750v2)** | 2026-01-28 |  |
+| **[Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching](https://arxiv.org/abs/2512.03553v2)** | 2026-01-28 | <details><summary>To be...</summary><p>To be published at KDD 2026 (ADS track)</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluation of Oncotimia: An LLM based system for supporting tumour boards](https://arxiv.org/abs/2601.19899v1)** | 2026-01-27 | 9 pages, 2 figures |
-| **[DuwatBench: Bridging Language and Visual Heritage through an Arabic Calligraphy Benchmark for Multimodal Understanding](https://arxiv.org/abs/2601.19898v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted to EACL-2026 (Main Track)</p></details> |
-| **["Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessnes](https://arxiv.org/abs/2508.13187v2)** | 2026-01-27 |  |
-| **[Artificial Intelligence in Spanish Gastroenterology: high expectations, limited integration. A national survey](https://arxiv.org/abs/2601.17011v2)** | 2026-01-27 |  |
-| **[AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v1)** | 2026-01-27 | 22 pages, 2 figures |
-| **[RHSIA: Real-time Hemodynamics Surrogation for Non-idealized Intracranial Aneurysms](https://arxiv.org/abs/2601.19876v1)** | 2026-01-27 |  |
+| **[An Automated Grey Literature Extraction Tool for Software Engineering](https://arxiv.org/abs/2512.23066v2)** | 2026-01-28 |  |
+| **[From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images](https://arxiv.org/abs/2601.17934v2)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
+| **[Exploring Transformer Placement in Variational Autoencoders for Tabular Data Generation](https://arxiv.org/abs/2601.20854v1)** | 2026-01-28 |  |
+| **[C3Box: A CLIP-based Class-Incremental Learning Toolbox](https://arxiv.org/abs/2601.20852v1)** | 2026-01-28 | <details><summary>The c...</summary><p>The code is available at https://github.com/LAMDA-CL/C3Box</p></details> |
+| **[End-to-end example-based sim-to-real RL policy transfer based on neural stylisation with application to robotic cutting](https://arxiv.org/abs/2601.20846v1)** | 2026-01-28 | <details><summary>14 pa...</summary><p>14 pages, 9 figures. Submitted to Nature Scientific Reports</p></details> |
+| **[PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting](https://arxiv.org/abs/2601.20845v1)** | 2026-01-28 | <details><summary>5 pag...</summary><p>5 pages; 2 figures; 7 tables</p></details> |
+| **[Deep Researcher with Sequential Plan Reflection and Candidates Crossover (Deep Researcher Reflect Evolve)](https://arxiv.org/abs/2601.20843v1)** | 2026-01-28 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 2 tables, source code: https://github.com/SauravP97/deep-researcher-reflect-evolve/</p></details> |
 
