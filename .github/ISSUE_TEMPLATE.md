@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,53 +7,47 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://arxiv.org/abs/2601.23286v1)** | 2026-01-30 |  |
-| **[From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation](https://arxiv.org/abs/2601.18532v2)** | 2026-01-30 | <details><summary>19 pa...</summary><p>19 pages without references</p></details> |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v1)** | 2026-01-30 |  |
-| **[CAOS: Conformal Aggregation of One-Shot Predictors](https://arxiv.org/abs/2601.05219v2)** | 2026-01-30 |  |
-| **[Multi-agent Coordination via Flow Matching](https://arxiv.org/abs/2511.05005v2)** | 2026-01-30 | ICLR 2026 |
-| **[Denoising the Deep Sky: Physics-Based CCD Noise Formation for Astronomical Imaging](https://arxiv.org/abs/2601.23276v1)** | 2026-01-30 |  |
-| **[Trajectory2Task: Training Robust Tool-Calling Agents with Synthesized Yet Verifiable Data for Complex User Intents](https://arxiv.org/abs/2601.20144v2)** | 2026-01-30 |  |
-| **[Reinforcement Learning for Ballbot Navigation in Uneven Terrain](https://arxiv.org/abs/2505.18417v2)** | 2026-01-30 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 tables. Version two corrects figure 4 and adds some experiments</p></details> |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[Reward-free Alignment for Conflicting Objectives](https://arxiv.org/abs/2602.02495v1)** | 2026-02-02 | 27 pages |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[New explanations and inference for least angle regression](https://arxiv.org/abs/2602.02491v1)** | 2026-02-02 | 50 pages, 9 figures |
+| **[Secure Multi-User Linearly-Separable Distributed Computing](https://arxiv.org/abs/2602.02489v1)** | 2026-02-02 |  |
+| **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](https://arxiv.org/abs/2508.12726v6)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://attention-is-all-i-need.github.io/Design-Logic-Reasoning</p></details> |
+| **[Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](https://arxiv.org/abs/2601.14249v2)** | 2026-02-02 | <details><summary>27 pa...</summary><p>27 pages. Project page: https://github.com/UmeanNever/RankSurprisalRatio</p></details> |
+| **[HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos](https://arxiv.org/abs/2602.02473v1)** | 2026-02-02 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://arxiv.org/abs/2601.23286v1)** | 2026-01-30 |  |
-| **[From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation](https://arxiv.org/abs/2601.18532v2)** | 2026-01-30 | <details><summary>19 pa...</summary><p>19 pages without references</p></details> |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v1)** | 2026-01-30 |  |
-| **[CAOS: Conformal Aggregation of One-Shot Predictors](https://arxiv.org/abs/2601.05219v2)** | 2026-01-30 |  |
-| **[Multi-agent Coordination via Flow Matching](https://arxiv.org/abs/2511.05005v2)** | 2026-01-30 | ICLR 2026 |
-| **[Denoising the Deep Sky: Physics-Based CCD Noise Formation for Astronomical Imaging](https://arxiv.org/abs/2601.23276v1)** | 2026-01-30 |  |
-| **[Trajectory2Task: Training Robust Tool-Calling Agents with Synthesized Yet Verifiable Data for Complex User Intents](https://arxiv.org/abs/2601.20144v2)** | 2026-01-30 |  |
-| **[Reinforcement Learning for Ballbot Navigation in Uneven Terrain](https://arxiv.org/abs/2505.18417v2)** | 2026-01-30 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 tables. Version two corrects figure 4 and adds some experiments</p></details> |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[Reward-free Alignment for Conflicting Objectives](https://arxiv.org/abs/2602.02495v1)** | 2026-02-02 | 27 pages |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[New explanations and inference for least angle regression](https://arxiv.org/abs/2602.02491v1)** | 2026-02-02 | 50 pages, 9 figures |
+| **[Secure Multi-User Linearly-Separable Distributed Computing](https://arxiv.org/abs/2602.02489v1)** | 2026-02-02 |  |
+| **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](https://arxiv.org/abs/2508.12726v6)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://attention-is-all-i-need.github.io/Design-Logic-Reasoning</p></details> |
+| **[Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](https://arxiv.org/abs/2601.14249v2)** | 2026-02-02 | <details><summary>27 pa...</summary><p>27 pages. Project page: https://github.com/UmeanNever/RankSurprisalRatio</p></details> |
+| **[MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474v1)** | 2026-02-02 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/MemSkill</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Med-Scout: Curing MLLMs' Geometric Blindness in Medical Perception via Geometry-Aware RL Post-Training](https://arxiv.org/abs/2601.23220v1)** | 2026-01-30 |  |
-| **[Make Anything Match Your Target: Universal Adversarial Perturbations against Closed-Source MLLMs via Multi-Crop Routed Meta Optimization](https://arxiv.org/abs/2601.23179v1)** | 2026-01-30 |  |
-| **[MTDrive: Multi-turn Interactive Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/2601.22930v1)** | 2026-01-30 |  |
-| **[Q-Hawkeye: Reliable Visual Policy Optimization for Image Quality Assessment](https://arxiv.org/abs/2601.22920v1)** | 2026-01-30 |  |
-| **[FESTA: Functionally Equivalent Sampling for Trust Assessment of Multimodal LLMs](https://arxiv.org/abs/2509.16648v4)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted in the Findings of EMNLP, 2025</p></details> |
-| **[ChartAnchor: Chart Grounding with Structural-Semantic Fidelity](https://arxiv.org/abs/2512.01017v3)** | 2026-01-30 |  |
-| **[MM-THEBench: Do Reasoning MLLMs Think Reasonably?](https://arxiv.org/abs/2601.22735v1)** | 2026-01-30 |  |
-| **[Metis-SPECS: Decoupling Multimodal Learning via Self-distilled Preference-based Cold Start](https://arxiv.org/abs/2510.25801v3)** | 2026-01-30 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026!</p></details> |
-| **[Generalizable Multimodal Large Language Model Editing via Invariant Trajectory Learning](https://arxiv.org/abs/2601.19700v2)** | 2026-01-30 |  |
-| **[VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration](https://arxiv.org/abs/2601.22674v1)** | 2026-01-30 | <details><summary>ICLR2...</summary><p>ICLR2026, Code Link: https://github.com/hanxunyu/VisionTrim</p></details> |
+| **[MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](https://arxiv.org/abs/2602.02465v1)** | 2026-02-02 | 9 pages, 8 figures |
+| **[Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation](https://arxiv.org/abs/2602.02401v1)** | 2026-02-02 |  |
+| **[CoT-RVS: Zero-Shot Chain-of-Thought Reasoning Segmentation for Videos](https://arxiv.org/abs/2505.18561v4)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://danielshkao.github.io/cot-rvs.html. Code: https://github.com/DanielSHKao/CoT-RVS</p></details> |
+| **[Hierarchical Adaptive Eviction for KV Cache Management in Multimodal Language Models](https://arxiv.org/abs/2602.02197v1)** | 2026-02-02 | 10 oages, 3 figures |
+| **[Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models](https://arxiv.org/abs/2602.02185v1)** | 2026-02-02 |  |
+| **[MLLMEraser: Achieving Test-Time Unlearning in Multimodal Large Language Models through Activation Steering](https://arxiv.org/abs/2510.04217v3)** | 2026-02-02 |  |
+| **[One Size, Many Fits: Aligning Diverse Group-Wise Click Preferences in Large-Scale Advertising Image Generation](https://arxiv.org/abs/2602.02033v1)** | 2026-02-02 |  |
+| **[SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2602.01990v1)** | 2026-02-02 |  |
+| **[You Only Forward Once: An Efficient Compositional Judging Paradigm](https://arxiv.org/abs/2511.16600v3)** | 2026-02-02 |  |
+| **[Q Cache: Visual Attention is Valuable in Less than Half of Decode Layers for Multimodal Large Language Model](https://arxiv.org/abs/2602.01901v1)** | 2026-02-02 | Accepted by AAAI26 |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](https://arxiv.org/abs/2601.23286v1)** | 2026-01-30 |  |
-| **[From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation](https://arxiv.org/abs/2601.18532v2)** | 2026-01-30 | <details><summary>19 pa...</summary><p>19 pages without references</p></details> |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v1)** | 2026-01-30 |  |
-| **[CAOS: Conformal Aggregation of One-Shot Predictors](https://arxiv.org/abs/2601.05219v2)** | 2026-01-30 |  |
-| **[Multi-agent Coordination via Flow Matching](https://arxiv.org/abs/2511.05005v2)** | 2026-01-30 | ICLR 2026 |
-| **[Denoising the Deep Sky: Physics-Based CCD Noise Formation for Astronomical Imaging](https://arxiv.org/abs/2601.23276v1)** | 2026-01-30 |  |
-| **[Trajectory2Task: Training Robust Tool-Calling Agents with Synthesized Yet Verifiable Data for Complex User Intents](https://arxiv.org/abs/2601.20144v2)** | 2026-01-30 |  |
-| **[Reinforcement Learning for Ballbot Navigation in Uneven Terrain](https://arxiv.org/abs/2505.18417v2)** | 2026-01-30 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, 2 tables. Version two corrects figure 4 and adds some experiments</p></details> |
-| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[Reward-free Alignment for Conflicting Objectives](https://arxiv.org/abs/2602.02495v1)** | 2026-02-02 | 27 pages |
+| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
+| **[New explanations and inference for least angle regression](https://arxiv.org/abs/2602.02491v1)** | 2026-02-02 | 50 pages, 9 figures |
+| **[Secure Multi-User Linearly-Separable Distributed Computing](https://arxiv.org/abs/2602.02489v1)** | 2026-02-02 |  |
+| **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](https://arxiv.org/abs/2508.12726v6)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://attention-is-all-i-need.github.io/Design-Logic-Reasoning</p></details> |
+| **[Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](https://arxiv.org/abs/2601.14249v2)** | 2026-02-02 | <details><summary>27 pa...</summary><p>27 pages. Project page: https://github.com/UmeanNever/RankSurprisalRatio</p></details> |
+| **[HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos](https://arxiv.org/abs/2602.02473v1)** | 2026-02-02 |  |
 
