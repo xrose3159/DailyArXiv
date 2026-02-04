@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,47 +7,41 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reward-free Alignment for Conflicting Objectives](https://arxiv.org/abs/2602.02495v1)** | 2026-02-02 | 27 pages |
-| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
-| **[New explanations and inference for least angle regression](https://arxiv.org/abs/2602.02491v1)** | 2026-02-02 | 50 pages, 9 figures |
-| **[Secure Multi-User Linearly-Separable Distributed Computing](https://arxiv.org/abs/2602.02489v1)** | 2026-02-02 |  |
-| **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](https://arxiv.org/abs/2508.12726v6)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://attention-is-all-i-need.github.io/Design-Logic-Reasoning</p></details> |
-| **[Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](https://arxiv.org/abs/2601.14249v2)** | 2026-02-02 | <details><summary>27 pa...</summary><p>27 pages. Project page: https://github.com/UmeanNever/RankSurprisalRatio</p></details> |
-| **[HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos](https://arxiv.org/abs/2602.02473v1)** | 2026-02-02 |  |
+| **[EventNeuS: 3D Mesh Reconstruction from a Single Event Camera](https://arxiv.org/abs/2602.03847v1)** | 2026-02-03 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, 3 tables; project page: https://4dqv.mpi-inf.mpg.de/EventNeuS/</p></details> |
+| **[PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning](https://arxiv.org/abs/2602.03846v1)** | 2026-02-03 |  |
+| **[Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](https://arxiv.org/abs/2601.18795v2)** | 2026-02-03 |  |
+| **[AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](https://arxiv.org/abs/2602.03828v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026</p></details> |
+| **[Robust Intervention Learning from Emergency Stop Interventions](https://arxiv.org/abs/2602.03825v1)** | 2026-02-03 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reward-free Alignment for Conflicting Objectives](https://arxiv.org/abs/2602.02495v1)** | 2026-02-02 | 27 pages |
-| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
-| **[New explanations and inference for least angle regression](https://arxiv.org/abs/2602.02491v1)** | 2026-02-02 | 50 pages, 9 figures |
-| **[Secure Multi-User Linearly-Separable Distributed Computing](https://arxiv.org/abs/2602.02489v1)** | 2026-02-02 |  |
-| **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](https://arxiv.org/abs/2508.12726v6)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://attention-is-all-i-need.github.io/Design-Logic-Reasoning</p></details> |
-| **[Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](https://arxiv.org/abs/2601.14249v2)** | 2026-02-02 | <details><summary>27 pa...</summary><p>27 pages. Project page: https://github.com/UmeanNever/RankSurprisalRatio</p></details> |
-| **[MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474v1)** | 2026-02-02 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/MemSkill</p></details> |
+| **[PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning](https://arxiv.org/abs/2602.03846v1)** | 2026-02-03 |  |
+| **[Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](https://arxiv.org/abs/2601.18795v2)** | 2026-02-03 |  |
+| **[AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](https://arxiv.org/abs/2602.03828v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026</p></details> |
+| **[Robust Intervention Learning from Emergency Stop Interventions](https://arxiv.org/abs/2602.03825v1)** | 2026-02-03 |  |
+| **[Deep-learning-based pan-phenomic data reveals the explosive evolution of avian visual disparity](https://arxiv.org/abs/2602.03824v1)** | 2026-02-03 | <details><summary>Reade...</summary><p>Readers from the field of computer science may be interested in section 2.1, 2.2, 3.1, 4.1, 4.2. These sections discussed the interpretability and representation learning, especially the texture vs shape problem, highlighting our model's ability of overcoming the texture biases and capturing overall shape features. (Although they're put here to prove the biological validity of the model.)</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](https://arxiv.org/abs/2602.02465v1)** | 2026-02-02 | 9 pages, 8 figures |
-| **[Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation](https://arxiv.org/abs/2602.02401v1)** | 2026-02-02 |  |
-| **[CoT-RVS: Zero-Shot Chain-of-Thought Reasoning Segmentation for Videos](https://arxiv.org/abs/2505.18561v4)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://danielshkao.github.io/cot-rvs.html. Code: https://github.com/DanielSHKao/CoT-RVS</p></details> |
-| **[Hierarchical Adaptive Eviction for KV Cache Management in Multimodal Language Models](https://arxiv.org/abs/2602.02197v1)** | 2026-02-02 | 10 oages, 3 figures |
-| **[Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models](https://arxiv.org/abs/2602.02185v1)** | 2026-02-02 |  |
-| **[MLLMEraser: Achieving Test-Time Unlearning in Multimodal Large Language Models through Activation Steering](https://arxiv.org/abs/2510.04217v3)** | 2026-02-02 |  |
-| **[One Size, Many Fits: Aligning Diverse Group-Wise Click Preferences in Large-Scale Advertising Image Generation](https://arxiv.org/abs/2602.02033v1)** | 2026-02-02 |  |
-| **[SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2602.01990v1)** | 2026-02-02 |  |
-| **[You Only Forward Once: An Efficient Compositional Judging Paradigm](https://arxiv.org/abs/2511.16600v3)** | 2026-02-02 |  |
-| **[Q Cache: Visual Attention is Valuable in Less than Half of Decode Layers for Multimodal Large Language Model](https://arxiv.org/abs/2602.01901v1)** | 2026-02-02 | Accepted by AAAI26 |
+| **[Fast-Slow Efficient Training for Multimodal Large Language Models via Visual Token Pruning](https://arxiv.org/abs/2602.03815v1)** | 2026-02-03 |  |
+| **[Instruction Anchors: Dissecting the Causal Dynamics of Modality Arbitration](https://arxiv.org/abs/2602.03677v1)** | 2026-02-03 | Modality Following |
+| **[Refer-Agent: A Collaborative Multi-Agent System with Reasoning and Reflection for Referring Video Object Segmentation](https://arxiv.org/abs/2602.03595v1)** | 2026-02-03 |  |
+| **[ProAct: A Benchmark and Multimodal Framework for Structure-Aware Proactive Response](https://arxiv.org/abs/2602.03430v1)** | 2026-02-03 |  |
+| **[Socratic-Geo: Synthetic Data Generation and Geometric Reasoning via Multi-Agent Interaction](https://arxiv.org/abs/2602.03414v1)** | 2026-02-03 | 18pages |
+| **[IRIS: Implicit Reward-Guided Internal Sifting for Mitigating Multimodal Hallucination](https://arxiv.org/abs/2602.01769v2)** | 2026-02-03 |  |
+| **[MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning](https://arxiv.org/abs/2602.03320v1)** | 2026-02-03 | 23 Pages, 4 Figures |
+| **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v3)** | 2026-02-03 |  |
+| **[R1-SyntheticVL: Is Synthetic Data from Generative Models Ready for Multimodal Large Language Model?](https://arxiv.org/abs/2602.03300v1)** | 2026-02-03 |  |
+| **[What MLLMs Learn about When they Learn about Multimodal Reasoning: Perception, Reasoning, or their Integration?](https://arxiv.org/abs/2510.01719v3)** | 2026-02-03 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reward-free Alignment for Conflicting Objectives](https://arxiv.org/abs/2602.02495v1)** | 2026-02-02 | 27 pages |
-| **[MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training](https://arxiv.org/abs/2602.02494v1)** | 2026-02-02 | <details><summary>19 pa...</summary><p>19 pages, 8 figures, 5 tables</p></details> |
-| **[New explanations and inference for least angle regression](https://arxiv.org/abs/2602.02491v1)** | 2026-02-02 | 50 pages, 9 figures |
-| **[Secure Multi-User Linearly-Separable Distributed Computing](https://arxiv.org/abs/2602.02489v1)** | 2026-02-02 |  |
-| **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](https://arxiv.org/abs/2508.12726v6)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://attention-is-all-i-need.github.io/Design-Logic-Reasoning</p></details> |
-| **[Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](https://arxiv.org/abs/2601.14249v2)** | 2026-02-02 | <details><summary>27 pa...</summary><p>27 pages. Project page: https://github.com/UmeanNever/RankSurprisalRatio</p></details> |
-| **[HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos](https://arxiv.org/abs/2602.02473v1)** | 2026-02-02 |  |
+| **[PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning](https://arxiv.org/abs/2602.03846v1)** | 2026-02-03 |  |
+| **[Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](https://arxiv.org/abs/2601.18795v2)** | 2026-02-03 |  |
+| **[AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations](https://arxiv.org/abs/2602.03828v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026</p></details> |
+| **[Robust Intervention Learning from Emergency Stop Interventions](https://arxiv.org/abs/2602.03825v1)** | 2026-02-03 |  |
+| **[Deep-learning-based pan-phenomic data reveals the explosive evolution of avian visual disparity](https://arxiv.org/abs/2602.03824v1)** | 2026-02-03 | <details><summary>Reade...</summary><p>Readers from the field of computer science may be interested in section 2.1, 2.2, 3.1, 4.1, 4.2. These sections discussed the interpretability and representation learning, especially the texture vs shape problem, highlighting our model's ability of overcoming the texture biases and capturing overall shape features. (Although they're put here to prove the biological validity of the model.)</p></details> |
 
