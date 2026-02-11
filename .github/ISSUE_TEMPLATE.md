@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 11, 2026
+title: Latest 15 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,47 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation](https://arxiv.org/abs/2602.09023v1)** | 2026-02-09 |  |
-| **[$χ_{0}$: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://arxiv.org/abs/2602.09021v1)** | 2026-02-09 |  |
-| **[Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models](https://arxiv.org/abs/2602.09017v1)** | 2026-02-09 |  |
-| **[CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection](https://arxiv.org/abs/2602.09015v1)** | 2026-02-09 |  |
-| **[Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction](https://arxiv.org/abs/2602.09013v1)** | 2026-02-09 |  |
-| **[Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/abs/2602.09012v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project page at https://greenoso.github.io/NextGen-CAPTCHAs_webpage/</p></details> |
-| **[ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling](https://arxiv.org/abs/2602.09009v1)** | 2026-02-09 |  |
+| **[SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project Page: https://nvlabs.github.io/sage</p></details> |
+| **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/abs/2602.10113v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://myangwu.github.io/ConsID-Gen</p></details> |
+| **[Learning Agile Quadrotor Flight in the Real World](https://arxiv.org/abs/2602.10111v1)** | 2026-02-10 |  |
+| **[ST4VLA: Spatially Guided Training for Vision-Language-Action Models](https://arxiv.org/abs/2602.10109v1)** | 2026-02-10 | <details><summary>Spati...</summary><p>Spatially Training for VLA, Accepted by ICLR 2026</p></details> |
+| **[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://arxiv.org/abs/2602.10106v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/EgoHumanoid</p></details> |
+| **[DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos](https://arxiv.org/abs/2602.10105v1)** | 2026-02-10 |  |
+| **[Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/abs/2602.10104v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://showlab.github.io/Olaf-World/ Code: https://github.com/showlab/Olaf-World</p></details> |
+| **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/abs/2602.10102v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code and models are released at: https://maverickren.github.io/VideoWorld2.github.io/</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation](https://arxiv.org/abs/2602.09023v1)** | 2026-02-09 |  |
-| **[$χ_{0}$: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://arxiv.org/abs/2602.09021v1)** | 2026-02-09 |  |
-| **[Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models](https://arxiv.org/abs/2602.09017v1)** | 2026-02-09 |  |
-| **[CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection](https://arxiv.org/abs/2602.09015v1)** | 2026-02-09 |  |
-| **[Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction](https://arxiv.org/abs/2602.09013v1)** | 2026-02-09 |  |
-| **[Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/abs/2602.09012v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project page at https://greenoso.github.io/NextGen-CAPTCHAs_webpage/</p></details> |
-| **[ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling](https://arxiv.org/abs/2602.09009v1)** | 2026-02-09 |  |
+| **[SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project Page: https://nvlabs.github.io/sage</p></details> |
+| **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/abs/2602.10113v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://myangwu.github.io/ConsID-Gen</p></details> |
+| **[Learning Agile Quadrotor Flight in the Real World](https://arxiv.org/abs/2602.10111v1)** | 2026-02-10 |  |
+| **[ST4VLA: Spatially Guided Training for Vision-Language-Action Models](https://arxiv.org/abs/2602.10109v1)** | 2026-02-10 | <details><summary>Spati...</summary><p>Spatially Training for VLA, Accepted by ICLR 2026</p></details> |
+| **[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://arxiv.org/abs/2602.10106v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/EgoHumanoid</p></details> |
+| **[DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos](https://arxiv.org/abs/2602.10105v1)** | 2026-02-10 |  |
+| **[Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/abs/2602.10104v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://showlab.github.io/Olaf-World/ Code: https://github.com/showlab/Olaf-World</p></details> |
+| **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/abs/2602.10102v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code and models are released at: https://maverickren.github.io/VideoWorld2.github.io/</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Transcripts: A Renewed Perspective on Audio Chaptering](https://arxiv.org/abs/2602.08979v1)** | 2026-02-09 |  |
-| **[AnomSeer: Reinforcing Multimodal LLMs to Reason for Time-Series Anomaly Detection](https://arxiv.org/abs/2602.08868v1)** | 2026-02-09 | Preprint |
-| **[TiFRe: Text-guided Video Frame Reduction for Efficient Video Multi-modal Large Language Models](https://arxiv.org/abs/2602.08861v1)** | 2026-02-09 |  |
-| **[VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/abs/2602.08828v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project: https://github.com/EricTan7/VideoVeritas</p></details> |
-| **[Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing](https://arxiv.org/abs/2602.08820v1)** | 2026-02-09 | <details><summary>Techn...</summary><p>Technical Report, Project: https://howellyoung-s.github.io/Omni-Video2-project/</p></details> |
-| **[From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](https://arxiv.org/abs/2602.08735v1)** | 2026-02-09 |  |
-| **[Zero-shot System for Automatic Body Region Detection for Volumetric CT and MR Images](https://arxiv.org/abs/2602.08717v1)** | 2026-02-09 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
-| **[UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing](https://arxiv.org/abs/2507.23278v3)** | 2026-02-09 |  |
-| **[Vista: Scene-Aware Optimization for Streaming Video Question Answering under Post-Hoc Queries](https://arxiv.org/abs/2602.08448v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Technical Track)</p></details> |
-| **[Demo-ICL: In-Context Learning for Procedural Video Knowledge Acquisition](https://arxiv.org/abs/2602.08439v1)** | 2026-02-09 |  |
+| **[VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://arxiv.org/abs/2602.09934v1)** | 2026-02-10 |  |
+| **[Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection](https://arxiv.org/abs/2602.09850v1)** | 2026-02-10 |  |
+| **[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](https://arxiv.org/abs/2602.06037v2)** | 2026-02-10 |  |
+| **[E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs](https://arxiv.org/abs/2602.08355v2)** | 2026-02-10 |  |
+| **[TAMMs: Change Understanding and Forecasting in Satellite Image Time Series with Temporal-Aware Multimodal Models](https://arxiv.org/abs/2506.18862v3)** | 2026-02-10 | <details><summary>Publi...</summary><p>Published as a conference paper at The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
+| **[RS-Agent: Automating Remote Sensing Tasks through Intelligent Agent](https://arxiv.org/abs/2406.07089v3)** | 2026-02-10 |  |
+| **[From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](https://arxiv.org/abs/2602.08735v2)** | 2026-02-10 |  |
+| **[SchröMind: Mitigating Hallucinations in Multimodal Large Language Models via Solving the Schrödinger Bridge Problem](https://arxiv.org/abs/2602.09528v1)** | 2026-02-10 | ICASSP 2026 |
+| **[Singpath-VL Technical Report](https://arxiv.org/abs/2602.09523v1)** | 2026-02-10 |  |
+| **[Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions](https://arxiv.org/abs/2602.09483v1)** | 2026-02-10 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation](https://arxiv.org/abs/2602.09023v1)** | 2026-02-09 |  |
-| **[$χ_{0}$: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies](https://arxiv.org/abs/2602.09021v1)** | 2026-02-09 |  |
-| **[Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models](https://arxiv.org/abs/2602.09017v1)** | 2026-02-09 |  |
-| **[CIC-Trap4Phish: A Unified Multi-Format Dataset for Phishing and Quishing Attachment Detection](https://arxiv.org/abs/2602.09015v1)** | 2026-02-09 |  |
-| **[Dexterous Manipulation Policies from RGB Human Videos via 4D Hand-Object Trajectory Reconstruction](https://arxiv.org/abs/2602.09013v1)** | 2026-02-09 |  |
-| **[Next-Gen CAPTCHAs: Leveraging the Cognitive Gap for Scalable and Diverse GUI-Agent Defense](https://arxiv.org/abs/2602.09012v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project page at https://greenoso.github.io/NextGen-CAPTCHAs_webpage/</p></details> |
-| **[ANCRe: Adaptive Neural Connection Reassignment for Efficient Depth Scaling](https://arxiv.org/abs/2602.09009v1)** | 2026-02-09 |  |
+| **[SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project Page: https://nvlabs.github.io/sage</p></details> |
+| **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/abs/2602.10113v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://myangwu.github.io/ConsID-Gen</p></details> |
+| **[Learning Agile Quadrotor Flight in the Real World](https://arxiv.org/abs/2602.10111v1)** | 2026-02-10 |  |
+| **[ST4VLA: Spatially Guided Training for Vision-Language-Action Models](https://arxiv.org/abs/2602.10109v1)** | 2026-02-10 | <details><summary>Spati...</summary><p>Spatially Training for VLA, Accepted by ICLR 2026</p></details> |
+| **[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://arxiv.org/abs/2602.10106v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/EgoHumanoid</p></details> |
+| **[DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos](https://arxiv.org/abs/2602.10105v1)** | 2026-02-10 |  |
+| **[Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/abs/2602.10104v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://showlab.github.io/Olaf-World/ Code: https://github.com/showlab/Olaf-World</p></details> |
+| **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/abs/2602.10102v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code and models are released at: https://maverickren.github.io/VideoWorld2.github.io/</p></details> |
 
