@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project Page: https://nvlabs.github.io/sage</p></details> |
-| **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/abs/2602.10113v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://myangwu.github.io/ConsID-Gen</p></details> |
-| **[Learning Agile Quadrotor Flight in the Real World](https://arxiv.org/abs/2602.10111v1)** | 2026-02-10 |  |
-| **[ST4VLA: Spatially Guided Training for Vision-Language-Action Models](https://arxiv.org/abs/2602.10109v1)** | 2026-02-10 | <details><summary>Spati...</summary><p>Spatially Training for VLA, Accepted by ICLR 2026</p></details> |
-| **[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://arxiv.org/abs/2602.10106v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/EgoHumanoid</p></details> |
-| **[DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos](https://arxiv.org/abs/2602.10105v1)** | 2026-02-10 |  |
-| **[Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/abs/2602.10104v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://showlab.github.io/Olaf-World/ Code: https://github.com/showlab/Olaf-World</p></details> |
-| **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/abs/2602.10102v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code and models are released at: https://maverickren.github.io/VideoWorld2.github.io/</p></details> |
+| **[SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos](https://arxiv.org/abs/2602.11154v1)** | 2026-02-11 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project website: https://yuegao.me/SurfPhase</p></details> |
+| **[Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning](https://arxiv.org/abs/2602.11149v1)** | 2026-02-11 |  |
+| **[GENIUS: Generative Fluid Intelligence Evaluation Suite](https://arxiv.org/abs/2602.11144v1)** | 2026-02-11 |  |
+| **[Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows](https://arxiv.org/abs/2602.11142v1)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE International Conference on Robotics and Automation 2026</p></details> |
+| **[LCIP: Loss-Controlled Inverse Projection of High-Dimensional Image Data](https://arxiv.org/abs/2602.11141v1)** | 2026-02-11 |  |
+| **[Reed-Muller Error-Correction Code Encoder for SFQ-to-CMOS Interface Circuits](https://arxiv.org/abs/2602.11140v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Applied Superconductivity</p></details> |
+| **[TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project Page: https://nvlabs.github.io/sage</p></details> |
-| **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/abs/2602.10113v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://myangwu.github.io/ConsID-Gen</p></details> |
-| **[Learning Agile Quadrotor Flight in the Real World](https://arxiv.org/abs/2602.10111v1)** | 2026-02-10 |  |
-| **[ST4VLA: Spatially Guided Training for Vision-Language-Action Models](https://arxiv.org/abs/2602.10109v1)** | 2026-02-10 | <details><summary>Spati...</summary><p>Spatially Training for VLA, Accepted by ICLR 2026</p></details> |
-| **[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://arxiv.org/abs/2602.10106v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/EgoHumanoid</p></details> |
-| **[DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos](https://arxiv.org/abs/2602.10105v1)** | 2026-02-10 |  |
-| **[Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/abs/2602.10104v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://showlab.github.io/Olaf-World/ Code: https://github.com/showlab/Olaf-World</p></details> |
-| **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/abs/2602.10102v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code and models are released at: https://maverickren.github.io/VideoWorld2.github.io/</p></details> |
+| **[Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning](https://arxiv.org/abs/2602.11149v1)** | 2026-02-11 |  |
+| **[Let Leaders Play Games: Improving Timing in Leader-based Consensus](https://arxiv.org/abs/2602.11147v1)** | 2026-02-11 |  |
+| **[APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots](https://arxiv.org/abs/2602.11143v1)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project Website: https://apex-humanoid.github.io/</p></details> |
+| **[Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows](https://arxiv.org/abs/2602.11142v1)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE International Conference on Robotics and Automation 2026</p></details> |
+| **[LCIP: Loss-Controlled Inverse Projection of High-Dimensional Image Data](https://arxiv.org/abs/2602.11141v1)** | 2026-02-11 |  |
+| **[Reed-Muller Error-Correction Code Encoder for SFQ-to-CMOS Interface Circuits](https://arxiv.org/abs/2602.11140v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Applied Superconductivity</p></details> |
+| **[TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://arxiv.org/abs/2602.09934v1)** | 2026-02-10 |  |
-| **[Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection](https://arxiv.org/abs/2602.09850v1)** | 2026-02-10 |  |
-| **[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](https://arxiv.org/abs/2602.06037v2)** | 2026-02-10 |  |
-| **[E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs](https://arxiv.org/abs/2602.08355v2)** | 2026-02-10 |  |
-| **[TAMMs: Change Understanding and Forecasting in Satellite Image Time Series with Temporal-Aware Multimodal Models](https://arxiv.org/abs/2506.18862v3)** | 2026-02-10 | <details><summary>Publi...</summary><p>Published as a conference paper at The Fourteenth International Conference on Learning Representations (ICLR 2026)</p></details> |
-| **[RS-Agent: Automating Remote Sensing Tasks through Intelligent Agent](https://arxiv.org/abs/2406.07089v3)** | 2026-02-10 |  |
-| **[From Correspondence to Actions: Human-Like Multi-Image Spatial Reasoning in Multi-modal Large Language Models](https://arxiv.org/abs/2602.08735v2)** | 2026-02-10 |  |
-| **[SchröMind: Mitigating Hallucinations in Multimodal Large Language Models via Solving the Schrödinger Bridge Problem](https://arxiv.org/abs/2602.09528v1)** | 2026-02-10 | ICASSP 2026 |
-| **[Singpath-VL Technical Report](https://arxiv.org/abs/2602.09523v1)** | 2026-02-10 |  |
-| **[Beyond Next-Token Alignment: Distilling Multimodal Large Language Models via Token Interactions](https://arxiv.org/abs/2602.09483v1)** | 2026-02-10 |  |
+| **[RSHallu: Dual-Mode Hallucination Evaluation for Remote-Sensing Multimodal Large Language Models with Domain-Tailored Mitigation](https://arxiv.org/abs/2602.10799v1)** | 2026-02-11 |  |
+| **[GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes](https://arxiv.org/abs/2511.22645v2)** | 2026-02-11 | <details><summary>Code,...</summary><p>Code, data, and models will be publicly available at https://github.com/MiliLab/GeoZero</p></details> |
+| **[Catching the Details: Self-Distilled RoI Predictors for Fine-Grained MLLM Perception](https://arxiv.org/abs/2509.16944v3)** | 2026-02-11 | 20 pages, 6 figures |
+| **[Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance](https://arxiv.org/abs/2602.05774v2)** | 2026-02-11 | <details><summary>This ...</summary><p>This paper has been withdrawn by the authors due to an error in the VSD method</p></details> |
+| **[WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](https://arxiv.org/abs/2511.20022v2)** | 2026-02-11 |  |
+| **[Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle](https://arxiv.org/abs/2508.05612v4)** | 2026-02-11 | <details><summary>This ...</summary><p>This paper has been accepted to ICLR 2026 Project page at: https://xenozlh.github.io/Shuffle-R1/</p></details> |
+| **[MetaphorStar: Image Metaphor Understanding and Reasoning with End-to-End Visual Reinforcement Learning](https://arxiv.org/abs/2602.10575v1)** | 2026-02-11 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 11 tables; Code: https://github.com/MING-ZCH/MetaphorStar, Model & Dataset: https://huggingface.co/collections/MING-ZCH/metaphorstar</p></details> |
+| **[Order from Chaos: Physical World Understanding from Glitchy Gameplay Videos](https://arxiv.org/abs/2601.16471v2)** | 2026-02-11 | Accepted by TMLR |
+| **[MME-Emotion: A Holistic Evaluation Benchmark for Emotional Intelligence in Multimodal Large Language Models](https://arxiv.org/abs/2508.09210v2)** | 2026-02-11 |  |
+| **[Constructive Distortion: Improving MLLMs with Attention-Guided Image Warping](https://arxiv.org/abs/2510.09741v2)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SAGE: Scalable Agentic 3D Scene Generation for Embodied AI](https://arxiv.org/abs/2602.10116v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project Page: https://nvlabs.github.io/sage</p></details> |
-| **[ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation](https://arxiv.org/abs/2602.10113v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://myangwu.github.io/ConsID-Gen</p></details> |
-| **[Learning Agile Quadrotor Flight in the Real World](https://arxiv.org/abs/2602.10111v1)** | 2026-02-10 |  |
-| **[ST4VLA: Spatially Guided Training for Vision-Language-Action Models](https://arxiv.org/abs/2602.10109v1)** | 2026-02-10 | <details><summary>Spati...</summary><p>Spatially Training for VLA, Accepted by ICLR 2026</p></details> |
-| **[EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration](https://arxiv.org/abs/2602.10106v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://opendrivelab.com/EgoHumanoid</p></details> |
-| **[DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos](https://arxiv.org/abs/2602.10105v1)** | 2026-02-10 |  |
-| **[Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/abs/2602.10104v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project page: https://showlab.github.io/Olaf-World/ Code: https://github.com/showlab/Olaf-World</p></details> |
-| **[VideoWorld 2: Learning Transferable Knowledge from Real-world Videos](https://arxiv.org/abs/2602.10102v1)** | 2026-02-10 | <details><summary>Code ...</summary><p>Code and models are released at: https://maverickren.github.io/VideoWorld2.github.io/</p></details> |
+| **[Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning](https://arxiv.org/abs/2602.11149v1)** | 2026-02-11 |  |
+| **[Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows](https://arxiv.org/abs/2602.11142v1)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE International Conference on Robotics and Automation 2026</p></details> |
+| **[LCIP: Loss-Controlled Inverse Projection of High-Dimensional Image Data](https://arxiv.org/abs/2602.11141v1)** | 2026-02-11 |  |
+| **[Reed-Muller Error-Correction Code Encoder for SFQ-to-CMOS Interface Circuits](https://arxiv.org/abs/2602.11140v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Applied Superconductivity</p></details> |
+| **[TabICLv2: A better, faster, scalable, and open tabular foundation model](https://arxiv.org/abs/2602.11139v1)** | 2026-02-11 |  |
+| **[MOTGNN: Interpretable Graph Neural Networks for Multi-Omics Disease Classification](https://arxiv.org/abs/2508.07465v2)** | 2026-02-11 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
+| **[Weight Decay Improves Language Model Plasticity](https://arxiv.org/abs/2602.11137v1)** | 2026-02-11 |  |
+| **[Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models](https://arxiv.org/abs/2408.06717v3)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at WSDM 2026. Title changed from "Computation-friendly graph neural network design by accumulating knowledge on large language models" to "Proficient Graph Neural Network Design by Accumulating Knowledge on Large Language Models"</p></details> |
 
