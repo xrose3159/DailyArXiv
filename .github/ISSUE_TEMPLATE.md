@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 16, 2026
+title: Latest 15 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,51 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281v1)** | 2026-02-12 |  |
-| **[UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://arxiv.org/abs/2602.12279v1)** | 2026-02-12 |  |
-| **[Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage](https://arxiv.org/abs/2602.12274v1)** | 2026-02-12 |  |
-| **[Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs](https://arxiv.org/abs/2602.12273v1)** | 2026-02-12 |  |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v2)** | 2026-02-12 | Under review |
-| **[Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data](https://arxiv.org/abs/2602.12267v1)** | 2026-02-12 |  |
-| **[Think like a Scientist: Physics-guided LLM Agent for Equation Discovery](https://arxiv.org/abs/2602.12259v1)** | 2026-02-12 |  |
-| **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](https://arxiv.org/abs/2509.04169v2)** | 2026-02-12 |  |
+| **[Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos](https://arxiv.org/abs/2602.13197v1)** | 2026-02-13 |  |
+| **[Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision](https://arxiv.org/abs/2602.13195v1)** | 2026-02-13 | <details><summary>Proje...</summary><p>Project webpage: https://glab-caltech.github.io/converseg/</p></details> |
+| **[R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004v4)** | 2026-02-13 |  |
+| **[Non-parametric finite-sample credible intervals with one-dimensional priors: a middle ground between Bayesian and frequentist intervals](https://arxiv.org/abs/2601.17621v2)** | 2026-02-13 |  |
+| **[Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows](https://arxiv.org/abs/2602.13184v1)** | 2026-02-13 | 25 pages, 14 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Selection of CMIP6 Models for Regional Precipitation Projection and Climate Change Assessment in the Jhelum and Chenab River Basins](https://arxiv.org/abs/2602.13181v1)** | 2026-02-13 | 28 pages |
+| **[Privacy-Preserving Federated Learning with Verifiable Fairness Guarantees](https://arxiv.org/abs/2601.12447v2)** | 2026-02-13 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281v1)** | 2026-02-12 |  |
-| **[UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://arxiv.org/abs/2602.12279v1)** | 2026-02-12 |  |
-| **[Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage](https://arxiv.org/abs/2602.12274v1)** | 2026-02-12 |  |
-| **[Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs](https://arxiv.org/abs/2602.12273v1)** | 2026-02-12 |  |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v2)** | 2026-02-12 | Under review |
-| **[Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data](https://arxiv.org/abs/2602.12267v1)** | 2026-02-12 |  |
-| **[Think like a Scientist: Physics-guided LLM Agent for Equation Discovery](https://arxiv.org/abs/2602.12259v1)** | 2026-02-12 |  |
-| **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](https://arxiv.org/abs/2509.04169v2)** | 2026-02-12 |  |
-| **[Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting](https://arxiv.org/abs/2602.12256v1)** | 2026-02-12 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, accepted to ICPC 2026 (34th International Conference on Program Comprehension)</p></details> |
+| **[Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos](https://arxiv.org/abs/2602.13197v1)** | 2026-02-13 |  |
+| **[Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision](https://arxiv.org/abs/2602.13195v1)** | 2026-02-13 | <details><summary>Proje...</summary><p>Project webpage: https://glab-caltech.github.io/converseg/</p></details> |
+| **[R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004v4)** | 2026-02-13 |  |
+| **[Non-parametric finite-sample credible intervals with one-dimensional priors: a middle ground between Bayesian and frequentist intervals](https://arxiv.org/abs/2601.17621v2)** | 2026-02-13 |  |
+| **[Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows](https://arxiv.org/abs/2602.13184v1)** | 2026-02-13 | 25 pages, 14 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Selection of CMIP6 Models for Regional Precipitation Projection and Climate Change Assessment in the Jhelum and Chenab River Basins](https://arxiv.org/abs/2602.13181v1)** | 2026-02-13 | 28 pages |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education](https://arxiv.org/abs/2602.12196v1)** | 2026-02-12 |  |
-| **[DeepSight: An All-in-One LM Safety Toolkit](https://arxiv.org/abs/2602.12092v1)** | 2026-02-12 | <details><summary>Techn...</summary><p>Technical report, 29 pages, 24 figures</p></details> |
-| **[Spatial Chain-of-Thought: Bridging Understanding and Generation Models for Spatial Reasoning Generation](https://arxiv.org/abs/2602.11980v1)** | 2026-02-12 | 19 pages, 4 figures |
-| **[Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception](https://arxiv.org/abs/2602.11858v1)** | 2026-02-12 |  |
-| **[AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild](https://arxiv.org/abs/2602.11750v1)** | 2026-02-12 | 21 pages, 7 figures |
-| **[Mask What Matters: Mitigating Object Hallucinations in Multimodal Large Language Models with Object-Aligned Visual Contrastive Decoding](https://arxiv.org/abs/2602.11737v1)** | 2026-02-12 |  |
-| **[Beyond Pixels: Vector-to-Graph Transformation for Reliable Schematic Auditing](https://arxiv.org/abs/2602.11678v1)** | 2026-02-12 | <details><summary>4 pag...</summary><p>4 pages, 3 figures. Accepted to ICASSP 2026</p></details> |
-| **[SToRM: Supervised Token Reduction for Multi-modal LLMs toward efficient end-to-end autonomous driving](https://arxiv.org/abs/2602.11656v1)** | 2026-02-12 |  |
-| **[Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation](https://arxiv.org/abs/2602.05548v2)** | 2026-02-12 |  |
-| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v1)** | 2026-02-12 |  |
+| **[Fix Before Search: Benchmarking Agentic Query Visual Pre-processing in Multimodal Retrieval-augmented Generation](https://arxiv.org/abs/2602.13179v1)** | 2026-02-13 |  |
+| **[Human-Aligned MLLM Judges for Fine-Grained Image Editing Evaluation: A Benchmark, Framework, and Analysis](https://arxiv.org/abs/2602.13028v1)** | 2026-02-13 |  |
+| **[Towards Universal Video MLLMs with Attribute-Structured and Quality-Verified Instructions](https://arxiv.org/abs/2602.13013v1)** | 2026-02-13 | <details><summary>Proje...</summary><p>Project page: https://asid-caption.github.io/</p></details> |
+| **[Unleashing MLLMs on the Edge: A Unified Framework for Cross-Modal ReID via Adaptive SVD Distillation](https://arxiv.org/abs/2602.12936v1)** | 2026-02-13 | <details><summary>Equal...</summary><p>Equal contribution by Jie Li</p></details> |
+| **[Reliable Thinking with Images](https://arxiv.org/abs/2602.12916v1)** | 2026-02-13 | 26 pages, 19 figures |
+| **[RADAR: Revealing Asymmetric Development of Abilities in MLLM Pre-training](https://arxiv.org/abs/2602.12892v1)** | 2026-02-13 |  |
+| **[BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2602.12876v1)** | 2026-02-13 |  |
+| **[Bootstrapping MLLM for Weakly-Supervised Class-Agnostic Object Counting](https://arxiv.org/abs/2602.12774v1)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[MLLM-CTBench: A Benchmark for Continual Instruction Tuning with Reasoning Process Diagnosis](https://arxiv.org/abs/2508.08275v3)** | 2026-02-13 | under review |
+| **[Investigating Redundancy in Multimodal Large Language Models with Multiple Vision Encoders](https://arxiv.org/abs/2507.03262v4)** | 2026-02-13 | <details><summary>accep...</summary><p>accepted by ICLR2026, project website: https://github.com/MaoSong2022/Encoder-Redundancy</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281v1)** | 2026-02-12 |  |
-| **[UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://arxiv.org/abs/2602.12279v1)** | 2026-02-12 |  |
-| **[Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage](https://arxiv.org/abs/2602.12274v1)** | 2026-02-12 |  |
-| **[Learning to Control: The iUzawa-Net for Nonsmooth Optimal Control of Linear PDEs](https://arxiv.org/abs/2602.12273v1)** | 2026-02-12 |  |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v2)** | 2026-02-12 | Under review |
-| **[Self-Supervised Learning via Flow-Guided Neural Operator on Time-Series Data](https://arxiv.org/abs/2602.12267v1)** | 2026-02-12 |  |
-| **[Think like a Scientist: Physics-guided LLM Agent for Equation Discovery](https://arxiv.org/abs/2602.12259v1)** | 2026-02-12 |  |
-| **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](https://arxiv.org/abs/2509.04169v2)** | 2026-02-12 |  |
+| **[Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos](https://arxiv.org/abs/2602.13197v1)** | 2026-02-13 |  |
+| **[Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision](https://arxiv.org/abs/2602.13195v1)** | 2026-02-13 | <details><summary>Proje...</summary><p>Project webpage: https://glab-caltech.github.io/converseg/</p></details> |
+| **[R-Zero: Self-Evolving Reasoning LLM from Zero Data](https://arxiv.org/abs/2508.05004v4)** | 2026-02-13 |  |
+| **[Non-parametric finite-sample credible intervals with one-dimensional priors: a middle ground between Bayesian and frequentist intervals](https://arxiv.org/abs/2601.17621v2)** | 2026-02-13 |  |
+| **[Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows](https://arxiv.org/abs/2602.13184v1)** | 2026-02-13 | 25 pages, 14 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Selection of CMIP6 Models for Regional Precipitation Projection and Climate Change Assessment in the Jhelum and Chenab River Basins](https://arxiv.org/abs/2602.13181v1)** | 2026-02-13 | 28 pages |
+| **[Privacy-Preserving Federated Learning with Verifiable Fairness Guarantees](https://arxiv.org/abs/2601.12447v2)** | 2026-02-13 |  |
 
