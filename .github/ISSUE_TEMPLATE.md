@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 20, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,56 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](https://arxiv.org/abs/2602.16710v1)** | 2026-02-18 |  |
-| **[Knowledge-Embedded Latent Projection for Robust Representation Learning](https://arxiv.org/abs/2602.16709v1)** | 2026-02-18 |  |
-| **[Policy Compiler for Secure Agentic Systems](https://arxiv.org/abs/2602.16708v1)** | 2026-02-18 |  |
-| **[Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology](https://arxiv.org/abs/2602.16703v1)** | 2026-02-18 |  |
-| **[Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning](https://arxiv.org/abs/2602.16702v1)** | 2026-02-18 | <details><summary>prepr...</summary><p>preprint 10 pages, 4 figures</p></details> |
-| **[Causality is Key for Interpretability Claims to Generalise](https://arxiv.org/abs/2602.16698v1)** | 2026-02-18 |  |
-| **[Protecting the Undeleted in Machine Unlearning](https://arxiv.org/abs/2602.16697v1)** | 2026-02-18 |  |
-| **[Parameter-free representations outperform single-cell foundation models on downstream benchmarks](https://arxiv.org/abs/2602.16696v1)** | 2026-02-18 |  |
+| **[CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts](https://arxiv.org/abs/2602.17663v1)** | 2026-02-19 | <details><summary>ECIR ...</summary><p>ECIR 2026. CLEF Evaluation Lab. Registration DL: 2026/04/23. Task Homepage at https://hipe-eval.github.io/HIPE-2026/</p></details> |
+| **[MARS: Margin-Aware Reward-Modeling with Self-Refinement](https://arxiv.org/abs/2602.17658v1)** | 2026-02-19 |  |
+| **[What Language is This? Ask Your Tokenizer](https://arxiv.org/abs/2602.17655v1)** | 2026-02-19 |  |
+| **[Human-level 3D shape perception emerges from multi-view learning](https://arxiv.org/abs/2602.17650v1)** | 2026-02-19 |  |
+| **[Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting](https://arxiv.org/abs/2602.17645v1)** | 2026-02-19 | <details><summary>Code ...</summary><p>Code at: https://github.com/vila-lab/M-Attack-V2</p></details> |
+| **[FAMOSE: A ReAct Approach to Automated Feature Discovery](https://arxiv.org/abs/2602.17641v1)** | 2026-02-19 | 23 pages, 6 figures |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v1)** | 2026-02-19 |  |
+| **[Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning](https://arxiv.org/abs/2602.17625v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
+| **[Unmasking the Factual-Conceptual Gap in Persian Language Models](https://arxiv.org/abs/2602.17623v1)** | 2026-02-19 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](https://arxiv.org/abs/2602.16710v1)** | 2026-02-18 |  |
-| **[Knowledge-Embedded Latent Projection for Robust Representation Learning](https://arxiv.org/abs/2602.16709v1)** | 2026-02-18 |  |
-| **[Policy Compiler for Secure Agentic Systems](https://arxiv.org/abs/2602.16708v1)** | 2026-02-18 |  |
-| **[Reinforced Fast Weights with Next-Sequence Prediction](https://arxiv.org/abs/2602.16704v1)** | 2026-02-18 |  |
-| **[Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology](https://arxiv.org/abs/2602.16703v1)** | 2026-02-18 |  |
-| **[Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning](https://arxiv.org/abs/2602.16702v1)** | 2026-02-18 | <details><summary>prepr...</summary><p>preprint 10 pages, 4 figures</p></details> |
-| **[Causality is Key for Interpretability Claims to Generalise](https://arxiv.org/abs/2602.16698v1)** | 2026-02-18 |  |
-| **[Protecting the Undeleted in Machine Unlearning](https://arxiv.org/abs/2602.16697v1)** | 2026-02-18 |  |
+| **[CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts](https://arxiv.org/abs/2602.17663v1)** | 2026-02-19 | <details><summary>ECIR ...</summary><p>ECIR 2026. CLEF Evaluation Lab. Registration DL: 2026/04/23. Task Homepage at https://hipe-eval.github.io/HIPE-2026/</p></details> |
+| **[When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs](https://arxiv.org/abs/2602.17659v1)** | 2026-02-19 | <details><summary>Websi...</summary><p>Website: https://vla-va.github.io/</p></details> |
+| **[MARS: Margin-Aware Reward-Modeling with Self-Refinement](https://arxiv.org/abs/2602.17658v1)** | 2026-02-19 |  |
+| **[What Language is This? Ask Your Tokenizer](https://arxiv.org/abs/2602.17655v1)** | 2026-02-19 |  |
+| **[Human-level 3D shape perception emerges from multi-view learning](https://arxiv.org/abs/2602.17650v1)** | 2026-02-19 |  |
+| **[Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting](https://arxiv.org/abs/2602.17645v1)** | 2026-02-19 | <details><summary>Code ...</summary><p>Code at: https://github.com/vila-lab/M-Attack-V2</p></details> |
+| **[FAMOSE: A ReAct Approach to Automated Feature Discovery](https://arxiv.org/abs/2602.17641v1)** | 2026-02-19 | 23 pages, 6 figures |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v1)** | 2026-02-19 |  |
+| **[Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning](https://arxiv.org/abs/2602.17625v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding](https://arxiv.org/abs/2602.16412v1)** | 2026-02-18 |  |
-| **[MedReasoner: Reinforcement Learning Drives Reasoning Grounding from Clinical Thought to Pixel-Level Precision](https://arxiv.org/abs/2508.08177v3)** | 2026-02-18 | AAAI2026 |
-| **[Investigation for Relative Voice Impression Estimation](https://arxiv.org/abs/2602.14172v2)** | 2026-02-18 | <details><summary>5 pag...</summary><p>5 pages,3 figures, Accepted to Speech Prosody 2026</p></details> |
-| **[ViTaB-A: Evaluating Multimodal Large Language Models on Visual Table Attribution](https://arxiv.org/abs/2602.15769v1)** | 2026-02-17 |  |
-| **[ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models](https://arxiv.org/abs/2602.15758v1)** | 2026-02-17 | <details><summary>16 pa...</summary><p>16 pages, 13 figures including Supplementary Material</p></details> |
-| **[Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812v2)** | 2026-02-17 | <details><summary>ACM W...</summary><p>ACM Web Conference 2026 (WWW'26)</p></details> |
-| **[Text-Guided Layer Fusion Mitigates Hallucination in Multimodal LLMs](https://arxiv.org/abs/2601.03100v2)** | 2026-02-17 |  |
-| **[Improving MLLMs in Embodied Exploration and Question Answering with Human-Inspired Memory Modeling](https://arxiv.org/abs/2602.15513v1)** | 2026-02-17 |  |
-| **[Emergent Morphing Attack Detection in Open Multi-modal Large Language Models](https://arxiv.org/abs/2602.15461v1)** | 2026-02-17 | <details><summary>This ...</summary><p>This manuscript is currently under review at Pattern Recognition Letters</p></details> |
-| **[One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation](https://arxiv.org/abs/2602.15400v1)** | 2026-02-17 |  |
+| **[RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558v1)** | 2026-02-19 | 10 pages, 6 figures |
+| **[GraphThinker: Reinforcing Video Reasoning with Event Graph Thinking](https://arxiv.org/abs/2602.17555v1)** | 2026-02-19 | Under review |
+| **[QuPAINT: Physics-Aware Instruction Tuning Approach to Quantum Material Discovery](https://arxiv.org/abs/2602.17478v1)** | 2026-02-19 | <details><summary>Proje...</summary><p>Project page: https://uark-cviu.github.io/projects/qupaint/</p></details> |
+| **[How Multimodal Large Language Models Support Access to Visual Information: A Diary Study With Blind and Low Vision People](https://arxiv.org/abs/2602.13469v2)** | 2026-02-19 | <details><summary>24 pa...</summary><p>24 pages, 17 figures, 7 tables, appendix section, to appear main track CHI 2026</p></details> |
+| **[EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models](https://arxiv.org/abs/2602.17419v1)** | 2026-02-19 |  |
+| **[EA-Swin: An Embedding-Agnostic Swin Transformer for AI-Generated Video Detection](https://arxiv.org/abs/2602.17260v1)** | 2026-02-19 | First preprint |
+| **[MCIF: Multimodal Crosslingual Instruction-Following Benchmark from Scientific Talks](https://arxiv.org/abs/2507.19634v3)** | 2026-02-19 | <details><summary>Data ...</summary><p>Data available at https://huggingface.co/datasets/FBK-MT/MCIF | Evaluation, outputs, and baselines available at https://github.com/hlt-mt/mcif</p></details> |
+| **[EntropyPrune: Matrix Entropy Guided Visual Token Pruning for Multimodal Large Language Models](https://arxiv.org/abs/2602.17196v1)** | 2026-02-19 |  |
+| **[VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction](https://arxiv.org/abs/2602.13294v2)** | 2026-02-19 |  |
+| **[Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs](https://arxiv.org/abs/2510.09201v2)** | 2026-02-19 | ICLR 2026 |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data](https://arxiv.org/abs/2602.16710v1)** | 2026-02-18 |  |
-| **[Knowledge-Embedded Latent Projection for Robust Representation Learning](https://arxiv.org/abs/2602.16709v1)** | 2026-02-18 |  |
-| **[Policy Compiler for Secure Agentic Systems](https://arxiv.org/abs/2602.16708v1)** | 2026-02-18 |  |
-| **[Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology](https://arxiv.org/abs/2602.16703v1)** | 2026-02-18 |  |
-| **[Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning](https://arxiv.org/abs/2602.16702v1)** | 2026-02-18 | <details><summary>prepr...</summary><p>preprint 10 pages, 4 figures</p></details> |
-| **[Causality is Key for Interpretability Claims to Generalise](https://arxiv.org/abs/2602.16698v1)** | 2026-02-18 |  |
-| **[Protecting the Undeleted in Machine Unlearning](https://arxiv.org/abs/2602.16697v1)** | 2026-02-18 |  |
-| **[Parameter-free representations outperform single-cell foundation models on downstream benchmarks](https://arxiv.org/abs/2602.16696v1)** | 2026-02-18 |  |
+| **[CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts](https://arxiv.org/abs/2602.17663v1)** | 2026-02-19 | <details><summary>ECIR ...</summary><p>ECIR 2026. CLEF Evaluation Lab. Registration DL: 2026/04/23. Task Homepage at https://hipe-eval.github.io/HIPE-2026/</p></details> |
+| **[MARS: Margin-Aware Reward-Modeling with Self-Refinement](https://arxiv.org/abs/2602.17658v1)** | 2026-02-19 |  |
+| **[What Language is This? Ask Your Tokenizer](https://arxiv.org/abs/2602.17655v1)** | 2026-02-19 |  |
+| **[Human-level 3D shape perception emerges from multi-view learning](https://arxiv.org/abs/2602.17650v1)** | 2026-02-19 |  |
+| **[Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting](https://arxiv.org/abs/2602.17645v1)** | 2026-02-19 | <details><summary>Code ...</summary><p>Code at: https://github.com/vila-lab/M-Attack-V2</p></details> |
+| **[FAMOSE: A ReAct Approach to Automated Feature Discovery](https://arxiv.org/abs/2602.17641v1)** | 2026-02-19 | 23 pages, 6 figures |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting](https://arxiv.org/abs/2602.17634v1)** | 2026-02-19 |  |
+| **[Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning](https://arxiv.org/abs/2602.17625v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE International Conference on Big Data (IEEE BigData) 2025</p></details> |
+| **[Unmasking the Factual-Conceptual Gap in Persian Language Models](https://arxiv.org/abs/2602.17623v1)** | 2026-02-19 |  |
 
