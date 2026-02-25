@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 25, 2026
+title: Latest 15 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,47 +7,44 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://arxiv.org/abs/2602.20161v1)** | 2026-02-23 | <details><summary>Proje...</summary><p>Project page: https://amshaker.github.io/Mobile-O/</p></details> |
-| **[tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](https://arxiv.org/abs/2602.20160v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://cwchenwang.github.io/tttLRM</p></details> |
-| **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159v1)** | 2026-02-23 | <details><summary>Homep...</summary><p>Homepage: https://video-reason.com/</p></details> |
-| **[Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning](https://arxiv.org/abs/2602.20157v1)** | 2026-02-23 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project website: https://flow3r-project.github.io/</p></details> |
-| **[Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156v1)** | 2026-02-23 |  |
-| **[Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data](https://arxiv.org/abs/2602.20152v1)** | 2026-02-23 | ICLR 2026 |
-| **[Do Large Language Models Understand Data Visualization Rules?](https://arxiv.org/abs/2602.20137v1)** | 2026-02-23 |  |
+| **[Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics](https://arxiv.org/abs/2602.21203v1)** | 2026-02-24 | <details><summary>For w...</summary><p>For website and code, see https://aalmuzairee.github.io/squint</p></details> |
+| **[Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography](https://arxiv.org/abs/2602.21195v1)** | 2026-02-24 |  |
+| **[An Adaptive CMSA for Solving the Longest Filled Common Subsequence Problem with an Application in Audio Querying](https://arxiv.org/abs/2509.12261v2)** | 2026-02-24 |  |
+| **[On Data Engineering for Scaling LLM Terminal Capabilities](https://arxiv.org/abs/2602.21193v1)** | 2026-02-24 |  |
+| **[Transfer Learning in Infinite Width Feature Learning Networks](https://arxiv.org/abs/2507.04448v2)** | 2026-02-24 |  |
+| **[Human Video Generation from a Single Image with 3D Pose and View Control](https://arxiv.org/abs/2602.21188v1)** | 2026-02-24 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://arxiv.org/abs/2602.20161v1)** | 2026-02-23 | <details><summary>Proje...</summary><p>Project page: https://amshaker.github.io/Mobile-O/</p></details> |
-| **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159v1)** | 2026-02-23 | <details><summary>Homep...</summary><p>Homepage: https://video-reason.com/</p></details> |
-| **[Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning](https://arxiv.org/abs/2602.20157v1)** | 2026-02-23 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project website: https://flow3r-project.github.io/</p></details> |
-| **[Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156v1)** | 2026-02-23 |  |
-| **[Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data](https://arxiv.org/abs/2602.20152v1)** | 2026-02-23 | ICLR 2026 |
-| **[Conformal Risk Control for Non-Monotonic Losses](https://arxiv.org/abs/2602.20151v1)** | 2026-02-23 |  |
-| **[Do Large Language Models Understand Data Visualization Rules?](https://arxiv.org/abs/2602.20137v1)** | 2026-02-23 |  |
+| **[Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics](https://arxiv.org/abs/2602.21203v1)** | 2026-02-24 | <details><summary>For w...</summary><p>For website and code, see https://aalmuzairee.github.io/squint</p></details> |
+| **[Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography](https://arxiv.org/abs/2602.21195v1)** | 2026-02-24 |  |
+| **[An Adaptive CMSA for Solving the Longest Filled Common Subsequence Problem with an Application in Audio Querying](https://arxiv.org/abs/2509.12261v2)** | 2026-02-24 |  |
+| **[On Data Engineering for Scaling LLM Terminal Capabilities](https://arxiv.org/abs/2602.21193v1)** | 2026-02-24 |  |
+| **[Transfer Learning in Infinite Width Feature Learning Networks](https://arxiv.org/abs/2507.04448v2)** | 2026-02-24 |  |
+| **[Memory Undone: Between Knowing and Not Knowing in Data Systems](https://arxiv.org/abs/2602.21180v1)** | 2026-02-24 | <details><summary>Undon...</summary><p>Undone Computer Science 2026</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding](https://arxiv.org/abs/2510.23479v3)** | 2026-02-23 | <details><summary>ICLR ...</summary><p>ICLR 2026, Web link: https://jinxins.github.io/MergeMix_Web/</p></details> |
-| **[MathScape: Benchmarking Multimodal Large Language Models in Real-World Mathematical Contexts](https://arxiv.org/abs/2408.07543v6)** | 2026-02-23 |  |
-| **[Unlocking Multimodal Document Intelligence: From Current Triumphs to Future Frontiers of Visual Document Retrieval](https://arxiv.org/abs/2602.19961v1)** | 2026-02-23 | Under review |
-| **[Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation](https://arxiv.org/abs/2602.19944v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 (main conference)</p></details> |
-| **[TextShield-R1: Reinforced Reasoning for Tampered Text Detection](https://arxiv.org/abs/2602.19828v1)** | 2026-02-23 | AAAI 2026 |
-| **[Pixels Don't Lie (But Your Detector Might): Bootstrapping MLLM-as-a-Judge for Trustworthy Deepfake Detection and Reasoning Supervision](https://arxiv.org/abs/2602.19715v1)** | 2026-02-23 | <details><summary>CVPR-...</summary><p>CVPR-2026, Code is available here: https://github.com/KjAeRsTuIsK/DeepfakeJudge</p></details> |
-| **[Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle](https://arxiv.org/abs/2508.05612v5)** | 2026-02-23 | <details><summary>This ...</summary><p>This paper has been accepted by ICLR 2026 Project page at: https://xenozlh.github.io/Shuffle-R1/</p></details> |
-| **[Harnessing Chain-of-Thought Reasoning in Multimodal Large Language Models for Face Anti-Spoofing](https://arxiv.org/abs/2506.01783v2)** | 2026-02-23 | Accepted to CVPR2026 |
-| **[Large Language Model-Assisted UAV Operations and Communications: A Multifaceted Survey and Tutorial](https://arxiv.org/abs/2602.19534v1)** | 2026-02-23 | <details><summary>40 pa...</summary><p>40 pages, 10 figures, 13 tables</p></details> |
-| **[Pixel2Phys: Distilling Governing Laws from Visual Dynamics](https://arxiv.org/abs/2602.19516v1)** | 2026-02-23 | CVPR2026 main track |
+| **[BrowseComp-$V^3$: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents](https://arxiv.org/abs/2602.12876v2)** | 2026-02-24 |  |
+| **[CrystaL: Spontaneous Emergence of Visual Latents in MLLMs](https://arxiv.org/abs/2602.20980v1)** | 2026-02-24 |  |
+| **[Are Multimodal Large Language Models Good Annotators for Image Tagging?](https://arxiv.org/abs/2602.20972v1)** | 2026-02-24 |  |
+| **[LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding](https://arxiv.org/abs/2602.20913v1)** | 2026-02-24 | <details><summary>17 pa...</summary><p>17 pages, 9 figures, 8 tables, accepted to CVPR 2026</p></details> |
+| **[TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering](https://arxiv.org/abs/2602.20903v1)** | 2026-02-24 | <details><summary>Code:...</summary><p>Code: https://github.com/CIawevy/TextPecker</p></details> |
+| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](https://arxiv.org/abs/2506.06251v2)** | 2026-02-24 |  |
+| **[HSSBench: Benchmarking Humanities and Social Sciences Ability for Multimodal Large Language Models](https://arxiv.org/abs/2506.03922v2)** | 2026-02-24 |  |
+| **[Physics-based phenomenological characterization of cross-modal bias in multimodal models](https://arxiv.org/abs/2602.20624v1)** | 2026-02-24 | <details><summary>Best ...</summary><p>Best Paper Award at BiasinAI track in AAAI2026</p></details> |
+| **[HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning](https://arxiv.org/abs/2505.17645v2)** | 2026-02-24 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at NeurIPS 2025</p></details> |
+| **[UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://arxiv.org/abs/2510.18701v2)** | 2026-02-24 | <details><summary>Proje...</summary><p>Project page: codegoat24.github.io/UniGenBench/</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://arxiv.org/abs/2602.20161v1)** | 2026-02-23 | <details><summary>Proje...</summary><p>Project page: https://amshaker.github.io/Mobile-O/</p></details> |
-| **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159v1)** | 2026-02-23 | <details><summary>Homep...</summary><p>Homepage: https://video-reason.com/</p></details> |
-| **[Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning](https://arxiv.org/abs/2602.20157v1)** | 2026-02-23 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project website: https://flow3r-project.github.io/</p></details> |
-| **[Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks](https://arxiv.org/abs/2602.20156v1)** | 2026-02-23 |  |
-| **[Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data](https://arxiv.org/abs/2602.20152v1)** | 2026-02-23 | ICLR 2026 |
-| **[Do Large Language Models Understand Data Visualization Rules?](https://arxiv.org/abs/2602.20137v1)** | 2026-02-23 |  |
-| **[Modeling Epidemiological Dynamics Under Adversarial Data and User Deception](https://arxiv.org/abs/2602.20134v1)** | 2026-02-23 |  |
+| **[Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics](https://arxiv.org/abs/2602.21203v1)** | 2026-02-24 | <details><summary>For w...</summary><p>For website and code, see https://aalmuzairee.github.io/squint</p></details> |
+| **[Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography](https://arxiv.org/abs/2602.21195v1)** | 2026-02-24 |  |
+| **[An Adaptive CMSA for Solving the Longest Filled Common Subsequence Problem with an Application in Audio Querying](https://arxiv.org/abs/2509.12261v2)** | 2026-02-24 |  |
+| **[On Data Engineering for Scaling LLM Terminal Capabilities](https://arxiv.org/abs/2602.21193v1)** | 2026-02-24 |  |
+| **[Transfer Learning in Infinite Width Feature Learning Networks](https://arxiv.org/abs/2507.04448v2)** | 2026-02-24 |  |
+| **[Memory Undone: Between Knowing and Not Knowing in Data Systems](https://arxiv.org/abs/2602.21180v1)** | 2026-02-24 | <details><summary>Undon...</summary><p>Undone Computer Science 2026</p></details> |
 
