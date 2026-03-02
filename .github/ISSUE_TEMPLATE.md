@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 02, 2026
+title: Latest 15 Papers - March 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,48 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Dataset is Worth 1 MB](https://arxiv.org/abs/2602.23358v1)** | 2026-02-26 | 23 pages, 9 figures |
-| **[Sensor Generalization for Adaptive Sensing in Event-based Object Detection via Joint Distribution Training](https://arxiv.org/abs/2602.23357v1)** | 2026-02-26 | <details><summary>12 pa...</summary><p>12 pages, International Conference on Pattern Recognition Applications and Methods</p></details> |
-| **[Robust model selection using likelihood as data](https://arxiv.org/abs/2602.23355v1)** | 2026-02-26 |  |
-| **[SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](https://arxiv.org/abs/2602.23353v1)** | 2026-02-26 | Preprint |
-| **[Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning](https://arxiv.org/abs/2602.23351v1)** | 2026-02-26 | TACL 2026 |
-| **[AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search](https://arxiv.org/abs/2602.23342v1)** | 2026-02-26 | <details><summary>The p...</summary><p>The paper has been accepted by SIGMOD 2026</p></details> |
-| **[Mean Estimation from Coarse Data: Characterizations and Efficient Algorithms](https://arxiv.org/abs/2602.23341v1)** | 2026-02-26 | <details><summary>Abstr...</summary><p>Abstract truncated to arXiv limits. To appear in ICLR'26</p></details> |
+| **[UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images](https://arxiv.org/abs/2602.24290v1)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project page: https://ufo-4d.github.io/</p></details> |
+| **[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://arxiv.org/abs/2602.24289v1)** | 2026-02-27 | <details><summary>Proje...</summary><p>Project website: https://primecai.github.io/mmm/</p></details> |
+| **[DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science](https://arxiv.org/abs/2602.24288v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 10 pages plus appendix</p></details> |
+| **[CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286v1)** | 2026-02-27 |  |
+| **[QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory](https://arxiv.org/abs/2512.05049v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages. Camera-ready version for IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2026</p></details> |
+| **[Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations](https://arxiv.org/abs/2602.24278v1)** | 2026-02-27 |  |
+| **[Hierarchical Action Learning for Weakly-Supervised Action Segmentation](https://arxiv.org/abs/2602.24275v1)** | 2026-02-27 |  |
+| **[NSHEDB: Noise-Sensitive Homomorphic Encrypted Database Query Engine](https://arxiv.org/abs/2602.24271v1)** | 2026-02-27 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Dataset is Worth 1 MB](https://arxiv.org/abs/2602.23358v1)** | 2026-02-26 | 23 pages, 9 figures |
-| **[Sensor Generalization for Adaptive Sensing in Event-based Object Detection via Joint Distribution Training](https://arxiv.org/abs/2602.23357v1)** | 2026-02-26 | <details><summary>12 pa...</summary><p>12 pages, International Conference on Pattern Recognition Applications and Methods</p></details> |
-| **[Robust model selection using likelihood as data](https://arxiv.org/abs/2602.23355v1)** | 2026-02-26 |  |
-| **[SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](https://arxiv.org/abs/2602.23353v1)** | 2026-02-26 | Preprint |
-| **[Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning](https://arxiv.org/abs/2602.23351v1)** | 2026-02-26 | TACL 2026 |
-| **[AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search](https://arxiv.org/abs/2602.23342v1)** | 2026-02-26 | <details><summary>The p...</summary><p>The paper has been accepted by SIGMOD 2026</p></details> |
-| **[Mean Estimation from Coarse Data: Characterizations and Efficient Algorithms](https://arxiv.org/abs/2602.23341v1)** | 2026-02-26 | <details><summary>Abstr...</summary><p>Abstract truncated to arXiv limits. To appear in ICLR'26</p></details> |
+| **[UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images](https://arxiv.org/abs/2602.24290v1)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project page: https://ufo-4d.github.io/</p></details> |
+| **[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://arxiv.org/abs/2602.24289v1)** | 2026-02-27 | <details><summary>Proje...</summary><p>Project website: https://primecai.github.io/mmm/</p></details> |
+| **[DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science](https://arxiv.org/abs/2602.24288v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 10 pages plus appendix</p></details> |
+| **[Do LLMs Benefit From Their Own Words?](https://arxiv.org/abs/2602.24287v1)** | 2026-02-27 |  |
+| **[CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286v1)** | 2026-02-27 |  |
+| **[QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory](https://arxiv.org/abs/2512.05049v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages. Camera-ready version for IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2026</p></details> |
+| **[Memory Caching: RNNs with Growing Memory](https://arxiv.org/abs/2602.24281v1)** | 2026-02-27 |  |
+| **[Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations](https://arxiv.org/abs/2602.24278v1)** | 2026-02-27 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MediX-R1: Open Ended Medical Reinforcement Learning](https://arxiv.org/abs/2602.23363v1)** | 2026-02-26 |  |
-| **[TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering](https://arxiv.org/abs/2602.20903v3)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026; Code: https://github.com/CIawevy/TextPecker</p></details> |
-| **[ProactiveMobile: A Comprehensive Benchmark for Boosting Proactive Intelligence on Mobile Devices](https://arxiv.org/abs/2602.21858v2)** | 2026-02-26 |  |
-| **[FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning](https://arxiv.org/abs/2602.22963v1)** | 2026-02-26 |  |
-| **[Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study](https://arxiv.org/abs/2602.22959v1)** | 2026-02-26 | <details><summary>Code ...</summary><p>Code available at https://github.com/TruhnLab/Contrastive-Agent-Reasoning</p></details> |
-| **[MSJoE: Jointly Evolving MLLM and Sampler for Efficient Long-Form Video Understanding](https://arxiv.org/abs/2602.22932v1)** | 2026-02-26 | Accepted by CVPR2026 |
-| **[Self-adaptive Dataset Construction for Real-World Multimodal Safety Scenarios](https://arxiv.org/abs/2509.04403v2)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Findings</p></details> |
-| **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v2)** | 2026-02-26 | <details><summary>accep...</summary><p>accepted by CVPR 2026; 32 pages, 17 figures, and 6 tables</p></details> |
-| **[Hepato-LLaVA: An Expert MLLM with Sparse Topo-Pack Attention for Hepatocellular Pathology Analysis on Whole Slide Images](https://arxiv.org/abs/2602.19424v2)** | 2026-02-26 | 10 pages, 3 figures |
-| **[ContextRL: Enhancing MLLM's Knowledge Discovery Efficiency with Context-Augmented RL](https://arxiv.org/abs/2602.22623v1)** | 2026-02-26 | 14 pages, 5 figures |
+| **[Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume](https://arxiv.org/abs/2602.24195v1)** | 2026-02-27 | <details><summary>Earli...</summary><p>Earlier versions presented at ICLR 2025 QUESTION workshop and ICML 2025 R2-FM workshop</p></details> |
+| **[Look Carefully: Adaptive Visual Reinforcements in Multimodal Large Language Models for Hallucination Mitigation](https://arxiv.org/abs/2602.24041v1)** | 2026-02-27 | ICLR 2026 |
+| **[GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2602.24027v1)** | 2026-02-27 | ICLR 2026 |
+| **[From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model](https://arxiv.org/abs/2508.00955v2)** | 2026-02-27 |  |
+| **[Steering and Rectifying Latent Representation Manifolds in Frozen Multi-modal LLMs for Video Anomaly Detection](https://arxiv.org/abs/2602.24021v1)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping](https://arxiv.org/abs/2602.23980v1)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Thinking with Images as Continuous Actions: Numerical Visual Chain-of-Thought](https://arxiv.org/abs/2602.23959v1)** | 2026-02-27 |  |
+| **[PointCoT: A Multi-modal Benchmark for Explicit 3D Geometric Reasoning](https://arxiv.org/abs/2602.23945v1)** | 2026-02-27 |  |
+| **[Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks](https://arxiv.org/abs/2602.23898v1)** | 2026-02-27 | ICLR 2026 |
+| **[EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2602.23802v1)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MediX-R1: Open Ended Medical Reinforcement Learning](https://arxiv.org/abs/2602.23363v1)** | 2026-02-26 |  |
-| **[A Dataset is Worth 1 MB](https://arxiv.org/abs/2602.23358v1)** | 2026-02-26 | 23 pages, 9 figures |
-| **[Sensor Generalization for Adaptive Sensing in Event-based Object Detection via Joint Distribution Training](https://arxiv.org/abs/2602.23357v1)** | 2026-02-26 | <details><summary>12 pa...</summary><p>12 pages, International Conference on Pattern Recognition Applications and Methods</p></details> |
-| **[Robust model selection using likelihood as data](https://arxiv.org/abs/2602.23355v1)** | 2026-02-26 |  |
-| **[SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](https://arxiv.org/abs/2602.23353v1)** | 2026-02-26 | Preprint |
-| **[Scale Can't Overcome Pragmatics: The Impact of Reporting Bias on Vision-Language Reasoning](https://arxiv.org/abs/2602.23351v1)** | 2026-02-26 | TACL 2026 |
-| **[AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search](https://arxiv.org/abs/2602.23342v1)** | 2026-02-26 | <details><summary>The p...</summary><p>The paper has been accepted by SIGMOD 2026</p></details> |
-| **[Mean Estimation from Coarse Data: Characterizations and Efficient Algorithms](https://arxiv.org/abs/2602.23341v1)** | 2026-02-26 | <details><summary>Abstr...</summary><p>Abstract truncated to arXiv limits. To appear in ICLR'26</p></details> |
+| **[UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images](https://arxiv.org/abs/2602.24290v1)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project page: https://ufo-4d.github.io/</p></details> |
+| **[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://arxiv.org/abs/2602.24289v1)** | 2026-02-27 | <details><summary>Proje...</summary><p>Project website: https://primecai.github.io/mmm/</p></details> |
+| **[DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science](https://arxiv.org/abs/2602.24288v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 10 pages plus appendix</p></details> |
+| **[CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286v1)** | 2026-02-27 |  |
+| **[QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory](https://arxiv.org/abs/2512.05049v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages. Camera-ready version for IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2026</p></details> |
+| **[Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations](https://arxiv.org/abs/2602.24278v1)** | 2026-02-27 |  |
+| **[Hierarchical Action Learning for Weakly-Supervised Action Segmentation](https://arxiv.org/abs/2602.24275v1)** | 2026-02-27 |  |
+| **[NSHEDB: Noise-Sensitive Homomorphic Encrypted Database Query Engine](https://arxiv.org/abs/2602.24271v1)** | 2026-02-27 |  |
 
