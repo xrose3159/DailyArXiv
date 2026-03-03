@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images](https://arxiv.org/abs/2602.24290v1)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project page: https://ufo-4d.github.io/</p></details> |
-| **[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://arxiv.org/abs/2602.24289v1)** | 2026-02-27 | <details><summary>Proje...</summary><p>Project website: https://primecai.github.io/mmm/</p></details> |
-| **[DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science](https://arxiv.org/abs/2602.24288v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 10 pages plus appendix</p></details> |
-| **[CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286v1)** | 2026-02-27 |  |
-| **[QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory](https://arxiv.org/abs/2512.05049v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages. Camera-ready version for IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2026</p></details> |
-| **[Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations](https://arxiv.org/abs/2602.24278v1)** | 2026-02-27 |  |
-| **[Hierarchical Action Learning for Weakly-Supervised Action Segmentation](https://arxiv.org/abs/2602.24275v1)** | 2026-02-27 |  |
-| **[NSHEDB: Noise-Sensitive Homomorphic Encrypted Database Query Engine](https://arxiv.org/abs/2602.24271v1)** | 2026-02-27 |  |
+| **[HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images](https://arxiv.org/abs/2603.02210v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 (Project page: \url{https://correr-zhou.github.io/HiFi-Inpaint/})</p></details> |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions](https://arxiv.org/abs/2603.02204v1)** | 2026-03-02 |  |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Tool Verification for Test-Time Reinforcement Learning](https://arxiv.org/abs/2603.02203v1)** | 2026-03-02 | 12 pages, 11 figures |
+| **[tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](https://arxiv.org/abs/2602.20160v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://cwchenwang.github.io/tttLRM</p></details> |
+| **[Adaptive Confidence Regularization for Multimodal Failure Detection](https://arxiv.org/abs/2603.02200v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Conformal Policy Control](https://arxiv.org/abs/2603.02196v1)** | 2026-03-02 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images](https://arxiv.org/abs/2602.24290v1)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project page: https://ufo-4d.github.io/</p></details> |
-| **[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://arxiv.org/abs/2602.24289v1)** | 2026-02-27 | <details><summary>Proje...</summary><p>Project website: https://primecai.github.io/mmm/</p></details> |
-| **[DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science](https://arxiv.org/abs/2602.24288v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 10 pages plus appendix</p></details> |
-| **[Do LLMs Benefit From Their Own Words?](https://arxiv.org/abs/2602.24287v1)** | 2026-02-27 |  |
-| **[CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286v1)** | 2026-02-27 |  |
-| **[QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory](https://arxiv.org/abs/2512.05049v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages. Camera-ready version for IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2026</p></details> |
-| **[Memory Caching: RNNs with Growing Memory](https://arxiv.org/abs/2602.24281v1)** | 2026-02-27 |  |
-| **[Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations](https://arxiv.org/abs/2602.24278v1)** | 2026-02-27 |  |
+| **[HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images](https://arxiv.org/abs/2603.02210v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 (Project page: \url{https://correr-zhou.github.io/HiFi-Inpaint/})</p></details> |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions](https://arxiv.org/abs/2603.02204v1)** | 2026-03-02 |  |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Tool Verification for Test-Time Reinforcement Learning](https://arxiv.org/abs/2603.02203v1)** | 2026-03-02 | 12 pages, 11 figures |
+| **[Conformal Policy Control](https://arxiv.org/abs/2603.02196v1)** | 2026-03-02 |  |
+| **[Comparative Analysis of Spatiotemporal Volatility Models: An Empirical Study on Financial Network Series](https://arxiv.org/abs/2603.02195v1)** | 2026-03-02 | <details><summary>28 pa...</summary><p>28 pages, 21 figures. Submitted to the Vienna-Copenhagen Conference on Financial Econometrics (2026)</p></details> |
+| **[Symbol-Equivariant Recurrent Reasoning Models](https://arxiv.org/abs/2603.02193v1)** | 2026-03-02 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Uncertainty Quantification for Multimodal Large Language Models with Incoherence-adjusted Semantic Volume](https://arxiv.org/abs/2602.24195v1)** | 2026-02-27 | <details><summary>Earli...</summary><p>Earlier versions presented at ICLR 2025 QUESTION workshop and ICML 2025 R2-FM workshop</p></details> |
-| **[Look Carefully: Adaptive Visual Reinforcements in Multimodal Large Language Models for Hallucination Mitigation](https://arxiv.org/abs/2602.24041v1)** | 2026-02-27 | ICLR 2026 |
-| **[GuardAlign: Test-time Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2602.24027v1)** | 2026-02-27 | ICLR 2026 |
-| **[From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model](https://arxiv.org/abs/2508.00955v2)** | 2026-02-27 |  |
-| **[Steering and Rectifying Latent Representation Manifolds in Frozen Multi-modal LLMs for Video Anomaly Detection](https://arxiv.org/abs/2602.24021v1)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
-| **[Venus: Benchmarking and Empowering Multimodal Large Language Models for Aesthetic Guidance and Cropping](https://arxiv.org/abs/2602.23980v1)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Thinking with Images as Continuous Actions: Numerical Visual Chain-of-Thought](https://arxiv.org/abs/2602.23959v1)** | 2026-02-27 |  |
-| **[PointCoT: A Multi-modal Benchmark for Explicit 3D Geometric Reasoning](https://arxiv.org/abs/2602.23945v1)** | 2026-02-27 |  |
-| **[Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks](https://arxiv.org/abs/2602.23898v1)** | 2026-02-27 | ICLR 2026 |
-| **[EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2602.23802v1)** | 2026-02-27 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[LAD-Drive: Bridging Language and Trajectory with Action-Aware Diffusion Transformers](https://arxiv.org/abs/2603.02035v1)** | 2026-03-02 |  |
+| **[MMR-Life: Piecing Together Real-life Scenes for Multimodal Multi-image Reasoning](https://arxiv.org/abs/2603.02024v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026, 78 pages, 60 figures</p></details> |
+| **[SportR: A Benchmark for Multimodal Large Language Model Reasoning in Sports](https://arxiv.org/abs/2511.06499v3)** | 2026-03-02 |  |
+| **[VisJudge-Bench: Aesthetics and Quality Assessment of Visualizations](https://arxiv.org/abs/2510.22373v3)** | 2026-03-02 | <details><summary>62 pa...</summary><p>62 pages, 27 figures, 8 tables. Accepted at ICLR 2026</p></details> |
+| **[Vid-LLM: A Compact Video-based 3D Multimodal LLM with Reconstruction-Reasoning Synergy](https://arxiv.org/abs/2509.24385v4)** | 2026-03-02 |  |
+| **[FreeAct: Freeing Activations for LLM Quantization](https://arxiv.org/abs/2603.01776v1)** | 2026-03-02 | <details><summary>26 pa...</summary><p>26 pages, 18 figures, 2 tables</p></details> |
+| **[Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models](https://arxiv.org/abs/2603.01766v1)** | 2026-03-02 |  |
+| **[EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark](https://arxiv.org/abs/2510.06218v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving](https://arxiv.org/abs/2603.01637v1)** | 2026-03-02 |  |
+| **[IDProxy: Cold-Start CTR Prediction for Ads and Recommendation at Xiaohongshu with Multimodal LLMs](https://arxiv.org/abs/2603.01590v1)** | 2026-03-02 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images](https://arxiv.org/abs/2602.24290v1)** | 2026-02-27 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project page: https://ufo-4d.github.io/</p></details> |
-| **[Mode Seeking meets Mean Seeking for Fast Long Video Generation](https://arxiv.org/abs/2602.24289v1)** | 2026-02-27 | <details><summary>Proje...</summary><p>Project website: https://primecai.github.io/mmm/</p></details> |
-| **[DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science](https://arxiv.org/abs/2602.24288v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026. 10 pages plus appendix</p></details> |
-| **[CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286v1)** | 2026-02-27 |  |
-| **[QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory](https://arxiv.org/abs/2512.05049v2)** | 2026-02-27 | <details><summary>10 pa...</summary><p>10 pages. Camera-ready version for IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2026</p></details> |
-| **[Who Guards the Guardians? The Challenges of Evaluating Identifiability of Learned Representations](https://arxiv.org/abs/2602.24278v1)** | 2026-02-27 |  |
-| **[Hierarchical Action Learning for Weakly-Supervised Action Segmentation](https://arxiv.org/abs/2602.24275v1)** | 2026-02-27 |  |
-| **[NSHEDB: Noise-Sensitive Homomorphic Encrypted Database Query Engine](https://arxiv.org/abs/2602.24271v1)** | 2026-02-27 |  |
+| **[HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images](https://arxiv.org/abs/2603.02210v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 (Project page: \url{https://correr-zhou.github.io/HiFi-Inpaint/})</p></details> |
+| **[Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training](https://arxiv.org/abs/2603.02208v1)** | 2026-03-02 | <details><summary>Keywo...</summary><p>Keywords: LLMs, NLP, Dataset, Corpus, Procedural Pre-training, Reasoning, Logic, Formal Semantics https://github.com/sileod/reasoning_core</p></details> |
+| **[Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions](https://arxiv.org/abs/2603.02204v1)** | 2026-03-02 |  |
+| **[Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition](https://arxiv.org/abs/2602.19385v2)** | 2026-03-02 |  |
+| **[Tool Verification for Test-Time Reinforcement Learning](https://arxiv.org/abs/2603.02203v1)** | 2026-03-02 | 12 pages, 11 figures |
+| **[Conformal Policy Control](https://arxiv.org/abs/2603.02196v1)** | 2026-03-02 |  |
+| **[Comparative Analysis of Spatiotemporal Volatility Models: An Empirical Study on Financial Network Series](https://arxiv.org/abs/2603.02195v1)** | 2026-03-02 | <details><summary>28 pa...</summary><p>28 pages, 21 figures. Submitted to the Vienna-Copenhagen Conference on Financial Econometrics (2026)</p></details> |
+| **[Symbol-Equivariant Recurrent Reasoning Models](https://arxiv.org/abs/2603.02193v1)** | 2026-03-02 |  |
 
