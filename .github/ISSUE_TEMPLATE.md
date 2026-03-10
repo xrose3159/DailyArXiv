@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,52 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning](https://arxiv.org/abs/2603.06570v1)** | 2026-03-06 |  |
-| **[Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://arxiv.org/abs/2603.06569v1)** | 2026-03-06 | <details><summary>Pengu...</summary><p>Penguin-VL Technical Report; Code: https://github.com/tencent-ailab/Penguin-VL</p></details> |
-| **[Multivariate Fields of Experts for Convergent Image Reconstruction](https://arxiv.org/abs/2508.06490v2)** | 2026-03-06 |  |
-| **[A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention](https://arxiv.org/abs/2603.06567v1)** | 2026-03-06 |  |
-| **[A visual introduction to information theory](https://arxiv.org/abs/2206.07867v3)** | 2026-03-06 |  |
-| **[Radio-Frequency Side-Channel Analysis of a Trapped-Ion Quantum Computer](https://arxiv.org/abs/2603.06562v1)** | 2026-03-06 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 1 table</p></details> |
-| **[EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking](https://arxiv.org/abs/2603.06561v1)** | 2026-03-06 | preprint |
-| **[Towards Scalable Pre-training of Visual Tokenizers for Generation](https://arxiv.org/abs/2512.13687v2)** | 2026-03-06 | <details><summary>Our p...</summary><p>Our pre-trained models are available at https://github.com/MiniMax-AI/VTP</p></details> |
+| **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v1)** | 2026-03-09 |  |
+| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
+| **[Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines](https://arxiv.org/abs/2603.08704v1)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 6 Figures, 5 Tables</p></details> |
+| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](https://arxiv.org/abs/2506.20668v2)** | 2026-03-09 | <details><summary>11 pa...</summary><p>11 pages. Published at ICRA 2026</p></details> |
+| **[Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks](https://arxiv.org/abs/2510.02286v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies](https://arxiv.org/abs/2603.08692v1)** | 2026-03-09 | 35 Pages, |
+| **[AgentIR: Reasoning-Aware Retrieval for Deep Research Agents](https://arxiv.org/abs/2603.04384v3)** | 2026-03-09 |  |
+| **[Predicting Conflict Impact on Performance in O-RAN](https://arxiv.org/abs/2603.08685v1)** | 2026-03-09 | <details><summary>INFOC...</summary><p>INFOCOM 2026 Workshop - 6G AI-RAN: AI Native Distributed Intelligence for 6G Networks. 6 pages, 5 figures, 3 tables</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal Large Language Models as Image Classifiers](https://arxiv.org/abs/2603.06578v1)** | 2026-03-06 |  |
-| **[SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning](https://arxiv.org/abs/2603.06570v1)** | 2026-03-06 |  |
-| **[Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://arxiv.org/abs/2603.06569v1)** | 2026-03-06 | <details><summary>Pengu...</summary><p>Penguin-VL Technical Report; Code: https://github.com/tencent-ailab/Penguin-VL</p></details> |
-| **[Multivariate Fields of Experts for Convergent Image Reconstruction](https://arxiv.org/abs/2508.06490v2)** | 2026-03-06 |  |
-| **[A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention](https://arxiv.org/abs/2603.06567v1)** | 2026-03-06 |  |
-| **[A visual introduction to information theory](https://arxiv.org/abs/2206.07867v3)** | 2026-03-06 |  |
-| **[Radio-Frequency Side-Channel Analysis of a Trapped-Ion Quantum Computer](https://arxiv.org/abs/2603.06562v1)** | 2026-03-06 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 1 table</p></details> |
-| **[EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking](https://arxiv.org/abs/2603.06561v1)** | 2026-03-06 | preprint |
+| **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v1)** | 2026-03-09 |  |
+| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
+| **[Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines](https://arxiv.org/abs/2603.08704v1)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 6 Figures, 5 Tables</p></details> |
+| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](https://arxiv.org/abs/2506.20668v2)** | 2026-03-09 | <details><summary>11 pa...</summary><p>11 pages. Published at ICRA 2026</p></details> |
+| **[Offline-First Large Language Model Architecture for AI-Assisted Learning with Adaptive Response Levels in Low-Connectivity Environments](https://arxiv.org/abs/2603.03339v2)** | 2026-03-09 | <details><summary>16 pa...</summary><p>16 pages, 2 table, 10 figures</p></details> |
+| **[Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks](https://arxiv.org/abs/2510.02286v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies](https://arxiv.org/abs/2603.08692v1)** | 2026-03-09 | 35 Pages, |
+| **[Sigmoid-FTRL: Design-Based Adaptive Neyman Allocation for AIPW Estimators](https://arxiv.org/abs/2511.19905v2)** | 2026-03-09 |  |
+| **[AgentIR: Reasoning-Aware Retrieval for Deep Research Agents](https://arxiv.org/abs/2603.04384v3)** | 2026-03-09 |  |
+| **[Predicting Conflict Impact on Performance in O-RAN](https://arxiv.org/abs/2603.08685v1)** | 2026-03-09 | <details><summary>INFOC...</summary><p>INFOCOM 2026 Workshop - 6G AI-RAN: AI Native Distributed Intelligence for 6G Networks. 6 pages, 5 figures, 3 tables</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal Large Language Models as Image Classifiers](https://arxiv.org/abs/2603.06578v1)** | 2026-03-06 |  |
-| **[Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](https://arxiv.org/abs/2603.06577v1)** | 2026-03-06 | <details><summary>Proje...</summary><p>Project page: https://omni-diffusion.github.io</p></details> |
-| **[Spatial4D-Bench: A Versatile 4D Spatial Intelligence Benchmark](https://arxiv.org/abs/2601.00092v2)** | 2026-03-06 | Technical Report |
-| **[What if? Emulative Simulation with World Models for Situated Reasoning](https://arxiv.org/abs/2603.06445v1)** | 2026-03-06 |  |
-| **[Adapter-Augmented Bandits for Online Multi-Constrained Multi-Modal Inference Scheduling](https://arxiv.org/abs/2603.06403v1)** | 2026-03-06 |  |
-| **[MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation](https://arxiv.org/abs/2603.06243v1)** | 2026-03-06 | 14 pages, 10figures |
-| **[SPINE: Token-Selective Test-Time Reinforcement Learning with Entropy-Band Regularization](https://arxiv.org/abs/2511.17938v2)** | 2026-03-06 |  |
-| **[A Multi-Agent System Enables Versatile Information Extraction from the Chemical Literature](https://arxiv.org/abs/2507.20230v3)** | 2026-03-06 |  |
-| **[NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation](https://arxiv.org/abs/2507.11245v5)** | 2026-03-06 | <details><summary>Proje...</summary><p>Project Page: https://amap-ml.github.io/NarrLV-Website/</p></details> |
-| **[Place-it-R1: Unlocking Environment-aware Reasoning Potential of MLLM for Video Object Insertion](https://arxiv.org/abs/2603.06140v1)** | 2026-03-06 | <details><summary>https...</summary><p>https://nevsnev.github.io/Place-it-R1/</p></details> |
+| **[Boosting MLLM Spatial Reasoning with Geometrically Referenced 3D Scene Representations](https://arxiv.org/abs/2603.08592v1)** | 2026-03-09 |  |
+| **[ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](https://arxiv.org/abs/2510.11549v2)** | 2026-03-09 |  |
+| **[Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images](https://arxiv.org/abs/2603.08486v1)** | 2026-03-09 |  |
+| **[Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation](https://arxiv.org/abs/2408.15205v4)** | 2026-03-09 | NeurIPS 2024 |
+| **[Multimodal LLMs Do Not Compose Skills Optimally Across Modalities](https://arxiv.org/abs/2511.08113v3)** | 2026-03-09 |  |
+| **[Multimodal Large Language Models as Image Classifiers](https://arxiv.org/abs/2603.06578v2)** | 2026-03-09 |  |
+| **[Towards Generalizable Forgery Detection and Reasoning](https://arxiv.org/abs/2503.21210v3)** | 2026-03-09 | Accepted to IEEE TIP |
+| **[CrystaL: Spontaneous Emergence of Visual Latents in MLLMs](https://arxiv.org/abs/2602.20980v2)** | 2026-03-09 |  |
+| **[MERLIN: Building Low-SNR Robust Multimodal LLMs for Electromagnetic Signals](https://arxiv.org/abs/2603.08174v1)** | 2026-03-09 |  |
+| **[Synthetic Defect Image Generation for Power Line Insulator Inspection Using Multimodal Large Language Models](https://arxiv.org/abs/2603.08069v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted to Engineering Applications of Artificial Intelligence, Feb. 16, 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal Large Language Models as Image Classifiers](https://arxiv.org/abs/2603.06578v1)** | 2026-03-06 |  |
-| **[SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning](https://arxiv.org/abs/2603.06570v1)** | 2026-03-06 |  |
-| **[Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://arxiv.org/abs/2603.06569v1)** | 2026-03-06 | <details><summary>Pengu...</summary><p>Penguin-VL Technical Report; Code: https://github.com/tencent-ailab/Penguin-VL</p></details> |
-| **[Neural Signals Generate Clinical Notes in the Wild](https://arxiv.org/abs/2601.22197v2)** | 2026-03-06 |  |
-| **[Multivariate Fields of Experts for Convergent Image Reconstruction](https://arxiv.org/abs/2508.06490v2)** | 2026-03-06 |  |
-| **[A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention](https://arxiv.org/abs/2603.06567v1)** | 2026-03-06 |  |
-| **[A visual introduction to information theory](https://arxiv.org/abs/2206.07867v3)** | 2026-03-06 |  |
-| **[Radio-Frequency Side-Channel Analysis of a Trapped-Ion Quantum Computer](https://arxiv.org/abs/2603.06562v1)** | 2026-03-06 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 1 table</p></details> |
+| **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v1)** | 2026-03-09 |  |
+| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
+| **[Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines](https://arxiv.org/abs/2603.08704v1)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 6 Figures, 5 Tables</p></details> |
+| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](https://arxiv.org/abs/2506.20668v2)** | 2026-03-09 | <details><summary>11 pa...</summary><p>11 pages. Published at ICRA 2026</p></details> |
+| **[Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks](https://arxiv.org/abs/2510.02286v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies](https://arxiv.org/abs/2603.08692v1)** | 2026-03-09 | 35 Pages, |
+| **[AgentIR: Reasoning-Aware Retrieval for Deep Research Agents](https://arxiv.org/abs/2603.04384v3)** | 2026-03-09 |  |
+| **[Predicting Conflict Impact on Performance in O-RAN](https://arxiv.org/abs/2603.08685v1)** | 2026-03-09 | <details><summary>INFOC...</summary><p>INFOCOM 2026 Workshop - 6G AI-RAN: AI Native Distributed Intelligence for 6G Networks. 6 pages, 5 figures, 3 tables</p></details> |
 
