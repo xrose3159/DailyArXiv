@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,52 +7,44 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v1)** | 2026-03-09 |  |
-| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
-| **[Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines](https://arxiv.org/abs/2603.08704v1)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 6 Figures, 5 Tables</p></details> |
-| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](https://arxiv.org/abs/2506.20668v2)** | 2026-03-09 | <details><summary>11 pa...</summary><p>11 pages. Published at ICRA 2026</p></details> |
-| **[Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks](https://arxiv.org/abs/2510.02286v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies](https://arxiv.org/abs/2603.08692v1)** | 2026-03-09 | 35 Pages, |
-| **[AgentIR: Reasoning-Aware Retrieval for Deep Research Agents](https://arxiv.org/abs/2603.04384v3)** | 2026-03-09 |  |
-| **[Predicting Conflict Impact on Performance in O-RAN](https://arxiv.org/abs/2603.08685v1)** | 2026-03-09 | <details><summary>INFOC...</summary><p>INFOCOM 2026 Workshop - 6G AI-RAN: AI Native Distributed Intelligence for 6G Networks. 6 pages, 5 figures, 3 tables</p></details> |
+| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
+| **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v2)** | 2026-03-10 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
+| **[From Data Statistics to Feature Geometry: How Correlations Shape Superposition](https://arxiv.org/abs/2603.09972v1)** | 2026-03-10 |  |
+| **[TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation](https://arxiv.org/abs/2603.09971v1)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project website: https://tiptop-robot.github.io</p></details> |
+| **[ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare](https://arxiv.org/abs/2603.09968v1)** | 2026-03-10 |  |
+| **[Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization](https://arxiv.org/abs/2603.09956v1)** | 2026-03-10 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v1)** | 2026-03-09 |  |
-| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
-| **[Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines](https://arxiv.org/abs/2603.08704v1)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 6 Figures, 5 Tables</p></details> |
-| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](https://arxiv.org/abs/2506.20668v2)** | 2026-03-09 | <details><summary>11 pa...</summary><p>11 pages. Published at ICRA 2026</p></details> |
-| **[Offline-First Large Language Model Architecture for AI-Assisted Learning with Adaptive Response Levels in Low-Connectivity Environments](https://arxiv.org/abs/2603.03339v2)** | 2026-03-09 | <details><summary>16 pa...</summary><p>16 pages, 2 table, 10 figures</p></details> |
-| **[Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks](https://arxiv.org/abs/2510.02286v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies](https://arxiv.org/abs/2603.08692v1)** | 2026-03-09 | 35 Pages, |
-| **[Sigmoid-FTRL: Design-Based Adaptive Neyman Allocation for AIPW Estimators](https://arxiv.org/abs/2511.19905v2)** | 2026-03-09 |  |
-| **[AgentIR: Reasoning-Aware Retrieval for Deep Research Agents](https://arxiv.org/abs/2603.04384v3)** | 2026-03-09 |  |
-| **[Predicting Conflict Impact on Performance in O-RAN](https://arxiv.org/abs/2603.08685v1)** | 2026-03-09 | <details><summary>INFOC...</summary><p>INFOCOM 2026 Workshop - 6G AI-RAN: AI Native Distributed Intelligence for 6G Networks. 6 pages, 5 figures, 3 tables</p></details> |
+| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
+| **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v2)** | 2026-03-10 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
+| **[From Data Statistics to Feature Geometry: How Correlations Shape Superposition](https://arxiv.org/abs/2603.09972v1)** | 2026-03-10 |  |
+| **[TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation](https://arxiv.org/abs/2603.09971v1)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project website: https://tiptop-robot.github.io</p></details> |
+| **[ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning](https://arxiv.org/abs/2409.18827v2)** | 2026-03-10 |  |
+| **[ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare](https://arxiv.org/abs/2603.09968v1)** | 2026-03-10 |  |
+| **[Emotional Modulation in Swarm Decision Dynamics](https://arxiv.org/abs/2603.09963v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Conference on Agents and Artificial Intelligence (ICAART 2026)</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Boosting MLLM Spatial Reasoning with Geometrically Referenced 3D Scene Representations](https://arxiv.org/abs/2603.08592v1)** | 2026-03-09 |  |
-| **[ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?](https://arxiv.org/abs/2510.11549v2)** | 2026-03-09 |  |
-| **[Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images](https://arxiv.org/abs/2603.08486v1)** | 2026-03-09 |  |
-| **[Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation](https://arxiv.org/abs/2408.15205v4)** | 2026-03-09 | NeurIPS 2024 |
-| **[Multimodal LLMs Do Not Compose Skills Optimally Across Modalities](https://arxiv.org/abs/2511.08113v3)** | 2026-03-09 |  |
-| **[Multimodal Large Language Models as Image Classifiers](https://arxiv.org/abs/2603.06578v2)** | 2026-03-09 |  |
-| **[Towards Generalizable Forgery Detection and Reasoning](https://arxiv.org/abs/2503.21210v3)** | 2026-03-09 | Accepted to IEEE TIP |
-| **[CrystaL: Spontaneous Emergence of Visual Latents in MLLMs](https://arxiv.org/abs/2602.20980v2)** | 2026-03-09 |  |
-| **[MERLIN: Building Low-SNR Robust Multimodal LLMs for Electromagnetic Signals](https://arxiv.org/abs/2603.08174v1)** | 2026-03-09 |  |
-| **[Synthetic Defect Image Generation for Power Line Insulator Inspection Using Multimodal Large Language Models](https://arxiv.org/abs/2603.08069v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted to Engineering Applications of Artificial Intelligence, Feb. 16, 2026</p></details> |
+| **[PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs](https://arxiv.org/abs/2603.09943v1)** | 2026-03-10 |  |
+| **[InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing](https://arxiv.org/abs/2603.09877v1)** | 2026-03-10 | <details><summary>techn...</summary><p>technical report, 61 pages, https://github.com/OpenGVLab/InternVL-U</p></details> |
+| **[Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2603.09740v1)** | 2026-03-10 | 28 pages, 10 figures |
+| **[FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis](https://arxiv.org/abs/2603.09733v1)** | 2026-03-10 |  |
+| **[EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning](https://arxiv.org/abs/2603.09731v1)** | 2026-03-10 |  |
+| **[OOD-MMSafe: Advancing MLLM Safety from Harmful Intent to Hidden Consequences](https://arxiv.org/abs/2603.09706v1)** | 2026-03-10 | 30 pages |
+| **[EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering](https://arxiv.org/abs/2508.10729v2)** | 2026-03-10 |  |
+| **[OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2603.09326v1)** | 2026-03-10 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
+| **[v-HUB: A Benchmark for Video Humor Understanding from Vision and Sound](https://arxiv.org/abs/2509.25773v2)** | 2026-03-10 | 24 pages, 9 figures |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Impermanent: A Live Benchmark for Temporal Generalization in Time Series Forecasting](https://arxiv.org/abs/2603.08707v1)** | 2026-03-09 |  |
-| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
-| **[Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines](https://arxiv.org/abs/2603.08704v1)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 6 Figures, 5 Tables</p></details> |
-| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](https://arxiv.org/abs/2506.20668v2)** | 2026-03-09 | <details><summary>11 pa...</summary><p>11 pages. Published at ICRA 2026</p></details> |
-| **[Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming Attacks](https://arxiv.org/abs/2510.02286v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies](https://arxiv.org/abs/2603.08692v1)** | 2026-03-09 | 35 Pages, |
-| **[AgentIR: Reasoning-Aware Retrieval for Deep Research Agents](https://arxiv.org/abs/2603.04384v3)** | 2026-03-09 |  |
-| **[Predicting Conflict Impact on Performance in O-RAN](https://arxiv.org/abs/2603.08685v1)** | 2026-03-09 | <details><summary>INFOC...</summary><p>INFOCOM 2026 Workshop - 6G AI-RAN: AI Native Distributed Intelligence for 6G Networks. 6 pages, 5 figures, 3 tables</p></details> |
+| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
+| **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v2)** | 2026-03-10 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
+| **[From Data Statistics to Feature Geometry: How Correlations Shape Superposition](https://arxiv.org/abs/2603.09972v1)** | 2026-03-10 |  |
+| **[TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation](https://arxiv.org/abs/2603.09971v1)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project website: https://tiptop-robot.github.io</p></details> |
+| **[Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization](https://arxiv.org/abs/2603.09956v1)** | 2026-03-10 |  |
+| **[From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding](https://arxiv.org/abs/2603.09955v1)** | 2026-03-10 |  |
 
