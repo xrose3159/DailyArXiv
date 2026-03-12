@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 12, 2026
+title: Latest 15 Papers - March 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,46 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
-| **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v2)** | 2026-03-10 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
-| **[From Data Statistics to Feature Geometry: How Correlations Shape Superposition](https://arxiv.org/abs/2603.09972v1)** | 2026-03-10 |  |
-| **[TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation](https://arxiv.org/abs/2603.09971v1)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project website: https://tiptop-robot.github.io</p></details> |
-| **[ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare](https://arxiv.org/abs/2603.09968v1)** | 2026-03-10 |  |
-| **[Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization](https://arxiv.org/abs/2603.09956v1)** | 2026-03-10 |  |
+| **[Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation](https://arxiv.org/abs/2603.11045v1)** | 2026-03-11 | 27 pages, 15 figures |
+| **[Differential Privacy in Machine Learning: A Survey from Symbolic AI to LLMs](https://arxiv.org/abs/2506.11687v2)** | 2026-03-11 |  |
+| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
+| **[Separating Oblivious and Adaptive Differential Privacy under Continual Observation](https://arxiv.org/abs/2603.11029v1)** | 2026-03-11 |  |
+| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
+| **[Don't Disregard the Data for Lack of a Likelihood: Bayesian Synthetic Likelihood for Enhanced Multilevel Network Meta-Regression](https://arxiv.org/abs/2603.11019v1)** | 2026-03-11 |  |
+| **[SIMSPINE: A Biomechanics-Aware Simulation Framework for 3D Spine Motion Annotation and Benchmarking](https://arxiv.org/abs/2602.20792v2)** | 2026-03-11 | Camera-ready version |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
-| **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v2)** | 2026-03-10 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
-| **[From Data Statistics to Feature Geometry: How Correlations Shape Superposition](https://arxiv.org/abs/2603.09972v1)** | 2026-03-10 |  |
-| **[TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation](https://arxiv.org/abs/2603.09971v1)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project website: https://tiptop-robot.github.io</p></details> |
-| **[ARLBench: Flexible and Efficient Benchmarking for Hyperparameter Optimization in Reinforcement Learning](https://arxiv.org/abs/2409.18827v2)** | 2026-03-10 |  |
-| **[ReCoSplat: Autoregressive Feed-Forward Gaussian Splatting Using Render-and-Compare](https://arxiv.org/abs/2603.09968v1)** | 2026-03-10 |  |
-| **[Emotional Modulation in Swarm Decision Dynamics](https://arxiv.org/abs/2603.09963v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted for presentation at the International Conference on Agents and Artificial Intelligence (ICAART 2026)</p></details> |
+| **[Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation](https://arxiv.org/abs/2603.11045v1)** | 2026-03-11 | 27 pages, 15 figures |
+| **[Differential Privacy in Machine Learning: A Survey from Symbolic AI to LLMs](https://arxiv.org/abs/2506.11687v2)** | 2026-03-11 |  |
+| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
+| **[Instruction set for the representation of graphs](https://arxiv.org/abs/2603.11039v1)** | 2026-03-11 |  |
+| **[Separating Oblivious and Adaptive Differential Privacy under Continual Observation](https://arxiv.org/abs/2603.11029v1)** | 2026-03-11 |  |
+| **[Beyond the Illusion of Consensus: From Surface Heuristics to Knowledge-Grounded Evaluation in LLM-as-a-Judge](https://arxiv.org/abs/2603.11027v1)** | 2026-03-11 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs](https://arxiv.org/abs/2603.09943v1)** | 2026-03-10 |  |
-| **[InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing](https://arxiv.org/abs/2603.09877v1)** | 2026-03-10 | <details><summary>techn...</summary><p>technical report, 61 pages, https://github.com/OpenGVLab/InternVL-U</p></details> |
-| **[Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2603.09740v1)** | 2026-03-10 | 28 pages, 10 figures |
-| **[FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis](https://arxiv.org/abs/2603.09733v1)** | 2026-03-10 |  |
-| **[EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning](https://arxiv.org/abs/2603.09731v1)** | 2026-03-10 |  |
-| **[OOD-MMSafe: Advancing MLLM Safety from Harmful Intent to Hidden Consequences](https://arxiv.org/abs/2603.09706v1)** | 2026-03-10 | 30 pages |
-| **[EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering](https://arxiv.org/abs/2508.10729v2)** | 2026-03-10 |  |
-| **[OddGridBench: Exposing the Lack of Fine-Grained Visual Discrepancy Sensitivity in Multimodal Large Language Models](https://arxiv.org/abs/2603.09326v1)** | 2026-03-10 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
-| **[v-HUB: A Benchmark for Video Humor Understanding from Vision and Sound](https://arxiv.org/abs/2509.25773v2)** | 2026-03-10 | 24 pages, 9 figures |
+| **[Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring](https://arxiv.org/abs/2601.13879v4)** | 2026-03-11 |  |
+| **[Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding](https://arxiv.org/abs/2603.10863v1)** | 2026-03-11 |  |
+| **[CodePercept: Code-Grounded Visual STEM Perception for MLLMs](https://arxiv.org/abs/2603.10757v1)** | 2026-03-11 | Accepted by CVPR2026 |
+| **[UniWeTok: An Unified Binary Tokenizer with Codebook Size $\mathit{2^{128}}$ for Unified Multimodal Large Language Model](https://arxiv.org/abs/2602.14178v3)** | 2026-03-11 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 33 tables</p></details> |
+| **[No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection](https://arxiv.org/abs/2602.19248v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[TikArt: Stabilizing Aperture-Guided Fine-Grained Visual Reasoning with Reinforcement Learning](https://arxiv.org/abs/2602.14482v2)** | 2026-03-11 |  |
+| **[GeoSense: Internalizing Geometric Necessity Perception for Multimodal Reasoning](https://arxiv.org/abs/2603.10370v1)** | 2026-03-11 |  |
+| **[One Token, Two Fates: A Unified Framework via Vision Token Manipulation Against MLLMs Hallucination](https://arxiv.org/abs/2603.10360v1)** | 2026-03-11 | 10 pages |
+| **[KVSmooth: Mitigating Hallucination in Multi-modal Large Language Models through Key-Value Smoothing](https://arxiv.org/abs/2602.04268v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Multi-modal Data Spectrum: Multi-modal Datasets are Multi-dimensional](https://arxiv.org/abs/2509.23499v2)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Code available at https://github.com/divyam3897/multimodal-spectrum</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](https://arxiv.org/abs/2603.09974v1)** | 2026-03-10 | <details><summary>Accep...</summary><p>Accepted to the KGML Bridge at AAAI 2026 (non-archival)</p></details> |
-| **[DUEL: Exact Likelihood for Masked Diffusion via Deterministic Unmasking](https://arxiv.org/abs/2603.01367v2)** | 2026-03-10 | <details><summary>22 pa...</summary><p>22 pages, 5 figures 8 tables</p></details> |
-| **[From Data Statistics to Feature Geometry: How Correlations Shape Superposition](https://arxiv.org/abs/2603.09972v1)** | 2026-03-10 |  |
-| **[TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation](https://arxiv.org/abs/2603.09971v1)** | 2026-03-10 | <details><summary>Proje...</summary><p>Project website: https://tiptop-robot.github.io</p></details> |
-| **[Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization](https://arxiv.org/abs/2603.09956v1)** | 2026-03-10 |  |
-| **[From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding](https://arxiv.org/abs/2603.09955v1)** | 2026-03-10 |  |
+| **[Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation](https://arxiv.org/abs/2603.11045v1)** | 2026-03-11 | 27 pages, 15 figures |
+| **[Differential Privacy in Machine Learning: A Survey from Symbolic AI to LLMs](https://arxiv.org/abs/2506.11687v2)** | 2026-03-11 |  |
+| **[V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation](https://arxiv.org/abs/2603.11042v1)** | 2026-03-11 | <details><summary>Proje...</summary><p>Project page: https://genjib.github.io/v2m_zero/</p></details> |
+| **[Chasing RATs: Tracing Reading for and as Creative Activity](https://arxiv.org/abs/2603.11031v1)** | 2026-03-11 |  |
+| **[Separating Oblivious and Adaptive Differential Privacy under Continual Observation](https://arxiv.org/abs/2603.11029v1)** | 2026-03-11 |  |
+| **[Time-to-Event Modeling with Pseudo-Observations in Federated Settings](https://arxiv.org/abs/2507.20558v3)** | 2026-03-11 | 30 pages, 5 figures |
+| **[Don't Disregard the Data for Lack of a Likelihood: Bayesian Synthetic Likelihood for Enhanced Multilevel Network Meta-Regression](https://arxiv.org/abs/2603.11019v1)** | 2026-03-11 |  |
 
