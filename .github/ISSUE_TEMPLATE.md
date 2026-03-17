@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2026
+title: Latest 15 Papers - March 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,36 +7,54 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization](https://arxiv.org/abs/2603.13228v1)** | 2026-03-13 |  |
-| **[Visual-ERM: Reward Modeling for Visual Equivalence](https://arxiv.org/abs/2603.13224v1)** | 2026-03-13 | <details><summary>Proje...</summary><p>Project: https://github.com/InternLM/Visual-ERM</p></details> |
-| **[Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models](https://arxiv.org/abs/2603.13215v1)** | 2026-03-13 | <details><summary>https...</summary><p>https://glab-caltech.github.io/STEVOBench/</p></details> |
+| **[Towards Generalizable Robotic Manipulation in Dynamic Environments](https://arxiv.org/abs/2603.15620v1)** | 2026-03-16 |  |
+| **[HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification](https://arxiv.org/abs/2603.15617v1)** | 2026-03-16 |  |
+| **[Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion](https://arxiv.org/abs/2603.15614v1)** | 2026-03-16 | <details><summary>Proje...</summary><p>Project page: https://zhouzhenghong-gt.github.io/Tri-Prompting-Page/</p></details> |
+| **[Differential Privacy for Network Connectedness Indices](https://arxiv.org/abs/2603.15609v1)** | 2026-03-16 | <details><summary>Code ...</summary><p>Code to replicate all of our analyses is available at: https://github.com/TomRutter42/Privacy-for-Connectedness-Indices</p></details> |
+| **[Virtual Full-stack Scanning of Brain MRI via Imputing Any Quantised Code](https://arxiv.org/abs/2501.18328v3)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Optimizing Task Completion Time Updates Using POMDPs](https://arxiv.org/abs/2603.12340v2)** | 2026-03-16 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, submitted to American Control Conference 2026</p></details> |
+| **[Precise Object and Effect Removal with Adaptive Target-Aware Attention](https://arxiv.org/abs/2505.22636v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://zjx0101.github.io/projects/ObjectClear/</p></details> |
+| **[AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer](https://arxiv.org/abs/2603.15597v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. 15 pages, 5 figures</p></details> |
+| **[OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/abs/2603.15594v1)** | 2026-03-16 | 15 pages, 6 figures |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization](https://arxiv.org/abs/2603.13228v1)** | 2026-03-13 |  |
-| **[Visual-ERM: Reward Modeling for Visual Equivalence](https://arxiv.org/abs/2603.13224v1)** | 2026-03-13 | <details><summary>Proje...</summary><p>Project: https://github.com/InternLM/Visual-ERM</p></details> |
-| **[Automatic In-Domain Exemplar Construction and LLM-Based Refinement of Multi-LLM Expansions for Query Expansion](https://arxiv.org/abs/2602.08917v2)** | 2026-03-13 | <details><summary>Prepr...</summary><p>Preprint. This paper is under consideration at Pattern Recognition Letters</p></details> |
-| **[Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models](https://arxiv.org/abs/2603.13215v1)** | 2026-03-13 | <details><summary>https...</summary><p>https://glab-caltech.github.io/STEVOBench/</p></details> |
+| **[Towards Generalizable Robotic Manipulation in Dynamic Environments](https://arxiv.org/abs/2603.15620v1)** | 2026-03-16 |  |
+| **[HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification](https://arxiv.org/abs/2603.15617v1)** | 2026-03-16 |  |
+| **[Differential Privacy for Network Connectedness Indices](https://arxiv.org/abs/2603.15609v1)** | 2026-03-16 | <details><summary>Code ...</summary><p>Code to replicate all of our analyses is available at: https://github.com/TomRutter42/Privacy-for-Connectedness-Indices</p></details> |
+| **[Virtual Full-stack Scanning of Brain MRI via Imputing Any Quantised Code](https://arxiv.org/abs/2501.18328v3)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[EAAE: Energy-Aware Autonomous Exploration for UAVs in Unknown 3D Environments](https://arxiv.org/abs/2603.15604v1)** | 2026-03-16 |  |
+| **[Precise Object and Effect Removal with Adaptive Target-Aware Attention](https://arxiv.org/abs/2505.22636v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://zjx0101.github.io/projects/ObjectClear/</p></details> |
+| **[AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer](https://arxiv.org/abs/2603.15597v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. 15 pages, 5 figures</p></details> |
+| **[OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/abs/2603.15594v1)** | 2026-03-16 | 15 pages, 6 figures |
+| **[MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator](https://arxiv.org/abs/2512.11782v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://pq-yang.github.io/projects/MatAnyone2/</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation](https://arxiv.org/abs/2603.13099v1)** | 2026-03-13 |  |
-| **[Reasoning over Video: Evaluating How MLLMs Extract, Integrate, and Reconstruct Spatiotemporal Evidence](https://arxiv.org/abs/2603.13091v1)** | 2026-03-13 | <details><summary>35 pa...</summary><p>35 pages, 8 figures, 21 tables</p></details> |
-| **[Training-free Uncertainty Guidance for Complex Visual Tasks with MLLMs](https://arxiv.org/abs/2510.00705v2)** | 2026-03-13 |  |
-| **[OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution](https://arxiv.org/abs/2603.12811v1)** | 2026-03-13 | <details><summary>Super...</summary><p>Super-Resolution, Reinforcement Learning</p></details> |
-| **[Multimodal Continual Learning with MLLMs from Multi-scenario Perspectives](https://arxiv.org/abs/2511.18507v3)** | 2026-03-13 | <details><summary>22 pa...</summary><p>22 pages, 17 figures. This is a preprint version of a paper submitted to ICML 2026</p></details> |
-| **[Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World](https://arxiv.org/abs/2603.12746v1)** | 2026-03-13 |  |
-| **[Cost-Efficient Multimodal LLM Inference via Cross-Tier GPU Heterogeneity](https://arxiv.org/abs/2603.12707v1)** | 2026-03-13 |  |
-| **[HaltNav: Reactive Visual Halting over Lightweight Topological Priors for Robust Vision-Language Navigation](https://arxiv.org/abs/2603.12696v1)** | 2026-03-13 |  |
-| **[TubeMLLM: A Foundation Model for Topology Knowledge Exploration in Vessel-like Anatomy](https://arxiv.org/abs/2603.09217v2)** | 2026-03-13 | 18 pages, 12 figures |
-| **[VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning](https://arxiv.org/abs/2506.06097v2)** | 2026-03-13 |  |
+| **[From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation](https://arxiv.org/abs/2603.15600v1)** | 2026-03-16 | 31 pages |
+| **[Evaluating Time Awareness and Cross-modal Active Perception of Large Models via 4D Escape Room Task](https://arxiv.org/abs/2603.15467v1)** | 2026-03-16 |  |
+| **[SEA-Vision: A Multilingual Benchmark for Comprehensive Document and Scene Text Understanding in Southeast Asia](https://arxiv.org/abs/2603.15409v1)** | 2026-03-16 | Accepted By CVPR2026 |
+| **[AGCD: Agent-Guided Cross-Modal Decoding for Weather Forecasting](https://arxiv.org/abs/2603.15260v1)** | 2026-03-16 |  |
+| **[GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents](https://arxiv.org/abs/2603.15039v1)** | 2026-03-16 | <details><summary>accep...</summary><p>accepted by CVPR 2026</p></details> |
+| **[VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining](https://arxiv.org/abs/2603.15030v1)** | 2026-03-16 |  |
+| **[MER-Bench: A Comprehensive Benchmark for Multimodal Meme Reappraisal](https://arxiv.org/abs/2603.15020v1)** | 2026-03-16 |  |
+| **[Clue Matters: Leveraging Latent Visual Clues to Empower Video Reasoning](https://arxiv.org/abs/2603.15008v1)** | 2026-03-16 | 18 pages, 7 figures |
+| **[FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents](https://arxiv.org/abs/2507.21071v2)** | 2026-03-16 | ICLR 2026 Poster |
+| **[GT-PCQA: Geometry-Texture Decoupled Point Cloud Quality Assessment with MLLM](https://arxiv.org/abs/2603.14951v1)** | 2026-03-16 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization](https://arxiv.org/abs/2603.13228v1)** | 2026-03-13 |  |
-| **[Visual-ERM: Reward Modeling for Visual Equivalence](https://arxiv.org/abs/2603.13224v1)** | 2026-03-13 | <details><summary>Proje...</summary><p>Project: https://github.com/InternLM/Visual-ERM</p></details> |
-| **[Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models](https://arxiv.org/abs/2603.13215v1)** | 2026-03-13 | <details><summary>https...</summary><p>https://glab-caltech.github.io/STEVOBench/</p></details> |
+| **[Towards Generalizable Robotic Manipulation in Dynamic Environments](https://arxiv.org/abs/2603.15620v1)** | 2026-03-16 |  |
+| **[HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification](https://arxiv.org/abs/2603.15617v1)** | 2026-03-16 |  |
+| **[Differential Privacy for Network Connectedness Indices](https://arxiv.org/abs/2603.15609v1)** | 2026-03-16 | <details><summary>Code ...</summary><p>Code to replicate all of our analyses is available at: https://github.com/TomRutter42/Privacy-for-Connectedness-Indices</p></details> |
+| **[Virtual Full-stack Scanning of Brain MRI via Imputing Any Quantised Code](https://arxiv.org/abs/2501.18328v3)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Precise Object and Effect Removal with Adaptive Target-Aware Attention](https://arxiv.org/abs/2505.22636v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://zjx0101.github.io/projects/ObjectClear/</p></details> |
+| **[AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer](https://arxiv.org/abs/2603.15597v1)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. 15 pages, 5 figures</p></details> |
+| **[OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data](https://arxiv.org/abs/2603.15594v1)** | 2026-03-16 | 15 pages, 6 figures |
+| **[MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator](https://arxiv.org/abs/2512.11782v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://pq-yang.github.io/projects/MatAnyone2/</p></details> |
+| **[SemBench: A Benchmark for Semantic Query Processing Engines](https://arxiv.org/abs/2511.01716v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to VLDB 2026; Revised version</p></details> |
+| **[Illustrator's Depth: Monocular Layer Index Prediction for Image Decomposition](https://arxiv.org/abs/2511.17454v2)** | 2026-03-16 |  |
 
