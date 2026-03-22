@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2026
+title: Latest 15 Papers - March 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,51 +7,51 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SegviGen: Repurposing 3D Generative Model for Part Segmentation](https://arxiv.org/abs/2603.16869v1)** | 2026-03-17 | <details><summary>Proje...</summary><p>Project page: https://fenghora.github.io/SegviGen-Page/</p></details> |
-| **[MessyKitchens: Contact-rich object-level 3D scene reconstruction](https://arxiv.org/abs/2603.16868v1)** | 2026-03-17 |  |
-| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
-| **[MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation](https://arxiv.org/abs/2603.16861v1)** | 2026-03-17 |  |
-| **[DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](https://arxiv.org/abs/2603.16860v1)** | 2026-03-17 |  |
-| **[SOMA: Unifying Parametric Human Body Models](https://arxiv.org/abs/2603.16858v1)** | 2026-03-17 |  |
-| **[Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers](https://arxiv.org/abs/2603.16857v1)** | 2026-03-17 |  |
-| **[Spatial Causal Tensor Completion for Multiple Exposures and Outcomes: An Application to the Health Effects of PFAS Pollution](https://arxiv.org/abs/2603.16854v1)** | 2026-03-17 |  |
+| **[Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)** | 2026-03-19 | 31 pages, 12 figures |
+| **[Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer](https://arxiv.org/abs/2603.19227v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project Page: https://rheallyc.github.io/projects/motok GitHub: https://github.com/rheallyc/MoTok</p></details> |
+| **[SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](https://arxiv.org/abs/2603.19228v1)** | 2026-03-19 | 24 pages, 12 figures |
+| **[FinTradeBench: A Financial Reasoning Benchmark for LLMs](https://arxiv.org/abs/2603.19225v1)** | 2026-03-19 | <details><summary>8 pag...</summary><p>8 pages main text, 22 pages total (including references and appendix). 5 figures, 14 tables. Preprint under review. Code and data will be made available upon publication</p></details> |
+| **[F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World](https://arxiv.org/abs/2603.19223v1)** | 2026-03-19 |  |
+| **[Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](https://arxiv.org/abs/2603.19220v1)** | 2026-03-19 | <details><summary>We re...</summary><p>We release the model and data at https://huggingface.co/collections/nvidia/nemotron-cascade-2</p></details> |
+| **[DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising](https://arxiv.org/abs/2603.19216v1)** | 2026-03-19 |  |
+| **[Synthetic Control Misconceptions: Recommendations for Practice](https://arxiv.org/abs/2603.19211v1)** | 2026-03-19 |  |
+| **[OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2603.19201v1)** | 2026-03-19 | <details><summary>TARS ...</summary><p>TARS Robotics Project Page: https://mrsecant.github.io/OmniVTA</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SegviGen: Repurposing 3D Generative Model for Part Segmentation](https://arxiv.org/abs/2603.16869v1)** | 2026-03-17 | <details><summary>Proje...</summary><p>Project page: https://fenghora.github.io/SegviGen-Page/</p></details> |
-| **[MessyKitchens: Contact-rich object-level 3D scene reconstruction](https://arxiv.org/abs/2603.16868v1)** | 2026-03-17 |  |
-| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
-| **[SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation](https://arxiv.org/abs/2603.16864v1)** | 2026-03-17 |  |
-| **[MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation](https://arxiv.org/abs/2603.16861v1)** | 2026-03-17 |  |
-| **[DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](https://arxiv.org/abs/2603.16860v1)** | 2026-03-17 |  |
-| **[SOMA: Unifying Parametric Human Body Models](https://arxiv.org/abs/2603.16858v1)** | 2026-03-17 |  |
-| **[Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers](https://arxiv.org/abs/2603.16857v1)** | 2026-03-17 |  |
-| **[Spatial Causal Tensor Completion for Multiple Exposures and Outcomes: An Application to the Health Effects of PFAS Pollution](https://arxiv.org/abs/2603.16854v1)** | 2026-03-17 |  |
+| **[Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)** | 2026-03-19 | 31 pages, 12 figures |
+| **[SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](https://arxiv.org/abs/2603.19228v1)** | 2026-03-19 | 24 pages, 12 figures |
+| **[FinTradeBench: A Financial Reasoning Benchmark for LLMs](https://arxiv.org/abs/2603.19225v1)** | 2026-03-19 | <details><summary>8 pag...</summary><p>8 pages main text, 22 pages total (including references and appendix). 5 figures, 14 tables. Preprint under review. Code and data will be made available upon publication</p></details> |
+| **[F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World](https://arxiv.org/abs/2603.19223v1)** | 2026-03-19 |  |
+| **[Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](https://arxiv.org/abs/2603.19220v1)** | 2026-03-19 | <details><summary>We re...</summary><p>We release the model and data at https://huggingface.co/collections/nvidia/nemotron-cascade-2</p></details> |
+| **[LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs](https://arxiv.org/abs/2603.19217v1)** | 2026-03-19 | <details><summary>Proje...</summary><p>Project page: https://kd-tao.github.io/LVOmniBench/</p></details> |
+| **[Synthetic Control Misconceptions: Recommendations for Practice](https://arxiv.org/abs/2603.19211v1)** | 2026-03-19 |  |
+| **[Tinted Frames: Question Framing Blinds Vision-Language Models](https://arxiv.org/abs/2603.19203v1)** | 2026-03-19 | <details><summary>Prepr...</summary><p>Preprint. Project page: https://davidhalladay.github.io/tinted_frames_demo/</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?](https://arxiv.org/abs/2505.23359v2)** | 2026-03-17 | <details><summary>Proje...</summary><p>Project Page: https://llyx97.github.io/video_reason_bench/</p></details> |
-| **[MLLM-based Textual Explanations for Face Comparison](https://arxiv.org/abs/2603.16629v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at 14th International Workshop on Biometrics and Forensics (IWBF)</p></details> |
-| **[BATQuant: Outlier-resilient MXFP4 Quantization via Learnable Block-wise Optimization](https://arxiv.org/abs/2603.16590v1)** | 2026-03-17 | <details><summary>30 pa...</summary><p>30 pages, 13 figures, 7 tables</p></details> |
-| **[DiG: Differential Grounding for Enhancing Fine-Grained Perception in Multimodal Large Language Model](https://arxiv.org/abs/2512.12633v2)** | 2026-03-17 |  |
-| **[ExpressMind: A Multimodal Pretrained Large Language Model for Expressway Operation](https://arxiv.org/abs/2603.16495v1)** | 2026-03-17 |  |
-| **[SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](https://arxiv.org/abs/2505.17018v2)** | 2026-03-17 | <details><summary>ICLR ...</summary><p>ICLR 2026, Project page:https://github.com/kxfan2002/SophiaVL-R1</p></details> |
-| **[Follow the Clues, Frame the Truth: Hybrid-evidential Deductive Reasoning in Open-Vocabulary Multimodal Emotion Recognition](https://arxiv.org/abs/2603.16463v1)** | 2026-03-17 |  |
-| **[GAP-MLLM: Geometry-Aligned Pre-training for Activating 3D Spatial Perception in Multimodal Large Language Models](https://arxiv.org/abs/2603.16461v1)** | 2026-03-17 |  |
-| **[ANTS: Adaptive Negative Textual Space Shaping for OOD Detection via Test-Time MLLM Understanding and Reasoning](https://arxiv.org/abs/2509.03951v4)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted by CVPR2026, Project Page: https://zhuwenjie98.github.io/ANTS-project-page/</p></details> |
-| **[InViC: Intent-aware Visual Cues for Medical Visual Question Answering](https://arxiv.org/abs/2603.16372v1)** | 2026-03-17 | 10 pages, 2 figures |
+| **[Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)** | 2026-03-19 | 31 pages, 12 figures |
+| **[MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](https://arxiv.org/abs/2512.02906v3)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Rethinking MLLM Itself as a Segmenter with a Single Segmentation Token](https://arxiv.org/abs/2603.19026v1)** | 2026-03-19 | <details><summary>Paper...</summary><p>Paper is accepted by CVPR 2026</p></details> |
+| **[How to Take a Memorable Picture? Empowering Users with Actionable Feedback](https://arxiv.org/abs/2602.21877v2)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted @ CVPR 2026. Project page: https://laitifranz.github.io/MemCoach/</p></details> |
+| **[VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining](https://arxiv.org/abs/2603.15030v2)** | 2026-03-19 |  |
+| **[Thinking with Constructions: A Benchmark and Policy Optimization for Visual-Text Interleaved Geometric Reasoning](https://arxiv.org/abs/2603.18662v1)** | 2026-03-19 |  |
+| **[MedForge: Interpretable Medical Deepfake Detection via Forgery-aware Reasoning](https://arxiv.org/abs/2603.18577v1)** | 2026-03-19 |  |
+| **[Do Language Models Associate Sound with Meaning? A Multimodal Study of Sound Symbolism](https://arxiv.org/abs/2511.10045v6)** | 2026-03-19 | <details><summary>33 pa...</summary><p>33 pages, 27 tables, 10 figures, accepted to AAAI 2026 (Oral)</p></details> |
+| **[CoDA: Exploring Chain-of-Distribution Attacks and Post-Hoc Token-Space Repair for Medical Vision-Language Models](https://arxiv.org/abs/2603.18545v1)** | 2026-03-19 |  |
+| **[Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding](https://arxiv.org/abs/2603.18472v1)** | 2026-03-19 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SegviGen: Repurposing 3D Generative Model for Part Segmentation](https://arxiv.org/abs/2603.16869v1)** | 2026-03-17 | <details><summary>Proje...</summary><p>Project page: https://fenghora.github.io/SegviGen-Page/</p></details> |
-| **[MessyKitchens: Contact-rich object-level 3D scene reconstruction](https://arxiv.org/abs/2603.16868v1)** | 2026-03-17 |  |
-| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
-| **[MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation](https://arxiv.org/abs/2603.16861v1)** | 2026-03-17 |  |
-| **[DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](https://arxiv.org/abs/2603.16860v1)** | 2026-03-17 |  |
-| **[SOMA: Unifying Parametric Human Body Models](https://arxiv.org/abs/2603.16858v1)** | 2026-03-17 |  |
-| **[Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers](https://arxiv.org/abs/2603.16857v1)** | 2026-03-17 |  |
-| **[Spatial Causal Tensor Completion for Multiple Exposures and Outcomes: An Application to the Health Effects of PFAS Pollution](https://arxiv.org/abs/2603.16854v1)** | 2026-03-17 |  |
+| **[Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v1)** | 2026-03-19 | 31 pages, 12 figures |
+| **[SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing](https://arxiv.org/abs/2603.19228v1)** | 2026-03-19 | 24 pages, 12 figures |
+| **[FinTradeBench: A Financial Reasoning Benchmark for LLMs](https://arxiv.org/abs/2603.19225v1)** | 2026-03-19 | <details><summary>8 pag...</summary><p>8 pages main text, 22 pages total (including references and appendix). 5 figures, 14 tables. Preprint under review. Code and data will be made available upon publication</p></details> |
+| **[F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World](https://arxiv.org/abs/2603.19223v1)** | 2026-03-19 |  |
+| **[Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](https://arxiv.org/abs/2603.19220v1)** | 2026-03-19 | <details><summary>We re...</summary><p>We release the model and data at https://huggingface.co/collections/nvidia/nemotron-cascade-2</p></details> |
+| **[Synthetic Control Misconceptions: Recommendations for Practice](https://arxiv.org/abs/2603.19211v1)** | 2026-03-19 |  |
+| **[OmniVTA: Visuo-Tactile World Modeling for Contact-Rich Robotic Manipulation](https://arxiv.org/abs/2603.19201v1)** | 2026-03-19 | <details><summary>TARS ...</summary><p>TARS Robotics Project Page: https://mrsecant.github.io/OmniVTA</p></details> |
+| **[Exploring the Role of Interaction Data to Empower End-User Decision-Making In UI Personalization](https://arxiv.org/abs/2603.19196v1)** | 2026-03-19 | <details><summary>Proce...</summary><p>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems</p></details> |
 
