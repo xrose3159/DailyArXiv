@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,52 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](https://arxiv.org/abs/2603.20193v1)** | 2026-03-20 | <details><summary>Code ...</summary><p>Code and data at: https://github.com/VILA-Lab/PIXAR (Accepted in CVPR 2026 Findings, but not opted in)</p></details> |
-| **[LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192v1)** | 2026-03-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready Version. Code and Models: https://jiazheng-xing.github.io/lumosx-home/</p></details> |
-| **[MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms](https://arxiv.org/abs/2603.20189v1)** | 2026-03-20 |  |
-| **[MuSteerNet: Human Reaction Generation from Videos via Observation-Reaction Mutual Steering](https://arxiv.org/abs/2603.20187v1)** | 2026-03-20 |  |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning](https://arxiv.org/abs/2603.20181v1)** | 2026-03-20 | <details><summary>Submi...</summary><p>Submitted to Euro S&P - 5th International Workshop on Designing and Measuring Security in Systems with AI</p></details> |
-| **[AI Agents Can Already Autonomously Perform Experimental High Energy Physics](https://arxiv.org/abs/2603.20179v1)** | 2026-03-20 |  |
-| **[LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis](https://arxiv.org/abs/2603.20176v1)** | 2026-03-20 | <details><summary>IEEE ...</summary><p>IEEE CVF Conference on Computer Vision and Pattern Recognition 2026. Project page with code, models and examples: szymanowiczs.github.io/lagernvs</p></details> |
+| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[Repurposing Geometric Foundation Models for Multi-view Diffusion](https://arxiv.org/abs/2603.22275v1)** | 2026-03-23 | <details><summary>proje...</summary><p>project website: https://cvlab-kaist.github.io/GLD/</p></details> |
+| **[Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration](https://arxiv.org/abs/2603.22273v1)** | 2026-03-23 |  |
+| **[GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning](https://arxiv.org/abs/2603.22270v1)** | 2026-03-23 |  |
+| **[TiCo: Time-Controllable Training for Spoken Dialogue Models](https://arxiv.org/abs/2603.22267v1)** | 2026-03-23 |  |
+| **[UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos](https://arxiv.org/abs/2603.22264v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](https://arxiv.org/abs/2603.20193v1)** | 2026-03-20 | <details><summary>Code ...</summary><p>Code and data at: https://github.com/VILA-Lab/PIXAR (Accepted in CVPR 2026 Findings, but not opted in)</p></details> |
-| **[LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192v1)** | 2026-03-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready Version. Code and Models: https://jiazheng-xing.github.io/lumosx-home/</p></details> |
-| **[MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms](https://arxiv.org/abs/2603.20189v1)** | 2026-03-20 |  |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning](https://arxiv.org/abs/2603.20181v1)** | 2026-03-20 | <details><summary>Submi...</summary><p>Submitted to Euro S&P - 5th International Workshop on Designing and Measuring Security in Systems with AI</p></details> |
-| **[Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v3)** | 2026-03-20 |  |
-| **[Adaptive Greedy Frame Selection for Long Video Understanding](https://arxiv.org/abs/2603.20180v1)** | 2026-03-20 |  |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration](https://arxiv.org/abs/2603.22273v1)** | 2026-03-23 |  |
+| **[GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning](https://arxiv.org/abs/2603.22270v1)** | 2026-03-23 |  |
+| **[TiCo: Time-Controllable Training for Spoken Dialogue Models](https://arxiv.org/abs/2603.22267v1)** | 2026-03-23 |  |
+| **[UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos](https://arxiv.org/abs/2603.22264v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Greater accessibility can amplify discrimination in generative AI](https://arxiv.org/abs/2603.22260v1)** | 2026-03-23 | Preprint |
+| **[Scalable Prompt Routing via Fine-Grained Latent Task Discovery](https://arxiv.org/abs/2603.19415v2)** | 2026-03-23 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192v1)** | 2026-03-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready Version. Code and Models: https://jiazheng-xing.github.io/lumosx-home/</p></details> |
-| **[Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR](https://arxiv.org/abs/2603.20020v1)** | 2026-03-20 |  |
-| **[MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI](https://arxiv.org/abs/2603.19993v1)** | 2026-03-20 | <details><summary>Proje...</summary><p>Project page: https://rozainmalik.github.io/MedSPOT_web/</p></details> |
-| **[MedQ-Engine: A Closed-Loop Data Engine for Evolving MLLMs in Medical Image Quality Assessment](https://arxiv.org/abs/2603.19863v1)** | 2026-03-20 |  |
-| **[FREAK: A Fine-grained Hallucination Evaluation Benchmark for Advanced MLLMs](https://arxiv.org/abs/2603.19765v1)** | 2026-03-20 | 34 pages |
-| **[Rethinking Ground Truth: A Case Study on Human Label Variation in MLLM Benchmarking](https://arxiv.org/abs/2603.19744v1)** | 2026-03-20 | <details><summary>6 pag...</summary><p>6 pages, 3 tables, 1 figure</p></details> |
-| **[EagleVision: A Dual-Stage Framework with BEV-grounding-based Chain-of-Thought for Spatial Intelligence](https://arxiv.org/abs/2512.15160v2)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[DataProphet: Demystifying Supervision Data Generalization in Multimodal LLMs](https://arxiv.org/abs/2603.19688v1)** | 2026-03-20 | 14 pages |
-| **[FastMMoE: Accelerating Multimodal Large Language Models through Dynamic Expert Activation and Routing-Aware Token Pruning](https://arxiv.org/abs/2511.17885v2)** | 2026-03-20 |  |
-| **[ACT as Human: Multimodal Large Language Model Data Annotation with Critical Thinking](https://arxiv.org/abs/2511.09833v2)** | 2026-03-20 | NeurIPS 2025 |
+| **[VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding](https://arxiv.org/abs/2603.22285v1)** | 2026-03-23 |  |
+| **[Seeing is Improving: Visual Feedback for Iterative Text Layout Refinement](https://arxiv.org/abs/2603.22187v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Reasoning-Aligned Perception Decoupling for Scalable Multi-modal Reasoning](https://arxiv.org/abs/2506.04559v3)** | 2026-03-23 | ICLR 2026 |
+| **[Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection](https://arxiv.org/abs/2603.21944v1)** | 2026-03-23 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, Project page: https://ubin108.github.io/Group3D/</p></details> |
+| **[Nuanced Emotion Recognition Based on a Segment-based MLLM Framework Leveraging Qwen3-Omni for AH Detection](https://arxiv.org/abs/2603.13406v2)** | 2026-03-23 | 5 pages, 1 figures |
+| **[Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2603.21697v1)** | 2026-03-23 | 31 pages |
+| **[Deterministic Hallucination Detection in Medical VQA via Confidence-Evidence Bayesian Gain](https://arxiv.org/abs/2603.21693v1)** | 2026-03-23 |  |
+| **[No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection](https://arxiv.org/abs/2602.19248v4)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[SSAM: Singular Subspace Alignment for Merging Multimodal Large Language Models](https://arxiv.org/abs/2603.21584v1)** | 2026-03-23 | <details><summary>25 Pa...</summary><p>25 Pages, 9 Figures, 5 Tables</p></details> |
+| **[GroundingME: Exposing the Visual Grounding Gap in MLLMs through Multi-Dimensional Evaluation](https://arxiv.org/abs/2512.17495v2)** | 2026-03-23 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](https://arxiv.org/abs/2603.20193v1)** | 2026-03-20 | <details><summary>Code ...</summary><p>Code and data at: https://github.com/VILA-Lab/PIXAR (Accepted in CVPR 2026 Findings, but not opted in)</p></details> |
-| **[LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192v1)** | 2026-03-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready Version. Code and Models: https://jiazheng-xing.github.io/lumosx-home/</p></details> |
-| **[MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms](https://arxiv.org/abs/2603.20189v1)** | 2026-03-20 |  |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
-| **[Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning](https://arxiv.org/abs/2603.20181v1)** | 2026-03-20 | <details><summary>Submi...</summary><p>Submitted to Euro S&P - 5th International Workshop on Designing and Measuring Security in Systems with AI</p></details> |
-| **[AI Agents Can Already Autonomously Perform Experimental High Energy Physics](https://arxiv.org/abs/2603.20179v1)** | 2026-03-20 |  |
-| **[LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis](https://arxiv.org/abs/2603.20176v1)** | 2026-03-20 | <details><summary>IEEE ...</summary><p>IEEE CVF Conference on Computer Vision and Pattern Recognition 2026. Project page with code, models and examples: szymanowiczs.github.io/lagernvs</p></details> |
-| **[A Unified Framework to Quantify Cultural Intelligence of AI](https://arxiv.org/abs/2603.01211v2)** | 2026-03-20 |  |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration](https://arxiv.org/abs/2603.22273v1)** | 2026-03-23 |  |
+| **[GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning](https://arxiv.org/abs/2603.22270v1)** | 2026-03-23 |  |
+| **[TiCo: Time-Controllable Training for Spoken Dialogue Models](https://arxiv.org/abs/2603.22267v1)** | 2026-03-23 |  |
+| **[UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos](https://arxiv.org/abs/2603.22264v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[The Price of Progress: Price Performance and the Future of AI](https://arxiv.org/abs/2511.23455v2)** | 2026-03-23 |  |
+| **[Greater accessibility can amplify discrimination in generative AI](https://arxiv.org/abs/2603.22260v1)** | 2026-03-23 | Preprint |
 
