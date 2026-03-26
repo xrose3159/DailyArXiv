@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 26, 2026
+title: Latest 15 Papers - March 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,49 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation](https://arxiv.org/abs/2603.23500v1)** | 2026-03-24 |  |
-| **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/abs/2603.23499v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/DA-Flow</p></details> |
-| **[WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://arxiv.org/abs/2603.23497v1)** | 2026-03-24 |  |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation](https://arxiv.org/abs/2603.23491v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project website at https://bchao1.github.io/foveated-diffusion</p></details> |
-| **[From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma](https://arxiv.org/abs/2508.07494v2)** | 2026-03-24 | <details><summary>Revis...</summary><p>Revisions compared to first version: formal analysis of the generalized Koopman composition operator, exact bilinear form with finite-dimensional input Hilbert space for input-affine systems, quantitative persistency of excitation notion for infinite-dimensional bilinear systems, nonlinear fundamental lemma in terms of Hankel operators and frames, addition soft-robotic manipulator example</p></details> |
-| **[One View Is Enough! Monocular Training for In-the-Wild Novel View Generation](https://arxiv.org/abs/2603.23488v1)** | 2026-03-24 | 34 pages, 16 figures |
-| **[TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation](https://arxiv.org/abs/2603.23487v1)** | 2026-03-24 |  |
+| **[YingMusic-Singer: Controllable Singing Voice Synthesis with Flexible Lyric Manipulation and Annotation-free Melody Guidance](https://arxiv.org/abs/2603.24589v1)** | 2026-03-25 |  |
+| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
+| **[Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.24581v1)** | 2026-03-25 |  |
+| **[Vision-Language Models vs Human: Perceptual Image Quality Assessment](https://arxiv.org/abs/2603.24578v1)** | 2026-03-25 |  |
+| **[Fast Relax-and-Round Unit Commitment with Sub-hourly Mechanical and Ramp Constraints](https://arxiv.org/abs/2602.03977v4)** | 2026-03-25 | 9 pages, 7 figures |
+| **[VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575v1)** | 2026-03-25 |  |
+| **[Coordinating Spot and Contract Supply in Freight Marketplaces](https://arxiv.org/abs/2603.24574v1)** | 2026-03-25 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/abs/2603.23499v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/DA-Flow</p></details> |
-| **[WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://arxiv.org/abs/2603.23497v1)** | 2026-03-24 |  |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](https://arxiv.org/abs/2603.23495v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation](https://arxiv.org/abs/2603.23491v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project website at https://bchao1.github.io/foveated-diffusion</p></details> |
-| **[AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation](https://arxiv.org/abs/2603.23489v1)** | 2026-03-24 |  |
-| **[From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma](https://arxiv.org/abs/2508.07494v2)** | 2026-03-24 | <details><summary>Revis...</summary><p>Revisions compared to first version: formal analysis of the generalized Koopman composition operator, exact bilinear form with finite-dimensional input Hilbert space for input-affine systems, quantitative persistency of excitation notion for infinite-dimensional bilinear systems, nonlinear fundamental lemma in terms of Hankel operators and frames, addition soft-robotic manipulator example</p></details> |
+| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
+| **[Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.24581v1)** | 2026-03-25 |  |
+| **[Vision-Language Models vs Human: Perceptual Image Quality Assessment](https://arxiv.org/abs/2603.24578v1)** | 2026-03-25 |  |
+| **[Fast Relax-and-Round Unit Commitment with Sub-hourly Mechanical and Ramp Constraints](https://arxiv.org/abs/2602.03977v4)** | 2026-03-25 | 9 pages, 7 figures |
+| **[Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2603.24576v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code is available at https://github.com/gxyes/MARS_Chameleon</p></details> |
+| **[VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575v1)** | 2026-03-25 |  |
+| **[Coordinating Spot and Contract Supply in Freight Marketplaces](https://arxiv.org/abs/2603.24574v1)** | 2026-03-25 |  |
+| **[Towards Training-Free Scene Text Editing](https://arxiv.org/abs/2603.24571v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation](https://arxiv.org/abs/2603.23489v1)** | 2026-03-24 |  |
-| **[SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://arxiv.org/abs/2603.23483v1)** | 2026-03-24 | <details><summary>Code:...</summary><p>Code: https://github.com/MAC-AutoML/SpecEyes</p></details> |
-| **[DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection](https://arxiv.org/abs/2603.23455v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project Page: https://ggare-cmu.github.io/DetPO/</p></details> |
-| **[Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning](https://arxiv.org/abs/2603.23404v1)** | 2026-03-24 | 26 pages, 6 figures |
-| **[SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM](https://arxiv.org/abs/2603.23386v1)** | 2026-03-24 |  |
-| **[I Came, I Saw, I Explained: Benchmarking Multimodal LLMs on Figurative Meaning in Memes](https://arxiv.org/abs/2603.23229v1)** | 2026-03-24 | <details><summary>LREC ...</summary><p>LREC 2026, 18 pages, 10 figures</p></details> |
-| **[InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance](https://arxiv.org/abs/2603.23132v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project Page: https://interdyad.github.io/</p></details> |
-| **[SMSP: A Plug-and-Play Strategy of Multi-Scale Perception for MLLMs to Perceive Visual Illusions](https://arxiv.org/abs/2603.23118v1)** | 2026-03-24 |  |
-| **[MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](https://arxiv.org/abs/2603.23067v1)** | 2026-03-24 |  |
-| **[Cog3DMap: Multi-View Vision-Language Reasoning with 3D Cognitive Maps](https://arxiv.org/abs/2603.23023v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project Page: https://cog3dmap.github.io</p></details> |
+| **[Quantification and object perception in Multimodal Large Language Models and human linguistic cognition](https://arxiv.org/abs/2511.08126v2)** | 2026-03-25 |  |
+| **[UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/ui-voyager/UI-Voyager</p></details> |
+| **[Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models](https://arxiv.org/abs/2603.24484v1)** | 2026-03-25 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, accepted at CVPR 2026, project page: see https://founce.github.io/VisionToM</p></details> |
+| **[Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](https://arxiv.org/abs/2512.10548v2)** | 2026-03-25 | CVPR 2026 |
+| **[3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models](https://arxiv.org/abs/2603.24393v1)** | 2026-03-25 | 13 pages |
+| **[GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://arxiv.org/abs/2603.24329v1)** | 2026-03-25 |  |
+| **[ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation](https://arxiv.org/abs/2601.12983v2)** | 2026-03-25 |  |
+| **[RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution](https://arxiv.org/abs/2603.24198v1)** | 2026-03-25 |  |
+| **[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](https://arxiv.org/abs/2602.06037v3)** | 2026-03-25 |  |
+| **[PromptLoop: Plug-and-Play Prompt Refinement via Latent Feedback for Diffusion Model Alignment](https://arxiv.org/abs/2510.00430v2)** | 2026-03-25 | <details><summary>CVPR2...</summary><p>CVPR26 poster. 25 pages, 19 figures</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/abs/2603.23499v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/DA-Flow</p></details> |
-| **[WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG](https://arxiv.org/abs/2603.23497v1)** | 2026-03-24 |  |
-| **[Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning](https://arxiv.org/abs/2603.23496v1)** | 2026-03-24 |  |
-| **[Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation](https://arxiv.org/abs/2603.23491v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project website at https://bchao1.github.io/foveated-diffusion</p></details> |
-| **[From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma](https://arxiv.org/abs/2508.07494v2)** | 2026-03-24 | <details><summary>Revis...</summary><p>Revisions compared to first version: formal analysis of the generalized Koopman composition operator, exact bilinear form with finite-dimensional input Hilbert space for input-affine systems, quantitative persistency of excitation notion for infinite-dimensional bilinear systems, nonlinear fundamental lemma in terms of Hankel operators and frames, addition soft-robotic manipulator example</p></details> |
-| **[One View Is Enough! Monocular Training for In-the-Wild Novel View Generation](https://arxiv.org/abs/2603.23488v1)** | 2026-03-24 | 34 pages, 16 figures |
-| **[TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation](https://arxiv.org/abs/2603.23487v1)** | 2026-03-24 |  |
-| **[Paired Wasserstein Autoencoders for Conditional Sampling](https://arxiv.org/abs/2412.07586v2)** | 2026-03-24 |  |
+| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
+| **[Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.24581v1)** | 2026-03-25 |  |
+| **[Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA](https://arxiv.org/abs/2603.24580v1)** | 2026-03-25 |  |
+| **[Vision-Language Models vs Human: Perceptual Image Quality Assessment](https://arxiv.org/abs/2603.24578v1)** | 2026-03-25 |  |
+| **[Fast Relax-and-Round Unit Commitment with Sub-hourly Mechanical and Ramp Constraints](https://arxiv.org/abs/2602.03977v4)** | 2026-03-25 | 9 pages, 7 figures |
+| **[VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575v1)** | 2026-03-25 |  |
+| **[Coordinating Spot and Contract Supply in Freight Marketplaces](https://arxiv.org/abs/2603.24574v1)** | 2026-03-25 |  |
+| **[Towards Training-Free Scene Text Editing](https://arxiv.org/abs/2603.24571v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
