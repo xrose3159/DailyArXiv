@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 27, 2026
+title: Latest 15 Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,49 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[YingMusic-Singer: Controllable Singing Voice Synthesis with Flexible Lyric Manipulation and Annotation-free Melody Guidance](https://arxiv.org/abs/2603.24589v1)** | 2026-03-25 |  |
-| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
-| **[Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.24581v1)** | 2026-03-25 |  |
-| **[Vision-Language Models vs Human: Perceptual Image Quality Assessment](https://arxiv.org/abs/2603.24578v1)** | 2026-03-25 |  |
-| **[Fast Relax-and-Round Unit Commitment with Sub-hourly Mechanical and Ramp Constraints](https://arxiv.org/abs/2602.03977v4)** | 2026-03-25 | 9 pages, 7 figures |
-| **[VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575v1)** | 2026-03-25 |  |
-| **[Coordinating Spot and Contract Supply in Freight Marketplaces](https://arxiv.org/abs/2603.24574v1)** | 2026-03-25 |  |
+| **[Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning](https://arxiv.org/abs/2603.26660v1)** | 2026-03-27 |  |
+| **[Zero-Shot Depth from Defocus](https://arxiv.org/abs/2603.26658v1)** | 2026-03-27 |  |
+| **[Tunable Soft Equivariance with Guarantees](https://arxiv.org/abs/2603.26657v1)** | 2026-03-27 |  |
+| **[Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration](https://arxiv.org/abs/2603.22273v2)** | 2026-03-27 |  |
+| **[INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation](https://arxiv.org/abs/2502.00262v4)** | 2026-03-27 |  |
+| **[Machine Learning Transferability for Malware Detection](https://arxiv.org/abs/2603.26632v1)** | 2026-03-27 | <details><summary>12 pa...</summary><p>12 pages, 1 Figure, 2 tables, World CIST 2026</p></details> |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos](https://arxiv.org/abs/2512.01707v2)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, Project page: https://streamgaze.github.io/</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
-| **[Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.24581v1)** | 2026-03-25 |  |
-| **[Vision-Language Models vs Human: Perceptual Image Quality Assessment](https://arxiv.org/abs/2603.24578v1)** | 2026-03-25 |  |
-| **[Fast Relax-and-Round Unit Commitment with Sub-hourly Mechanical and Ramp Constraints](https://arxiv.org/abs/2602.03977v4)** | 2026-03-25 | 9 pages, 7 figures |
-| **[Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2603.24576v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code is available at https://github.com/gxyes/MARS_Chameleon</p></details> |
-| **[VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575v1)** | 2026-03-25 |  |
-| **[Coordinating Spot and Contract Supply in Freight Marketplaces](https://arxiv.org/abs/2603.24574v1)** | 2026-03-25 |  |
-| **[Towards Training-Free Scene Text Editing](https://arxiv.org/abs/2603.24571v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning](https://arxiv.org/abs/2603.26660v1)** | 2026-03-27 |  |
+| **[Zero-Shot Depth from Defocus](https://arxiv.org/abs/2603.26658v1)** | 2026-03-27 |  |
+| **[Tunable Soft Equivariance with Guarantees](https://arxiv.org/abs/2603.26657v1)** | 2026-03-27 |  |
+| **[An LP-based Sampling Policy for Multi-Armed Bandits with Side-Observations and Stochastic Availability](https://arxiv.org/abs/2603.26647v1)** | 2026-03-27 |  |
+| **[Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration](https://arxiv.org/abs/2603.22273v2)** | 2026-03-27 |  |
+| **[INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation](https://arxiv.org/abs/2502.00262v4)** | 2026-03-27 |  |
+| **[Large Language Models Can Perform Automatic Modulation Classification via Discretized Self-supervised Candidate Retrieval](https://arxiv.org/abs/2510.00316v2)** | 2026-03-27 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantification and object perception in Multimodal Large Language Models and human linguistic cognition](https://arxiv.org/abs/2511.08126v2)** | 2026-03-25 |  |
-| **[UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience](https://arxiv.org/abs/2603.24533v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/ui-voyager/UI-Voyager</p></details> |
-| **[Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models](https://arxiv.org/abs/2603.24484v1)** | 2026-03-25 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, accepted at CVPR 2026, project page: see https://founce.github.io/VisionToM</p></details> |
-| **[Blink: Dynamic Visual Token Resolution for Enhanced Multimodal Understanding](https://arxiv.org/abs/2512.10548v2)** | 2026-03-25 | CVPR 2026 |
-| **[3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models](https://arxiv.org/abs/2603.24393v1)** | 2026-03-25 | 13 pages |
-| **[GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://arxiv.org/abs/2603.24329v1)** | 2026-03-25 |  |
-| **[ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation](https://arxiv.org/abs/2601.12983v2)** | 2026-03-25 |  |
-| **[RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution](https://arxiv.org/abs/2603.24198v1)** | 2026-03-25 |  |
-| **[Thinking with Geometry: Active Geometry Integration for Spatial Reasoning](https://arxiv.org/abs/2602.06037v3)** | 2026-03-25 |  |
-| **[PromptLoop: Plug-and-Play Prompt Refinement via Latent Feedback for Diffusion Model Alignment](https://arxiv.org/abs/2510.00430v2)** | 2026-03-25 | <details><summary>CVPR2...</summary><p>CVPR26 poster. 25 pages, 19 figures</p></details> |
+| **[PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning](https://arxiv.org/abs/2603.26653v1)** | 2026-03-27 | <details><summary>Proje...</summary><p>Project Page: https://perceptioncomp.github.io</p></details> |
+| **[Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision](https://arxiv.org/abs/2603.26646v1)** | 2026-03-27 |  |
+| **[StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos](https://arxiv.org/abs/2512.01707v2)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, Project page: https://streamgaze.github.io/</p></details> |
+| **[MA-Bench: Towards Fine-grained Micro-Action Understanding](https://arxiv.org/abs/2603.26586v1)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Rocks, Pebbles and Sand: Modality-aware Scheduling for Multimodal Large Language Model Inference](https://arxiv.org/abs/2603.26498v1)** | 2026-03-27 |  |
+| **[Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification](https://arxiv.org/abs/2603.26348v1)** | 2026-03-27 |  |
+| **[CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions](https://arxiv.org/abs/2603.26174v1)** | 2026-03-27 | Accepted by CVPR2026 |
+| **[Beyond Where to Look: Trajectory-Guided Reinforcement Learning for Multimodal RLVR](https://arxiv.org/abs/2603.26126v1)** | 2026-03-27 |  |
+| **[CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models](https://arxiv.org/abs/2603.21077v2)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Towards Real-World Document Parsing via Realistic Scene Synthesis and Document-Aware Training](https://arxiv.org/abs/2603.23885v2)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
-| **[Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving](https://arxiv.org/abs/2603.24581v1)** | 2026-03-25 |  |
-| **[Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA](https://arxiv.org/abs/2603.24580v1)** | 2026-03-25 |  |
-| **[Vision-Language Models vs Human: Perceptual Image Quality Assessment](https://arxiv.org/abs/2603.24578v1)** | 2026-03-25 |  |
-| **[Fast Relax-and-Round Unit Commitment with Sub-hourly Mechanical and Ramp Constraints](https://arxiv.org/abs/2602.03977v4)** | 2026-03-25 | 9 pages, 7 figures |
-| **[VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models](https://arxiv.org/abs/2603.24575v1)** | 2026-03-25 |  |
-| **[Coordinating Spot and Contract Supply in Freight Marketplaces](https://arxiv.org/abs/2603.24574v1)** | 2026-03-25 |  |
-| **[Towards Training-Free Scene Text Editing](https://arxiv.org/abs/2603.24571v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning](https://arxiv.org/abs/2603.26660v1)** | 2026-03-27 |  |
+| **[Zero-Shot Depth from Defocus](https://arxiv.org/abs/2603.26658v1)** | 2026-03-27 |  |
+| **[Tunable Soft Equivariance with Guarantees](https://arxiv.org/abs/2603.26657v1)** | 2026-03-27 |  |
+| **[Decoupling Exploration and Policy Optimization: Uncertainty Guided Tree Search for Hard Exploration](https://arxiv.org/abs/2603.22273v2)** | 2026-03-27 |  |
+| **[INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation](https://arxiv.org/abs/2502.00262v4)** | 2026-03-27 |  |
+| **[Machine Learning Transferability for Malware Detection](https://arxiv.org/abs/2603.26632v1)** | 2026-03-27 | <details><summary>12 pa...</summary><p>12 pages, 1 Figure, 2 tables, World CIST 2026</p></details> |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos](https://arxiv.org/abs/2512.01707v2)** | 2026-03-27 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, Project page: https://streamgaze.github.io/</p></details> |
 
