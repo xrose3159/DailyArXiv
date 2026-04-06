@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 03, 2026
+title: Latest 15 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,43 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HippoCamp: Benchmarking Contextual Agents on Personal Computers](https://arxiv.org/abs/2604.01221v1)** | 2026-04-01 | <details><summary>Proje...</summary><p>Project Page: https://hippocamp-ai.github.io/</p></details> |
-| **[LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)](https://arxiv.org/abs/2604.01216v1)** | 2026-04-01 |  |
-| **[The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline](https://arxiv.org/abs/2604.01215v1)** | 2026-04-01 |  |
-| **[TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking](https://arxiv.org/abs/2604.01207v1)** | 2026-04-01 | 22 pages, 9 figures |
-| **[Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction](https://arxiv.org/abs/2604.01204v1)** | 2026-04-01 |  |
-| **[Learning and Generating Mixed States Prepared by Shallow Channel Circuits](https://arxiv.org/abs/2604.01197v1)** | 2026-04-01 | <details><summary>44 pa...</summary><p>44 pages, 13 figures, 1 table</p></details> |
+| **[Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems](https://arxiv.org/abs/2505.21723v3)** | 2026-04-03 | <details><summary>35 pa...</summary><p>35 pages, 11 figures (main text)</p></details> |
+| **[Framing Data Choices: How Pre-Donation Exploration Designs Influence Data Donation Behavior and Decision-Making](https://arxiv.org/abs/2603.24995v2)** | 2026-04-03 | <details><summary>This ...</summary><p>This work has been accepted for inclusion in DRS Biennial Conference Series, DRS2026: Edinburgh, 8-12 June, Edinburgh, UK</p></details> |
+| **[Enhancing Robustness of Federated Learning via Server Learning](https://arxiv.org/abs/2604.03226v1)** | 2026-04-03 |  |
+| **[VOSR: A Vision-Only Generative Model for Image Super-Resolution](https://arxiv.org/abs/2604.03225v1)** | 2026-04-03 | Accepted by CVPR2026 |
+| **[Fast Best-in-Class Regret for Contextual Bandits](https://arxiv.org/abs/2510.15483v2)** | 2026-04-03 |  |
+| **[Power one sequential tests exist for weakly compact $\mathscr P$ against $\mathscr P^c$](https://arxiv.org/abs/2604.03218v1)** | 2026-04-03 | Preprint |
+| **[NeedForHeat DataGear: An Open Monitoring System to Accelerate the Residential Heating Transition](https://arxiv.org/abs/2509.06927v3)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages + 3 pages appendices</p></details> |
+| **[Analysis of Invasive Breast Cancer in Mammograms Using YOLO, Explainability, and Domain Adaptation](https://arxiv.org/abs/2512.00129v2)** | 2026-04-03 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HippoCamp: Benchmarking Contextual Agents on Personal Computers](https://arxiv.org/abs/2604.01221v1)** | 2026-04-01 | <details><summary>Proje...</summary><p>Project Page: https://hippocamp-ai.github.io/</p></details> |
-| **[LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)](https://arxiv.org/abs/2604.01216v1)** | 2026-04-01 |  |
-| **[The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline](https://arxiv.org/abs/2604.01215v1)** | 2026-04-01 |  |
-| **[$\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](https://arxiv.org/abs/2604.01212v1)** | 2026-04-01 | 16 pages, 10 figures |
-| **[CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery](https://arxiv.org/abs/2604.01210v1)** | 2026-04-01 |  |
+| **[Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems](https://arxiv.org/abs/2505.21723v3)** | 2026-04-03 | <details><summary>35 pa...</summary><p>35 pages, 11 figures (main text)</p></details> |
+| **[Framing Data Choices: How Pre-Donation Exploration Designs Influence Data Donation Behavior and Decision-Making](https://arxiv.org/abs/2603.24995v2)** | 2026-04-03 | <details><summary>This ...</summary><p>This work has been accepted for inclusion in DRS Biennial Conference Series, DRS2026: Edinburgh, 8-12 June, Edinburgh, UK</p></details> |
+| **[Enhancing Robustness of Federated Learning via Server Learning](https://arxiv.org/abs/2604.03226v1)** | 2026-04-03 |  |
+| **[VOSR: A Vision-Only Generative Model for Image Super-Resolution](https://arxiv.org/abs/2604.03225v1)** | 2026-04-03 | Accepted by CVPR2026 |
+| **[Fast Best-in-Class Regret for Contextual Bandits](https://arxiv.org/abs/2510.15483v2)** | 2026-04-03 |  |
+| **[Power one sequential tests exist for weakly compact $\mathscr P$ against $\mathscr P^c$](https://arxiv.org/abs/2604.03218v1)** | 2026-04-03 | Preprint |
+| **[NeedForHeat DataGear: An Open Monitoring System to Accelerate the Residential Heating Transition](https://arxiv.org/abs/2509.06927v3)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages + 3 pages appendices</p></details> |
+| **[Analysis of Invasive Breast Cancer in Mammograms Using YOLO, Explainability, and Domain Adaptation](https://arxiv.org/abs/2512.00129v2)** | 2026-04-03 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HippoCamp: Benchmarking Contextual Agents on Personal Computers](https://arxiv.org/abs/2604.01221v1)** | 2026-04-01 | <details><summary>Proje...</summary><p>Project Page: https://hippocamp-ai.github.io/</p></details> |
-| **[VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection](https://arxiv.org/abs/2409.20146v2)** | 2026-04-01 |  |
-| **[Query-Conditioned Evidential Keyframe Sampling for MLLM-Based Long-Form Video Understanding](https://arxiv.org/abs/2604.01002v1)** | 2026-04-01 |  |
-| **[Auditing the Reliability of Multimodal Generative Search](https://arxiv.org/abs/2604.00944v1)** | 2026-04-01 |  |
-| **[OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport](https://arxiv.org/abs/2602.20205v3)** | 2026-04-01 | Accepted by CVPR2026 |
-| **[A 4D Representation for Training-Free Agentic Reasoning from Monocular Laparoscopic Video](https://arxiv.org/abs/2604.00867v1)** | 2026-04-01 |  |
-| **[Multimodal Language Models Cannot Spot Spatial Inconsistencies](https://arxiv.org/abs/2604.00799v1)** | 2026-04-01 |  |
-| **[Communicating about Space: Language-Mediated Spatial Integration Across Partial Views](https://arxiv.org/abs/2603.27183v2)** | 2026-04-01 |  |
-| **[From Hindsight to Foresight: Self-Encouraged Hindsight Distillation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2511.11132v2)** | 2026-04-01 |  |
-| **[Children's Intelligence Tests Pose Challenges for MLLMs? KidGym: A 2D Grid-Based Reasoning Benchmark for MLLMs](https://arxiv.org/abs/2603.20209v3)** | 2026-04-01 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models](https://arxiv.org/abs/2604.03179v1)** | 2026-04-03 | CVPR 2026 |
+| **[CoDA: Exploring Chain-of-Distribution Attacks and Post-Hoc Token-Space Repair for Medical Vision-Language Models](https://arxiv.org/abs/2603.18545v2)** | 2026-04-03 |  |
+| **[MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs](https://arxiv.org/abs/2604.03072v1)** | 2026-04-03 | 9 pages |
+| **[GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model](https://arxiv.org/abs/2604.03039v1)** | 2026-04-03 |  |
+| **[Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?](https://arxiv.org/abs/2604.03016v1)** | 2026-04-03 |  |
+| **[MSAO: Adaptive Modality Sparsity-Aware Offloading with Edge-Cloud Collaboration for Efficient Multimodal LLM Inference](https://arxiv.org/abs/2604.02945v1)** | 2026-04-03 | 10 pages, 9 figures |
+| **[PolyReal: A Benchmark for Real-World Polymer Science Workflows](https://arxiv.org/abs/2604.02934v1)** | 2026-04-03 |  |
+| **[Progressive Video Condensation with MLLM Agent for Long-form Video Understanding](https://arxiv.org/abs/2604.02891v1)** | 2026-04-03 | <details><summary>Accep...</summary><p>Accepted to ICME 2026</p></details> |
+| **[Token Warping Helps MLLMs Look from Nearby Viewpoints](https://arxiv.org/abs/2604.02870v1)** | 2026-04-03 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Page: https://token-warping-mllm.github.io</p></details> |
+| **[ADSeeker: A Knowledge-Grounded Reasoning Framework for Industry Anomaly Detection and Reasoning](https://arxiv.org/abs/2508.03088v2)** | 2026-04-03 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HippoCamp: Benchmarking Contextual Agents on Personal Computers](https://arxiv.org/abs/2604.01221v1)** | 2026-04-01 | <details><summary>Proje...</summary><p>Project Page: https://hippocamp-ai.github.io/</p></details> |
-| **[LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)](https://arxiv.org/abs/2604.01216v1)** | 2026-04-01 |  |
-| **[The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline](https://arxiv.org/abs/2604.01215v1)** | 2026-04-01 |  |
-| **[Learning and Generating Mixed States Prepared by Shallow Channel Circuits](https://arxiv.org/abs/2604.01197v1)** | 2026-04-01 | <details><summary>44 pa...</summary><p>44 pages, 13 figures, 1 table</p></details> |
-| **[ORBIT: Scalable and Verifiable Data Generation for Search Agents on a Tight Budget](https://arxiv.org/abs/2604.01195v1)** | 2026-04-01 |  |
-| **[Implementation of Support Vector Machines using Reaction Networks](https://arxiv.org/abs/2503.19115v2)** | 2026-04-01 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 1 table</p></details> |
+| **[Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems](https://arxiv.org/abs/2505.21723v3)** | 2026-04-03 | <details><summary>35 pa...</summary><p>35 pages, 11 figures (main text)</p></details> |
+| **[Framing Data Choices: How Pre-Donation Exploration Designs Influence Data Donation Behavior and Decision-Making](https://arxiv.org/abs/2603.24995v2)** | 2026-04-03 | <details><summary>This ...</summary><p>This work has been accepted for inclusion in DRS Biennial Conference Series, DRS2026: Edinburgh, 8-12 June, Edinburgh, UK</p></details> |
+| **[Enhancing Robustness of Federated Learning via Server Learning](https://arxiv.org/abs/2604.03226v1)** | 2026-04-03 |  |
+| **[VOSR: A Vision-Only Generative Model for Image Super-Resolution](https://arxiv.org/abs/2604.03225v1)** | 2026-04-03 | Accepted by CVPR2026 |
+| **[Fast Best-in-Class Regret for Contextual Bandits](https://arxiv.org/abs/2510.15483v2)** | 2026-04-03 |  |
+| **[Power one sequential tests exist for weakly compact $\mathscr P$ against $\mathscr P^c$](https://arxiv.org/abs/2604.03218v1)** | 2026-04-03 | Preprint |
+| **[NeedForHeat DataGear: An Open Monitoring System to Accelerate the Residential Heating Transition](https://arxiv.org/abs/2509.06927v3)** | 2026-04-03 | <details><summary>10 pa...</summary><p>10 pages + 3 pages appendices</p></details> |
+| **[Analysis of Invasive Breast Cancer in Mammograms Using YOLO, Explainability, and Domain Adaptation](https://arxiv.org/abs/2512.00129v2)** | 2026-04-03 |  |
 
