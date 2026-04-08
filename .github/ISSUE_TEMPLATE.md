@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2026
+title: Latest 15 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,54 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://arxiv.org/abs/2604.04934v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, Project Page: https://hyunsoocha.github.io/vanast/</p></details> |
-| **[PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding](https://arxiv.org/abs/2604.04933v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. The code is available at https://github.com/H-EmbodVis/PointTPA</p></details> |
-| **[LoMa: Local Feature Matching Revisited](https://arxiv.org/abs/2604.04931v1)** | 2026-04-06 |  |
-| **[Rethinking Model Efficiency: Multi-Agent Inference with Large Models](https://arxiv.org/abs/2604.04929v1)** | 2026-04-06 |  |
-| **[Weakly Convex Ridge Regularization for 3D Non-Cartesian MRI Reconstruction](https://arxiv.org/abs/2603.27158v2)** | 2026-04-06 | <details><summary>8 fig...</summary><p>8 figures and 2 tables</p></details> |
-| **[Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo](https://arxiv.org/abs/2604.04925v1)** | 2026-04-06 |  |
-| **[Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/abs/2604.04917v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project page: https://vero-reasoning.github.io/</p></details> |
-| **[General Geospatial Inference with a Population Dynamics Foundation Model](https://arxiv.org/abs/2411.07207v6)** | 2026-04-06 | <details><summary>updat...</summary><p>updated access information</p></details> |
-| **[SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](https://arxiv.org/abs/2604.04911v1)** | 2026-04-06 | <details><summary>Code:...</summary><p>Code: https://github.com/EasonXiao-888/SpatialEdit</p></details> |
+| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
+| **[Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers](https://arxiv.org/abs/2604.06163v1)** | 2026-04-07 |  |
+| **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/abs/2604.06161v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://yzmblog.github.io/projects/DiffHDR/</p></details> |
+| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
+| **[Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries](https://arxiv.org/abs/2604.06148v1)** | 2026-04-07 | <details><summary>75 pa...</summary><p>75 pages (excl. references), 2 tables. Addresses policy makers, regulators, and practitioners at the intersection of AI governance, cybersecurity, and geopolitical risk</p></details> |
+| **[Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization](https://arxiv.org/abs/2604.06138v1)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted for review at Interspeech 2026</p></details> |
+| **[Shot-Based Quantum Encoding: A Data-Loading Paradigm for Quantum Neural Networks](https://arxiv.org/abs/2604.06135v1)** | 2026-04-07 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 0 tables</p></details> |
+| **[Meta-probabilistic Modeling](https://arxiv.org/abs/2601.04462v3)** | 2026-04-07 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://arxiv.org/abs/2604.04934v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, Project Page: https://hyunsoocha.github.io/vanast/</p></details> |
-| **[PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding](https://arxiv.org/abs/2604.04933v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. The code is available at https://github.com/H-EmbodVis/PointTPA</p></details> |
-| **[LoMa: Local Feature Matching Revisited](https://arxiv.org/abs/2604.04931v1)** | 2026-04-06 |  |
-| **[Rethinking Model Efficiency: Multi-Agent Inference with Large Models](https://arxiv.org/abs/2604.04929v1)** | 2026-04-06 |  |
-| **[Weakly Convex Ridge Regularization for 3D Non-Cartesian MRI Reconstruction](https://arxiv.org/abs/2603.27158v2)** | 2026-04-06 | <details><summary>8 fig...</summary><p>8 figures and 2 tables</p></details> |
-| **[Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo](https://arxiv.org/abs/2604.04925v1)** | 2026-04-06 |  |
-| **[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://arxiv.org/abs/2604.04921v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code is available at https://github.com/WeianMao/triattention</p></details> |
-| **[Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/abs/2604.04917v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project page: https://vero-reasoning.github.io/</p></details> |
-| **[General Geospatial Inference with a Population Dynamics Foundation Model](https://arxiv.org/abs/2411.07207v6)** | 2026-04-06 | <details><summary>updat...</summary><p>updated access information</p></details> |
-| **[SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](https://arxiv.org/abs/2604.04911v1)** | 2026-04-06 | <details><summary>Code:...</summary><p>Code: https://github.com/EasonXiao-888/SpatialEdit</p></details> |
+| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
+| **[Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers](https://arxiv.org/abs/2604.06163v1)** | 2026-04-07 |  |
+| **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/abs/2604.06161v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://yzmblog.github.io/projects/DiffHDR/</p></details> |
+| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
+| **[MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control](https://arxiv.org/abs/2604.06156v1)** | 2026-04-07 |  |
+| **[Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries](https://arxiv.org/abs/2604.06148v1)** | 2026-04-07 | <details><summary>75 pa...</summary><p>75 pages (excl. references), 2 tables. Addresses policy makers, regulators, and practitioners at the intersection of AI governance, cybersecurity, and geopolitical risk</p></details> |
+| **[Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization](https://arxiv.org/abs/2604.06138v1)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted for review at Interspeech 2026</p></details> |
+| **[Shot-Based Quantum Encoding: A Data-Loading Paradigm for Quantum Neural Networks](https://arxiv.org/abs/2604.06135v1)** | 2026-04-07 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 0 tables</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GenSmoke-GS: A Multi-Stage Method for Novel View Synthesis from Smoke-Degraded Images Using a Generative Model](https://arxiv.org/abs/2604.03039v2)** | 2026-04-06 |  |
-| **[Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection](https://arxiv.org/abs/2604.04658v1)** | 2026-04-06 |  |
-| **[Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation](https://arxiv.org/abs/2505.22095v2)** | 2026-04-06 |  |
-| **[Firebolt-VL: Efficient Vision-Language Understanding with Cross-Modality Modulation](https://arxiv.org/abs/2604.04579v1)** | 2026-04-06 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2511.11177</p></details> |
-| **[Scalable and Explainable Learner-Video Interaction Prediction using Multimodal Large Language Models](https://arxiv.org/abs/2604.04482v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted as long paper to the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
-| **[BoxComm: Benchmarking Category-Aware Commentary Generation and Narration Rhythm in Boxing](https://arxiv.org/abs/2604.04419v1)** | 2026-04-06 |  |
-| **[InfoTok: Information-Theoretic Regularization for Capacity-Constrained Shared Visual Tokenization in Unified MLLMs](https://arxiv.org/abs/2602.01554v2)** | 2026-04-06 |  |
-| **[ZINA: Multimodal Fine-grained Hallucination Detection and Editing](https://arxiv.org/abs/2506.13130v2)** | 2026-04-05 | <details><summary>CVPR ...</summary><p>CVPR 2026 Main Conference</p></details> |
-| **[A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning](https://arxiv.org/abs/2604.03995v1)** | 2026-04-05 |  |
-| **[FeynmanBench: Benchmarking Multimodal LLMs on Diagrammatic Physics Reasoning](https://arxiv.org/abs/2604.03893v1)** | 2026-04-04 | 10 pages, 5 figures |
+| **[MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control](https://arxiv.org/abs/2604.06156v1)** | 2026-04-07 |  |
+| **[MARS: Multi-Agent Robotic System with Multimodal Large Language Models for Assistive Intelligence](https://arxiv.org/abs/2511.01594v2)** | 2026-04-07 | 3 figures, 1 table |
+| **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v4)** | 2026-04-07 |  |
+| **[NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation](https://arxiv.org/abs/2510.21122v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by Neurips 2025, Project page is available at https://artanic30.github.io/project_pages/NoisyGRPO/</p></details> |
+| **[HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference](https://arxiv.org/abs/2604.05887v1)** | 2026-04-07 |  |
+| **[An Empirical Study of Perceptions of General LLMs and Multimodal LLMs on Hugging Face](https://arxiv.org/abs/2604.05782v1)** | 2026-04-07 |  |
+| **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://arxiv.org/abs/2507.10610v3)** | 2026-04-07 | Accepted by CVPR-26 |
+| **[MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://arxiv.org/abs/2602.12705v4)** | 2026-04-07 | <details><summary>XIAOH...</summary><p>XIAOHE Medical AI team. See paper for full author list. Currently, the model is exclusively available on XIAOHE AI Doctor, accessible via both the App Store and the Douyin Mini Program. Updated to improve the layout</p></details> |
+| **[Let Geometry GUIDE: Layer-wise Unrolling of Geometric Priors in Multimodal LLMs](https://arxiv.org/abs/2604.05695v1)** | 2026-04-07 |  |
+| **[HeartcareGPT: A Unified Multimodal ECG Suite for Dual Signal-Image Modeling and Understanding](https://arxiv.org/abs/2506.05831v4)** | 2026-04-07 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://arxiv.org/abs/2604.04934v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, Project Page: https://hyunsoocha.github.io/vanast/</p></details> |
-| **[PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding](https://arxiv.org/abs/2604.04933v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. The code is available at https://github.com/H-EmbodVis/PointTPA</p></details> |
-| **[LoMa: Local Feature Matching Revisited](https://arxiv.org/abs/2604.04931v1)** | 2026-04-06 |  |
-| **[Rethinking Model Efficiency: Multi-Agent Inference with Large Models](https://arxiv.org/abs/2604.04929v1)** | 2026-04-06 |  |
-| **[Weakly Convex Ridge Regularization for 3D Non-Cartesian MRI Reconstruction](https://arxiv.org/abs/2603.27158v2)** | 2026-04-06 | <details><summary>8 fig...</summary><p>8 figures and 2 tables</p></details> |
-| **[Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo](https://arxiv.org/abs/2604.04925v1)** | 2026-04-06 |  |
-| **[Vero: An Open RL Recipe for General Visual Reasoning](https://arxiv.org/abs/2604.04917v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project page: https://vero-reasoning.github.io/</p></details> |
-| **[General Geospatial Inference with a Population Dynamics Foundation Model](https://arxiv.org/abs/2411.07207v6)** | 2026-04-06 | <details><summary>updat...</summary><p>updated access information</p></details> |
-| **[SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](https://arxiv.org/abs/2604.04911v1)** | 2026-04-06 | <details><summary>Code:...</summary><p>Code: https://github.com/EasonXiao-888/SpatialEdit</p></details> |
+| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
+| **[Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers](https://arxiv.org/abs/2604.06163v1)** | 2026-04-07 |  |
+| **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/abs/2604.06161v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://yzmblog.github.io/projects/DiffHDR/</p></details> |
+| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
+| **[MATRIX: Mask Track Alignment for Interaction-aware Video Generation](https://arxiv.org/abs/2510.07310v2)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project Page is available at: https://cvlab-kaist.github.io/MATRIX/, ICLR 2026</p></details> |
+| **[Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries](https://arxiv.org/abs/2604.06148v1)** | 2026-04-07 | <details><summary>75 pa...</summary><p>75 pages (excl. references), 2 tables. Addresses policy makers, regulators, and practitioners at the intersection of AI governance, cybersecurity, and geopolitical risk</p></details> |
+| **[Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization](https://arxiv.org/abs/2604.06138v1)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted for review at Interspeech 2026</p></details> |
+| **[Shot-Based Quantum Encoding: A Data-Loading Paradigm for Quantum Neural Networks](https://arxiv.org/abs/2604.06135v1)** | 2026-04-07 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 0 tables</p></details> |
 
