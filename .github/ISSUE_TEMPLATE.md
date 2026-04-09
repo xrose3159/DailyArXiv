@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2026
+title: Latest 15 Papers - April 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,54 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers](https://arxiv.org/abs/2604.06163v1)** | 2026-04-07 |  |
-| **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/abs/2604.06161v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://yzmblog.github.io/projects/DiffHDR/</p></details> |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries](https://arxiv.org/abs/2604.06148v1)** | 2026-04-07 | <details><summary>75 pa...</summary><p>75 pages (excl. references), 2 tables. Addresses policy makers, regulators, and practitioners at the intersection of AI governance, cybersecurity, and geopolitical risk</p></details> |
-| **[Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization](https://arxiv.org/abs/2604.06138v1)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted for review at Interspeech 2026</p></details> |
-| **[Shot-Based Quantum Encoding: A Data-Loading Paradigm for Quantum Neural Networks](https://arxiv.org/abs/2604.06135v1)** | 2026-04-07 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 0 tables</p></details> |
-| **[Meta-probabilistic Modeling](https://arxiv.org/abs/2601.04462v3)** | 2026-04-07 |  |
+| **[Fast Spatial Memory with Elastic Test-Time Training](https://arxiv.org/abs/2604.07350v1)** | 2026-04-08 | <details><summary>Proje...</summary><p>Project Page: https://fast-spatial-memory.github.io/</p></details> |
+| **[MoRight: Motion Control Done Right](https://arxiv.org/abs/2604.07348v1)** | 2026-04-08 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/moright</p></details> |
+| **[Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction](https://arxiv.org/abs/2604.01204v2)** | 2026-04-08 |  |
+| **[Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning](https://arxiv.org/abs/2604.07345v1)** | 2026-04-08 | <details><summary>The d...</summary><p>The data associated with this publication can be found at http://doi.org/10.7799/3025227</p></details> |
+| **[From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians](https://arxiv.org/abs/2604.07337v1)** | 2026-04-08 | <details><summary>Our p...</summary><p>Our project page is available in http://diego1401.github.io/BlobsToSpokesWebsite/index.html</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks](https://arxiv.org/abs/2604.07335v1)** | 2026-04-08 |  |
+| **[RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild](https://arxiv.org/abs/2604.07331v1)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. *Equal contribution by first three authors. Project webpage: https://roshi-mocap.github.io/</p></details> |
+| **[Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling](https://arxiv.org/abs/2604.07329v1)** | 2026-04-08 |  |
+| **[How to sketch a learning algorithm](https://arxiv.org/abs/2604.07328v1)** | 2026-04-08 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers](https://arxiv.org/abs/2604.06163v1)** | 2026-04-07 |  |
-| **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/abs/2604.06161v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://yzmblog.github.io/projects/DiffHDR/</p></details> |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control](https://arxiv.org/abs/2604.06156v1)** | 2026-04-07 |  |
-| **[Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries](https://arxiv.org/abs/2604.06148v1)** | 2026-04-07 | <details><summary>75 pa...</summary><p>75 pages (excl. references), 2 tables. Addresses policy makers, regulators, and practitioners at the intersection of AI governance, cybersecurity, and geopolitical risk</p></details> |
-| **[Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization](https://arxiv.org/abs/2604.06138v1)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted for review at Interspeech 2026</p></details> |
-| **[Shot-Based Quantum Encoding: A Data-Loading Paradigm for Quantum Neural Networks](https://arxiv.org/abs/2604.06135v1)** | 2026-04-07 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 0 tables</p></details> |
+| **[Fast Spatial Memory with Elastic Test-Time Training](https://arxiv.org/abs/2604.07350v1)** | 2026-04-08 | <details><summary>Proje...</summary><p>Project Page: https://fast-spatial-memory.github.io/</p></details> |
+| **[MoRight: Motion Control Done Right](https://arxiv.org/abs/2604.07348v1)** | 2026-04-08 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/moright</p></details> |
+| **[Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning](https://arxiv.org/abs/2604.07345v1)** | 2026-04-08 | <details><summary>The d...</summary><p>The data associated with this publication can be found at http://doi.org/10.7799/3025227</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks](https://arxiv.org/abs/2604.07335v1)** | 2026-04-08 |  |
+| **[RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild](https://arxiv.org/abs/2604.07331v1)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. *Equal contribution by first three authors. Project webpage: https://roshi-mocap.github.io/</p></details> |
+| **[Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling](https://arxiv.org/abs/2604.07329v1)** | 2026-04-08 |  |
+| **[How to sketch a learning algorithm](https://arxiv.org/abs/2604.07328v1)** | 2026-04-08 |  |
+| **[Conformal Prediction with Time-Series Data via Sequential Conformalized Density Regions](https://arxiv.org/abs/2604.07325v1)** | 2026-04-08 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control](https://arxiv.org/abs/2604.06156v1)** | 2026-04-07 |  |
-| **[MARS: Multi-Agent Robotic System with Multimodal Large Language Models for Assistive Intelligence](https://arxiv.org/abs/2511.01594v2)** | 2026-04-07 | 3 figures, 1 table |
-| **[IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054v4)** | 2026-04-07 |  |
-| **[NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation](https://arxiv.org/abs/2510.21122v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted by Neurips 2025, Project page is available at https://artanic30.github.io/project_pages/NoisyGRPO/</p></details> |
-| **[HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference](https://arxiv.org/abs/2604.05887v1)** | 2026-04-07 |  |
-| **[An Empirical Study of Perceptions of General LLMs and Multimodal LLMs on Hugging Face](https://arxiv.org/abs/2604.05782v1)** | 2026-04-07 |  |
-| **[LaSM: Layer-wise Scaling Mechanism for Defending Pop-up Attack on GUI Agents](https://arxiv.org/abs/2507.10610v3)** | 2026-04-07 | Accepted by CVPR-26 |
-| **[MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://arxiv.org/abs/2602.12705v4)** | 2026-04-07 | <details><summary>XIAOH...</summary><p>XIAOHE Medical AI team. See paper for full author list. Currently, the model is exclusively available on XIAOHE AI Doctor, accessible via both the App Store and the Douyin Mini Program. Updated to improve the layout</p></details> |
-| **[Let Geometry GUIDE: Layer-wise Unrolling of Geometric Priors in Multimodal LLMs](https://arxiv.org/abs/2604.05695v1)** | 2026-04-07 |  |
-| **[HeartcareGPT: A Unified Multimodal ECG Suite for Dual Signal-Image Modeling and Understanding](https://arxiv.org/abs/2506.05831v4)** | 2026-04-07 |  |
+| **[Do MLLMs Really Understand Space? A Mathematical Reasoning Evaluation](https://arxiv.org/abs/2602.11635v2)** | 2026-04-08 |  |
+| **[UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](https://arxiv.org/abs/2507.22025v4)** | 2026-04-08 |  |
+| **[What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning](https://arxiv.org/abs/2604.06995v1)** | 2026-04-08 | ACL 2026 Findings |
+| **[Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation](https://arxiv.org/abs/2604.06950v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 19 pages, 6 figures</p></details> |
+| **[LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment](https://arxiv.org/abs/2604.06925v1)** | 2026-04-08 | 20 pages, 22 figures |
+| **[Q-Probe: Scaling Image Quality Assessment to High Resolution via Context-Aware Agentic Probing](https://arxiv.org/abs/2601.15356v3)** | 2026-04-08 |  |
+| **[Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models](https://arxiv.org/abs/2604.06912v1)** | 2026-04-08 | 16 pages, 9 figures |
+| **[Faithful-First Reasoning, Planning, and Acting for Multimodal LLMs](https://arxiv.org/abs/2511.08409v4)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
+| **[Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning](https://arxiv.org/abs/2604.06824v1)** | 2026-04-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization](https://arxiv.org/abs/2604.06777v1)** | 2026-04-08 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Topological Characterization of Churn Flow and Unsupervised Correction to the Wu Flow-Regime Map in Small-Diameter Vertical Pipes](https://arxiv.org/abs/2604.06167v1)** | 2026-04-07 |  |
-| **[Data, Not Model: Explaining Bias toward LLM Texts in Neural Retrievers](https://arxiv.org/abs/2604.06163v1)** | 2026-04-07 |  |
-| **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/abs/2604.06161v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://yzmblog.github.io/projects/DiffHDR/</p></details> |
-| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
-| **[MATRIX: Mask Track Alignment for Interaction-aware Video Generation](https://arxiv.org/abs/2510.07310v2)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project Page is available at: https://cvlab-kaist.github.io/MATRIX/, ICLR 2026</p></details> |
-| **[Who Governs the Machine? A Machine Identity Governance Taxonomy (MIGT) for AI Systems Operating Across Enterprise and Geopolitical Boundaries](https://arxiv.org/abs/2604.06148v1)** | 2026-04-07 | <details><summary>75 pa...</summary><p>75 pages (excl. references), 2 tables. Addresses policy makers, regulators, and practitioners at the intersection of AI governance, cybersecurity, and geopolitical risk</p></details> |
-| **[Generating Synthetic Doctor-Patient Conversations for Long-form Audio Summarization](https://arxiv.org/abs/2604.06138v1)** | 2026-04-07 | <details><summary>Submi...</summary><p>Submitted for review at Interspeech 2026</p></details> |
-| **[Shot-Based Quantum Encoding: A Data-Loading Paradigm for Quantum Neural Networks](https://arxiv.org/abs/2604.06135v1)** | 2026-04-07 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 0 tables</p></details> |
+| **[Fast Spatial Memory with Elastic Test-Time Training](https://arxiv.org/abs/2604.07350v1)** | 2026-04-08 | <details><summary>Proje...</summary><p>Project Page: https://fast-spatial-memory.github.io/</p></details> |
+| **[MoRight: Motion Control Done Right](https://arxiv.org/abs/2604.07348v1)** | 2026-04-08 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/moright</p></details> |
+| **[Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning](https://arxiv.org/abs/2604.07345v1)** | 2026-04-08 | <details><summary>The d...</summary><p>The data associated with this publication can be found at http://doi.org/10.7799/3025227</p></details> |
+| **[The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints](https://arxiv.org/abs/2604.07336v1)** | 2026-04-08 | 15 pages, 5 figures |
+| **[TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks](https://arxiv.org/abs/2604.07335v1)** | 2026-04-08 |  |
+| **[RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild](https://arxiv.org/abs/2604.07331v1)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. *Equal contribution by first three authors. Project webpage: https://roshi-mocap.github.io/</p></details> |
+| **[Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling](https://arxiv.org/abs/2604.07329v1)** | 2026-04-08 |  |
+| **[How to sketch a learning algorithm](https://arxiv.org/abs/2604.07328v1)** | 2026-04-08 |  |
+| **[Conformal Prediction with Time-Series Data via Sequential Conformalized Density Regions](https://arxiv.org/abs/2604.07325v1)** | 2026-04-08 |  |
 
