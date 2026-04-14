@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2026
+title: Latest 15 Papers - April 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,45 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v2)** | 2026-04-10 |  |
-| **[ANTIC: Adaptive Neural Temporal In-situ Compressor](https://arxiv.org/abs/2604.09543v1)** | 2026-04-10 | <details><summary>31 pa...</summary><p>31 pages, 19 figures, 9 Tables</p></details> |
-| **[EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks](https://arxiv.org/abs/2604.09535v1)** | 2026-04-10 | <details><summary>https...</summary><p>https://ego-tl.github.io/</p></details> |
-| **[LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation](https://arxiv.org/abs/2510.23636v3)** | 2026-04-10 | <details><summary>Prepr...</summary><p>Preprint submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS) for possible publication</p></details> |
-| **[VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images](https://arxiv.org/abs/2604.09531v1)** | 2026-04-10 | <details><summary>Proje...</summary><p>Project Page: https://zlab-princeton.github.io/VisionFoundry/</p></details> |
-| **[Demonstrably Informed Consent in Privacy Policy Flows: Evidence from a Randomized Experiment](https://arxiv.org/abs/2604.09518v1)** | 2026-04-10 | <details><summary>15 pa...</summary><p>15 pages, 7 tables, 6 figures</p></details> |
+| **[Who Handles Orientation? Investigating Invariance in Feature Matching](https://arxiv.org/abs/2604.11809v1)** | 2026-04-13 |  |
+| **[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](https://arxiv.org/abs/2604.11808v1)** | 2026-04-13 |  |
+| **[Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems](https://arxiv.org/abs/2604.11807v1)** | 2026-04-13 |  |
+| **[Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project Webpage - https://sim2reason.github.io/</p></details> |
+| **[OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://correr-zhou.github.io/OmniShow/</p></details> |
+| **[CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation](https://arxiv.org/abs/2604.11801v1)** | 2026-04-13 |  |
+| **[C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts](https://arxiv.org/abs/2604.11796v1)** | 2026-04-13 |  |
+| **[LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](https://arxiv.org/abs/2604.11792v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://lottiegpt.github.io/</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tango: Taming Visual Signals for Efficient Video Large Language Models](https://arxiv.org/abs/2604.09547v1)** | 2026-04-10 | <details><summary>Code ...</summary><p>Code is available at https://github.com/xjtupanda/Tango</p></details> |
-| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v2)** | 2026-04-10 |  |
-| **[ANTIC: Adaptive Neural Temporal In-situ Compressor](https://arxiv.org/abs/2604.09543v1)** | 2026-04-10 | <details><summary>31 pa...</summary><p>31 pages, 19 figures, 9 Tables</p></details> |
-| **[Many Preferences, Few Policies: Towards Scalable Language Model Personalization](https://arxiv.org/abs/2604.04144v2)** | 2026-04-10 | Fixed typos |
-| **[EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks](https://arxiv.org/abs/2604.09535v1)** | 2026-04-10 | <details><summary>https...</summary><p>https://ego-tl.github.io/</p></details> |
-| **[LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation](https://arxiv.org/abs/2510.23636v3)** | 2026-04-10 | <details><summary>Prepr...</summary><p>Preprint submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS) for possible publication</p></details> |
-| **[Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise](https://arxiv.org/abs/2604.09532v1)** | 2026-04-10 |  |
+| **[Who Handles Orientation? Investigating Invariance in Feature Matching](https://arxiv.org/abs/2604.11809v1)** | 2026-04-13 |  |
+| **[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](https://arxiv.org/abs/2604.11808v1)** | 2026-04-13 |  |
+| **[Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems](https://arxiv.org/abs/2604.11807v1)** | 2026-04-13 |  |
+| **[Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project Webpage - https://sim2reason.github.io/</p></details> |
+| **[OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://correr-zhou.github.io/OmniShow/</p></details> |
+| **[Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?](https://arxiv.org/abs/2604.11802v1)** | 2026-04-13 |  |
+| **[CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation](https://arxiv.org/abs/2604.11801v1)** | 2026-04-13 |  |
+| **[C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts](https://arxiv.org/abs/2604.11796v1)** | 2026-04-13 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VSI: Visual Subtitle Integration for Keyframe Selection to enhance Long Video Understanding](https://arxiv.org/abs/2508.06869v4)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings, 10 pages</p></details> |
-| **[FashionStylist: An Expert Knowledge-enhanced Multimodal Dataset for Fashion Understanding](https://arxiv.org/abs/2604.09249v1)** | 2026-04-10 |  |
-| **[4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation](https://arxiv.org/abs/2512.17012v3)** | 2026-04-10 | <details><summary>CVPR ...</summary><p>CVPR 2026 (Highlight). Project page: https://ca-joe-yang.github.io/resource/projects/4D_RGPT. GitHub: https://github.com/NVlabs/4D-RGPT. Dataset: https://huggingface.co/datasets/nvidia/R4D-Bench</p></details> |
-| **[Investigating Multimodal Large Language Models to Support Usability Evaluation](https://arxiv.org/abs/2508.16165v2)** | 2026-04-10 | <details><summary>To ap...</summary><p>To appear in the Proceedings of IEA/AIE 2026, Springer LNAI</p></details> |
-| **[MONETA: Multimodal Industry Classification through Geographic Information with Multi Agent Systems](https://arxiv.org/abs/2604.07956v2)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
-| **[SiMing-Bench: Evaluating Procedural Correctness from Continuous Interactions in Clinical Skill Videos](https://arxiv.org/abs/2604.09037v1)** | 2026-04-10 |  |
-| **[Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection](https://arxiv.org/abs/2604.09024v1)** | 2026-04-10 | <details><summary>Appea...</summary><p>Appeared in ACL 2026 main conference</p></details> |
-| **[PinpointQA: A Dataset and Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos](https://arxiv.org/abs/2604.08991v1)** | 2026-04-10 |  |
-| **[ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning](https://arxiv.org/abs/2604.08990v1)** | 2026-04-10 | 10 pages, 7 figures |
-| **[BLEG: LLM Functions as Powerful fMRI Graph-Enhancer for Brain Network Analysis](https://arxiv.org/abs/2604.07361v2)** | 2026-04-10 |  |
+| **[AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation](https://arxiv.org/abs/2604.11674v1)** | 2026-04-13 |  |
+| **[FPBench: A Comprehensive Benchmark of Multimodal Large Language Models for Fingerprint Analysis](https://arxiv.org/abs/2512.18073v2)** | 2026-04-13 | <details><summary>Revis...</summary><p>Revised version with additional experiments and code release</p></details> |
+| **[POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](https://arxiv.org/abs/2604.11627v1)** | 2026-04-13 |  |
+| **[Geoparsing: Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language](https://arxiv.org/abs/2604.11600v1)** | 2026-04-13 | Accepted to ACL2026 |
+| **[HumanVBench: Probing Human-Centric Video Understanding in MLLMs with Automatically Synthesized Benchmarks](https://arxiv.org/abs/2412.17574v3)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted as a conference paper at CVPR 2026</p></details> |
+| **[MLLM-as-a-Judge Exhibits Model Preference Bias](https://arxiv.org/abs/2604.11589v1)** | 2026-04-13 |  |
+| **[MCAT: Scaling Many-to-Many Speech-to-Text Translation with MLLMs to 70 Languages](https://arxiv.org/abs/2512.01512v2)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted in IEEE TASLP</p></details> |
+| **[MCGA: A Multi-task Classical Chinese Literary Genre Audio Corpus](https://arxiv.org/abs/2601.09270v3)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted in ACL 2026 (Findings)</p></details> |
+| **[MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://arxiv.org/abs/2510.24168v2)** | 2026-04-13 | <details><summary>Submi...</summary><p>Submitted to ACM MM 2026</p></details> |
+| **[ITIScore: An Image-to-Text-to-Image Rating Framework for the Image Captioning Ability of MLLMs](https://arxiv.org/abs/2604.03765v2)** | 2026-04-13 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ParseBench: A Document Parsing Benchmark for AI Agents](https://arxiv.org/abs/2604.08538v2)** | 2026-04-10 |  |
-| **[ANTIC: Adaptive Neural Temporal In-situ Compressor](https://arxiv.org/abs/2604.09543v1)** | 2026-04-10 | <details><summary>31 pa...</summary><p>31 pages, 19 figures, 9 Tables</p></details> |
-| **[EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks](https://arxiv.org/abs/2604.09535v1)** | 2026-04-10 | <details><summary>https...</summary><p>https://ego-tl.github.io/</p></details> |
-| **[LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation](https://arxiv.org/abs/2510.23636v3)** | 2026-04-10 | <details><summary>Prepr...</summary><p>Preprint submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS) for possible publication</p></details> |
-| **[VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images](https://arxiv.org/abs/2604.09531v1)** | 2026-04-10 | <details><summary>Proje...</summary><p>Project Page: https://zlab-princeton.github.io/VisionFoundry/</p></details> |
-| **[Demonstrably Informed Consent in Privacy Policy Flows: Evidence from a Randomized Experiment](https://arxiv.org/abs/2604.09518v1)** | 2026-04-10 | <details><summary>15 pa...</summary><p>15 pages, 7 tables, 6 figures</p></details> |
+| **[Who Handles Orientation? Investigating Invariance in Feature Matching](https://arxiv.org/abs/2604.11809v1)** | 2026-04-13 |  |
+| **[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](https://arxiv.org/abs/2604.11808v1)** | 2026-04-13 |  |
+| **[Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems](https://arxiv.org/abs/2604.11807v1)** | 2026-04-13 |  |
+| **[Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project Webpage - https://sim2reason.github.io/</p></details> |
+| **[OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://correr-zhou.github.io/OmniShow/</p></details> |
+| **[CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation](https://arxiv.org/abs/2604.11801v1)** | 2026-04-13 |  |
+| **[C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts](https://arxiv.org/abs/2604.11796v1)** | 2026-04-13 |  |
+| **[LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](https://arxiv.org/abs/2604.11792v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://lottiegpt.github.io/</p></details> |
 
