@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2026
+title: Latest 15 Papers - April 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Who Handles Orientation? Investigating Invariance in Feature Matching](https://arxiv.org/abs/2604.11809v1)** | 2026-04-13 |  |
-| **[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](https://arxiv.org/abs/2604.11808v1)** | 2026-04-13 |  |
-| **[Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems](https://arxiv.org/abs/2604.11807v1)** | 2026-04-13 |  |
-| **[Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project Webpage - https://sim2reason.github.io/</p></details> |
-| **[OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://correr-zhou.github.io/OmniShow/</p></details> |
-| **[CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation](https://arxiv.org/abs/2604.11801v1)** | 2026-04-13 |  |
-| **[C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts](https://arxiv.org/abs/2604.11796v1)** | 2026-04-13 |  |
-| **[LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](https://arxiv.org/abs/2604.11792v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://lottiegpt.github.io/</p></details> |
+| **[Lyra 2.0: Explorable Generative 3D Worlds](https://arxiv.org/abs/2604.13036v1)** | 2026-04-14 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/lyra2/</p></details> |
+| **[SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis](https://arxiv.org/abs/2604.13035v1)** | 2026-04-14 | <details><summary>Proje...</summary><p>Project Page: https://lab-spell.github.io/SceneCritic/</p></details> |
+| **[DySkew: Dynamic Data Redistribution for Skew-Resilient Snowpark UDF Execution](https://arxiv.org/abs/2604.13034v1)** | 2026-04-14 |  |
+| **[Generative Refinement Networks for Visual Synthesis](https://arxiv.org/abs/2604.13030v1)** | 2026-04-14 | <details><summary>code:...</summary><p>code: https://github.com/MGenAI/GRN</p></details> |
+| **[Visual Preference Optimization with Rubric Rewards](https://arxiv.org/abs/2604.13029v1)** | 2026-04-14 |  |
+| **[Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns](https://arxiv.org/abs/2604.13028v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2026 EarthVision Workshop</p></details> |
+| **[SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding](https://arxiv.org/abs/2604.13023v1)** | 2026-04-14 |  |
+| **[Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015v1)** | 2026-04-14 |  |
+| **[KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning](https://arxiv.org/abs/2603.21440v4)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to IJCNN 2026</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Who Handles Orientation? Investigating Invariance in Feature Matching](https://arxiv.org/abs/2604.11809v1)** | 2026-04-13 |  |
-| **[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](https://arxiv.org/abs/2604.11808v1)** | 2026-04-13 |  |
-| **[Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems](https://arxiv.org/abs/2604.11807v1)** | 2026-04-13 |  |
-| **[Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project Webpage - https://sim2reason.github.io/</p></details> |
-| **[OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://correr-zhou.github.io/OmniShow/</p></details> |
-| **[Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?](https://arxiv.org/abs/2604.11802v1)** | 2026-04-13 |  |
-| **[CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation](https://arxiv.org/abs/2604.11801v1)** | 2026-04-13 |  |
-| **[C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts](https://arxiv.org/abs/2604.11796v1)** | 2026-04-13 |  |
+| **[DySkew: Dynamic Data Redistribution for Skew-Resilient Snowpark UDF Execution](https://arxiv.org/abs/2604.13034v1)** | 2026-04-14 |  |
+| **[Visual Preference Optimization with Rubric Rewards](https://arxiv.org/abs/2604.13029v1)** | 2026-04-14 |  |
+| **[Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns](https://arxiv.org/abs/2604.13028v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2026 EarthVision Workshop</p></details> |
+| **[SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding](https://arxiv.org/abs/2604.13023v1)** | 2026-04-14 |  |
+| **[Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe](https://arxiv.org/abs/2604.13016v1)** | 2026-04-14 | <details><summary>30 pa...</summary><p>30 pages, 23 figures. Code: https://github.com/thunlp/OPD</p></details> |
+| **[Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015v1)** | 2026-04-14 |  |
+| **[KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning](https://arxiv.org/abs/2603.21440v4)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to IJCNN 2026</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation](https://arxiv.org/abs/2604.11674v1)** | 2026-04-13 |  |
-| **[FPBench: A Comprehensive Benchmark of Multimodal Large Language Models for Fingerprint Analysis](https://arxiv.org/abs/2512.18073v2)** | 2026-04-13 | <details><summary>Revis...</summary><p>Revised version with additional experiments and code release</p></details> |
-| **[POINTS-Long: Adaptive Dual-Mode Visual Reasoning in MLLMs](https://arxiv.org/abs/2604.11627v1)** | 2026-04-13 |  |
-| **[Geoparsing: Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language](https://arxiv.org/abs/2604.11600v1)** | 2026-04-13 | Accepted to ACL2026 |
-| **[HumanVBench: Probing Human-Centric Video Understanding in MLLMs with Automatically Synthesized Benchmarks](https://arxiv.org/abs/2412.17574v3)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted as a conference paper at CVPR 2026</p></details> |
-| **[MLLM-as-a-Judge Exhibits Model Preference Bias](https://arxiv.org/abs/2604.11589v1)** | 2026-04-13 |  |
-| **[MCAT: Scaling Many-to-Many Speech-to-Text Translation with MLLMs to 70 Languages](https://arxiv.org/abs/2512.01512v2)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted in IEEE TASLP</p></details> |
-| **[MCGA: A Multi-task Classical Chinese Literary Genre Audio Corpus](https://arxiv.org/abs/2601.09270v3)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted in ACL 2026 (Findings)</p></details> |
-| **[MGA: Memory-Driven GUI Agent for Observation-Centric Interaction](https://arxiv.org/abs/2510.24168v2)** | 2026-04-13 | <details><summary>Submi...</summary><p>Submitted to ACM MM 2026</p></details> |
-| **[ITIScore: An Image-to-Text-to-Image Rating Framework for the Image Captioning Ability of MLLMs](https://arxiv.org/abs/2604.03765v2)** | 2026-04-13 |  |
+| **[Boosting Visual Instruction Tuning with Self-Supervised Guidance](https://arxiv.org/abs/2604.12966v1)** | 2026-04-14 |  |
+| **[Mema: Memory-Augmented Adapter for Enhanced Vision-Language Understanding](https://arxiv.org/abs/2603.00655v2)** | 2026-04-14 |  |
+| **[Don't Show Pixels, Show Cues: Unlocking Visual Tool Reasoning in Language Models via Perception Programs](https://arxiv.org/abs/2604.12896v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[DPC-VQA: Decoupling Quality Perception and Residual Calibration for Video Quality Assessment](https://arxiv.org/abs/2604.12813v1)** | 2026-04-14 |  |
+| **[DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding](https://arxiv.org/abs/2604.12812v1)** | 2026-04-14 | CVPR 2026 Highlight |
+| **[CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models](https://arxiv.org/abs/2604.12767v1)** | 2026-04-14 |  |
+| **[MISID: A Multimodal Multi-turn Dataset for Complex Intent Recognition in Strategic Deception Games](https://arxiv.org/abs/2604.12700v1)** | 2026-04-14 | 8 pages, 4 figures |
+| **[Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off](https://arxiv.org/abs/2603.22607v2)** | 2026-04-14 | <details><summary>Proje...</summary><p>Project page: https://furio1999.github.io/Dress-ED/</p></details> |
+| **[GeoAlign: Geometric Feature Realignment for MLLM Spatial Reasoning](https://arxiv.org/abs/2604.12630v1)** | 2026-04-14 |  |
+| **[TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning](https://arxiv.org/abs/2512.03963v3)** | 2026-04-14 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Who Handles Orientation? Investigating Invariance in Feature Matching](https://arxiv.org/abs/2604.11809v1)** | 2026-04-13 |  |
-| **[Pair2Scene: Learning Local Object Relations for Procedural Scene Generation](https://arxiv.org/abs/2604.11808v1)** | 2026-04-13 |  |
-| **[Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems](https://arxiv.org/abs/2604.11807v1)** | 2026-04-13 |  |
-| **[Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project Webpage - https://sim2reason.github.io/</p></details> |
-| **[OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://correr-zhou.github.io/OmniShow/</p></details> |
-| **[CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation](https://arxiv.org/abs/2604.11801v1)** | 2026-04-13 |  |
-| **[C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts](https://arxiv.org/abs/2604.11796v1)** | 2026-04-13 |  |
-| **[LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](https://arxiv.org/abs/2604.11792v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://lottiegpt.github.io/</p></details> |
+| **[DySkew: Dynamic Data Redistribution for Skew-Resilient Snowpark UDF Execution](https://arxiv.org/abs/2604.13034v1)** | 2026-04-14 |  |
+| **[Visual Preference Optimization with Rubric Rewards](https://arxiv.org/abs/2604.13029v1)** | 2026-04-14 |  |
+| **[Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns](https://arxiv.org/abs/2604.13028v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2026 EarthVision Workshop</p></details> |
+| **[SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding](https://arxiv.org/abs/2604.13023v1)** | 2026-04-14 |  |
+| **[Learning Versatile Humanoid Manipulation with Touch Dreaming](https://arxiv.org/abs/2604.13015v1)** | 2026-04-14 |  |
+| **[KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning](https://arxiv.org/abs/2603.21440v4)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to IJCNN 2026</p></details> |
+| **[Nonparametric efficient inference for network quantile causal effects under partial interference](https://arxiv.org/abs/2604.13008v1)** | 2026-04-14 |  |
 
