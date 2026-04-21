@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,46 +7,53 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](https://arxiv.org/abs/2604.15309v1)** | 2026-04-16 |  |
-| **[Generalization in LLM Problem Solving: The Case of the Shortest Path](https://arxiv.org/abs/2604.15306v1)** | 2026-04-16 |  |
-| **[Towards an Optimal Bound for the Interleaving Distance on Mapper Graphs](https://arxiv.org/abs/2504.03865v3)** | 2026-04-16 | <details><summary>Refor...</summary><p>Reformulated the problem into both a binary problem and a loss computation problem</p></details> |
-| **[Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation](https://arxiv.org/abs/2604.15301v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
-| **[Benchmarking Optimizers for MLPs in Tabular Deep Learning](https://arxiv.org/abs/2604.15297v1)** | 2026-04-16 | <details><summary>Code:...</summary><p>Code: https://github.com/yandex-research/tabular-dl-optimizers</p></details> |
-| **[AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving](https://arxiv.org/abs/2604.15291v1)** | 2026-04-16 |  |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
+| **[When Can LLMs Learn to Reason with Weak Supervision?](https://arxiv.org/abs/2604.18574v1)** | 2026-04-20 |  |
+| **[T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability](https://arxiv.org/abs/2604.18573v1)** | 2026-04-20 |  |
+| **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v3)** | 2026-04-20 | <details><summary>30 pa...</summary><p>30 pages, Decoder-only model, Speech Synthesis</p></details> |
+| **[A multimodal and temporal foundation model for virtual patient representations at healthcare system scale](https://arxiv.org/abs/2604.18570v1)** | 2026-04-20 |  |
+| **[Revisiting Active Sequential Prediction-Powered Mean Estimation](https://arxiv.org/abs/2604.18569v1)** | 2026-04-20 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v1)** | 2026-04-20 |  |
+| **[Dual Alignment Between Language Model Layers and Human Sentence Processing](https://arxiv.org/abs/2604.18563v1)** | 2026-04-20 | ACL 2026 main |
+| **[SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy](https://arxiv.org/abs/2604.18557v1)** | 2026-04-20 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](https://arxiv.org/abs/2604.15309v1)** | 2026-04-16 |  |
-| **[Heuristic Search for Minimum-Distance Upper-Bound Witnesses in Quantum APM-LDPC Codes](https://arxiv.org/abs/2604.15307v1)** | 2026-04-16 |  |
-| **[Generalization in LLM Problem Solving: The Case of the Shortest Path](https://arxiv.org/abs/2604.15306v1)** | 2026-04-16 |  |
-| **[Towards an Optimal Bound for the Interleaving Distance on Mapper Graphs](https://arxiv.org/abs/2504.03865v3)** | 2026-04-16 | <details><summary>Refor...</summary><p>Reformulated the problem into both a binary problem and a loss computation problem</p></details> |
-| **[Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation](https://arxiv.org/abs/2604.15301v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
-| **[Benchmarking Optimizers for MLPs in Tabular Deep Learning](https://arxiv.org/abs/2604.15297v1)** | 2026-04-16 | <details><summary>Code:...</summary><p>Code: https://github.com/yandex-research/tabular-dl-optimizers</p></details> |
-| **[How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study](https://arxiv.org/abs/2604.15294v1)** | 2026-04-16 | <details><summary>Publi...</summary><p>Published as a main-conference paper at The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
+| **[Self-Correcting Text-to-Video Generation with Misalignment Detection and Localized Refinement](https://arxiv.org/abs/2411.15115v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings. Project page: https://video-repair.github.io</p></details> |
+| **[Sessa: Selective State Space Attention](https://arxiv.org/abs/2604.18580v1)** | 2026-04-20 | <details><summary>Code ...</summary><p>Code available at: https://github.com/LibratioAI/sessa</p></details> |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
+| **[ReCap: Lightweight Referential Grounding for Coherent Story Visualization](https://arxiv.org/abs/2604.18575v1)** | 2026-04-20 | <details><summary>Diffu...</summary><p>Diffusion Models, Story Visualization</p></details> |
+| **[When Can LLMs Learn to Reason with Weak Supervision?](https://arxiv.org/abs/2604.18574v1)** | 2026-04-20 |  |
+| **[T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability](https://arxiv.org/abs/2604.18573v1)** | 2026-04-20 |  |
+| **[A multimodal and temporal foundation model for virtual patient representations at healthcare system scale](https://arxiv.org/abs/2604.18570v1)** | 2026-04-20 |  |
+| **[Revisiting Active Sequential Prediction-Powered Mean Estimation](https://arxiv.org/abs/2604.18569v1)** | 2026-04-20 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v1)** | 2026-04-20 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RaTA-Tool: Retrieval-based Tool Selection with Multimodal Large Language Models](https://arxiv.org/abs/2604.14951v1)** | 2026-04-16 | ICPR 2026 |
-| **[Geoparsing: Diagram Parsing for Plane and Solid Geometry with a Unified Formal Language](https://arxiv.org/abs/2604.11600v2)** | 2026-04-16 | Accepted to ACL2026 |
-| **[VideoStir: Understanding Long Videos via Spatio-Temporally Structured and Intent-Aware RAG](https://arxiv.org/abs/2604.05418v3)** | 2026-04-16 | Accepted by ACL 2026 |
-| **[MirrorBench: Evaluating Self-centric Intelligence in MLLMs by Introducing a Mirror](https://arxiv.org/abs/2604.14785v1)** | 2026-04-16 |  |
-| **[V-Reflection: Transforming MLLMs from Passive Observers to Active Interrogators](https://arxiv.org/abs/2604.03307v2)** | 2026-04-16 | <details><summary>Main ...</summary><p>Main paper 14 pages with supplementary 7 pages</p></details> |
-| **[G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2604.14710v1)** | 2026-04-16 | CVPR 2026 Accepted |
-| **[CausalEmbed: Auto-Regressive Multi-Vector Generation in Latent Space for Visual Document Embedding](https://arxiv.org/abs/2601.21262v3)** | 2026-04-16 | Under review |
-| **[TennisTV: Do Multimodal Large Language Models Understand Tennis Rallies?](https://arxiv.org/abs/2509.15602v5)** | 2026-04-16 |  |
-| **[GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models](https://arxiv.org/abs/2601.03416v3)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026), Main Conference</p></details> |
-| **[All Changes May Have Invariant Principles: Improving Ever-Shifting Harmful Meme Detection via Design Concept Reproduction](https://arxiv.org/abs/2601.04567v2)** | 2026-04-16 | <details><summary>19 pa...</summary><p>19 pages, 11 figures, 9 tables accepted by ACL 2026 main conference</p></details> |
+| **[Self-Correcting Text-to-Video Generation with Misalignment Detection and Localized Refinement](https://arxiv.org/abs/2411.15115v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings. Project page: https://video-repair.github.io</p></details> |
+| **[DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies](https://arxiv.org/abs/2503.14324v3)** | 2026-04-20 |  |
+| **[Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning](https://arxiv.org/abs/2603.23404v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 22 pages, 6 figures, 10 tables. Project page: https://trace-reasoning.github.io</p></details> |
+| **[MaLoRA: Gated Modality LoRA for Key-Space Alignment in Multimodal LLM Fine-Tuning](https://arxiv.org/abs/2510.26721v2)** | 2026-04-20 |  |
+| **[EVE: Verifiable Self-Evolution of MLLMs via Executable Visual Transformations](https://arxiv.org/abs/2604.18320v1)** | 2026-04-20 |  |
+| **[MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge](https://arxiv.org/abs/2604.18164v1)** | 2026-04-20 | ACL 2026 Main |
+| **[Retrieval-Augmented Multimodal Model for Fake News Detection](https://arxiv.org/abs/2604.18112v1)** | 2026-04-20 |  |
+| **[When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life](https://arxiv.org/abs/2601.04043v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 (Findings)</p></details> |
+| **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL2026 Main Conference; Project is available at https://github.com/SensenGao/Multimodal-RAG-Survey-For-Document</p></details> |
+| **[Constructive Distortion: Improving MLLMs with Attention-Guided Image Warping](https://arxiv.org/abs/2510.09741v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](https://arxiv.org/abs/2604.15309v1)** | 2026-04-16 |  |
-| **[Generalization in LLM Problem Solving: The Case of the Shortest Path](https://arxiv.org/abs/2604.15306v1)** | 2026-04-16 |  |
-| **[Towards an Optimal Bound for the Interleaving Distance on Mapper Graphs](https://arxiv.org/abs/2504.03865v3)** | 2026-04-16 | <details><summary>Refor...</summary><p>Reformulated the problem into both a binary problem and a loss computation problem</p></details> |
-| **[Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation](https://arxiv.org/abs/2604.15301v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
-| **[Benchmarking Optimizers for MLPs in Tabular Deep Learning](https://arxiv.org/abs/2604.15297v1)** | 2026-04-16 | <details><summary>Code:...</summary><p>Code: https://github.com/yandex-research/tabular-dl-optimizers</p></details> |
-| **[AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving](https://arxiv.org/abs/2604.15291v1)** | 2026-04-16 |  |
-| **[Abstract Sim2Real through Approximate Information States](https://arxiv.org/abs/2604.15289v1)** | 2026-04-16 |  |
+| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
+| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
+| **[When Can LLMs Learn to Reason with Weak Supervision?](https://arxiv.org/abs/2604.18574v1)** | 2026-04-20 |  |
+| **[T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability](https://arxiv.org/abs/2604.18573v1)** | 2026-04-20 |  |
+| **[A multimodal and temporal foundation model for virtual patient representations at healthcare system scale](https://arxiv.org/abs/2604.18570v1)** | 2026-04-20 |  |
+| **[Revisiting Active Sequential Prediction-Powered Mean Estimation](https://arxiv.org/abs/2604.18569v1)** | 2026-04-20 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v1)** | 2026-04-20 |  |
+| **[Dual Alignment Between Language Model Layers and Human Sentence Processing](https://arxiv.org/abs/2604.18563v1)** | 2026-04-20 | ACL 2026 main |
+| **[SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy](https://arxiv.org/abs/2604.18557v1)** | 2026-04-20 |  |
 
