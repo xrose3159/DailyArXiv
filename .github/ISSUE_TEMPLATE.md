@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,53 +7,47 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[When Can LLMs Learn to Reason with Weak Supervision?](https://arxiv.org/abs/2604.18574v1)** | 2026-04-20 |  |
-| **[T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability](https://arxiv.org/abs/2604.18573v1)** | 2026-04-20 |  |
-| **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v3)** | 2026-04-20 | <details><summary>30 pa...</summary><p>30 pages, Decoder-only model, Speech Synthesis</p></details> |
-| **[A multimodal and temporal foundation model for virtual patient representations at healthcare system scale](https://arxiv.org/abs/2604.18570v1)** | 2026-04-20 |  |
-| **[Revisiting Active Sequential Prediction-Powered Mean Estimation](https://arxiv.org/abs/2604.18569v1)** | 2026-04-20 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v1)** | 2026-04-20 |  |
-| **[Dual Alignment Between Language Model Layers and Human Sentence Processing](https://arxiv.org/abs/2604.18563v1)** | 2026-04-20 | ACL 2026 main |
-| **[SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy](https://arxiv.org/abs/2604.18557v1)** | 2026-04-20 |  |
+| **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v6)** | 2026-04-21 | <details><summary>The S...</summary><p>The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
+| **[Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://arxiv.org/abs/2604.19748v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, model evaluation report</p></details> |
+| **[CityRAG: Stepping Into a City via Spatially-Grounded Video Generation](https://arxiv.org/abs/2604.19741v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: cityrag.github.io</p></details> |
+| **[Safe Continual Reinforcement Learning in Non-stationary Environments](https://arxiv.org/abs/2604.19737v1)** | 2026-04-21 |  |
+| **[Generative Drifting for Conditional Medical Image Generation](https://arxiv.org/abs/2604.19736v1)** | 2026-04-21 |  |
+| **[Tackling multiphysics problems via finite element-guided physics-informed operator learning](https://arxiv.org/abs/2603.01420v3)** | 2026-04-21 |  |
+| **[UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: https://xpeng-robotics.github.io/unit/</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Self-Correcting Text-to-Video Generation with Misalignment Detection and Localized Refinement](https://arxiv.org/abs/2411.15115v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings. Project page: https://video-repair.github.io</p></details> |
-| **[Sessa: Selective State Space Attention](https://arxiv.org/abs/2604.18580v1)** | 2026-04-20 | <details><summary>Code ...</summary><p>Code available at: https://github.com/LibratioAI/sessa</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[ReCap: Lightweight Referential Grounding for Coherent Story Visualization](https://arxiv.org/abs/2604.18575v1)** | 2026-04-20 | <details><summary>Diffu...</summary><p>Diffusion Models, Story Visualization</p></details> |
-| **[When Can LLMs Learn to Reason with Weak Supervision?](https://arxiv.org/abs/2604.18574v1)** | 2026-04-20 |  |
-| **[T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability](https://arxiv.org/abs/2604.18573v1)** | 2026-04-20 |  |
-| **[A multimodal and temporal foundation model for virtual patient representations at healthcare system scale](https://arxiv.org/abs/2604.18570v1)** | 2026-04-20 |  |
-| **[Revisiting Active Sequential Prediction-Powered Mean Estimation](https://arxiv.org/abs/2604.18569v1)** | 2026-04-20 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v1)** | 2026-04-20 |  |
+| **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v6)** | 2026-04-21 | <details><summary>The S...</summary><p>The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
+| **[Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://arxiv.org/abs/2604.19748v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, model evaluation report</p></details> |
+| **[CityRAG: Stepping Into a City via Spatially-Grounded Video Generation](https://arxiv.org/abs/2604.19741v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: cityrag.github.io</p></details> |
+| **[Safe Continual Reinforcement Learning in Non-stationary Environments](https://arxiv.org/abs/2604.19737v1)** | 2026-04-21 |  |
+| **[Generative Drifting for Conditional Medical Image Generation](https://arxiv.org/abs/2604.19736v1)** | 2026-04-21 |  |
+| **[Tackling multiphysics problems via finite element-guided physics-informed operator learning](https://arxiv.org/abs/2603.01420v3)** | 2026-04-21 |  |
+| **[UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: https://xpeng-robotics.github.io/unit/</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Self-Correcting Text-to-Video Generation with Misalignment Detection and Localized Refinement](https://arxiv.org/abs/2411.15115v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings. Project page: https://video-repair.github.io</p></details> |
-| **[DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies](https://arxiv.org/abs/2503.14324v3)** | 2026-04-20 |  |
-| **[Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning](https://arxiv.org/abs/2603.23404v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2026. 22 pages, 6 figures, 10 tables. Project page: https://trace-reasoning.github.io</p></details> |
-| **[MaLoRA: Gated Modality LoRA for Key-Space Alignment in Multimodal LLM Fine-Tuning](https://arxiv.org/abs/2510.26721v2)** | 2026-04-20 |  |
-| **[EVE: Verifiable Self-Evolution of MLLMs via Executable Visual Transformations](https://arxiv.org/abs/2604.18320v1)** | 2026-04-20 |  |
-| **[MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge](https://arxiv.org/abs/2604.18164v1)** | 2026-04-20 | ACL 2026 Main |
-| **[Retrieval-Augmented Multimodal Model for Fake News Detection](https://arxiv.org/abs/2604.18112v1)** | 2026-04-20 |  |
-| **[When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life](https://arxiv.org/abs/2601.04043v2)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 (Findings)</p></details> |
-| **[Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by ACL2026 Main Conference; Project is available at https://github.com/SensenGao/Multimodal-RAG-Survey-For-Document</p></details> |
-| **[Constructive Distortion: Improving MLLMs with Attention-Guided Image Warping](https://arxiv.org/abs/2510.09741v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks](https://arxiv.org/abs/2604.19697v1)** | 2026-04-21 |  |
+| **[A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding](https://arxiv.org/abs/2604.19689v1)** | 2026-04-21 |  |
+| **[MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge](https://arxiv.org/abs/2604.18164v2)** | 2026-04-21 | ACL 2026 Main |
+| **[DT2IT-MRM: Debiased Preference Construction and Iterative Training for Multimodal Reward Modeling](https://arxiv.org/abs/2604.19544v1)** | 2026-04-21 | <details><summary>code ...</summary><p>code will be uploaded to https://github.com/zhang123434/DT2IT-MRM</p></details> |
+| **[GeoLaux: A Benchmark for Evaluating MLLMs' Geometry Performance on Long-Step Problems Requiring Auxiliary Lines](https://arxiv.org/abs/2508.06226v2)** | 2026-04-21 | 26 pages, 24 figures |
+| **[Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration](https://arxiv.org/abs/2508.03337v8)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings</p></details> |
+| **[A Survey on MLLM-based Visually Rich Document Understanding: Methods, Challenges, and Emerging Trends](https://arxiv.org/abs/2507.09861v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
+| **[ReefNet: A Large-Scale Dataset and Benchmark for Fine-Grained Coral Reef Recognition](https://arxiv.org/abs/2510.16822v3)** | 2026-04-21 |  |
+| **[MER 2026: From Discriminative Emotion Recognition to Generative Emotion Understanding](https://arxiv.org/abs/2604.19417v1)** | 2026-04-21 |  |
+| **[Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval](https://arxiv.org/abs/2604.19386v1)** | 2026-04-21 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
-| **[Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs](https://arxiv.org/abs/2604.18576v1)** | 2026-04-20 |  |
-| **[When Can LLMs Learn to Reason with Weak Supervision?](https://arxiv.org/abs/2604.18574v1)** | 2026-04-20 |  |
-| **[T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability](https://arxiv.org/abs/2604.18573v1)** | 2026-04-20 |  |
-| **[A multimodal and temporal foundation model for virtual patient representations at healthcare system scale](https://arxiv.org/abs/2604.18570v1)** | 2026-04-20 |  |
-| **[Revisiting Active Sequential Prediction-Powered Mean Estimation](https://arxiv.org/abs/2604.18569v1)** | 2026-04-20 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion](https://arxiv.org/abs/2604.18566v1)** | 2026-04-20 |  |
-| **[Dual Alignment Between Language Model Layers and Human Sentence Processing](https://arxiv.org/abs/2604.18563v1)** | 2026-04-20 | ACL 2026 main |
-| **[SynAgent: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy](https://arxiv.org/abs/2604.18557v1)** | 2026-04-20 |  |
+| **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v6)** | 2026-04-21 | <details><summary>The S...</summary><p>The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
+| **[Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://arxiv.org/abs/2604.19748v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, model evaluation report</p></details> |
+| **[CityRAG: Stepping Into a City via Spatially-Grounded Video Generation](https://arxiv.org/abs/2604.19741v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: cityrag.github.io</p></details> |
+| **[Safe Continual Reinforcement Learning in Non-stationary Environments](https://arxiv.org/abs/2604.19737v1)** | 2026-04-21 |  |
+| **[Generative Drifting for Conditional Medical Image Generation](https://arxiv.org/abs/2604.19736v1)** | 2026-04-21 |  |
+| **[Tackling multiphysics problems via finite element-guided physics-informed operator learning](https://arxiv.org/abs/2603.01420v3)** | 2026-04-21 |  |
+| **[UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: https://xpeng-robotics.github.io/unit/</p></details> |
 
