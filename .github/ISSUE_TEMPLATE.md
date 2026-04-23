@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,47 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v6)** | 2026-04-21 | <details><summary>The S...</summary><p>The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
-| **[Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://arxiv.org/abs/2604.19748v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, model evaluation report</p></details> |
-| **[CityRAG: Stepping Into a City via Spatially-Grounded Video Generation](https://arxiv.org/abs/2604.19741v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: cityrag.github.io</p></details> |
-| **[Safe Continual Reinforcement Learning in Non-stationary Environments](https://arxiv.org/abs/2604.19737v1)** | 2026-04-21 |  |
-| **[Generative Drifting for Conditional Medical Image Generation](https://arxiv.org/abs/2604.19736v1)** | 2026-04-21 |  |
-| **[Tackling multiphysics problems via finite element-guided physics-informed operator learning](https://arxiv.org/abs/2603.01420v3)** | 2026-04-21 |  |
-| **[UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: https://xpeng-robotics.github.io/unit/</p></details> |
+| **[DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation](https://arxiv.org/abs/2604.20841v1)** | 2026-04-22 | <details><summary>Proje...</summary><p>Project Page: https://snuvclab.github.io/devi/</p></details> |
+| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v1)** | 2026-04-22 |  |
+| **[Spatial deformation in a Bayesian spatiotemporal model for incomplete matrix-variate responses](https://arxiv.org/abs/2511.18201v2)** | 2026-04-22 | <details><summary>Submi...</summary><p>Submitted to Environmental and Ecological Statistics</p></details> |
+| **[FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels](https://arxiv.org/abs/2604.20825v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on Federated Learning for Computer Vision (FedVision), CVPR 2026. Sina Gholami and Abdulmoneam Ali contributed equally</p></details> |
+| **[Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples](https://arxiv.org/abs/2604.20824v1)** | 2026-04-22 |  |
+| **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/abs/2604.20822v1)** | 2026-04-22 | 25 pages, 16 figures |
+| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
+| **[DNA storage approaching the information-theoretic ceiling](https://arxiv.org/abs/2604.20810v1)** | 2026-04-22 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v6)** | 2026-04-21 | <details><summary>The S...</summary><p>The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
-| **[Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://arxiv.org/abs/2604.19748v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, model evaluation report</p></details> |
-| **[CityRAG: Stepping Into a City via Spatially-Grounded Video Generation](https://arxiv.org/abs/2604.19741v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: cityrag.github.io</p></details> |
-| **[Safe Continual Reinforcement Learning in Non-stationary Environments](https://arxiv.org/abs/2604.19737v1)** | 2026-04-21 |  |
-| **[Generative Drifting for Conditional Medical Image Generation](https://arxiv.org/abs/2604.19736v1)** | 2026-04-21 |  |
-| **[Tackling multiphysics problems via finite element-guided physics-informed operator learning](https://arxiv.org/abs/2603.01420v3)** | 2026-04-21 |  |
-| **[UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: https://xpeng-robotics.github.io/unit/</p></details> |
+| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v1)** | 2026-04-22 |  |
+| **[Spatial deformation in a Bayesian spatiotemporal model for incomplete matrix-variate responses](https://arxiv.org/abs/2511.18201v2)** | 2026-04-22 | <details><summary>Submi...</summary><p>Submitted to Environmental and Ecological Statistics</p></details> |
+| **[FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels](https://arxiv.org/abs/2604.20825v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on Federated Learning for Computer Vision (FedVision), CVPR 2026. Sina Gholami and Abdulmoneam Ali contributed equally</p></details> |
+| **[Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples](https://arxiv.org/abs/2604.20824v1)** | 2026-04-22 |  |
+| **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/abs/2604.20822v1)** | 2026-04-22 | 25 pages, 16 figures |
+| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
+| **[DNA storage approaching the information-theoretic ceiling](https://arxiv.org/abs/2604.20810v1)** | 2026-04-22 |  |
+| **[Survival of the Cheapest: Cost-Aware Hardware Adaptation for Adversarial Robustness](https://arxiv.org/abs/2409.07609v2)** | 2026-04-22 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks](https://arxiv.org/abs/2604.19697v1)** | 2026-04-21 |  |
-| **[A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding](https://arxiv.org/abs/2604.19689v1)** | 2026-04-21 |  |
-| **[MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge](https://arxiv.org/abs/2604.18164v2)** | 2026-04-21 | ACL 2026 Main |
-| **[DT2IT-MRM: Debiased Preference Construction and Iterative Training for Multimodal Reward Modeling](https://arxiv.org/abs/2604.19544v1)** | 2026-04-21 | <details><summary>code ...</summary><p>code will be uploaded to https://github.com/zhang123434/DT2IT-MRM</p></details> |
-| **[GeoLaux: A Benchmark for Evaluating MLLMs' Geometry Performance on Long-Step Problems Requiring Auxiliary Lines](https://arxiv.org/abs/2508.06226v2)** | 2026-04-21 | 26 pages, 24 figures |
-| **[Less is More: Token-Efficient Video-QA via Adaptive Frame-Pruning and Semantic Graph Integration](https://arxiv.org/abs/2508.03337v8)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Findings</p></details> |
-| **[A Survey on MLLM-based Visually Rich Document Understanding: Methods, Challenges, and Emerging Trends](https://arxiv.org/abs/2507.09861v2)** | 2026-04-21 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 Findings</p></details> |
-| **[ReefNet: A Large-Scale Dataset and Benchmark for Fine-Grained Coral Reef Recognition](https://arxiv.org/abs/2510.16822v3)** | 2026-04-21 |  |
-| **[MER 2026: From Discriminative Emotion Recognition to Generative Emotion Understanding](https://arxiv.org/abs/2604.19417v1)** | 2026-04-21 |  |
-| **[Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval](https://arxiv.org/abs/2604.19386v1)** | 2026-04-21 |  |
+| **[V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization](https://arxiv.org/abs/2604.20755v1)** | 2026-04-22 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 4 tables</p></details> |
+| **[Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation](https://arxiv.org/abs/2604.20749v1)** | 2026-04-22 | Accpeted by ACL 2026 |
+| **[Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730v1)** | 2026-04-22 |  |
+| **[SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models](https://arxiv.org/abs/2604.20705v1)** | 2026-04-22 |  |
+| **[MirrorBench: Evaluating Self-centric Intelligence in MLLMs by Introducing a Mirror](https://arxiv.org/abs/2604.14785v2)** | 2026-04-22 |  |
+| **[IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979v5)** | 2026-04-22 | 30 pages |
+| **[CHASM: Unveiling Covert Advertisements on Chinese Social Media](https://arxiv.org/abs/2604.20511v1)** | 2026-04-22 | <details><summary>NeuIP...</summary><p>NeuIPS 2025 (Datasets and Benchmarks Track)</p></details> |
+| **[Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs](https://arxiv.org/abs/2512.08923v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Angela van Sprang and Laurens Samson contributed equally as first authors</p></details> |
+| **[X-PCR: A Benchmark for Cross-modality Progressive Clinical Reasoning in Ophthalmic Diagnosis](https://arxiv.org/abs/2604.20350v1)** | 2026-04-22 | Accept by CVPR2026 |
+| **[Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval](https://arxiv.org/abs/2604.19386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v6)** | 2026-04-21 | <details><summary>The S...</summary><p>The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
-| **[Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items](https://arxiv.org/abs/2604.19748v1)** | 2026-04-21 | <details><summary>24 pa...</summary><p>24 pages, model evaluation report</p></details> |
-| **[CityRAG: Stepping Into a City via Spatially-Grounded Video Generation](https://arxiv.org/abs/2604.19741v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: cityrag.github.io</p></details> |
-| **[Safe Continual Reinforcement Learning in Non-stationary Environments](https://arxiv.org/abs/2604.19737v1)** | 2026-04-21 |  |
-| **[Generative Drifting for Conditional Medical Image Generation](https://arxiv.org/abs/2604.19736v1)** | 2026-04-21 |  |
-| **[Tackling multiphysics problems via finite element-guided physics-informed operator learning](https://arxiv.org/abs/2603.01420v3)** | 2026-04-21 |  |
-| **[UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](https://arxiv.org/abs/2604.19734v1)** | 2026-04-21 | <details><summary>Proje...</summary><p>Project page: https://xpeng-robotics.github.io/unit/</p></details> |
+| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v1)** | 2026-04-22 |  |
+| **[PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834v1)** | 2026-04-22 |  |
+| **[Spatial deformation in a Bayesian spatiotemporal model for incomplete matrix-variate responses](https://arxiv.org/abs/2511.18201v2)** | 2026-04-22 | <details><summary>Submi...</summary><p>Submitted to Environmental and Ecological Statistics</p></details> |
+| **[FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels](https://arxiv.org/abs/2604.20825v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on Federated Learning for Computer Vision (FedVision), CVPR 2026. Sina Gholami and Abdulmoneam Ali contributed equally</p></details> |
+| **[Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples](https://arxiv.org/abs/2604.20824v1)** | 2026-04-22 |  |
+| **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/abs/2604.20822v1)** | 2026-04-22 | 25 pages, 16 figures |
+| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
+| **[DNA storage approaching the information-theoretic ceiling](https://arxiv.org/abs/2604.20810v1)** | 2026-04-22 |  |
 
