@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 24, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation](https://arxiv.org/abs/2604.20841v1)** | 2026-04-22 | <details><summary>Proje...</summary><p>Project Page: https://snuvclab.github.io/devi/</p></details> |
-| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v1)** | 2026-04-22 |  |
-| **[Spatial deformation in a Bayesian spatiotemporal model for incomplete matrix-variate responses](https://arxiv.org/abs/2511.18201v2)** | 2026-04-22 | <details><summary>Submi...</summary><p>Submitted to Environmental and Ecological Statistics</p></details> |
-| **[FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels](https://arxiv.org/abs/2604.20825v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on Federated Learning for Computer Vision (FedVision), CVPR 2026. Sina Gholami and Abdulmoneam Ali contributed equally</p></details> |
-| **[Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples](https://arxiv.org/abs/2604.20824v1)** | 2026-04-22 |  |
-| **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/abs/2604.20822v1)** | 2026-04-22 | 25 pages, 16 figures |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[DNA storage approaching the information-theoretic ceiling](https://arxiv.org/abs/2604.20810v1)** | 2026-04-22 |  |
+| **[Seeing Fast and Slow: Learning the Flow of Time in Videos](https://arxiv.org/abs/2604.21931v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://seeing-fast-and-slow.github.io/</p></details> |
+| **[Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability](https://arxiv.org/abs/2604.21930v1)** | 2026-04-23 | 12 pages, 2 figures |
+| **[Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/abs/2604.21926v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://tianhang-cheng.github.io/IMU4D</p></details> |
+| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v2)** | 2026-04-23 |  |
+| **[Vista4D: Video Reshooting with 4D Point Clouds](https://arxiv.org/abs/2604.21915v1)** | 2026-04-23 | <details><summary>24 pa...</summary><p>24 pages, 20 figures, CVPR 2026, see project page at https://eyeline-labs.github.io/Vista4D</p></details> |
+| **[VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis](https://arxiv.org/abs/2604.21914v1)** | 2026-04-23 | <details><summary>This ...</summary><p>This paper has been accepted to ICRA 2026</p></details> |
+| **[From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation](https://arxiv.org/abs/2604.21910v1)** | 2026-04-23 |  |
+| **[Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models](https://arxiv.org/abs/2604.21896v1)** | 2026-04-23 | 14 figures, 3 tables |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v1)** | 2026-04-22 |  |
-| **[Spatial deformation in a Bayesian spatiotemporal model for incomplete matrix-variate responses](https://arxiv.org/abs/2511.18201v2)** | 2026-04-22 | <details><summary>Submi...</summary><p>Submitted to Environmental and Ecological Statistics</p></details> |
-| **[FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels](https://arxiv.org/abs/2604.20825v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on Federated Learning for Computer Vision (FedVision), CVPR 2026. Sina Gholami and Abdulmoneam Ali contributed equally</p></details> |
-| **[Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples](https://arxiv.org/abs/2604.20824v1)** | 2026-04-22 |  |
-| **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/abs/2604.20822v1)** | 2026-04-22 | 25 pages, 16 figures |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[DNA storage approaching the information-theoretic ceiling](https://arxiv.org/abs/2604.20810v1)** | 2026-04-22 |  |
-| **[Survival of the Cheapest: Cost-Aware Hardware Adaptation for Adversarial Robustness](https://arxiv.org/abs/2409.07609v2)** | 2026-04-22 |  |
+| **[Seeing Fast and Slow: Learning the Flow of Time in Videos](https://arxiv.org/abs/2604.21931v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://seeing-fast-and-slow.github.io/</p></details> |
+| **[Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability](https://arxiv.org/abs/2604.21930v1)** | 2026-04-23 | 12 pages, 2 figures |
+| **[Evaluation of Automatic Speech Recognition Using Generative Large Language Models](https://arxiv.org/abs/2604.21928v1)** | 2026-04-23 |  |
+| **[Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/abs/2604.21926v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://tianhang-cheng.github.io/IMU4D</p></details> |
+| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v2)** | 2026-04-23 |  |
+| **[Speculative Actions: A Lossless Framework for Faster Agentic Systems](https://arxiv.org/abs/2510.04371v2)** | 2026-04-23 |  |
+| **[Vista4D: Video Reshooting with 4D Point Clouds](https://arxiv.org/abs/2604.21915v1)** | 2026-04-23 | <details><summary>24 pa...</summary><p>24 pages, 20 figures, CVPR 2026, see project page at https://eyeline-labs.github.io/Vista4D</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams](https://arxiv.org/abs/2604.15994v2)** | 2026-04-23 |  |
+| **[Preserving Knowledge in Large Language Model with Model-Agnostic Self-Decompression](https://arxiv.org/abs/2406.11354v3)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026 (Oral)</p></details> |
+| **[MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge](https://arxiv.org/abs/2604.18164v3)** | 2026-04-23 | ACL 2026 Main |
+| **[Compose and Fuse: Revisiting the Foundational Bottlenecks in Multimodal Reasoning](https://arxiv.org/abs/2509.23744v3)** | 2026-04-23 | <details><summary>Our c...</summary><p>Our code (https://github.com/DELTA-DoubleWise/OmniReason) and data (https://huggingface.co/datasets/ycwang11/OmniReason) are publicly available</p></details> |
+| **[Do MLLMs Understand Pointing? Benchmarking and Enhancing Referential Reasoning in Egocentric Vision](https://arxiv.org/abs/2604.21461v1)** | 2026-04-23 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. Committed to ACL 2026</p></details> |
+| **[Structured Visual Narratives Undermine Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2603.21697v2)** | 2026-04-23 | <details><summary>Code ...</summary><p>Code released at: https://github.com/Social-AI-Studio/ComicJailbreak</p></details> |
+| **[SGG-R$^{\rm 3}$: From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation](https://arxiv.org/abs/2603.07961v3)** | 2026-04-23 |  |
+| **[Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730v2)** | 2026-04-23 |  |
+| **[Can MLLMs "Read" What is Missing?](https://arxiv.org/abs/2604.21277v1)** | 2026-04-23 |  |
 | **[V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization](https://arxiv.org/abs/2604.20755v1)** | 2026-04-22 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 4 tables</p></details> |
-| **[Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation](https://arxiv.org/abs/2604.20749v1)** | 2026-04-22 | Accpeted by ACL 2026 |
-| **[Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730v1)** | 2026-04-22 |  |
-| **[SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models](https://arxiv.org/abs/2604.20705v1)** | 2026-04-22 |  |
-| **[MirrorBench: Evaluating Self-centric Intelligence in MLLMs by Introducing a Mirror](https://arxiv.org/abs/2604.14785v2)** | 2026-04-22 |  |
-| **[IVY-FAKE: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979v5)** | 2026-04-22 | 30 pages |
-| **[CHASM: Unveiling Covert Advertisements on Chinese Social Media](https://arxiv.org/abs/2604.20511v1)** | 2026-04-22 | <details><summary>NeuIP...</summary><p>NeuIPS 2025 (Datasets and Benchmarks Track)</p></details> |
-| **[Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs](https://arxiv.org/abs/2512.08923v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Angela van Sprang and Laurens Samson contributed equally as first authors</p></details> |
-| **[X-PCR: A Benchmark for Cross-modality Progressive Clinical Reasoning in Ophthalmic Diagnosis](https://arxiv.org/abs/2604.20350v1)** | 2026-04-22 | Accept by CVPR2026 |
-| **[Air-Know: Arbiter-Calibrated Knowledge-Internalizing Robust Network for Composed Image Retrieval](https://arxiv.org/abs/2604.19386v2)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v1)** | 2026-04-22 |  |
-| **[PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance](https://arxiv.org/abs/2604.20834v1)** | 2026-04-22 |  |
-| **[Spatial deformation in a Bayesian spatiotemporal model for incomplete matrix-variate responses](https://arxiv.org/abs/2511.18201v2)** | 2026-04-22 | <details><summary>Submi...</summary><p>Submitted to Environmental and Ecological Statistics</p></details> |
-| **[FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels](https://arxiv.org/abs/2604.20825v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the 5th Workshop on Federated Learning for Computer Vision (FedVision), CVPR 2026. Sina Gholami and Abdulmoneam Ali contributed equally</p></details> |
-| **[Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples](https://arxiv.org/abs/2604.20824v1)** | 2026-04-22 |  |
-| **[Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series](https://arxiv.org/abs/2604.20822v1)** | 2026-04-22 | 25 pages, 16 figures |
-| **[Convergent Evolution: How Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817v1)** | 2026-04-22 |  |
-| **[DNA storage approaching the information-theoretic ceiling](https://arxiv.org/abs/2604.20810v1)** | 2026-04-22 |  |
+| **[Seeing Fast and Slow: Learning the Flow of Time in Videos](https://arxiv.org/abs/2604.21931v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://seeing-fast-and-slow.github.io/</p></details> |
+| **[Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability](https://arxiv.org/abs/2604.21930v1)** | 2026-04-23 | 12 pages, 2 figures |
+| **[Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/abs/2604.21926v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://tianhang-cheng.github.io/IMU4D</p></details> |
+| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
+| **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](https://arxiv.org/abs/2604.20835v2)** | 2026-04-23 |  |
+| **[CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis](https://arxiv.org/abs/2604.21917v1)** | 2026-04-23 | <details><summary>Accep...</summary><p>Accepted at AIware 2026 (3rd ACM International Conference on AI-Powered Software, Montreal, July 6-7, 2026). 4 pages</p></details> |
+| **[Vista4D: Video Reshooting with 4D Point Clouds](https://arxiv.org/abs/2604.21915v1)** | 2026-04-23 | <details><summary>24 pa...</summary><p>24 pages, 20 figures, CVPR 2026, see project page at https://eyeline-labs.github.io/Vista4D</p></details> |
+| **[ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics](https://arxiv.org/abs/2510.05482v2)** | 2026-04-23 | Accepted at ICLR2026 |
 
