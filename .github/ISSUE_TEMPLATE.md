@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 07, 2026
+title: Latest 15 Papers - May 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,46 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/abs/2605.04045v1)** | 2026-05-05 | <details><summary>56 pa...</summary><p>56 pages, 16 figures, 24 tables, https://github.com/JavisVerse/Awesome-AVI</p></details> |
-| **[UniCorrn: Unified Correspondence Transformer Across 2D and 3D](https://arxiv.org/abs/2605.04044v1)** | 2026-05-05 | CVPR 2026, 20 pages |
-| **[Large Language Models are Universal Reasoners for Visual Generation](https://arxiv.org/abs/2605.04040v1)** | 2026-05-05 |  |
-| **[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/abs/2605.04036v1)** | 2026-05-05 | 7 pages |
-| **[Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data](https://arxiv.org/abs/2605.04029v1)** | 2026-05-05 |  |
-| **[Learning a Stochastic Differential Equation Model of Tropical Cyclone Intensification from Reanalysis and Observational Data](https://arxiv.org/abs/2601.08116v3)** | 2026-05-05 |  |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](https://arxiv.org/abs/2605.06654v1)** | 2026-05-07 |  |
+| **[Predictive and Prescriptive AI toward Optimizing Wildfire Suppression](https://arxiv.org/abs/2605.04510v2)** | 2026-05-07 |  |
+| **[DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification](https://arxiv.org/abs/2605.06637v1)** | 2026-05-07 |  |
+| **[LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation](https://arxiv.org/abs/2605.06628v1)** | 2026-05-07 | DCC 2026 |
+| **[Flexible Agent Alignment with Goal Inference from Open-Ended Dialog](https://arxiv.org/abs/2508.15119v2)** | 2026-05-07 | <details><summary>Previ...</summary><p>Previous version of the paper was titled: Open-Universe Assistance Games</p></details> |
+| **[AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v2)** | 2026-05-07 | <details><summary>22 pa...</summary><p>22 pages, 2 figures. Accepted as a position paper at ICML 2026</p></details> |
+| **[MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.06623v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/abs/2605.04045v1)** | 2026-05-05 | <details><summary>56 pa...</summary><p>56 pages, 16 figures, 24 tables, https://github.com/JavisVerse/Awesome-AVI</p></details> |
-| **[UniCorrn: Unified Correspondence Transformer Across 2D and 3D](https://arxiv.org/abs/2605.04044v1)** | 2026-05-05 | CVPR 2026, 20 pages |
-| **[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/abs/2605.04036v1)** | 2026-05-05 | 7 pages |
-| **[Probabilistic-bit Guided CDCL for SAT Solving using Ising Consensus Assumptions](https://arxiv.org/abs/2605.04033v1)** | 2026-05-05 |  |
-| **[Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data](https://arxiv.org/abs/2605.04029v1)** | 2026-05-05 |  |
+| **[BAMI: Training-Free Bias Mitigation in GUI Grounding](https://arxiv.org/abs/2605.06664v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[EMO: Pretraining Mixture of Experts for Emergent Modularity](https://arxiv.org/abs/2605.06663v1)** | 2026-05-07 |  |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](https://arxiv.org/abs/2605.06654v1)** | 2026-05-07 |  |
+| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
+| **[Predictive and Prescriptive AI toward Optimizing Wildfire Suppression](https://arxiv.org/abs/2605.04510v2)** | 2026-05-07 |  |
+| **[DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification](https://arxiv.org/abs/2605.06637v1)** | 2026-05-07 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Context- and Pixel-aware Large Language Model for Video Quality Assessment](https://arxiv.org/abs/2505.16025v3)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted to ICIP 2026</p></details> |
-| **[Enhancing Visual Question Answering with Multimodal LLMs via Chain-of-Question Guided Retrieval-Augmented Generation](https://arxiv.org/abs/2605.03790v1)** | 2026-05-05 |  |
-| **[Ivy-Fake: A Unified Explainable Framework and Benchmark for Image and Video AIGC Detection](https://arxiv.org/abs/2506.00979v6)** | 2026-05-05 | <details><summary>Accep...</summary><p>Accepted by ICMR 2026</p></details> |
-| **[TCM-Serve: Modality-aware Scheduling for Multimodal Large Language Model Inference](https://arxiv.org/abs/2603.26498v2)** | 2026-05-05 |  |
-| **[Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe](https://arxiv.org/abs/2605.03677v1)** | 2026-05-05 |  |
-| **[Beyond Perceptual Shortcuts: Causal-Inspired Debiasing Optimization for Generalizable Video Reasoning in Lightweight MLLMs](https://arxiv.org/abs/2605.01324v2)** | 2026-05-05 | CVPR 2026 Poster |
-| **[MASRA: MLLM-Assisted Semantic-Relational Consistent Alignment for Video Temporal Grounding](https://arxiv.org/abs/2605.03398v1)** | 2026-05-05 |  |
-| **[Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology](https://arxiv.org/abs/2605.03352v1)** | 2026-05-05 |  |
-| **[From Mirage to Grounding: Towards Reliable Multimodal Circuit-to-Verilog Code Generation](https://arxiv.org/abs/2604.27969v2)** | 2026-05-05 |  |
-| **[Visual Latents Know More Than They Say: Unsilencing Latent Reasoning in MLLMs](https://arxiv.org/abs/2605.02735v1)** | 2026-05-04 |  |
+| **[Multimodal Fact-Level Attribution for Verifiable Reasoning](https://arxiv.org/abs/2602.11509v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code and data are available at https://github.com/meetdavidwan/murgat</p></details> |
+| **[MedHorizon: Towards Long-context Medical Video Understanding in the Wild](https://arxiv.org/abs/2605.06537v1)** | 2026-05-07 |  |
+| **[Toward Visually Realistic Simulation: A Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311v1)** | 2026-05-07 |  |
+| **[MER 2026: From Discriminative Emotion Recognition to Generative Emotion Understanding](https://arxiv.org/abs/2604.19417v4)** | 2026-05-07 |  |
+| **[Towards Annotation-Free Validation of MLLMs: A Vision-Language Logical Consistency Metric](https://arxiv.org/abs/2605.06201v1)** | 2026-05-07 |  |
+| **[Pest-Thinker: Learning to Think and Reason like Entomologists via Reinforcement Learning](https://arxiv.org/abs/2605.06121v1)** | 2026-05-07 | 10 pages, 5 figures |
+| **[CrossCult-KIBench: A Benchmark for Cross-Cultural Knowledge Insertion in MLLMs](https://arxiv.org/abs/2605.06115v1)** | 2026-05-07 |  |
+| **[HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://arxiv.org/abs/2601.14724v4)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
+| **[EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models](https://arxiv.org/abs/2602.17419v4)** | 2026-05-07 |  |
+| **[ICU-Bench:Benchmarking Continual Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2605.05938v1)** | 2026-05-07 | 30 pages, 12 figures |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.04046v1)** | 2026-05-05 |  |
-| **[Audio-Visual Intelligence in Large Foundation Models](https://arxiv.org/abs/2605.04045v1)** | 2026-05-05 | <details><summary>56 pa...</summary><p>56 pages, 16 figures, 24 tables, https://github.com/JavisVerse/Awesome-AVI</p></details> |
-| **[UniCorrn: Unified Correspondence Transformer Across 2D and 3D](https://arxiv.org/abs/2605.04044v1)** | 2026-05-05 | CVPR 2026, 20 pages |
-| **[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](https://arxiv.org/abs/2605.04036v1)** | 2026-05-05 | 7 pages |
-| **[Stayin' Aligned Over Time: Towards Longitudinal Human-LLM Alignment via Contextual Reflection and Privacy-Preserving Behavioral Data](https://arxiv.org/abs/2605.04029v1)** | 2026-05-05 |  |
-| **[Learning a Stochastic Differential Equation Model of Tropical Cyclone Intensification from Reanalysis and Observational Data](https://arxiv.org/abs/2601.08116v3)** | 2026-05-05 |  |
-| **[IRIS: Intent Resolution via Inference-time Saccades for Open-Ended VQA in Large Vision-Language Models](https://arxiv.org/abs/2602.16138v2)** | 2026-05-05 |  |
+| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
+| **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](https://arxiv.org/abs/2605.06654v1)** | 2026-05-07 |  |
+| **[Predictive and Prescriptive AI toward Optimizing Wildfire Suppression](https://arxiv.org/abs/2605.04510v2)** | 2026-05-07 |  |
+| **[DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification](https://arxiv.org/abs/2605.06637v1)** | 2026-05-07 |  |
+| **[LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation](https://arxiv.org/abs/2605.06628v1)** | 2026-05-07 | DCC 2026 |
+| **[Flexible Agent Alignment with Goal Inference from Open-Ended Dialog](https://arxiv.org/abs/2508.15119v2)** | 2026-05-07 | <details><summary>Previ...</summary><p>Previous version of the paper was titled: Open-Universe Assistance Games</p></details> |
+| **[AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v2)** | 2026-05-07 | <details><summary>22 pa...</summary><p>22 pages, 2 figures. Accepted as a position paper at ICML 2026</p></details> |
+| **[MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.06623v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 
