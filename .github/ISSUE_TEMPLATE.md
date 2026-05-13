@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,49 +7,40 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
-| **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](https://arxiv.org/abs/2605.06654v1)** | 2026-05-07 |  |
-| **[Predictive and Prescriptive AI toward Optimizing Wildfire Suppression](https://arxiv.org/abs/2605.04510v2)** | 2026-05-07 |  |
-| **[DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification](https://arxiv.org/abs/2605.06637v1)** | 2026-05-07 |  |
-| **[LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation](https://arxiv.org/abs/2605.06628v1)** | 2026-05-07 | DCC 2026 |
-| **[Flexible Agent Alignment with Goal Inference from Open-Ended Dialog](https://arxiv.org/abs/2508.15119v2)** | 2026-05-07 | <details><summary>Previ...</summary><p>Previous version of the paper was titled: Open-Universe Assistance Games</p></details> |
-| **[AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v2)** | 2026-05-07 | <details><summary>22 pa...</summary><p>22 pages, 2 figures. Accepted as a position paper at ICML 2026</p></details> |
-| **[MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.06623v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](https://arxiv.org/abs/2605.12501v1)** | 2026-05-12 |  |
+| **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
+| **[CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives](https://arxiv.org/abs/2605.12496v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://yihao-meng.github.io/CausalCine/</p></details> |
+| **[Elastic Attention Cores for Scalable Vision Transformers](https://arxiv.org/abs/2605.12491v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project repository here: https://github.com/alansong1322/VECA</p></details> |
+| **[Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://arxiv.org/abs/2605.12483v1)** | 2026-05-12 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BAMI: Training-Free Bias Mitigation in GUI Grounding](https://arxiv.org/abs/2605.06664v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[EMO: Pretraining Mixture of Experts for Emergent Modularity](https://arxiv.org/abs/2605.06663v1)** | 2026-05-07 |  |
-| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
-| **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](https://arxiv.org/abs/2605.06654v1)** | 2026-05-07 |  |
-| **[Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction](https://arxiv.org/abs/2605.06644v1)** | 2026-05-07 | <details><summary>Inclu...</summary><p>Includes appendix; source code, processed feature tables and evaluation scripts are available from the first author upon reasonable request</p></details> |
-| **[Predictive and Prescriptive AI toward Optimizing Wildfire Suppression](https://arxiv.org/abs/2605.04510v2)** | 2026-05-07 |  |
-| **[DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification](https://arxiv.org/abs/2605.06637v1)** | 2026-05-07 |  |
+| **[Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](https://arxiv.org/abs/2605.12501v1)** | 2026-05-12 |  |
+| **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
+| **[Elastic Attention Cores for Scalable Vision Transformers](https://arxiv.org/abs/2605.12491v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project repository here: https://github.com/alansong1322/VECA</p></details> |
+| **[Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://arxiv.org/abs/2605.12483v1)** | 2026-05-12 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal Fact-Level Attribution for Verifiable Reasoning](https://arxiv.org/abs/2602.11509v2)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code and data are available at https://github.com/meetdavidwan/murgat</p></details> |
-| **[MedHorizon: Towards Long-context Medical Video Understanding in the Wild](https://arxiv.org/abs/2605.06537v1)** | 2026-05-07 |  |
-| **[Toward Visually Realistic Simulation: A Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311v1)** | 2026-05-07 |  |
-| **[MER 2026: From Discriminative Emotion Recognition to Generative Emotion Understanding](https://arxiv.org/abs/2604.19417v4)** | 2026-05-07 |  |
-| **[Towards Annotation-Free Validation of MLLMs: A Vision-Language Logical Consistency Metric](https://arxiv.org/abs/2605.06201v1)** | 2026-05-07 |  |
-| **[Pest-Thinker: Learning to Think and Reason like Entomologists via Reinforcement Learning](https://arxiv.org/abs/2605.06121v1)** | 2026-05-07 | 10 pages, 5 figures |
-| **[CrossCult-KIBench: A Benchmark for Cross-Cultural Knowledge Insertion in MLLMs](https://arxiv.org/abs/2605.06115v1)** | 2026-05-07 |  |
-| **[HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding](https://arxiv.org/abs/2601.14724v4)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
-| **[EAGLE: Expert-Augmented Attention Guidance for Tuning-Free Industrial Anomaly Detection in Multimodal Large Language Models](https://arxiv.org/abs/2602.17419v4)** | 2026-05-07 |  |
-| **[ICU-Bench:Benchmarking Continual Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2605.05938v1)** | 2026-05-07 | 30 pages, 12 figures |
+| **[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](https://arxiv.org/abs/2605.12495v1)** | 2026-05-12 | ICML2026 |
+| **[Beyond Localization: A Comprehensive Diagnosis of Perspective-Conditioned Spatial Reasoning in MLLMs from Omnidirectional Images](https://arxiv.org/abs/2605.12413v1)** | 2026-05-12 |  |
+| **[Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2605.12374v1)** | 2026-05-12 |  |
+| **[G$^2$TR: Generation-Guided Visual Token Reduction for Separate-Encoder Unified Multimodal Models](https://arxiv.org/abs/2605.12309v1)** | 2026-05-12 | <details><summary>Code ...</summary><p>Code is at: https://github.com/lijunxian111/G2TR</p></details> |
+| **[Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models](https://arxiv.org/abs/2605.12258v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by ICML-2026</p></details> |
+| **[MM-OptBench: A Solver-Grounded Benchmark for Multimodal Optimization Modeling](https://arxiv.org/abs/2605.12154v1)** | 2026-05-12 | Paper under review |
+| **[Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2602.04509v5)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Learn to Think: Improving Multimodal Reasoning through Vision-Aware Self-Improvement Training](https://arxiv.org/abs/2605.11931v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Modality-Inconsistent Continual Learning of Multimodal Large Language Models](https://arxiv.org/abs/2412.13050v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (TMLR), 2026</p></details> |
+| **[Vision-aligned Latent Reasoning for Multi-modal Large Language Model](https://arxiv.org/abs/2602.04476v2)** | 2026-05-12 | <details><summary>Publi...</summary><p>Published as conference proceeding for ICML 2026. Last two authors advised equally</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](https://arxiv.org/abs/2605.06656v1)** | 2026-05-07 |  |
-| **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](https://arxiv.org/abs/2605.06654v1)** | 2026-05-07 |  |
-| **[Predictive and Prescriptive AI toward Optimizing Wildfire Suppression](https://arxiv.org/abs/2605.04510v2)** | 2026-05-07 |  |
-| **[DPM++: Dynamic Masked Metric Learning for Occluded Person Re-identification](https://arxiv.org/abs/2605.06637v1)** | 2026-05-07 |  |
-| **[LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation](https://arxiv.org/abs/2605.06628v1)** | 2026-05-07 | DCC 2026 |
-| **[Flexible Agent Alignment with Goal Inference from Open-Ended Dialog](https://arxiv.org/abs/2508.15119v2)** | 2026-05-07 | <details><summary>Previ...</summary><p>Previous version of the paper was titled: Open-Universe Assistance Games</p></details> |
-| **[AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v2)** | 2026-05-07 | <details><summary>22 pa...</summary><p>22 pages, 2 figures. Accepted as a position paper at ICML 2026</p></details> |
-| **[MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2605.06623v1)** | 2026-05-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](https://arxiv.org/abs/2605.12501v1)** | 2026-05-12 |  |
+| **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
+| **[LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues](https://arxiv.org/abs/2605.12493v1)** | 2026-05-12 | Work in Progress |
+| **[Elastic Attention Cores for Scalable Vision Transformers](https://arxiv.org/abs/2605.12491v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project repository here: https://github.com/alansong1322/VECA</p></details> |
+| **[Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://arxiv.org/abs/2605.12483v1)** | 2026-05-12 |  |
 
