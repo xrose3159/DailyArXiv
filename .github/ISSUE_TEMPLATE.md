@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2026
+title: Latest 15 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,48 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](https://arxiv.org/abs/2605.12501v1)** | 2026-05-12 |  |
-| **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
-| **[CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives](https://arxiv.org/abs/2605.12496v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://yihao-meng.github.io/CausalCine/</p></details> |
-| **[Elastic Attention Cores for Scalable Vision Transformers](https://arxiv.org/abs/2605.12491v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project repository here: https://github.com/alansong1322/VECA</p></details> |
-| **[Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://arxiv.org/abs/2605.12483v1)** | 2026-05-12 |  |
+| **[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](https://arxiv.org/abs/2605.13846v1)** | 2026-05-13 | <details><summary>https...</summary><p>https://github.com/Ziheng-Zhang-AUS/WARDEN</p></details> |
+| **[EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](https://arxiv.org/abs/2605.13841v1)** | 2026-05-13 | Work in progress |
+| **[QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling](https://arxiv.org/abs/2605.13833v1)** | 2026-05-13 |  |
+| **[Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831v1)** | 2026-05-13 | work in progress |
+| **[Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold](https://arxiv.org/abs/2602.06021v2)** | 2026-05-13 |  |
+| **[The post-hoc test for local dependence](https://arxiv.org/abs/2512.20280v2)** | 2026-05-13 |  |
+| **[Reducing cross-sample prediction churn in scientific machine learning](https://arxiv.org/abs/2605.13826v1)** | 2026-05-13 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](https://arxiv.org/abs/2605.12501v1)** | 2026-05-12 |  |
-| **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
-| **[Elastic Attention Cores for Scalable Vision Transformers](https://arxiv.org/abs/2605.12491v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project repository here: https://github.com/alansong1322/VECA</p></details> |
-| **[Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://arxiv.org/abs/2605.12483v1)** | 2026-05-12 |  |
+| **[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](https://arxiv.org/abs/2605.13846v1)** | 2026-05-13 | <details><summary>https...</summary><p>https://github.com/Ziheng-Zhang-AUS/WARDEN</p></details> |
+| **[EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](https://arxiv.org/abs/2605.13841v1)** | 2026-05-13 | Work in progress |
+| **[Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.13835v1)** | 2026-05-13 |  |
+| **[QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling](https://arxiv.org/abs/2605.13833v1)** | 2026-05-13 |  |
+| **[Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831v1)** | 2026-05-13 | work in progress |
+| **[Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold](https://arxiv.org/abs/2602.06021v2)** | 2026-05-13 |  |
+| **[The post-hoc test for local dependence](https://arxiv.org/abs/2512.20280v2)** | 2026-05-13 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](https://arxiv.org/abs/2605.12495v1)** | 2026-05-12 | ICML2026 |
-| **[Beyond Localization: A Comprehensive Diagnosis of Perspective-Conditioned Spatial Reasoning in MLLMs from Omnidirectional Images](https://arxiv.org/abs/2605.12413v1)** | 2026-05-12 |  |
-| **[Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2605.12374v1)** | 2026-05-12 |  |
-| **[G$^2$TR: Generation-Guided Visual Token Reduction for Separate-Encoder Unified Multimodal Models](https://arxiv.org/abs/2605.12309v1)** | 2026-05-12 | <details><summary>Code ...</summary><p>Code is at: https://github.com/lijunxian111/G2TR</p></details> |
-| **[Instruction Lens Score: Your Instruction Contributes a Powerful Object Hallucination Detector for Multimodal Large Language Models](https://arxiv.org/abs/2605.12258v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by ICML-2026</p></details> |
-| **[MM-OptBench: A Solver-Grounded Benchmark for Multimodal Optimization Modeling](https://arxiv.org/abs/2605.12154v1)** | 2026-05-12 | Paper under review |
-| **[Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2602.04509v5)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Learn to Think: Improving Multimodal Reasoning through Vision-Aware Self-Improvement Training](https://arxiv.org/abs/2605.11931v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Modality-Inconsistent Continual Learning of Multimodal Large Language Models](https://arxiv.org/abs/2412.13050v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at Transactions on Machine Learning Research (TMLR), 2026</p></details> |
-| **[Vision-aligned Latent Reasoning for Multi-modal Large Language Model](https://arxiv.org/abs/2602.04476v2)** | 2026-05-12 | <details><summary>Publi...</summary><p>Published as conference proceeding for ICML 2026. Last two authors advised equally</p></details> |
+| **[MMRareBench: A Rare-Disease Multimodal and Multi-Image Medical Benchmark](https://arxiv.org/abs/2604.10755v2)** | 2026-05-13 |  |
+| **[GraphThinker: Reinforcing Temporally Grounded Video Reasoning with Event Graph Thinking](https://arxiv.org/abs/2602.17555v3)** | 2026-05-13 | Under review |
+| **[Towards Unified Surgical Scene Understanding:Bridging Reasoning and Grounding via MLLMs](https://arxiv.org/abs/2605.13530v1)** | 2026-05-13 |  |
+| **[LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models](https://arxiv.org/abs/2505.15616v2)** | 2026-05-13 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
+| **[RS-Claw: Progressive Active Tool Exploration via Hierarchical Skill Trees for Remote Sensing Agents](https://arxiv.org/abs/2605.13391v1)** | 2026-05-13 |  |
+| **[OxyEcomBench: Benchmarking Multimodal Foundation Models across E-Commerce Ecosystems](https://arxiv.org/abs/2605.13173v1)** | 2026-05-13 |  |
+| **[PanoWorld: Towards Spatial Supersensing in 360$^\circ$ Panorama World](https://arxiv.org/abs/2605.13169v1)** | 2026-05-13 |  |
+| **[ChatSR: Multimodal Large Language Models for Scientific Formula Discovery](https://arxiv.org/abs/2406.05410v3)** | 2026-05-13 | 14 pages, |
+| **[Exploring Multimodal LMMs for Online Episodic Memory Question Answering on the Edge](https://arxiv.org/abs/2602.22455v2)** | 2026-05-13 |  |
+| **[COHERENCE: Benchmarking Fine-Grained Image-Text Alignment in Interleaved Multimodal Contexts](https://arxiv.org/abs/2604.27389v2)** | 2026-05-13 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Covering Human Action Space for Computer Use: Data Synthesis and Benchmark](https://arxiv.org/abs/2605.12501v1)** | 2026-05-12 |  |
-| **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
-| **[LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues](https://arxiv.org/abs/2605.12493v1)** | 2026-05-12 | Work in Progress |
-| **[Elastic Attention Cores for Scalable Vision Transformers](https://arxiv.org/abs/2605.12491v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project repository here: https://github.com/alansong1322/VECA</p></details> |
-| **[Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://arxiv.org/abs/2605.12483v1)** | 2026-05-12 |  |
+| **[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](https://arxiv.org/abs/2605.13846v1)** | 2026-05-13 | <details><summary>https...</summary><p>https://github.com/Ziheng-Zhang-AUS/WARDEN</p></details> |
+| **[EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](https://arxiv.org/abs/2605.13841v1)** | 2026-05-13 | Work in progress |
+| **[R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow](https://arxiv.org/abs/2605.13838v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH 2026, Project Page: https://r-dmesh.github.io/ Code URL: https://github.com/Tencent-Hunyuan/R-DMesh</p></details> |
+| **[QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling](https://arxiv.org/abs/2605.13833v1)** | 2026-05-13 |  |
+| **[Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831v1)** | 2026-05-13 | work in progress |
+| **[Diffusion Model's Generalization Can Be Characterized by Inductive Biases toward a Data-Dependent Ridge Manifold](https://arxiv.org/abs/2602.06021v2)** | 2026-05-13 |  |
+| **[The post-hoc test for local dependence](https://arxiv.org/abs/2512.20280v2)** | 2026-05-13 |  |
+| **[Reducing cross-sample prediction churn in scientific machine learning](https://arxiv.org/abs/2605.13826v1)** | 2026-05-13 |  |
 
