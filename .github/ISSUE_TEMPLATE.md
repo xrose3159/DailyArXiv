@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,43 +7,53 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs](https://arxiv.org/abs/2605.22823v1)** | 2026-05-21 | <details><summary>Prepr...</summary><p>Preprint. 59 pages, including appendix. Code: https://github.com/KHU-VLL/DeltaDirect</p></details> |
-| **[AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/abs/2605.22816v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://gwxuan.github.io/AwareVLN/</p></details> |
-| **[GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations](https://arxiv.org/abs/2605.22812v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project page: https://gwxuan.github.io/GesVLA/</p></details> |
-| **[GS-QA: A Benchmark for Geospatial Question Answering](https://arxiv.org/abs/2605.22811v1)** | 2026-05-21 |  |
-| **[Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](https://arxiv.org/abs/2605.22809v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Geo-Align: Video Generation Alignment via Metric Geometry Reward](https://arxiv.org/abs/2605.23903v1)** | 2026-05-22 |  |
+| **[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](https://arxiv.org/abs/2605.23901v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://arxiv.org/abs/2605.23895v1)** | 2026-05-22 |  |
+| **[A Two-Branch Finite-Field Construction for Regular CSS LDPC Bases](https://arxiv.org/abs/2605.23894v1)** | 2026-05-22 |  |
+| **[Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework](https://arxiv.org/abs/2605.23891v1)** | 2026-05-22 |  |
+| **[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces](https://arxiv.org/abs/2605.23887v1)** | 2026-05-22 |  |
+| **[Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions](https://arxiv.org/abs/2605.23885v1)** | 2026-05-22 |  |
+| **[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://arxiv.org/abs/2605.23883v1)** | 2026-05-22 |  |
+| **[LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](https://arxiv.org/abs/2605.23878v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://lamo-ai.github.io/</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs](https://arxiv.org/abs/2605.22823v1)** | 2026-05-21 | <details><summary>Prepr...</summary><p>Preprint. 59 pages, including appendix. Code: https://github.com/KHU-VLL/DeltaDirect</p></details> |
-| **[Vector Policy Optimization: Training for Diversity Improves Test-Time Search](https://arxiv.org/abs/2605.22817v1)** | 2026-05-21 | 24 pages |
-| **[AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/abs/2605.22816v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://gwxuan.github.io/AwareVLN/</p></details> |
-| **[GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations](https://arxiv.org/abs/2605.22812v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project page: https://gwxuan.github.io/GesVLA/</p></details> |
-| **[GS-QA: A Benchmark for Geospatial Question Answering](https://arxiv.org/abs/2605.22811v1)** | 2026-05-21 |  |
-| **[Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](https://arxiv.org/abs/2605.22809v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Geo-Align: Video Generation Alignment via Metric Geometry Reward](https://arxiv.org/abs/2605.23903v1)** | 2026-05-22 |  |
+| **[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](https://arxiv.org/abs/2605.23901v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://arxiv.org/abs/2605.23895v1)** | 2026-05-22 |  |
+| **[A Two-Branch Finite-Field Construction for Regular CSS LDPC Bases](https://arxiv.org/abs/2605.23894v1)** | 2026-05-22 |  |
+| **[Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers](https://arxiv.org/abs/2605.23892v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://zsh2000.github.io/good-token-hunting.github.io, Code: https://github.com/zsh2000/gotohunt</p></details> |
+| **[Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework](https://arxiv.org/abs/2605.23891v1)** | 2026-05-22 |  |
+| **[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces](https://arxiv.org/abs/2605.23887v1)** | 2026-05-22 |  |
+| **[Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions](https://arxiv.org/abs/2605.23885v1)** | 2026-05-22 |  |
+| **[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://arxiv.org/abs/2605.23883v1)** | 2026-05-22 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cambrian-P: Pose-Grounded Video Understanding](https://arxiv.org/abs/2605.22819v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project Page: https://cambrian-mllm.github.io/</p></details> |
-| **[Seeing the Poem: Image-Semantic Detection of AI-Generated Modern Chinese Poetry with MLLMs](https://arxiv.org/abs/2605.22654v1)** | 2026-05-21 |  |
-| **[AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters](https://arxiv.org/abs/2605.22645v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis](https://arxiv.org/abs/2605.22570v1)** | 2026-05-21 | <details><summary>82 pa...</summary><p>82 pages, 91 figures (7 in main paper, 84 in appendix). Project page: https://zinosii.github.io/VGenST-Bench/</p></details> |
-| **[SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation](https://arxiv.org/abs/2605.22536v1)** | 2026-05-21 |  |
-| **[AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images](https://arxiv.org/abs/2604.28177v2)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
-| **[Polite on the Surface, Wrong in Practice: A Curated Dataset for Fixing Honorific Failures in Multilingual Bangla Generation](https://arxiv.org/abs/2605.22487v1)** | 2026-05-21 |  |
-| **[From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding](https://arxiv.org/abs/2605.22413v1)** | 2026-05-21 |  |
-| **[Bernini: Latent Semantic Planning for Video Diffusion](https://arxiv.org/abs/2605.22344v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project Page: https://bernini-ai.github.io/</p></details> |
-| **[Model-Dowser: Data-Free Importance Probing to Mitigate Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2602.04509v6)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[ETCHR: Editing To Clarify and Harness Reasoning](https://arxiv.org/abs/2605.23897v1)** | 2026-05-22 | <details><summary>Code,...</summary><p>Code, model and data are open-sourced at https://github.com/InternLM/ETCHR</p></details> |
+| **[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://arxiv.org/abs/2605.23883v1)** | 2026-05-22 |  |
+| **[Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment](https://arxiv.org/abs/2605.23780v1)** | 2026-05-22 |  |
+| **[ChartFI: Benchmarking Faithfulness and Insightfulness of Chart Descriptions from Multimodal Large Language Models](https://arxiv.org/abs/2605.23694v1)** | 2026-05-22 |  |
+| **[CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception](https://arxiv.org/abs/2605.23655v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. 22 pages, 12 figures, 7 tables</p></details> |
+| **[Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models](https://arxiv.org/abs/2505.17015v2)** | 2026-05-22 | <details><summary>CVPR ...</summary><p>CVPR 2026 Camera Ready. 27 pages. Project page: https://runsenxu.com/projects/Multi-SpatialMLLM</p></details> |
+| **[PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA](https://arxiv.org/abs/2605.23559v1)** | 2026-05-22 |  |
+| **[From Head to Tail: Asymmetric Knowledge Transfer in Long-tail Recommendation with Generative Semantic IDs](https://arxiv.org/abs/2605.23310v1)** | 2026-05-22 | 5 pages, 1 figure |
+| **[Mitigating Object Hallucinations via Sentence-Level Early Intervention](https://arxiv.org/abs/2507.12455v3)** | 2026-05-22 |  |
+| **[Same Model, Different Weakness: How Language and Modality Reshape the Jailbreak Attack Surface in Frontier MLLMs](https://arxiv.org/abs/2605.23157v1)** | 2026-05-22 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs](https://arxiv.org/abs/2605.22823v1)** | 2026-05-21 | <details><summary>Prepr...</summary><p>Preprint. 59 pages, including appendix. Code: https://github.com/KHU-VLL/DeltaDirect</p></details> |
-| **[MotiMotion: Motion-Controlled Video Generation with Visual Reasoning](https://arxiv.org/abs/2605.22818v1)** | 2026-05-21 | <details><summary>ICML ...</summary><p>ICML 2026. Project page: https://motimotion.github.io/</p></details> |
-| **[AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/abs/2605.22816v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://gwxuan.github.io/AwareVLN/</p></details> |
-| **[GesVLA: Gesture-Aware Vision-Language-Action Model Embedded Representations](https://arxiv.org/abs/2605.22812v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project page: https://gwxuan.github.io/GesVLA/</p></details> |
-| **[GS-QA: A Benchmark for Geospatial Question Answering](https://arxiv.org/abs/2605.22811v1)** | 2026-05-21 |  |
-| **[Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving](https://arxiv.org/abs/2605.22809v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Geo-Align: Video Generation Alignment via Metric Geometry Reward](https://arxiv.org/abs/2605.23903v1)** | 2026-05-22 |  |
+| **[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](https://arxiv.org/abs/2605.23901v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://arxiv.org/abs/2605.23895v1)** | 2026-05-22 |  |
+| **[A Two-Branch Finite-Field Construction for Regular CSS LDPC Bases](https://arxiv.org/abs/2605.23894v1)** | 2026-05-22 |  |
+| **[Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework](https://arxiv.org/abs/2605.23891v1)** | 2026-05-22 |  |
+| **[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces](https://arxiv.org/abs/2605.23887v1)** | 2026-05-22 |  |
+| **[Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions](https://arxiv.org/abs/2605.23885v1)** | 2026-05-22 |  |
+| **[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://arxiv.org/abs/2605.23883v1)** | 2026-05-22 |  |
+| **[LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](https://arxiv.org/abs/2605.23878v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://lamo-ai.github.io/</p></details> |
 
