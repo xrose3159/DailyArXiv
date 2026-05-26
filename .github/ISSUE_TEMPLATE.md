@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2026
+title: Latest 15 Papers - May 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,53 +7,48 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Geo-Align: Video Generation Alignment via Metric Geometry Reward](https://arxiv.org/abs/2605.23903v1)** | 2026-05-22 |  |
-| **[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](https://arxiv.org/abs/2605.23901v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://arxiv.org/abs/2605.23895v1)** | 2026-05-22 |  |
-| **[A Two-Branch Finite-Field Construction for Regular CSS LDPC Bases](https://arxiv.org/abs/2605.23894v1)** | 2026-05-22 |  |
-| **[Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework](https://arxiv.org/abs/2605.23891v1)** | 2026-05-22 |  |
-| **[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces](https://arxiv.org/abs/2605.23887v1)** | 2026-05-22 |  |
-| **[Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions](https://arxiv.org/abs/2605.23885v1)** | 2026-05-22 |  |
-| **[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://arxiv.org/abs/2605.23883v1)** | 2026-05-22 |  |
-| **[LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](https://arxiv.org/abs/2605.23878v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://lamo-ai.github.io/</p></details> |
+| **[AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond](https://arxiv.org/abs/2605.26113v1)** | 2026-05-25 | <details><summary>Work ...</summary><p>Work in progress. Project page: https://mind-omni.github.io/</p></details> |
+| **[WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers](https://arxiv.org/abs/2509.10452v2)** | 2026-05-25 | 10 pages |
+| **[Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay](https://arxiv.org/abs/2605.26097v1)** | 2026-05-25 |  |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization](https://arxiv.org/abs/2605.26092v1)** | 2026-05-25 |  |
+| **[DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking](https://arxiv.org/abs/2605.26087v1)** | 2026-05-25 |  |
+| **[Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World](https://arxiv.org/abs/2605.26086v1)** | 2026-05-25 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Geo-Align: Video Generation Alignment via Metric Geometry Reward](https://arxiv.org/abs/2605.23903v1)** | 2026-05-22 |  |
-| **[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](https://arxiv.org/abs/2605.23901v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://arxiv.org/abs/2605.23895v1)** | 2026-05-22 |  |
-| **[A Two-Branch Finite-Field Construction for Regular CSS LDPC Bases](https://arxiv.org/abs/2605.23894v1)** | 2026-05-22 |  |
-| **[Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers](https://arxiv.org/abs/2605.23892v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://zsh2000.github.io/good-token-hunting.github.io, Code: https://github.com/zsh2000/gotohunt</p></details> |
-| **[Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework](https://arxiv.org/abs/2605.23891v1)** | 2026-05-22 |  |
-| **[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces](https://arxiv.org/abs/2605.23887v1)** | 2026-05-22 |  |
-| **[Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions](https://arxiv.org/abs/2605.23885v1)** | 2026-05-22 |  |
-| **[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://arxiv.org/abs/2605.23883v1)** | 2026-05-22 |  |
+| **[AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond](https://arxiv.org/abs/2605.26113v1)** | 2026-05-25 | <details><summary>Work ...</summary><p>Work in progress. Project page: https://mind-omni.github.io/</p></details> |
+| **[Looped Diffusion Language Models](https://arxiv.org/abs/2605.26106v1)** | 2026-05-25 | 23 pages |
+| **[A General Framework for Joint Multi-State Models](https://arxiv.org/abs/2510.07128v5)** | 2026-05-25 | 34 pages, 12 figures |
+| **[WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers](https://arxiv.org/abs/2509.10452v2)** | 2026-05-25 | 10 pages |
+| **[Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay](https://arxiv.org/abs/2605.26097v1)** | 2026-05-25 |  |
+| **[Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty](https://arxiv.org/abs/2605.26093v1)** | 2026-05-25 |  |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking](https://arxiv.org/abs/2605.26087v1)** | 2026-05-25 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ETCHR: Editing To Clarify and Harness Reasoning](https://arxiv.org/abs/2605.23897v1)** | 2026-05-22 | <details><summary>Code,...</summary><p>Code, model and data are open-sourced at https://github.com/InternLM/ETCHR</p></details> |
-| **[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://arxiv.org/abs/2605.23883v1)** | 2026-05-22 |  |
-| **[Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment](https://arxiv.org/abs/2605.23780v1)** | 2026-05-22 |  |
-| **[ChartFI: Benchmarking Faithfulness and Insightfulness of Chart Descriptions from Multimodal Large Language Models](https://arxiv.org/abs/2605.23694v1)** | 2026-05-22 |  |
-| **[CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception](https://arxiv.org/abs/2605.23655v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. 22 pages, 12 figures, 7 tables</p></details> |
-| **[Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models](https://arxiv.org/abs/2505.17015v2)** | 2026-05-22 | <details><summary>CVPR ...</summary><p>CVPR 2026 Camera Ready. 27 pages. Project page: https://runsenxu.com/projects/Multi-SpatialMLLM</p></details> |
-| **[PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA](https://arxiv.org/abs/2605.23559v1)** | 2026-05-22 |  |
-| **[From Head to Tail: Asymmetric Knowledge Transfer in Long-tail Recommendation with Generative Semantic IDs](https://arxiv.org/abs/2605.23310v1)** | 2026-05-22 | 5 pages, 1 figure |
-| **[Mitigating Object Hallucinations via Sentence-Level Early Intervention](https://arxiv.org/abs/2507.12455v3)** | 2026-05-22 |  |
-| **[Same Model, Different Weakness: How Language and Modality Reshape the Jailbreak Attack Surface in Frontier MLLMs](https://arxiv.org/abs/2605.23157v1)** | 2026-05-22 |  |
+| **[Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation](https://arxiv.org/abs/2605.26111v1)** | 2026-05-25 | <details><summary>33 pa...</summary><p>33 pages, 18 figures, Project Page: https://zsh2000.github.io/squeeze-mllm-subject-gen/</p></details> |
+| **[Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2605.26110v1)** | 2026-05-25 | <details><summary>Code ...</summary><p>Code is available at https://github.com/LAMDA-CL/Prism</p></details> |
+| **[EVIDENT: Routing MLLM Adaptation through Entity-Grounded Visual Evidence for Cross-Domain Video Temporal Grounding](https://arxiv.org/abs/2605.26104v1)** | 2026-05-25 |  |
+| **[EgoMind: Activating Spatial Cognition through Linguistic Reasoning in MLLMs](https://arxiv.org/abs/2604.03318v2)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[FairJudge: Abstention-Aware Multimodal Judges for Fairness and Alignment Evaluation in Text-to-Image Models](https://arxiv.org/abs/2510.22827v3)** | 2026-05-25 |  |
+| **[VertiCue-Bench: Diagnosing Whether MLLMs Use Height Cues to Resolve 2D Ambiguity in Remote Sensing Natural Scenes](https://arxiv.org/abs/2605.25784v1)** | 2026-05-25 |  |
+| **[Fill the GAP: A Granular Alignment Paradigm for Visual Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2605.12374v4)** | 2026-05-25 |  |
+| **[AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions](https://arxiv.org/abs/2605.25707v1)** | 2026-05-25 | <details><summary>accep...</summary><p>accepted by ICML 2026</p></details> |
+| **[How do Humans Process AI-generated Hallucination Contents: a Neuroimaging Study](https://arxiv.org/abs/2605.16953v2)** | 2026-05-25 |  |
+| **[PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs](https://arxiv.org/abs/2603.09943v2)** | 2026-05-25 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Geo-Align: Video Generation Alignment via Metric Geometry Reward](https://arxiv.org/abs/2605.23903v1)** | 2026-05-22 |  |
-| **[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](https://arxiv.org/abs/2605.23901v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain](https://arxiv.org/abs/2605.23895v1)** | 2026-05-22 |  |
-| **[A Two-Branch Finite-Field Construction for Regular CSS LDPC Bases](https://arxiv.org/abs/2605.23894v1)** | 2026-05-22 |  |
-| **[Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework](https://arxiv.org/abs/2605.23891v1)** | 2026-05-22 |  |
-| **[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces](https://arxiv.org/abs/2605.23887v1)** | 2026-05-22 |  |
-| **[Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions](https://arxiv.org/abs/2605.23885v1)** | 2026-05-22 |  |
-| **[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs](https://arxiv.org/abs/2605.23883v1)** | 2026-05-22 |  |
-| **[LaMo: Self-Supervised Latent Motion Priors for Physical Realism in Video Generation](https://arxiv.org/abs/2605.23878v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://lamo-ai.github.io/</p></details> |
+| **[AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond](https://arxiv.org/abs/2605.26113v1)** | 2026-05-25 | <details><summary>Work ...</summary><p>Work in progress. Project page: https://mind-omni.github.io/</p></details> |
+| **[WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers](https://arxiv.org/abs/2509.10452v2)** | 2026-05-25 | 10 pages |
+| **[Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models](https://arxiv.org/abs/2605.26100v1)** | 2026-05-25 | 13 pages, 6 figures |
+| **[Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay](https://arxiv.org/abs/2605.26097v1)** | 2026-05-25 |  |
+| **[BioLip: Language-Generalizable Lip-Sync Deepfake Detection via Biomechanical Constraint Violation Modeling](https://arxiv.org/abs/2604.16808v3)** | 2026-05-25 | <details><summary>13 pa...</summary><p>13 pages, 5 figures. Keywords: Deepfake detection, lip-sync forgery, biomechanical constraints, landmark kinematics, cross-lingual generalization, video forensics, privacy-preserving inference, compression robustness</p></details> |
+| **[DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking](https://arxiv.org/abs/2605.26087v1)** | 2026-05-25 |  |
+| **[Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World](https://arxiv.org/abs/2605.26086v1)** | 2026-05-25 |  |
 
