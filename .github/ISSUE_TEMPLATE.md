@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2026
+title: Latest 15 Papers - May 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,48 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing](https://arxiv.org/abs/2605.27372v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://g3t-paper.github.io/</p></details> |
-| **[SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://arxiv.org/abs/2605.27367v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://ropedia.github.io/SpatialBench/</p></details> |
-| **[LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://arxiv.org/abs/2605.27365v1)** | 2026-05-26 |  |
-| **[Natural Language Query to Configuration for Retrieval Agents](https://arxiv.org/abs/2605.27361v1)** | 2026-05-26 |  |
-| **[GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing](https://arxiv.org/abs/2605.27360v1)** | 2026-05-26 | 18 pages, 16 figures |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v2)** | 2026-05-26 |  |
-| **[Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders](https://arxiv.org/abs/2605.27354v1)** | 2026-05-26 |  |
-| **[Compute Optimal Tokenization](https://arxiv.org/abs/2605.01188v2)** | 2026-05-26 |  |
+| **[HarmoVid: Relightful Video Portrait Harmonization](https://arxiv.org/abs/2605.28811v1)** | 2026-05-27 | CVPR 2026 |
+| **[Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation](https://arxiv.org/abs/2605.28812v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project site: https://mpan31415.github.io/tactile_rep/</p></details> |
+| **[Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization](https://arxiv.org/abs/2605.28810v1)** | 2026-05-27 |  |
+| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
+| **[Are We Truly Innovating? A Qualitative and Quantitative Study of Originality in AI Research Papers](https://arxiv.org/abs/2602.06054v3)** | 2026-05-27 |  |
+| **[Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval](https://arxiv.org/abs/2605.28787v1)** | 2026-05-27 |  |
+| **[Beyond Exchangeability: Distribution-Shift-Aware Integration of External Control Data in Randomized Trials](https://arxiv.org/abs/2605.28785v1)** | 2026-05-27 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing](https://arxiv.org/abs/2605.27372v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://g3t-paper.github.io/</p></details> |
-| **[SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://arxiv.org/abs/2605.27367v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://ropedia.github.io/SpatialBench/</p></details> |
-| **[MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](https://arxiv.org/abs/2605.27366v1)** | 2026-05-26 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 13 tables, working in progress</p></details> |
-| **[LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://arxiv.org/abs/2605.27365v1)** | 2026-05-26 |  |
-| **[Natural Language Query to Configuration for Retrieval Agents](https://arxiv.org/abs/2605.27361v1)** | 2026-05-26 |  |
-| **[GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing](https://arxiv.org/abs/2605.27360v1)** | 2026-05-26 | 18 pages, 16 figures |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v2)** | 2026-05-26 |  |
-| **[Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders](https://arxiv.org/abs/2605.27354v1)** | 2026-05-26 |  |
+| **[VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading](https://arxiv.org/abs/2605.28818v1)** | 2026-05-27 | 17 pages, 10 figures |
+| **[HarmoVid: Relightful Video Portrait Harmonization](https://arxiv.org/abs/2605.28811v1)** | 2026-05-27 | CVPR 2026 |
+| **[Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation](https://arxiv.org/abs/2605.28812v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project site: https://mpan31415.github.io/tactile_rep/</p></details> |
+| **[Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization](https://arxiv.org/abs/2605.28810v1)** | 2026-05-27 |  |
+| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
+| **[Calibrating Conservatism for Scalable Oversight](https://arxiv.org/abs/2605.28807v1)** | 2026-05-27 |  |
+| **[Are We Truly Innovating? A Qualitative and Quantitative Study of Originality in AI Research Papers](https://arxiv.org/abs/2602.06054v3)** | 2026-05-27 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Touch-R1: Reinforcing Touch Reasoning in MLLMs](https://arxiv.org/abs/2605.27154v1)** | 2026-05-26 | <details><summary>Our c...</summary><p>Our code and data will be made public on the https://laiyingxin2.github.io/Projects</p></details> |
-| **[IPIBench: Evaluating Interactive Proactive Intelligence of MLLMs under Continuous Streams](https://arxiv.org/abs/2605.27074v1)** | 2026-05-26 |  |
-| **[FiRe: Fine-grained Multimodal Reasoning for Enhanced Image Generation](https://arxiv.org/abs/2604.13491v3)** | 2026-05-26 |  |
-| **[Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes](https://arxiv.org/abs/2601.07737v2)** | 2026-05-26 |  |
-| **[SpaceVista: All-Scale Visual Spatial Reasoning from mm to km](https://arxiv.org/abs/2510.09606v2)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://peiwensun2000.github.io/mm2km/</p></details> |
-| **[EgoProx: Evaluating MLLMs on Egocentric 3D Proximity Reasoning Across a Cognitive Hierarchy](https://arxiv.org/abs/2605.24456v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[DynFrame: Adaptive Reasoning-Driven Multimodal Framework with Dynamic Frame Augmentation for Complex Video Understanding](https://arxiv.org/abs/2605.26680v1)** | 2026-05-26 |  |
-| **[DV-SFT: Direct Vision Supervision for Fine-Grained Visual Understanding](https://arxiv.org/abs/2605.26656v1)** | 2026-05-26 | Under Review |
-| **[Decoding Scientific Experimental Images: The SPUR Benchmark for Perception, Understanding, and Reasoning](https://arxiv.org/abs/2604.27604v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main Conference</p></details> |
-| **[Detached Skip-Links and $R$-Probe: Decoupling Feature Aggregation from Gradient Propagation for MLLM OCR](https://arxiv.org/abs/2603.20020v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted by ICML 2026. Ziye Yuan and Ruchang Yao contributed equally to this work (co-first authors, listed in random order)</p></details> |
+| **[Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation](https://arxiv.org/abs/2605.18740v3)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project page: https://github.com/VisionOPD/Vision-OPD</p></details> |
+| **[SaFeR-Steer: Evolving Multi-Turn MLLMs via Synthetic Bootstrapping and Feedback Dynamics](https://arxiv.org/abs/2604.16358v2)** | 2026-05-27 |  |
+| **[VeriTrip: A Verifiable Benchmark for Travel Planning Agents over Unstructured Web Corpora](https://arxiv.org/abs/2605.28683v1)** | 2026-05-27 | 10 pages, 4 figures |
+| **[Bandwidth-Efficient and Privacy-Preserving Edge-Cloud Many-to-Many Speech Translation](https://arxiv.org/abs/2605.28642v1)** | 2026-05-27 |  |
+| **[Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents](https://arxiv.org/abs/2605.28629v1)** | 2026-05-27 | Accepted by TASLP |
+| **[The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models? A Bias-Controlled Study](https://arxiv.org/abs/2504.04540v2)** | 2026-05-27 |  |
+| **[Adaptive Multimodal Agents-Based Framework for Automatic Workflow Execution](https://arxiv.org/abs/2605.28607v1)** | 2026-05-27 | <details><summary>Copyr...</summary><p>Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses. Accepted for publication at the 2026 IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS 2026)</p></details> |
+| **[Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven Preference Optimisation](https://arxiv.org/abs/2605.12515v2)** | 2026-05-27 | <details><summary>24 pa...</summary><p>24 pages, 13 figures, 11 tables</p></details> |
+| **[VITAL: Visual-Semantic Dual Supervision for Enhanced and Interpretable Latent Reasoning in Medical MLLMs](https://arxiv.org/abs/2605.28422v1)** | 2026-05-27 |  |
+| **[Bridging the Pose-Semantic Gap: A Cascade Framework for Text-Based Person Anomaly Search](https://arxiv.org/abs/2604.23282v2)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ACL 2026.10 pages, 5 figures</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing](https://arxiv.org/abs/2605.27372v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://g3t-paper.github.io/</p></details> |
-| **[SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://arxiv.org/abs/2605.27367v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://ropedia.github.io/SpatialBench/</p></details> |
-| **[LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://arxiv.org/abs/2605.27365v1)** | 2026-05-26 |  |
-| **[GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing](https://arxiv.org/abs/2605.27360v1)** | 2026-05-26 | 18 pages, 16 figures |
-| **[SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning](https://arxiv.org/abs/2603.28730v2)** | 2026-05-26 |  |
-| **[Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders](https://arxiv.org/abs/2605.27354v1)** | 2026-05-26 |  |
-| **[Compute Optimal Tokenization](https://arxiv.org/abs/2605.01188v2)** | 2026-05-26 |  |
-| **[From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models](https://arxiv.org/abs/2605.27352v1)** | 2026-05-26 |  |
+| **[HarmoVid: Relightful Video Portrait Harmonization](https://arxiv.org/abs/2605.28811v1)** | 2026-05-27 | CVPR 2026 |
+| **[Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation](https://arxiv.org/abs/2605.28812v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project site: https://mpan31415.github.io/tactile_rep/</p></details> |
+| **[Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization](https://arxiv.org/abs/2605.28810v1)** | 2026-05-27 |  |
+| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
+| **[Are We Truly Innovating? A Qualitative and Quantitative Study of Originality in AI Research Papers](https://arxiv.org/abs/2602.06054v3)** | 2026-05-27 |  |
+| **[Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval](https://arxiv.org/abs/2605.28787v1)** | 2026-05-27 |  |
+| **[Beyond Exchangeability: Distribution-Shift-Aware Integration of External Control Data in Randomized Trials](https://arxiv.org/abs/2605.28785v1)** | 2026-05-27 |  |
+| **[Sparse Scheduled Diffusion Guidance for Inverse Problems](https://arxiv.org/abs/2603.07860v2)** | 2026-05-27 |  |
 
