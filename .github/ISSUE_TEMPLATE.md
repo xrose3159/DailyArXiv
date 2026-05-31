@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2026
+title: Latest 15 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,48 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HarmoVid: Relightful Video Portrait Harmonization](https://arxiv.org/abs/2605.28811v1)** | 2026-05-27 | CVPR 2026 |
-| **[Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation](https://arxiv.org/abs/2605.28812v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project site: https://mpan31415.github.io/tactile_rep/</p></details> |
-| **[Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization](https://arxiv.org/abs/2605.28810v1)** | 2026-05-27 |  |
-| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
-| **[Are We Truly Innovating? A Qualitative and Quantitative Study of Originality in AI Research Papers](https://arxiv.org/abs/2602.06054v3)** | 2026-05-27 |  |
-| **[Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval](https://arxiv.org/abs/2605.28787v1)** | 2026-05-27 |  |
-| **[Beyond Exchangeability: Distribution-Shift-Aware Integration of External Control Data in Randomized Trials](https://arxiv.org/abs/2605.28785v1)** | 2026-05-27 |  |
+| **[LLMSurgeon: Diagnosing Data Mixture of Large Language Models](https://arxiv.org/abs/2605.30348v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code at https://github.com/Yaxin9Luo/LLMSurgeon</p></details> |
+| **[NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347v1)** | 2026-05-28 | CVPR 2026 |
+| **[YoCausal: How Far is Video Generation from World Model? A Causality Perspective](https://arxiv.org/abs/2605.30346v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://www.youzhexie.me/papers/YoCausal/index.html</p></details> |
+| **[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](https://arxiv.org/abs/2605.30344v1)** | 2026-05-28 |  |
+| **[Benchmarking Single-Factor Physical Video-to-Audio Generation](https://arxiv.org/abs/2605.30339v1)** | 2026-05-28 | CVPR 2026 |
+| **[Fairness-Aware Federated Learning with Trajectory Shapley Value](https://arxiv.org/abs/2605.30336v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th European Control Conference (ECC 2026)</p></details> |
+| **[Demystifying Data Organization for Enhanced LLM Training](https://arxiv.org/abs/2605.30334v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
+| **[Colored Noise Diffusion Sampling](https://arxiv.org/abs/2605.30332v1)** | 2026-05-28 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading](https://arxiv.org/abs/2605.28818v1)** | 2026-05-27 | 17 pages, 10 figures |
-| **[HarmoVid: Relightful Video Portrait Harmonization](https://arxiv.org/abs/2605.28811v1)** | 2026-05-27 | CVPR 2026 |
-| **[Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation](https://arxiv.org/abs/2605.28812v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project site: https://mpan31415.github.io/tactile_rep/</p></details> |
-| **[Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization](https://arxiv.org/abs/2605.28810v1)** | 2026-05-27 |  |
-| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
-| **[Calibrating Conservatism for Scalable Oversight](https://arxiv.org/abs/2605.28807v1)** | 2026-05-27 |  |
-| **[Are We Truly Innovating? A Qualitative and Quantitative Study of Originality in AI Research Papers](https://arxiv.org/abs/2602.06054v3)** | 2026-05-27 |  |
+| **[LLMSurgeon: Diagnosing Data Mixture of Large Language Models](https://arxiv.org/abs/2605.30348v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code at https://github.com/Yaxin9Luo/LLMSurgeon</p></details> |
+| **[NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347v1)** | 2026-05-28 | CVPR 2026 |
+| **[YoCausal: How Far is Video Generation from World Model? A Causality Perspective](https://arxiv.org/abs/2605.30346v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://www.youzhexie.me/papers/YoCausal/index.html</p></details> |
+| **[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](https://arxiv.org/abs/2605.30344v1)** | 2026-05-28 |  |
+| **[Benchmarking Single-Factor Physical Video-to-Audio Generation](https://arxiv.org/abs/2605.30339v1)** | 2026-05-28 | CVPR 2026 |
+| **[Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching](https://arxiv.org/abs/2605.30337v1)** | 2026-05-28 |  |
+| **[Fairness-Aware Federated Learning with Trajectory Shapley Value](https://arxiv.org/abs/2605.30336v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th European Control Conference (ECC 2026)</p></details> |
+| **[Demystifying Data Organization for Enhanced LLM Training](https://arxiv.org/abs/2605.30334v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation](https://arxiv.org/abs/2605.18740v3)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project page: https://github.com/VisionOPD/Vision-OPD</p></details> |
-| **[SaFeR-Steer: Evolving Multi-Turn MLLMs via Synthetic Bootstrapping and Feedback Dynamics](https://arxiv.org/abs/2604.16358v2)** | 2026-05-27 |  |
-| **[VeriTrip: A Verifiable Benchmark for Travel Planning Agents over Unstructured Web Corpora](https://arxiv.org/abs/2605.28683v1)** | 2026-05-27 | 10 pages, 4 figures |
-| **[Bandwidth-Efficient and Privacy-Preserving Edge-Cloud Many-to-Many Speech Translation](https://arxiv.org/abs/2605.28642v1)** | 2026-05-27 |  |
-| **[Mobile-Aptus: Confidence-Driven Proactive and Robust Interaction in MLLM-based Mobile-Using Agents](https://arxiv.org/abs/2605.28629v1)** | 2026-05-27 | Accepted by TASLP |
-| **[The Point, the Vision and the Text: Does Point Cloud Boost Spatial Reasoning of Large Language Models? A Bias-Controlled Study](https://arxiv.org/abs/2504.04540v2)** | 2026-05-27 |  |
-| **[Adaptive Multimodal Agents-Based Framework for Automatic Workflow Execution](https://arxiv.org/abs/2605.28607v1)** | 2026-05-27 | <details><summary>Copyr...</summary><p>Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses. Accepted for publication at the 2026 IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS 2026)</p></details> |
-| **[Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven Preference Optimisation](https://arxiv.org/abs/2605.12515v2)** | 2026-05-27 | <details><summary>24 pa...</summary><p>24 pages, 13 figures, 11 tables</p></details> |
-| **[VITAL: Visual-Semantic Dual Supervision for Enhanced and Interpretable Latent Reasoning in Medical MLLMs](https://arxiv.org/abs/2605.28422v1)** | 2026-05-27 |  |
-| **[Bridging the Pose-Semantic Gap: A Cascade Framework for Text-Based Person Anomaly Search](https://arxiv.org/abs/2604.23282v2)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ACL 2026.10 pages, 5 figures</p></details> |
+| **[Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes](https://arxiv.org/abs/2605.30318v1)** | 2026-05-28 |  |
+| **[VOGUE: A Multimodal Dataset for Conversational Recommendation in Fashion](https://arxiv.org/abs/2510.21151v2)** | 2026-05-28 |  |
+| **[AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.30140v1)** | 2026-05-28 |  |
+| **[CCS: Clinical Consensus Selection for Radiology Report Generation](https://arxiv.org/abs/2605.30131v1)** | 2026-05-28 | 17 pages, 6 figures |
+| **[Beyond Transcripts: A Renewed Perspective on Audio Chaptering](https://arxiv.org/abs/2602.08979v2)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Main Conference)</p></details> |
+| **[4DPC$^2$hat: Towards Dynamic Point Cloud Understanding with Failure-Aware Bootstrapping](https://arxiv.org/abs/2602.03890v2)** | 2026-05-28 |  |
+| **[OmniMatBench: A Human-Calibrated Multimodal Reasoning Benchmark Across 19 Materials Science Subfields](https://arxiv.org/abs/2605.29833v1)** | 2026-05-28 | 22 Pages |
+| **[Towards Localized and Disentangled Knowledge Editing for Multimodal Large Language Models](https://arxiv.org/abs/2605.29826v1)** | 2026-05-28 |  |
+| **[Beyond Chain-of-Thought: Rewrite as a Universal Interface for Generative Multimodal Embeddings](https://arxiv.org/abs/2604.22280v2)** | 2026-05-28 |  |
+| **[SuperVoxelGPT: Adaptive and Ordered 3D Tokenization for Autoregressive Shape Generation](https://arxiv.org/abs/2605.29655v1)** | 2026-05-28 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HarmoVid: Relightful Video Portrait Harmonization](https://arxiv.org/abs/2605.28811v1)** | 2026-05-27 | CVPR 2026 |
-| **[Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation](https://arxiv.org/abs/2605.28812v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project site: https://mpan31415.github.io/tactile_rep/</p></details> |
-| **[Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization](https://arxiv.org/abs/2605.28810v1)** | 2026-05-27 |  |
-| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
-| **[Are We Truly Innovating? A Qualitative and Quantitative Study of Originality in AI Research Papers](https://arxiv.org/abs/2602.06054v3)** | 2026-05-27 |  |
-| **[Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval](https://arxiv.org/abs/2605.28787v1)** | 2026-05-27 |  |
-| **[Beyond Exchangeability: Distribution-Shift-Aware Integration of External Control Data in Randomized Trials](https://arxiv.org/abs/2605.28785v1)** | 2026-05-27 |  |
-| **[Sparse Scheduled Diffusion Guidance for Inverse Problems](https://arxiv.org/abs/2603.07860v2)** | 2026-05-27 |  |
+| **[GMOS: Grounding Moving Object Segmentation in 3D Space and Time](https://arxiv.org/abs/2605.30352v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project Page: https://www.robots.ox.ac.uk/vgg/research/gmos/</p></details> |
+| **[LLMSurgeon: Diagnosing Data Mixture of Large Language Models](https://arxiv.org/abs/2605.30348v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code at https://github.com/Yaxin9Luo/LLMSurgeon</p></details> |
+| **[NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347v1)** | 2026-05-28 | CVPR 2026 |
+| **[YoCausal: How Far is Video Generation from World Model? A Causality Perspective](https://arxiv.org/abs/2605.30346v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://www.youzhexie.me/papers/YoCausal/index.html</p></details> |
+| **[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](https://arxiv.org/abs/2605.30344v1)** | 2026-05-28 |  |
+| **[Benchmarking Single-Factor Physical Video-to-Audio Generation](https://arxiv.org/abs/2605.30339v1)** | 2026-05-28 | CVPR 2026 |
+| **[Fairness-Aware Federated Learning with Trajectory Shapley Value](https://arxiv.org/abs/2605.30336v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th European Control Conference (ECC 2026)</p></details> |
+| **[Demystifying Data Organization for Enhanced LLM Training](https://arxiv.org/abs/2605.30334v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
 
