@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,46 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLMSurgeon: Diagnosing Data Mixture of Large Language Models](https://arxiv.org/abs/2605.30348v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code at https://github.com/Yaxin9Luo/LLMSurgeon</p></details> |
-| **[NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347v1)** | 2026-05-28 | CVPR 2026 |
-| **[YoCausal: How Far is Video Generation from World Model? A Causality Perspective](https://arxiv.org/abs/2605.30346v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://www.youzhexie.me/papers/YoCausal/index.html</p></details> |
-| **[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](https://arxiv.org/abs/2605.30344v1)** | 2026-05-28 |  |
-| **[Benchmarking Single-Factor Physical Video-to-Audio Generation](https://arxiv.org/abs/2605.30339v1)** | 2026-05-28 | CVPR 2026 |
-| **[Fairness-Aware Federated Learning with Trajectory Shapley Value](https://arxiv.org/abs/2605.30336v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th European Control Conference (ECC 2026)</p></details> |
-| **[Demystifying Data Organization for Enhanced LLM Training](https://arxiv.org/abs/2605.30334v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
-| **[Colored Noise Diffusion Sampling](https://arxiv.org/abs/2605.30332v1)** | 2026-05-28 |  |
+| **[Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603v1)** | 2026-05-29 | <details><summary>Proje...</summary><p>Project page (https://jiazheng-xing.github.io/nexus-lumos-home/) and Code (https://github.com/alibaba-damo-academy/Lumos-Custom/) are available</p></details> |
+| **[Beyond Memorization: Assessing Semantic Generalization in Large Language Models Using Phrasal Constructions](https://arxiv.org/abs/2501.04661v3)** | 2026-05-29 | <details><summary>Camer...</summary><p>Camera Ready: AACL-IJCNLP (2025)</p></details> |
+| **[KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems](https://arxiv.org/abs/2605.31596v1)** | 2026-05-29 | CVPR 2026 |
+| **[Adaptive Node Feature Selection For Graph Neural Networks](https://arxiv.org/abs/2510.03096v3)** | 2026-05-29 |  |
+| **[Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction](https://arxiv.org/abs/2605.31595v1)** | 2026-05-29 | <details><summary>Proje...</summary><p>Project Page: see https://cvlab-kaist.github.io/C4G</p></details> |
+| **[Recognizing Co-Speech Gestures in-the-Wild](https://arxiv.org/abs/2605.31589v1)** | 2026-05-29 |  |
+| **[Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions](https://arxiv.org/abs/2605.31586v1)** | 2026-05-29 | <details><summary>Confe...</summary><p>Conference on Natural Language Learning (CoNLL) 2026</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLMSurgeon: Diagnosing Data Mixture of Large Language Models](https://arxiv.org/abs/2605.30348v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code at https://github.com/Yaxin9Luo/LLMSurgeon</p></details> |
-| **[NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347v1)** | 2026-05-28 | CVPR 2026 |
-| **[YoCausal: How Far is Video Generation from World Model? A Causality Perspective](https://arxiv.org/abs/2605.30346v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://www.youzhexie.me/papers/YoCausal/index.html</p></details> |
-| **[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](https://arxiv.org/abs/2605.30344v1)** | 2026-05-28 |  |
-| **[Benchmarking Single-Factor Physical Video-to-Audio Generation](https://arxiv.org/abs/2605.30339v1)** | 2026-05-28 | CVPR 2026 |
-| **[Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching](https://arxiv.org/abs/2605.30337v1)** | 2026-05-28 |  |
-| **[Fairness-Aware Federated Learning with Trajectory Shapley Value](https://arxiv.org/abs/2605.30336v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th European Control Conference (ECC 2026)</p></details> |
-| **[Demystifying Data Organization for Enhanced LLM Training](https://arxiv.org/abs/2605.30334v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
+| **[Beyond Memorization: Assessing Semantic Generalization in Large Language Models Using Phrasal Constructions](https://arxiv.org/abs/2501.04661v3)** | 2026-05-29 | <details><summary>Camer...</summary><p>Camera Ready: AACL-IJCNLP (2025)</p></details> |
+| **[KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems](https://arxiv.org/abs/2605.31596v1)** | 2026-05-29 | CVPR 2026 |
+| **[Adaptive Node Feature Selection For Graph Neural Networks](https://arxiv.org/abs/2510.03096v3)** | 2026-05-29 |  |
+| **[Recognizing Co-Speech Gestures in-the-Wild](https://arxiv.org/abs/2605.31589v1)** | 2026-05-29 |  |
+| **[Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling](https://arxiv.org/abs/2605.21470v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions](https://arxiv.org/abs/2605.31586v1)** | 2026-05-29 | <details><summary>Confe...</summary><p>Conference on Natural Language Learning (CoNLL) 2026</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes](https://arxiv.org/abs/2605.30318v1)** | 2026-05-28 |  |
-| **[VOGUE: A Multimodal Dataset for Conversational Recommendation in Fashion](https://arxiv.org/abs/2510.21151v2)** | 2026-05-28 |  |
-| **[AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.30140v1)** | 2026-05-28 |  |
-| **[CCS: Clinical Consensus Selection for Radiology Report Generation](https://arxiv.org/abs/2605.30131v1)** | 2026-05-28 | 17 pages, 6 figures |
-| **[Beyond Transcripts: A Renewed Perspective on Audio Chaptering](https://arxiv.org/abs/2602.08979v2)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted at ACL 2026 (Main Conference)</p></details> |
-| **[4DPC$^2$hat: Towards Dynamic Point Cloud Understanding with Failure-Aware Bootstrapping](https://arxiv.org/abs/2602.03890v2)** | 2026-05-28 |  |
-| **[OmniMatBench: A Human-Calibrated Multimodal Reasoning Benchmark Across 19 Materials Science Subfields](https://arxiv.org/abs/2605.29833v1)** | 2026-05-28 | 22 Pages |
-| **[Towards Localized and Disentangled Knowledge Editing for Multimodal Large Language Models](https://arxiv.org/abs/2605.29826v1)** | 2026-05-28 |  |
-| **[Beyond Chain-of-Thought: Rewrite as a Universal Interface for Generative Multimodal Embeddings](https://arxiv.org/abs/2604.22280v2)** | 2026-05-28 |  |
-| **[SuperVoxelGPT: Adaptive and Ordered 3D Tokenization for Autoregressive Shape Generation](https://arxiv.org/abs/2605.29655v1)** | 2026-05-28 |  |
+| **[EGOSTREAM: A Diagnostic Benchmark for Streaming Episodic Memory in Egocentric Vision](https://arxiv.org/abs/2605.31557v1)** | 2026-05-29 |  |
+| **[UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion](https://arxiv.org/abs/2605.31530v1)** | 2026-05-29 |  |
+| **[Learning to Adapt: Self-Improving Web Agent via Cognitive-Aware Exploration](https://arxiv.org/abs/2605.31365v1)** | 2026-05-29 | 24 pages |
+| **[ValueGround: Evaluating Culture-Conditioned Visual Value Grounding in MLLMs](https://arxiv.org/abs/2604.06484v3)** | 2026-05-29 | Updated preprint |
+| **[ERGeoBench:A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models](https://arxiv.org/abs/2605.31251v1)** | 2026-05-29 |  |
+| **[The Regularizing Power of Language-Training Deepfake Detectors](https://arxiv.org/abs/2605.31192v1)** | 2026-05-29 |  |
+| **[Detect in Any Scene: An Agentic Framework for Object Detection with Experience-Aware Reasoning](https://arxiv.org/abs/2605.31174v1)** | 2026-05-29 |  |
+| **[PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection](https://arxiv.org/abs/2502.12119v4)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 and selected for the Best Paper list; later desk-rejected due to an inadvertent manual bibliography-editing error. Previous versions are withdrawn due to an inadvertent manual bibliography-editing error; please refer to the latest corrected version</p></details> |
+| **[iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning](https://arxiv.org/abs/2605.31096v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[Task-Focused Memorization for Multimodal Agents](https://arxiv.org/abs/2605.31075v1)** | 2026-05-29 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GMOS: Grounding Moving Object Segmentation in 3D Space and Time](https://arxiv.org/abs/2605.30352v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project Page: https://www.robots.ox.ac.uk/vgg/research/gmos/</p></details> |
-| **[LLMSurgeon: Diagnosing Data Mixture of Large Language Models](https://arxiv.org/abs/2605.30348v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code at https://github.com/Yaxin9Luo/LLMSurgeon</p></details> |
-| **[NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347v1)** | 2026-05-28 | CVPR 2026 |
-| **[YoCausal: How Far is Video Generation from World Model? A Causality Perspective](https://arxiv.org/abs/2605.30346v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://www.youzhexie.me/papers/YoCausal/index.html</p></details> |
-| **[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection](https://arxiv.org/abs/2605.30344v1)** | 2026-05-28 |  |
-| **[Benchmarking Single-Factor Physical Video-to-Audio Generation](https://arxiv.org/abs/2605.30339v1)** | 2026-05-28 | CVPR 2026 |
-| **[Fairness-Aware Federated Learning with Trajectory Shapley Value](https://arxiv.org/abs/2605.30336v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted for publication at the 24th European Control Conference (ECC 2026)</p></details> |
-| **[Demystifying Data Organization for Enhanced LLM Training](https://arxiv.org/abs/2605.30334v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
+| **[Beyond Memorization: Assessing Semantic Generalization in Large Language Models Using Phrasal Constructions](https://arxiv.org/abs/2501.04661v3)** | 2026-05-29 | <details><summary>Camer...</summary><p>Camera Ready: AACL-IJCNLP (2025)</p></details> |
+| **[KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems](https://arxiv.org/abs/2605.31596v1)** | 2026-05-29 | CVPR 2026 |
+| **[Adaptive Node Feature Selection For Graph Neural Networks](https://arxiv.org/abs/2510.03096v3)** | 2026-05-29 |  |
+| **[TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation](https://arxiv.org/abs/2605.31590v1)** | 2026-05-29 | 17 pages, 13 figures |
+| **[Recognizing Co-Speech Gestures in-the-Wild](https://arxiv.org/abs/2605.31589v1)** | 2026-05-29 |  |
+| **[Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions](https://arxiv.org/abs/2605.31586v1)** | 2026-05-29 | <details><summary>Confe...</summary><p>Conference on Natural Language Learning (CoNLL) 2026</p></details> |
+| **[LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards](https://arxiv.org/abs/2605.31584v1)** | 2026-05-29 |  |
 
