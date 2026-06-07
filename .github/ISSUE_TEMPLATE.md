@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 05, 2026
+title: Latest 15 Papers - June 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,44 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations](https://arxiv.org/abs/2606.05165v1)** | 2026-06-03 | <details><summary>proje...</summary><p>project page: https://stride-tda.github.io/</p></details> |
-| **[Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety](https://arxiv.org/abs/2603.10044v2)** | 2026-06-03 | <details><summary>74 pa...</summary><p>74 pages including appendices. 6 frontier models, 62,808 primary observations (~89k total). Pre-registered: OSF DOI 10.17605/OSF.IO/CJW92. Code and data: https://github.com/davidgringras/safety-under-scaffolding</p></details> |
-| **[GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://arxiv.org/abs/2606.05160v1)** | 2026-06-03 | <details><summary>Proje...</summary><p>Project page: https://research.nvidia.com/labs/dair/grail/</p></details> |
-| **[X4Val: Learning Neural Surrogates for Variance-Reduced Policy Evaluation](https://arxiv.org/abs/2606.05159v1)** | 2026-06-03 |  |
-| **[Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)](https://arxiv.org/abs/2606.05145v1)** | 2026-06-03 |  |
-| **[HORIZON: Recoverability-Governed Curriculum for Physical-Domain Scaling](https://arxiv.org/abs/2606.05143v1)** | 2026-06-03 | 16 pages, 9 figures |
+| **[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/abs/2602.05843v2)** | 2026-06-04 | 34 pages |
+| **[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493v1)** | 2026-06-04 | 22 pages, 9 figures |
+| **[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491v1)** | 2026-06-04 |  |
+| **[ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows](https://arxiv.org/abs/2605.12376v2)** | 2026-06-04 |  |
+| **[Statistically and Computationally Optimal Estimation and Inference of Common Subspaces](https://arxiv.org/abs/2606.06483v1)** | 2026-06-04 |  |
+| **[Two-Sample Hypothesis Testing for Subspace Equality in Network Data](https://arxiv.org/abs/2606.06482v1)** | 2026-06-04 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations](https://arxiv.org/abs/2606.05165v1)** | 2026-06-03 | <details><summary>proje...</summary><p>project page: https://stride-tda.github.io/</p></details> |
-| **[Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety](https://arxiv.org/abs/2603.10044v2)** | 2026-06-03 | <details><summary>74 pa...</summary><p>74 pages including appendices. 6 frontier models, 62,808 primary observations (~89k total). Pre-registered: OSF DOI 10.17605/OSF.IO/CJW92. Code and data: https://github.com/davidgringras/safety-under-scaffolding</p></details> |
-| **[Controllable Dynamic 3D Shape Generation via 3D Trajectories and Text](https://arxiv.org/abs/2606.05162v1)** | 2026-06-03 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/T2Mo/</p></details> |
-| **[GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://arxiv.org/abs/2606.05160v1)** | 2026-06-03 | <details><summary>Proje...</summary><p>Project page: https://research.nvidia.com/labs/dair/grail/</p></details> |
-| **[X4Val: Learning Neural Surrogates for Variance-Reduced Policy Evaluation](https://arxiv.org/abs/2606.05159v1)** | 2026-06-03 |  |
-| **[Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization](https://arxiv.org/abs/2606.05150v1)** | 2026-06-03 | <details><summary>15 Pa...</summary><p>15 Page, Under Review</p></details> |
+| **[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/abs/2602.05843v2)** | 2026-06-04 | 34 pages |
+| **[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493v1)** | 2026-06-04 | 22 pages, 9 figures |
+| **[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491v1)** | 2026-06-04 |  |
+| **[ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows](https://arxiv.org/abs/2605.12376v2)** | 2026-06-04 |  |
+| **[Statistically and Computationally Optimal Estimation and Inference of Common Subspaces](https://arxiv.org/abs/2606.06483v1)** | 2026-06-04 |  |
+| **[Two-Sample Hypothesis Testing for Subspace Equality in Network Data](https://arxiv.org/abs/2606.06482v1)** | 2026-06-04 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniCAD: A Unified Benchmark and Universal Model for Multi-Modal Multi-Task CAD](https://arxiv.org/abs/2606.05058v1)** | 2026-06-03 |  |
-| **[BreastGPT: A Multimodal Large Language Model for the Full Spectrum of Breast Cancer Clinical Routine](https://arxiv.org/abs/2606.04911v1)** | 2026-06-03 |  |
-| **[Agent Planning Benchmark: A Diagnostic Framework for Planning Capabilities in LLM Agents](https://arxiv.org/abs/2606.04874v1)** | 2026-06-03 |  |
-| **[R3G: A Reasoning-Retrieval-Reranking Framework for Vision-Centric Answer Generation](https://arxiv.org/abs/2602.00104v3)** | 2026-06-03 |  |
-| **[Usability Analysis of Configurator User Interfaces with Multimodal Large Language Models](https://arxiv.org/abs/2605.29456v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted for publication at the International Conference on Software and Systems Reuse, Product Lines, and Configuration (VARIABILITY 2026)</p></details> |
-| **[MedForge: Interpretable Medical Deepfake Detection via Forgery-aware Reasoning](https://arxiv.org/abs/2603.18577v2)** | 2026-06-03 |  |
-| **[Med-Banana: Learning Quality-Controlled Medical Image Editing from Success-and-Failure Trajectories](https://arxiv.org/abs/2511.00801v4)** | 2026-06-03 |  |
-| **[Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](https://arxiv.org/abs/2605.24602v2)** | 2026-06-03 |  |
-| **[Are Tools Always Beneficial? Learning to Invoke Tools Adaptively for Dual-Mode Multimodal LLM Reasoning](https://arxiv.org/abs/2605.19852v2)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2606.02576v2)** | 2026-06-03 |  |
+| **[PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding](https://arxiv.org/abs/2606.06485v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://atrovast.github.io/PAR3D/</p></details> |
+| **[Benchmark Everything Everywhere All at Once](https://arxiv.org/abs/2606.06462v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://benchmarkagent.github.io/</p></details> |
+| **[Towards One-to-Many Temporal Grounding](https://arxiv.org/abs/2606.06294v1)** | 2026-06-04 | Accepted to ICML'26 |
+| **[SEDualVLN: A Spatially-Enhanced Dual-System for Vision-Language Navigation](https://arxiv.org/abs/2605.17249v2)** | 2026-06-04 |  |
+| **[DisasterBench: A Multimodal Benchmark for UAV-Based Disaster Response in Complex Environments](https://arxiv.org/abs/2606.06217v1)** | 2026-06-04 |  |
+| **[ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation](https://arxiv.org/abs/2601.12983v3)** | 2026-06-04 |  |
+| **[The Mirage of Performance Gains: Why Contrastive Decoding Fails to Mitigate Object Hallucinations in MLLMs?](https://arxiv.org/abs/2504.10020v4)** | 2026-06-04 |  |
+| **[LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing](https://arxiv.org/abs/2606.06042v1)** | 2026-06-04 |  |
+| **[Video-Rate Streaming Stylization on a Vision-Aware MLLM-Conditioned Edit Diffusion: Asymmetric Batched Inference on a Distilled UNet + MLLM Text Encoder](https://arxiv.org/abs/2606.05981v1)** | 2026-06-04 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 12 tables. Under review at IEEE Transactions on Circuits and Systems for Video Technology. Code, evaluation harness, and the released v3 Temporal LLLite adapter weights are at https://github.com/otanl/dreamlite-stream (also mirrored to Hugging Face and Zenodo)</p></details> |
+| **[Faithful, Enriched, and Precise: Benchmarking Natural-Science Illustration Generation by T2I models](https://arxiv.org/abs/2606.05949v1)** | 2026-06-04 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations](https://arxiv.org/abs/2606.05165v1)** | 2026-06-03 | <details><summary>proje...</summary><p>project page: https://stride-tda.github.io/</p></details> |
-| **[Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety](https://arxiv.org/abs/2603.10044v2)** | 2026-06-03 | <details><summary>74 pa...</summary><p>74 pages including appendices. 6 frontier models, 62,808 primary observations (~89k total). Pre-registered: OSF DOI 10.17605/OSF.IO/CJW92. Code and data: https://github.com/davidgringras/safety-under-scaffolding</p></details> |
-| **[GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](https://arxiv.org/abs/2606.05160v1)** | 2026-06-03 | <details><summary>Proje...</summary><p>Project page: https://research.nvidia.com/labs/dair/grail/</p></details> |
-| **[X4Val: Learning Neural Surrogates for Variance-Reduced Policy Evaluation](https://arxiv.org/abs/2606.05159v1)** | 2026-06-03 |  |
-| **[Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)](https://arxiv.org/abs/2606.05145v1)** | 2026-06-03 |  |
-| **[HORIZON: Recoverability-Governed Curriculum for Physical-Domain Scaling](https://arxiv.org/abs/2606.05143v1)** | 2026-06-03 | 16 pages, 9 figures |
+| **[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/abs/2602.05843v2)** | 2026-06-04 | 34 pages |
+| **[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493v1)** | 2026-06-04 | 22 pages, 9 figures |
+| **[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491v1)** | 2026-06-04 |  |
+| **[ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows](https://arxiv.org/abs/2605.12376v2)** | 2026-06-04 |  |
+| **[Statistically and Computationally Optimal Estimation and Inference of Common Subspaces](https://arxiv.org/abs/2606.06483v1)** | 2026-06-04 |  |
+| **[Two-Sample Hypothesis Testing for Subspace Equality in Network Data](https://arxiv.org/abs/2606.06482v1)** | 2026-06-04 |  |
 
