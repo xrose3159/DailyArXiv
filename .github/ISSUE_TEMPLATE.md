@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,44 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/abs/2602.05843v2)** | 2026-06-04 | 34 pages |
-| **[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493v1)** | 2026-06-04 | 22 pages, 9 figures |
-| **[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491v1)** | 2026-06-04 |  |
-| **[ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows](https://arxiv.org/abs/2605.12376v2)** | 2026-06-04 |  |
-| **[Statistically and Computationally Optimal Estimation and Inference of Common Subspaces](https://arxiv.org/abs/2606.06483v1)** | 2026-06-04 |  |
-| **[Two-Sample Hypothesis Testing for Subspace Equality in Network Data](https://arxiv.org/abs/2606.06482v1)** | 2026-06-04 |  |
+| **[UniSHARP: Universal Sharp Monocular View Synthesis](https://arxiv.org/abs/2606.07514v1)** | 2026-06-05 | <details><summary>Proje...</summary><p>Project page: https://insta360-research-team.github.io/Unisharp-website/</p></details> |
+| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
+| **[Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation](https://arxiv.org/abs/2606.07498v1)** | 2026-06-05 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 2 tables</p></details> |
+| **[Second-Order Path Kernel Interpolation Formulas in Machine Learning](https://arxiv.org/abs/2606.07495v1)** | 2026-06-05 |  |
+| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
+| **[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies](https://arxiv.org/abs/2606.07492v1)** | 2026-06-05 | KDD'26 |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/abs/2602.05843v2)** | 2026-06-04 | 34 pages |
-| **[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493v1)** | 2026-06-04 | 22 pages, 9 figures |
-| **[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491v1)** | 2026-06-04 |  |
-| **[ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows](https://arxiv.org/abs/2605.12376v2)** | 2026-06-04 |  |
-| **[Statistically and Computationally Optimal Estimation and Inference of Common Subspaces](https://arxiv.org/abs/2606.06483v1)** | 2026-06-04 |  |
-| **[Two-Sample Hypothesis Testing for Subspace Equality in Network Data](https://arxiv.org/abs/2606.06482v1)** | 2026-06-04 |  |
+| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
+| **[Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation](https://arxiv.org/abs/2606.07506v1)** | 2026-06-05 | <details><summary>This ...</summary><p>This paper is submitted to Wiley Journal of Field Robotics</p></details> |
+| **[Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation](https://arxiv.org/abs/2606.07498v1)** | 2026-06-05 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 2 tables</p></details> |
+| **[Second-Order Path Kernel Interpolation Formulas in Machine Learning](https://arxiv.org/abs/2606.07495v1)** | 2026-06-05 |  |
+| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
+| **[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies](https://arxiv.org/abs/2606.07492v1)** | 2026-06-05 | KDD'26 |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding](https://arxiv.org/abs/2606.06485v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://atrovast.github.io/PAR3D/</p></details> |
-| **[Benchmark Everything Everywhere All at Once](https://arxiv.org/abs/2606.06462v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://benchmarkagent.github.io/</p></details> |
-| **[Towards One-to-Many Temporal Grounding](https://arxiv.org/abs/2606.06294v1)** | 2026-06-04 | Accepted to ICML'26 |
-| **[SEDualVLN: A Spatially-Enhanced Dual-System for Vision-Language Navigation](https://arxiv.org/abs/2605.17249v2)** | 2026-06-04 |  |
-| **[DisasterBench: A Multimodal Benchmark for UAV-Based Disaster Response in Complex Environments](https://arxiv.org/abs/2606.06217v1)** | 2026-06-04 |  |
-| **[ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation](https://arxiv.org/abs/2601.12983v3)** | 2026-06-04 |  |
-| **[The Mirage of Performance Gains: Why Contrastive Decoding Fails to Mitigate Object Hallucinations in MLLMs?](https://arxiv.org/abs/2504.10020v4)** | 2026-06-04 |  |
-| **[LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing](https://arxiv.org/abs/2606.06042v1)** | 2026-06-04 |  |
-| **[Video-Rate Streaming Stylization on a Vision-Aware MLLM-Conditioned Edit Diffusion: Asymmetric Batched Inference on a Distilled UNet + MLLM Text Encoder](https://arxiv.org/abs/2606.05981v1)** | 2026-06-04 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 12 tables. Under review at IEEE Transactions on Circuits and Systems for Video Technology. Code, evaluation harness, and the released v3 Temporal LLLite adapter weights are at https://github.com/otanl/dreamlite-stream (also mirrored to Hugging Face and Zenodo)</p></details> |
-| **[Faithful, Enriched, and Precise: Benchmarking Natural-Science Illustration Generation by T2I models](https://arxiv.org/abs/2606.05949v1)** | 2026-06-04 |  |
+| **[Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning](https://arxiv.org/abs/2606.07436v1)** | 2026-06-05 |  |
+| **[Watch, Remember, Reason: Human-View Video Understanding with MLLMs](https://arxiv.org/abs/2606.07433v1)** | 2026-06-05 |  |
+| **[M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions](https://arxiv.org/abs/2606.07402v1)** | 2026-06-05 |  |
+| **[MACS: Modality-Aware Capacity Scaling for Efficient Multimodal MoE Inference](https://arxiv.org/abs/2605.05225v3)** | 2026-06-05 | Accepted by ACL 2026 |
+| **[Seeing Without Exposing: Adaptive Privacy Control for Open-World, Context-Hungry MLLMs](https://arxiv.org/abs/2606.07175v1)** | 2026-06-05 |  |
+| **[When Recovery Matters: The Blind Spot of Surrogate Privacy in MLLM Editing](https://arxiv.org/abs/2606.07171v1)** | 2026-06-05 |  |
+| **[EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks](https://arxiv.org/abs/2505.14289v2)** | 2026-06-05 | Accepted by |
+| **[Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets](https://arxiv.org/abs/2606.07032v1)** | 2026-06-05 |  |
+| **[BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/abs/2605.25451v2)** | 2026-06-05 |  |
+| **[Faithful, Enriched, and Precise: Benchmarking Natural-Science Illustration Generation by T2I models](https://arxiv.org/abs/2606.05949v2)** | 2026-06-05 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/abs/2602.05843v2)** | 2026-06-04 | 34 pages |
-| **[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493v1)** | 2026-06-04 | 22 pages, 9 figures |
-| **[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491v1)** | 2026-06-04 |  |
-| **[ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows](https://arxiv.org/abs/2605.12376v2)** | 2026-06-04 |  |
-| **[Statistically and Computationally Optimal Estimation and Inference of Common Subspaces](https://arxiv.org/abs/2606.06483v1)** | 2026-06-04 |  |
-| **[Two-Sample Hypothesis Testing for Subspace Equality in Network Data](https://arxiv.org/abs/2606.06482v1)** | 2026-06-04 |  |
+| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
+| **[Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation](https://arxiv.org/abs/2606.07498v1)** | 2026-06-05 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 2 tables</p></details> |
+| **[Second-Order Path Kernel Interpolation Formulas in Machine Learning](https://arxiv.org/abs/2606.07495v1)** | 2026-06-05 |  |
+| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
+| **[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies](https://arxiv.org/abs/2606.07492v1)** | 2026-06-05 | KDD'26 |
+| **[Twelve quick tips for designing AI-driven HPC workflows](https://arxiv.org/abs/2606.07491v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 1 figure. Formatted using the bioRxiv LaTeX preprint style</p></details> |
 
