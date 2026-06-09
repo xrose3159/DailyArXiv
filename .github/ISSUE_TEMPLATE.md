@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,41 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UniSHARP: Universal Sharp Monocular View Synthesis](https://arxiv.org/abs/2606.07514v1)** | 2026-06-05 | <details><summary>Proje...</summary><p>Project page: https://insta360-research-team.github.io/Unisharp-website/</p></details> |
-| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
-| **[Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation](https://arxiv.org/abs/2606.07498v1)** | 2026-06-05 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 2 tables</p></details> |
-| **[Second-Order Path Kernel Interpolation Formulas in Machine Learning](https://arxiv.org/abs/2606.07495v1)** | 2026-06-05 |  |
-| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
-| **[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies](https://arxiv.org/abs/2606.07492v1)** | 2026-06-05 | KDD'26 |
+| **[Causally Evaluating the Learnability of Formal Language Tasks](https://arxiv.org/abs/2606.09822v1)** | 2026-06-08 |  |
+| **[PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws](https://arxiv.org/abs/2606.09816v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](https://arxiv.org/abs/2606.09811v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://serene-sivy.github.io/aha-wam/</p></details> |
+| **[Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809v1)** | 2026-06-08 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
-| **[Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation](https://arxiv.org/abs/2606.07506v1)** | 2026-06-05 | <details><summary>This ...</summary><p>This paper is submitted to Wiley Journal of Field Robotics</p></details> |
-| **[Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation](https://arxiv.org/abs/2606.07498v1)** | 2026-06-05 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 2 tables</p></details> |
-| **[Second-Order Path Kernel Interpolation Formulas in Machine Learning](https://arxiv.org/abs/2606.07495v1)** | 2026-06-05 |  |
-| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
-| **[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies](https://arxiv.org/abs/2606.07492v1)** | 2026-06-05 | KDD'26 |
+| **[Causally Evaluating the Learnability of Formal Language Tasks](https://arxiv.org/abs/2606.09822v1)** | 2026-06-08 |  |
+| **[PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws](https://arxiv.org/abs/2606.09816v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](https://arxiv.org/abs/2606.09811v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://serene-sivy.github.io/aha-wam/</p></details> |
+| **[Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809v1)** | 2026-06-08 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning](https://arxiv.org/abs/2606.07436v1)** | 2026-06-05 |  |
-| **[Watch, Remember, Reason: Human-View Video Understanding with MLLMs](https://arxiv.org/abs/2606.07433v1)** | 2026-06-05 |  |
-| **[M$^3$Exam: Benchmarking Multimodal Memory for Realistic User-Agent Interactions](https://arxiv.org/abs/2606.07402v1)** | 2026-06-05 |  |
-| **[MACS: Modality-Aware Capacity Scaling for Efficient Multimodal MoE Inference](https://arxiv.org/abs/2605.05225v3)** | 2026-06-05 | Accepted by ACL 2026 |
-| **[Seeing Without Exposing: Adaptive Privacy Control for Open-World, Context-Hungry MLLMs](https://arxiv.org/abs/2606.07175v1)** | 2026-06-05 |  |
-| **[When Recovery Matters: The Blind Spot of Surrogate Privacy in MLLM Editing](https://arxiv.org/abs/2606.07171v1)** | 2026-06-05 |  |
-| **[EVA: Evolving Semantic Adversaries for Red-Teaming GUI Agents Against Environmental Injection Attacks](https://arxiv.org/abs/2505.14289v2)** | 2026-06-05 | Accepted by |
-| **[Never Seen Before: Benchmarking Genuine Zero-Shot Composed Image Retrieval with Consistent Video-Sourced Datasets](https://arxiv.org/abs/2606.07032v1)** | 2026-06-05 |  |
-| **[BigMac: Breaking the Pareto Frontier of Compute and Memory in Multimodal LLM Training](https://arxiv.org/abs/2605.25451v2)** | 2026-06-05 |  |
-| **[Faithful, Enriched, and Precise: Benchmarking Natural-Science Illustration Generation by T2I models](https://arxiv.org/abs/2606.05949v2)** | 2026-06-05 |  |
+| **[POTATR: A Lightweight Image-to-Graph Model for Page-Level Table Extraction](https://arxiv.org/abs/2606.09788v1)** | 2026-06-08 | <details><summary>16 pa...</summary><p>16 pages, split from PubTables-v2 paper</p></details> |
+| **[SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](https://arxiv.org/abs/2606.09669v1)** | 2026-06-08 |  |
+| **[Where Does the Answer Come From? Benchmarking View-Level Visual Evidence Identification in Multi-View MLLMs for Autonomous Driving](https://arxiv.org/abs/2606.09644v1)** | 2026-06-08 |  |
+| **[Hummus: A Dataset of Humorous Multimodal Metaphor Use](https://arxiv.org/abs/2504.02983v3)** | 2026-06-08 |  |
+| **[Optical Reasoning: Rethinking Images as an Expressive Reasoning Medium Beyond Text](https://arxiv.org/abs/2606.09585v1)** | 2026-06-08 |  |
+| **[ACTIVE-o3: Empowering MLLMs with Active Perception via Pure Reinforcement Learning](https://arxiv.org/abs/2505.21457v2)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Project page: https://aim-uofa.github.io/ACTIVE-o3</p></details> |
+| **[AgroOmni: A Large-Scale Multi-view Agricultural Dataset for Cross-Scale Multimodal Reasoning](https://arxiv.org/abs/2603.14342v2)** | 2026-06-08 |  |
+| **[Efficient Scaling of LLM Training with Flexible Context Parallelism](https://arxiv.org/abs/2602.21788v2)** | 2026-06-08 |  |
+| **[Reason Twice: Segmentation via Candidate Discovery and Comparative Reasoning](https://arxiv.org/abs/2606.09303v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://snowball521.github.io/Rea2Seg-Project/</p></details> |
+| **[Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning](https://arxiv.org/abs/2606.09290v1)** | 2026-06-08 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
-| **[Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation](https://arxiv.org/abs/2606.07498v1)** | 2026-06-05 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 2 tables</p></details> |
-| **[Second-Order Path Kernel Interpolation Formulas in Machine Learning](https://arxiv.org/abs/2606.07495v1)** | 2026-06-05 |  |
-| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
-| **[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies](https://arxiv.org/abs/2606.07492v1)** | 2026-06-05 | KDD'26 |
-| **[Twelve quick tips for designing AI-driven HPC workflows](https://arxiv.org/abs/2606.07491v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 1 figure. Formatted using the bioRxiv LaTeX preprint style</p></details> |
+| **[Causally Evaluating the Learnability of Formal Language Tasks](https://arxiv.org/abs/2606.09822v1)** | 2026-06-08 |  |
+| **[PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws](https://arxiv.org/abs/2606.09816v1)** | 2026-06-08 |  |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](https://arxiv.org/abs/2606.09811v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://serene-sivy.github.io/aha-wam/</p></details> |
+| **[Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809v1)** | 2026-06-08 |  |
 
