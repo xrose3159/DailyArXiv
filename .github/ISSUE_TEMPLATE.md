@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2026
+title: Latest 15 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,52 +7,47 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v1)** | 2026-06-09 |  |
-| **[Going with the Flow: Koopman Behavioral Models as Pseudo Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v3)** | 2026-06-09 | <details><summary>Websi...</summary><p>Website: https://k-ubm.github.io/</p></details> |
-| **[Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809v2)** | 2026-06-09 |  |
-| **[Nonparametric Riemannian Empirical Bayes, and Denoising Measurements on Manifolds](https://arxiv.org/abs/2606.11183v1)** | 2026-06-09 | <details><summary>56 pa...</summary><p>56 pages, 11 figures. Abstract shortened to meet arXiv requirements. Comments welcome!</p></details> |
-| **[EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](https://arxiv.org/abs/2606.11182v1)** | 2026-06-09 | 19 pages, 6 figures |
-| **[Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://arxiv.org/abs/2606.11176v1)** | 2026-06-09 | <details><summary>Proje...</summary><p>Project page: https://data2story.github.io Github: https://github.com/QinghongLin/data2story-skill</p></details> |
-| **[Anchors that Don't Lift: Understanding Supply Chain Driven Kernel Lock-In and Governance-Mediated Mitigation Strategies in SOHO Devices](https://arxiv.org/abs/2606.11175v1)** | 2026-06-09 | <details><summary>This ...</summary><p>This extended version of our USENIX Security '26 paper on supply chain analysis of SOHO devices includes appendices for interested readers</p></details> |
-| **[Piper: A Programmable Distributed Training System](https://arxiv.org/abs/2606.11169v1)** | 2026-06-09 |  |
-| **[Flaws in the LLM Automation Narrative](https://arxiv.org/abs/2606.11166v1)** | 2026-06-09 |  |
+| **[FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning](https://arxiv.org/abs/2606.12406v1)** | 2026-06-10 | <details><summary>Websi...</summary><p>Website at https://jasonjzliu.com/factr2</p></details> |
+| **[Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects](https://arxiv.org/abs/2606.10212v2)** | 2026-06-10 | 31 pages, 16 figures |
+| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
+| **[TAHOE: Text-to-SQL with Automated Hint Optimization from Experience](https://arxiv.org/abs/2606.12387v1)** | 2026-06-10 |  |
+| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
+| **[Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs](https://arxiv.org/abs/2606.12385v1)** | 2026-06-10 |  |
+| **[Neyman-Pearson and equal opportunity: when efficiency meets fairness in classification](https://arxiv.org/abs/2310.01009v3)** | 2026-06-10 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v1)** | 2026-06-09 |  |
-| **[Going with the Flow: Koopman Behavioral Models as Pseudo Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v3)** | 2026-06-09 | <details><summary>Websi...</summary><p>Website: https://k-ubm.github.io/</p></details> |
-| **[Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809v2)** | 2026-06-09 |  |
-| **[Nonparametric Riemannian Empirical Bayes, and Denoising Measurements on Manifolds](https://arxiv.org/abs/2606.11183v1)** | 2026-06-09 | <details><summary>56 pa...</summary><p>56 pages, 11 figures. Abstract shortened to meet arXiv requirements. Comments welcome!</p></details> |
-| **[EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](https://arxiv.org/abs/2606.11182v1)** | 2026-06-09 | 19 pages, 6 figures |
-| **[Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://arxiv.org/abs/2606.11176v1)** | 2026-06-09 | <details><summary>Proje...</summary><p>Project page: https://data2story.github.io Github: https://github.com/QinghongLin/data2story-skill</p></details> |
-| **[Anchors that Don't Lift: Understanding Supply Chain Driven Kernel Lock-In and Governance-Mediated Mitigation Strategies in SOHO Devices](https://arxiv.org/abs/2606.11175v1)** | 2026-06-09 | <details><summary>This ...</summary><p>This extended version of our USENIX Security '26 paper on supply chain analysis of SOHO devices includes appendices for interested readers</p></details> |
-| **[V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions](https://arxiv.org/abs/2512.11995v2)** | 2026-06-09 | 28 pages |
+| **[Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](https://arxiv.org/abs/2606.12412v1)** | 2026-06-10 | <details><summary>Code:...</summary><p>Code: https://github.com/elmma/mllm-reroute/</p></details> |
+| **[FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning](https://arxiv.org/abs/2606.12406v1)** | 2026-06-10 | <details><summary>Websi...</summary><p>Website at https://jasonjzliu.com/factr2</p></details> |
+| **[DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](https://arxiv.org/abs/2606.12402v1)** | 2026-06-10 |  |
+| **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/abs/2606.12400v1)** | 2026-06-10 | 20 pages |
+| **[Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects](https://arxiv.org/abs/2606.10212v2)** | 2026-06-10 | 31 pages, 16 figures |
+| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
+| **[TAHOE: Text-to-SQL with Automated Hint Optimization from Experience](https://arxiv.org/abs/2606.12387v1)** | 2026-06-10 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning](https://arxiv.org/abs/2606.11152v1)** | 2026-06-09 | <details><summary>Proje...</summary><p>Project page: https://lucasqaq.github.io/p3d/</p></details> |
-| **[WorldOlympiad: Can Your World Model Survive a Triathlon?](https://arxiv.org/abs/2606.11129v1)** | 2026-06-09 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/WorldOlympiad/, Code: https://github.com/alibaba-damo-academy/WorldOlympiad</p></details> |
-| **[Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074v1)** | 2026-06-09 |  |
-| **[Comparative Analysis of Inference-Time Defense Methods for Multimodal Large Language Models](https://arxiv.org/abs/2606.10904v1)** | 2026-06-09 |  |
-| **[Let ViT Speak: Generative Language-Image Pre-training](https://arxiv.org/abs/2605.00809v2)** | 2026-06-09 | <details><summary>27 pa...</summary><p>27 pages, 11 figures. Code and models are available at https://github.com/YanFangCS/GenLIP</p></details> |
-| **[Earth-OneVision: Extending Remote Sensing Multimodal Large Language Models to More Sensor Modalities and Tasks](https://arxiv.org/abs/2606.10819v1)** | 2026-06-09 |  |
-| **[Beyond APIs: Probing the Limits of MLLMs in Physical Tool Use](https://arxiv.org/abs/2606.10803v1)** | 2026-06-09 |  |
-| **[miniReranker: Efficient Multimodal Reranking through Visual Cache Reuse and Interaction Sparsity](https://arxiv.org/abs/2606.10759v1)** | 2026-06-09 |  |
-| **[CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence](https://arxiv.org/abs/2606.10401v1)** | 2026-06-09 |  |
-| **[Revisiting Greedy Decoding for Visual Question Answering: A Calibration Perspective](https://arxiv.org/abs/2604.23443v2)** | 2026-06-09 |  |
+| **[Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](https://arxiv.org/abs/2606.12412v1)** | 2026-06-10 | <details><summary>Code:...</summary><p>Code: https://github.com/elmma/mllm-reroute/</p></details> |
+| **[Bridging the Modality Gap in Forensic Image Retrieval](https://arxiv.org/abs/2606.12294v1)** | 2026-06-10 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, paper submitted to Elsevier journal</p></details> |
+| **[P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning](https://arxiv.org/abs/2606.11152v2)** | 2026-06-10 | <details><summary>Proje...</summary><p>Project page: https://spatiaos.github.io/projects/P3D-Bench</p></details> |
+| **[ChartFI: Benchmarking Faithfulness and Insightfulness of Chart Descriptions from Multimodal Large Language Models](https://arxiv.org/abs/2605.23694v2)** | 2026-06-10 |  |
+| **[Q-Fold: Query-Aware Focus-Context Spatio-Temporal Folding for Long Video Understanding](https://arxiv.org/abs/2606.12125v1)** | 2026-06-10 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 8 tables. Code will be made publicly available</p></details> |
+| **[MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](https://arxiv.org/abs/2602.02465v2)** | 2026-06-10 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, Accepted at ICML 2026</p></details> |
+| **[MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning](https://arxiv.org/abs/2606.12018v1)** | 2026-06-10 |  |
+| **[ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](https://arxiv.org/abs/2605.15687v2)** | 2026-06-10 |  |
+| **[CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence](https://arxiv.org/abs/2606.10401v2)** | 2026-06-10 |  |
+| **[Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training](https://arxiv.org/abs/2606.11854v1)** | 2026-06-10 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](https://arxiv.org/abs/2606.11190v1)** | 2026-06-09 |  |
-| **[Going with the Flow: Koopman Behavioral Models as Pseudo Planners for Visuo-Motor Dexterity](https://arxiv.org/abs/2602.07413v3)** | 2026-06-09 | <details><summary>Websi...</summary><p>Website: https://k-ubm.github.io/</p></details> |
-| **[Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](https://arxiv.org/abs/2606.09809v2)** | 2026-06-09 |  |
-| **[Nonparametric Riemannian Empirical Bayes, and Denoising Measurements on Manifolds](https://arxiv.org/abs/2606.11183v1)** | 2026-06-09 | <details><summary>56 pa...</summary><p>56 pages, 11 figures. Abstract shortened to meet arXiv requirements. Comments welcome!</p></details> |
-| **[EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](https://arxiv.org/abs/2606.11182v1)** | 2026-06-09 | 19 pages, 6 figures |
-| **[Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories](https://arxiv.org/abs/2606.11176v1)** | 2026-06-09 | <details><summary>Proje...</summary><p>Project page: https://data2story.github.io Github: https://github.com/QinghongLin/data2story-skill</p></details> |
-| **[Anchors that Don't Lift: Understanding Supply Chain Driven Kernel Lock-In and Governance-Mediated Mitigation Strategies in SOHO Devices](https://arxiv.org/abs/2606.11175v1)** | 2026-06-09 | <details><summary>This ...</summary><p>This extended version of our USENIX Security '26 paper on supply chain analysis of SOHO devices includes appendices for interested readers</p></details> |
-| **[V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions](https://arxiv.org/abs/2512.11995v2)** | 2026-06-09 | 28 pages |
-| **[Piper: A Programmable Distributed Training System](https://arxiv.org/abs/2606.11169v1)** | 2026-06-09 |  |
+| **[FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning](https://arxiv.org/abs/2606.12406v1)** | 2026-06-10 | <details><summary>Websi...</summary><p>Website at https://jasonjzliu.com/factr2</p></details> |
+| **[Intrinsic Riemannian Cross-covariance for Manifold-valued Random Objects](https://arxiv.org/abs/2606.10212v2)** | 2026-06-10 | 31 pages, 16 figures |
+| **[System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5](https://arxiv.org/abs/2606.12392v1)** | 2026-06-10 |  |
+| **[TAHOE: Text-to-SQL with Automated Hint Optimization from Experience](https://arxiv.org/abs/2606.12387v1)** | 2026-06-10 |  |
+| **[ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386v1)** | 2026-06-10 |  |
+| **[Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs](https://arxiv.org/abs/2606.12385v1)** | 2026-06-10 |  |
+| **[Neyman-Pearson and equal opportunity: when efficiency meets fairness in classification](https://arxiv.org/abs/2310.01009v3)** | 2026-06-10 |  |
 
