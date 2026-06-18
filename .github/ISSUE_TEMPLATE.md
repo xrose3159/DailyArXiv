@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2026
+title: Latest 15 Papers - June 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,45 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion](https://arxiv.org/abs/2606.18250v1)** | 2026-06-16 | <details><summary>ICML ...</summary><p>ICML 2026. Project page: https://fr3d-wm.github.io</p></details> |
-| **[Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247v1)** | 2026-06-16 | <details><summary>Websi...</summary><p>Website: https://veritas-improvement.github.io</p></details> |
-| **[MOCHI: Motion Enhancement of Collaborative Human-object Interactions](https://arxiv.org/abs/2606.18243v1)** | 2026-06-16 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026 Journal (ACM TOG); Project page: https://jiyewise.github.io/projects/MOCHI/</p></details> |
-| **[ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237v1)** | 2026-06-16 |  |
-| **[MAJIC: Leveraging Articulatory Motion for Speech-based Emotion Recognition](https://arxiv.org/abs/2606.18228v1)** | 2026-06-16 |  |
+| **[Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Code and models: https://github.com/harryhsing/omniagent</p></details> |
+| **[Do as I Do: Dexterous Manipulation Data from Everyday Human Videos](https://arxiv.org/abs/2606.19333v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project website: https://do-as-i-do.com/</p></details> |
+| **[On Data Thinning for Model Validation in Small Area Estimation](https://arxiv.org/abs/2604.04141v3)** | 2026-06-17 |  |
+| **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
+| **[UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning](https://arxiv.org/abs/2606.19328v1)** | 2026-06-17 |  |
+| **[Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors](https://arxiv.org/abs/2606.19325v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project page at https://finmickey.github.io/scena/</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247v1)** | 2026-06-16 | <details><summary>Websi...</summary><p>Website: https://veritas-improvement.github.io</p></details> |
-| **[MOCHI: Motion Enhancement of Collaborative Human-object Interactions](https://arxiv.org/abs/2606.18243v1)** | 2026-06-16 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026 Journal (ACM TOG); Project page: https://jiyewise.github.io/projects/MOCHI/</p></details> |
-| **[ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237v1)** | 2026-06-16 |  |
-| **[EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](https://arxiv.org/abs/2606.18235v1)** | 2026-06-16 |  |
-| **[MAJIC: Leveraging Articulatory Motion for Speech-based Emotion Recognition](https://arxiv.org/abs/2606.18228v1)** | 2026-06-16 |  |
+| **[Native Active Perception as Reasoning for Omni-Modal Understanding](https://arxiv.org/abs/2606.19341v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Code and models: https://github.com/harryhsing/omniagent</p></details> |
+| **[Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games](https://arxiv.org/abs/2606.19338v1)** | 2026-06-17 |  |
+| **[Do as I Do: Dexterous Manipulation Data from Everyday Human Videos](https://arxiv.org/abs/2606.19333v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project website: https://do-as-i-do.com/</p></details> |
+| **[On Data Thinning for Model Validation in Small Area Estimation](https://arxiv.org/abs/2604.04141v3)** | 2026-06-17 |  |
+| **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
+| **[UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning](https://arxiv.org/abs/2606.19328v1)** | 2026-06-17 |  |
+| **[Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors](https://arxiv.org/abs/2606.19325v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project page at https://finmickey.github.io/scena/</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation](https://arxiv.org/abs/2606.17030v2)** | 2026-06-16 |  |
-| **[A Benchmark for Omni-Modal Reasoning in Long Videos](https://arxiv.org/abs/2512.16978v2)** | 2026-06-16 |  |
-| **[MLLMs Get It Right, Then Get It Wrong: Tracing and Correcting Late-Layer Textual Bias](https://arxiv.org/abs/2606.17953v1)** | 2026-06-16 | <details><summary>Accep...</summary><p>Accepted at IJCAI 2026. 16 pages, 10 figures</p></details> |
-| **[Last But Not Least: Boundary Attention CalibratiON for Multimodal KV Cache Compression](https://arxiv.org/abs/2606.14782v2)** | 2026-06-16 |  |
-| **[See First, Answer Later: Visual Evidence Pre-Alignment via Sufficiency-Driven RL](https://arxiv.org/abs/2606.17678v1)** | 2026-06-16 |  |
-| **[IndustryBench-MIPU: Benchmarking Multi-Image Attribute Value Extraction for Industrial Products](https://arxiv.org/abs/2606.14383v2)** | 2026-06-16 |  |
-| **[miniReranker: Efficient Multimodal Reranking through Visual Cache Reuse and Interaction Sparsity](https://arxiv.org/abs/2606.10759v2)** | 2026-06-16 |  |
-| **[BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM](https://arxiv.org/abs/2507.14632v4)** | 2026-06-15 |  |
-| **[BusterX: MLLM-Powered AI-Generated Video Forgery Detection and Explanation](https://arxiv.org/abs/2505.12620v8)** | 2026-06-15 |  |
-| **[R1-SyntheticVL: Is Synthetic Data from Generative Models Ready for Multimodal Large Language Model?](https://arxiv.org/abs/2602.03300v2)** | 2026-06-15 | <details><summary>ICML ...</summary><p>ICML 2026 Camera Ready</p></details> |
+| **[Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games](https://arxiv.org/abs/2606.19338v1)** | 2026-06-17 |  |
+| **[Seeing Before Reasoning: Decoupling Perception and Reasoning for Shortcut-Resilient Multimodal On-Policy Self-Distillation](https://arxiv.org/abs/2606.19120v1)** | 2026-06-17 | <details><summary>29 pa...</summary><p>29 pages, 5 figures, 8 tables</p></details> |
+| **[ProductConsistency: Improving Product Identity Preservation in Instruction-Based Image Editing via SFT and RL](https://arxiv.org/abs/2606.19103v1)** | 2026-06-17 | CVPR HiGen 2026 |
+| **[Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation](https://arxiv.org/abs/2606.17030v3)** | 2026-06-17 |  |
+| **[Improving Visual Token Reduction via Rectifying Distortions for Efficient Multimodal LLM Inference](https://arxiv.org/abs/2606.01711v2)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[ThinkDeception: A Progressive Reinforcement Learning Framework for Interpretable Multimodal Deception Detection](https://arxiv.org/abs/2606.18988v1)** | 2026-06-17 | 10pages,4figures |
+| **[FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs](https://arxiv.org/abs/2601.13836v2)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs](https://arxiv.org/abs/2602.08355v4)** | 2026-06-17 | Accepted by ICML2026 |
+| **[SAMA: Semantic Anchor-aligned Augmentation for Unified Low-Resource Multimodal Information Extraction](https://arxiv.org/abs/2606.18780v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Multimedia</p></details> |
+| **[Image Prompt Reconstruction Attacks on Distributed MLLM Inference Frameworks](https://arxiv.org/abs/2606.18710v1)** | 2026-06-17 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247v1)** | 2026-06-16 | <details><summary>Websi...</summary><p>Website: https://veritas-improvement.github.io</p></details> |
-| **[MOCHI: Motion Enhancement of Collaborative Human-object Interactions](https://arxiv.org/abs/2606.18243v1)** | 2026-06-16 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026 Journal (ACM TOG); Project page: https://jiyewise.github.io/projects/MOCHI/</p></details> |
-| **[ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237v1)** | 2026-06-16 |  |
-| **[MAJIC: Leveraging Articulatory Motion for Speech-based Emotion Recognition](https://arxiv.org/abs/2606.18228v1)** | 2026-06-16 |  |
+| **[Do as I Do: Dexterous Manipulation Data from Everyday Human Videos](https://arxiv.org/abs/2606.19333v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project website: https://do-as-i-do.com/</p></details> |
+| **[On Data Thinning for Model Validation in Small Area Estimation](https://arxiv.org/abs/2604.04141v3)** | 2026-06-17 |  |
+| **[The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning](https://arxiv.org/abs/2606.19329v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted to The Astrophysical Journal. Website: https://www.samuelperezdi.com/chandragaia/</p></details> |
+| **[UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning](https://arxiv.org/abs/2606.19328v1)** | 2026-06-17 |  |
+| **[Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors](https://arxiv.org/abs/2606.19325v1)** | 2026-06-17 | <details><summary>Proje...</summary><p>Project page at https://finmickey.github.io/scena/</p></details> |
+| **[Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents](https://arxiv.org/abs/2606.19319v1)** | 2026-06-17 |  |
 
