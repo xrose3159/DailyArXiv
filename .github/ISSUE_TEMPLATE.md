@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,46 +7,53 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising](https://arxiv.org/abs/2606.20563v1)** | 2026-06-18 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page: https://siang1105.github.io/JanusMesh.github.io/</p></details> |
-| **[From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning](https://arxiv.org/abs/2606.20553v1)** | 2026-06-18 |  |
-| **[Generating Robot Hands from Human Demonstrations](https://arxiv.org/abs/2606.20549v1)** | 2026-06-18 |  |
-| **[Predictability as a Fine-Grained Measure for Privacy](https://arxiv.org/abs/2606.20546v1)** | 2026-06-18 |  |
-| **[Toward Calibrated Mixture-of-Experts Under Distribution Shift](https://arxiv.org/abs/2606.20544v1)** | 2026-06-18 |  |
-| **[CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation](https://arxiv.org/abs/2606.20542v1)** | 2026-06-18 |  |
-| **[Multi-Task Bayesian In-Context Learning](https://arxiv.org/abs/2606.20538v1)** | 2026-06-18 | ICML 2026 |
+| **[AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection](https://arxiv.org/abs/2606.23689v1)** | 2026-06-22 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Includes supplementary material</p></details> |
+| **[Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://arxiv.org/abs/2606.23688v1)** | 2026-06-22 | <details><summary>Webpa...</summary><p>Webpage, Demos: https://lift4d.github.io</p></details> |
+| **[Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687v1)** | 2026-06-22 |  |
+| **[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](https://arxiv.org/abs/2606.23686v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, Project Page: https://libero-safety.github.io/</p></details> |
+| **[LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation](https://arxiv.org/abs/2606.23685v1)** | 2026-06-22 |  |
+| **[Spherical Mixture Integration for Latent Embedding Alignment across Multi-Source Feature Spaces](https://arxiv.org/abs/2605.08637v2)** | 2026-06-22 |  |
+| **[Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping](https://arxiv.org/abs/2606.23682v1)** | 2026-06-22 | <details><summary>Proje...</summary><p>Project Page: https://sparsecontext.github.io</p></details> |
+| **[AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1)** | 2026-06-22 | 19 pages, 4 figures |
+| **[PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support](https://arxiv.org/abs/2606.23673v1)** | 2026-06-22 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning](https://arxiv.org/abs/2606.20559v1)** | 2026-06-18 |  |
-| **[From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning](https://arxiv.org/abs/2606.20553v1)** | 2026-06-18 |  |
-| **[Generating Robot Hands from Human Demonstrations](https://arxiv.org/abs/2606.20549v1)** | 2026-06-18 |  |
-| **[Predictability as a Fine-Grained Measure for Privacy](https://arxiv.org/abs/2606.20546v1)** | 2026-06-18 |  |
-| **[Toward Calibrated Mixture-of-Experts Under Distribution Shift](https://arxiv.org/abs/2606.20544v1)** | 2026-06-18 |  |
-| **[CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation](https://arxiv.org/abs/2606.20542v1)** | 2026-06-18 |  |
+| **[AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection](https://arxiv.org/abs/2606.23689v1)** | 2026-06-22 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Includes supplementary material</p></details> |
+| **[Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://arxiv.org/abs/2606.23688v1)** | 2026-06-22 | <details><summary>Webpa...</summary><p>Webpage, Demos: https://lift4d.github.io</p></details> |
+| **[Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687v1)** | 2026-06-22 |  |
+| **[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](https://arxiv.org/abs/2606.23686v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, Project Page: https://libero-safety.github.io/</p></details> |
+| **[LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation](https://arxiv.org/abs/2606.23685v1)** | 2026-06-22 |  |
+| **[Spherical Mixture Integration for Latent Embedding Alignment across Multi-Source Feature Spaces](https://arxiv.org/abs/2605.08637v2)** | 2026-06-22 |  |
+| **[Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping](https://arxiv.org/abs/2606.23682v1)** | 2026-06-22 | <details><summary>Proje...</summary><p>Project Page: https://sparsecontext.github.io</p></details> |
+| **[AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1)** | 2026-06-22 | 19 pages, 4 figures |
+| **[PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support](https://arxiv.org/abs/2606.23673v1)** | 2026-06-22 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs](https://arxiv.org/abs/2606.20527v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted to the non-archival workshops AI4Good and Culture x AI at ICML 2026</p></details> |
-| **[Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models](https://arxiv.org/abs/2606.05833v2)** | 2026-06-18 |  |
-| **[ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval](https://arxiv.org/abs/2606.20280v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs](https://arxiv.org/abs/2606.20177v1)** | 2026-06-18 | ECCV 2026 Accepted |
-| **[Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study](https://arxiv.org/abs/2602.22959v2)** | 2026-06-18 | <details><summary>Code ...</summary><p>Code available at https://github.com/TruhnLab/Contrastive-Agent-Reasoning. Accepted by MICCAI 2026</p></details> |
-| **[ROSE: Benchmarking the Perception-to-Action Gap in Multimodal Models](https://arxiv.org/abs/2606.19965v1)** | 2026-06-18 | 29 pages, 11 figures |
-| **[Stellar: Scalable Multimodal Document Retrieval for Natural Language Queries](https://arxiv.org/abs/2606.19960v1)** | 2026-06-18 |  |
-| **[Confidence Calibration for Multimodal LLMs: An Empirical Study through Medical VQA](https://arxiv.org/abs/2606.19950v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
-| **[Timage: A Generative Text-in-Image Paradigm for Fine-Tuning Vision-Language Models](https://arxiv.org/abs/2606.19944v1)** | 2026-06-18 | ECCV |
-| **[MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization](https://arxiv.org/abs/2606.19930v1)** | 2026-06-18 | <details><summary>Proje...</summary><p>Project page: https://mobile-forge.github.io/</p></details> |
+| **[AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1)** | 2026-06-22 | 19 pages, 4 figures |
+| **[LightSTAR: Efficient Visual Document Retrieval via Lightweight Selection with Vision-Adaptive Refinement](https://arxiv.org/abs/2606.23539v1)** | 2026-06-22 | <details><summary>Accpe...</summary><p>Accpeted by ECCV 2026</p></details> |
+| **[Faithful Grounded Visual Reasoning via Learned Proxy-Tokens](https://arxiv.org/abs/2606.23354v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at ICIP 2026. Code, model and data available at: https://github.com/CEA-LIST/Composer</p></details> |
+| **[PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2606.23092v1)** | 2026-06-22 |  |
+| **[Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs](https://arxiv.org/abs/2606.20177v2)** | 2026-06-22 | ECCV 2026 Accepted |
+| **[Attention-Spectrum Regularization for Replay-Free Continual Multimodal LLMs](https://arxiv.org/abs/2606.23063v1)** | 2026-06-22 |  |
+| **[SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models](https://arxiv.org/abs/2606.23041v1)** | 2026-06-22 | ECCV2026 |
+| **[VideoLatent: Video-Language Learning via Latent Self-Forcing](https://arxiv.org/abs/2606.22870v1)** | 2026-06-22 |  |
+| **[LUQ: Layerwise Ultra-Low Bit Quantization for Multimodal Large Language Models](https://arxiv.org/abs/2509.23729v3)** | 2026-06-22 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (2026)</p></details> |
+| **[OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs](https://arxiv.org/abs/2606.22617v1)** | 2026-06-21 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning](https://arxiv.org/abs/2606.20553v1)** | 2026-06-18 |  |
-| **[Generating Robot Hands from Human Demonstrations](https://arxiv.org/abs/2606.20549v1)** | 2026-06-18 |  |
-| **[Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent](https://arxiv.org/abs/2604.08552v2)** | 2026-06-18 |  |
-| **[Predictability as a Fine-Grained Measure for Privacy](https://arxiv.org/abs/2606.20546v1)** | 2026-06-18 |  |
-| **[Toward Calibrated Mixture-of-Experts Under Distribution Shift](https://arxiv.org/abs/2606.20544v1)** | 2026-06-18 |  |
-| **[CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation](https://arxiv.org/abs/2606.20542v1)** | 2026-06-18 |  |
-| **[Multi-Task Bayesian In-Context Learning](https://arxiv.org/abs/2606.20538v1)** | 2026-06-18 | ICML 2026 |
+| **[AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection](https://arxiv.org/abs/2606.23689v1)** | 2026-06-22 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Includes supplementary material</p></details> |
+| **[Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://arxiv.org/abs/2606.23688v1)** | 2026-06-22 | <details><summary>Webpa...</summary><p>Webpage, Demos: https://lift4d.github.io</p></details> |
+| **[Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687v1)** | 2026-06-22 |  |
+| **[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](https://arxiv.org/abs/2606.23686v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, Project Page: https://libero-safety.github.io/</p></details> |
+| **[LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation](https://arxiv.org/abs/2606.23685v1)** | 2026-06-22 |  |
+| **[Spherical Mixture Integration for Latent Embedding Alignment across Multi-Source Feature Spaces](https://arxiv.org/abs/2605.08637v2)** | 2026-06-22 |  |
+| **[AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1)** | 2026-06-22 | 19 pages, 4 figures |
+| **[PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support](https://arxiv.org/abs/2606.23673v1)** | 2026-06-22 |  |
+| **[Assumption-Lean Differential Variance Inference for Heterogeneous Treatment Effect Detection](https://arxiv.org/abs/2512.03254v4)** | 2026-06-22 |  |
 
