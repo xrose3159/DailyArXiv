@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2026
+title: Latest 15 Papers - June 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,53 +7,39 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection](https://arxiv.org/abs/2606.23689v1)** | 2026-06-22 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Includes supplementary material</p></details> |
-| **[Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://arxiv.org/abs/2606.23688v1)** | 2026-06-22 | <details><summary>Webpa...</summary><p>Webpage, Demos: https://lift4d.github.io</p></details> |
-| **[Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687v1)** | 2026-06-22 |  |
-| **[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](https://arxiv.org/abs/2606.23686v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, Project Page: https://libero-safety.github.io/</p></details> |
-| **[LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation](https://arxiv.org/abs/2606.23685v1)** | 2026-06-22 |  |
-| **[Spherical Mixture Integration for Latent Embedding Alignment across Multi-Source Feature Spaces](https://arxiv.org/abs/2605.08637v2)** | 2026-06-22 |  |
-| **[Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping](https://arxiv.org/abs/2606.23682v1)** | 2026-06-22 | <details><summary>Proje...</summary><p>Project Page: https://sparsecontext.github.io</p></details> |
-| **[AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1)** | 2026-06-22 | 19 pages, 4 figures |
-| **[PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support](https://arxiv.org/abs/2606.23673v1)** | 2026-06-22 |  |
+| **[InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884v1)** | 2026-06-23 | <details><summary>Proje...</summary><p>Project website: https://insight-vla.github.io</p></details> |
+| **[BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases](https://arxiv.org/abs/2606.24883v1)** | 2026-06-23 |  |
+| **[Sequential Probability Ratio Test using Z-Statistics (SPRT-z): A Practical Approach for Online Experimentation](https://arxiv.org/abs/2606.24871v1)** | 2026-06-23 |  |
+| **[OpenThoughts-Agent: Data Recipes for Agentic Models](https://arxiv.org/abs/2606.24855v1)** | 2026-06-23 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection](https://arxiv.org/abs/2606.23689v1)** | 2026-06-22 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Includes supplementary material</p></details> |
-| **[Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://arxiv.org/abs/2606.23688v1)** | 2026-06-22 | <details><summary>Webpa...</summary><p>Webpage, Demos: https://lift4d.github.io</p></details> |
-| **[Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687v1)** | 2026-06-22 |  |
-| **[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](https://arxiv.org/abs/2606.23686v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, Project Page: https://libero-safety.github.io/</p></details> |
-| **[LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation](https://arxiv.org/abs/2606.23685v1)** | 2026-06-22 |  |
-| **[Spherical Mixture Integration for Latent Embedding Alignment across Multi-Source Feature Spaces](https://arxiv.org/abs/2605.08637v2)** | 2026-06-22 |  |
-| **[Keep The Essentials: Efficient Reference Conditioned Generation via Token Dropping](https://arxiv.org/abs/2606.23682v1)** | 2026-06-22 | <details><summary>Proje...</summary><p>Project Page: https://sparsecontext.github.io</p></details> |
-| **[AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1)** | 2026-06-22 | 19 pages, 4 figures |
-| **[PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support](https://arxiv.org/abs/2606.23673v1)** | 2026-06-22 |  |
+| **[InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884v1)** | 2026-06-23 | <details><summary>Proje...</summary><p>Project website: https://insight-vla.github.io</p></details> |
+| **[BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases](https://arxiv.org/abs/2606.24883v1)** | 2026-06-23 |  |
+| **[FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation](https://arxiv.org/abs/2606.24874v1)** | 2026-06-23 |  |
+| **[Sequential Probability Ratio Test using Z-Statistics (SPRT-z): A Practical Approach for Online Experimentation](https://arxiv.org/abs/2606.24871v1)** | 2026-06-23 |  |
+| **[Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments](https://arxiv.org/abs/2503.05226v2)** | 2026-06-23 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1)** | 2026-06-22 | 19 pages, 4 figures |
-| **[LightSTAR: Efficient Visual Document Retrieval via Lightweight Selection with Vision-Adaptive Refinement](https://arxiv.org/abs/2606.23539v1)** | 2026-06-22 | <details><summary>Accpe...</summary><p>Accpeted by ECCV 2026</p></details> |
-| **[Faithful Grounded Visual Reasoning via Learned Proxy-Tokens](https://arxiv.org/abs/2606.23354v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at ICIP 2026. Code, model and data available at: https://github.com/CEA-LIST/Composer</p></details> |
-| **[PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2606.23092v1)** | 2026-06-22 |  |
-| **[Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs](https://arxiv.org/abs/2606.20177v2)** | 2026-06-22 | ECCV 2026 Accepted |
-| **[Attention-Spectrum Regularization for Replay-Free Continual Multimodal LLMs](https://arxiv.org/abs/2606.23063v1)** | 2026-06-22 |  |
-| **[SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models](https://arxiv.org/abs/2606.23041v1)** | 2026-06-22 | ECCV2026 |
-| **[VideoLatent: Video-Language Learning via Latent Self-Forcing](https://arxiv.org/abs/2606.22870v1)** | 2026-06-22 |  |
-| **[LUQ: Layerwise Ultra-Low Bit Quantization for Multimodal Large Language Models](https://arxiv.org/abs/2509.23729v3)** | 2026-06-22 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (2026)</p></details> |
-| **[OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs](https://arxiv.org/abs/2606.22617v1)** | 2026-06-21 |  |
+| **[IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation](https://arxiv.org/abs/2606.24849v1)** | 2026-06-23 |  |
+| **[UniDrive: A Unified Vision-Language and Grounding Framework for Interpretable Risk Understanding in Autonomous Driving](https://arxiv.org/abs/2606.24759v1)** | 2026-06-23 |  |
+| **[SER: Learning to Ground Video Reasoning with Semantic Evidence Rewards](https://arxiv.org/abs/2606.24726v1)** | 2026-06-23 |  |
+| **[Agentic Collaborative Cognition for Zero-Shot 3D Understanding](https://arxiv.org/abs/2606.24649v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Project page: https://zhangbo135.github.io/agentic-collaborative-cognition/</p></details> |
+| **[ViTexQA: A Multi-Frame Temporal Perception Dataset for Video Text Question Answering](https://arxiv.org/abs/2606.24602v1)** | 2026-06-23 | Accepted by ECCV2026 |
+| **[PointVG-R: Internalizing Geometric Reasoning in MLLMs for Precise Pointing Localization via Visual Chain of Thought](https://arxiv.org/abs/2606.24539v1)** | 2026-06-23 |  |
+| **[ForensicsTok: Forensics-Guided Tokenized Modeling for Image Tampering Localization](https://arxiv.org/abs/2606.24538v1)** | 2026-06-23 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 8 tables</p></details> |
+| **[ActiveScope: Actively Seeking and Correcting Perception for MLLMs](https://arxiv.org/abs/2606.24292v1)** | 2026-06-23 | ICML 2026 |
+| **[Towards Fast and Effective Long Video Understanding of Multimodal Large Language Models via Adaptive Quasi-Gaussian Sampling](https://arxiv.org/abs/2606.24187v1)** | 2026-06-23 | <details><summary>NeurI...</summary><p>NeurIPS 2026 submission. 15 pages, 8 figures</p></details> |
+| **[Spectral Evolution-Guided Token Pruning in Multimodal Large Language Models](https://arxiv.org/abs/2606.24165v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection](https://arxiv.org/abs/2606.23689v1)** | 2026-06-22 | <details><summary>16 pa...</summary><p>16 pages, 9 figures. Includes supplementary material</p></details> |
-| **[Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://arxiv.org/abs/2606.23688v1)** | 2026-06-22 | <details><summary>Webpa...</summary><p>Webpage, Demos: https://lift4d.github.io</p></details> |
-| **[Randomized YaRN Improves Length Generalization for Long-Context Reasoning](https://arxiv.org/abs/2606.23687v1)** | 2026-06-22 |  |
-| **[LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](https://arxiv.org/abs/2606.23686v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, Project Page: https://libero-safety.github.io/</p></details> |
-| **[LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation](https://arxiv.org/abs/2606.23685v1)** | 2026-06-22 |  |
-| **[Spherical Mixture Integration for Latent Embedding Alignment across Multi-Source Feature Spaces](https://arxiv.org/abs/2605.08637v2)** | 2026-06-22 |  |
-| **[AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1)** | 2026-06-22 | 19 pages, 4 figures |
-| **[PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support](https://arxiv.org/abs/2606.23673v1)** | 2026-06-22 |  |
-| **[Assumption-Lean Differential Variance Inference for Heterogeneous Treatment Effect Detection](https://arxiv.org/abs/2512.03254v4)** | 2026-06-22 |  |
+| **[InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884v1)** | 2026-06-23 | <details><summary>Proje...</summary><p>Project website: https://insight-vla.github.io</p></details> |
+| **[BenchX: Benchmarking AI Models for Cancer Detection and Localization with Demographic and Protocol Biases](https://arxiv.org/abs/2606.24883v1)** | 2026-06-23 |  |
+| **[Sequential Probability Ratio Test using Z-Statistics (SPRT-z): A Practical Approach for Online Experimentation](https://arxiv.org/abs/2606.24871v1)** | 2026-06-23 |  |
+| **[Quantum Cinema: An Interactive Cinematic Exploration of Quantum Computing Hardware via Generative World Models](https://arxiv.org/abs/2606.17102v2)** | 2026-06-23 |  |
 
