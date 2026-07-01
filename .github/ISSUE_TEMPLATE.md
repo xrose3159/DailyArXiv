@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2026
+title: Latest 15 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,51 +7,46 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](https://arxiv.org/abs/2606.30645v1)** | 2026-06-29 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 4 tables</p></details> |
-| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v2)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://sakanaai.github.io/SearchCast/ 17 pages, 10 figures, and 5 tables</p></details> |
-| **[LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training](https://arxiv.org/abs/2606.30642v1)** | 2026-06-29 |  |
-| **[GROW$^2$: Grounding Which and Where for Robot Tool Use](https://arxiv.org/abs/2606.30632v1)** | 2026-06-29 |  |
-| **[Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models](https://arxiv.org/abs/2606.30627v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted in ICML 2026 workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning</p></details> |
-| **[Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion](https://arxiv.org/abs/2606.00616v3)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted in IROS 2026 (IEEE/RSJ International Conference on Intelligent Robots and Systems)</p></details> |
-| **[Tuning-Free Efficient Estimation for Multi-Source Data via Covariance-Aware Shrinkage](https://arxiv.org/abs/2606.30615v1)** | 2026-06-29 |  |
-| **[Sequential Planning via Anchored Robotic Keypoints](https://arxiv.org/abs/2606.30613v1)** | 2026-06-29 | 29 pages, 14 figures |
-| **[Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](https://arxiv.org/abs/2507.05386v6)** | 2026-06-29 |  |
+| **[GEAR: Guided End-to-End AutoRegression for Image Synthesis](https://arxiv.org/abs/2606.32039v1)** | 2026-06-30 |  |
+| **[StreamEdit: Training-Free Video Editing via Few-Step Streaming Video Generation](https://arxiv.org/abs/2605.21466v2)** | 2026-06-30 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project Page: https://dsl-lab.github.io/StreamEdit/</p></details> |
+| **[SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE](https://arxiv.org/abs/2606.32033v1)** | 2026-06-30 |  |
+| **[Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032v1)** | 2026-06-30 | <details><summary>Code:...</summary><p>Code: https://github.com/yale-nlp/RLMF</p></details> |
+| **[When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](https://arxiv.org/abs/2606.32029v1)** | 2026-06-30 | ACL 2026 (Oral) |
+| **[DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation](https://arxiv.org/abs/2606.32028v1)** | 2026-06-30 |  |
+| **[Freeform Preference Learning for Robotic Manipulation](https://arxiv.org/abs/2606.32027v1)** | 2026-06-30 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](https://arxiv.org/abs/2606.30645v1)** | 2026-06-29 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 4 tables</p></details> |
-| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v2)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://sakanaai.github.io/SearchCast/ 17 pages, 10 figures, and 5 tables</p></details> |
-| **[LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training](https://arxiv.org/abs/2606.30642v1)** | 2026-06-29 |  |
-| **[Self-Evolving World Models for LLM Agent Planning](https://arxiv.org/abs/2606.30639v1)** | 2026-06-29 |  |
-| **[GROW$^2$: Grounding Which and Where for Robot Tool Use](https://arxiv.org/abs/2606.30632v1)** | 2026-06-29 |  |
-| **[Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models](https://arxiv.org/abs/2606.30627v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted in ICML 2026 workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning</p></details> |
-| **[Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion](https://arxiv.org/abs/2606.00616v3)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted in IROS 2026 (IEEE/RSJ International Conference on Intelligent Robots and Systems)</p></details> |
+| **[StreamEdit: Training-Free Video Editing via Few-Step Streaming Video Generation](https://arxiv.org/abs/2605.21466v2)** | 2026-06-30 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project Page: https://dsl-lab.github.io/StreamEdit/</p></details> |
+| **[SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE](https://arxiv.org/abs/2606.32033v1)** | 2026-06-30 |  |
+| **[Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032v1)** | 2026-06-30 | <details><summary>Code:...</summary><p>Code: https://github.com/yale-nlp/RLMF</p></details> |
+| **[When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](https://arxiv.org/abs/2606.32029v1)** | 2026-06-30 | ACL 2026 (Oral) |
+| **[Freeform Preference Learning for Robotic Manipulation](https://arxiv.org/abs/2606.32027v1)** | 2026-06-30 |  |
+| **[Generative Skill Composition for LLM Agents](https://arxiv.org/abs/2606.32025v1)** | 2026-06-30 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing](https://arxiv.org/abs/2606.30599v1)** | 2026-06-29 |  |
-| **[OmniCoT: A Benchmark for Global and Multi-Step Panoramic Reasoning](https://arxiv.org/abs/2606.30378v1)** | 2026-06-29 |  |
-| **[HiRes: A Hierarchical Cascaded Method for Resistor Value Identification](https://arxiv.org/abs/2606.30179v1)** | 2026-06-29 | <details><summary>Submi...</summary><p>Submitted to ICONIP 2026</p></details> |
-| **[Latent Noise Mask for Reducing Visual Redundancy in Multimodal Large Language Models](https://arxiv.org/abs/2606.30168v1)** | 2026-06-29 | 21 pages, 7 figures; |
-| **[One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding](https://arxiv.org/abs/2606.30084v1)** | 2026-06-29 |  |
-| **[HumanMoveVQA: Can Video MLLMs reason about human movement in videos?](https://arxiv.org/abs/2606.27999v2)** | 2026-06-29 |  |
-| **[MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs](https://arxiv.org/abs/2606.30026v1)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://musebench.github.io</p></details> |
-| **[Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs](https://arxiv.org/abs/2606.01215v2)** | 2026-06-29 | <details><summary>To ap...</summary><p>To appear in ICML 2026</p></details> |
-| **[Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding](https://arxiv.org/abs/2603.19235v2)** | 2026-06-29 |  |
-| **[X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding](https://arxiv.org/abs/2606.02482v3)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project Page: https://peiwensun2000.github.io/xstream/</p></details> |
+| **[CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation](https://arxiv.org/abs/2606.32012v1)** | 2026-06-30 | 33 pages, 13.3MB |
+| **[CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts](https://arxiv.org/abs/2606.31986v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted by ECCV2026. Code is available at https://github.com/hulianyuyy/CoLT</p></details> |
+| **[ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs](https://arxiv.org/abs/2606.31982v1)** | 2026-06-30 | 17 pages, 7 figures |
+| **[MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments](https://arxiv.org/abs/2606.31966v1)** | 2026-06-30 | <details><summary>Proje...</summary><p>Project website: https://q-i-n-g.github.io/MECoBench-Website/</p></details> |
+| **[Attend, Transform, or Silence: Operator-Level Visual Skipping for Efficient Multimodal LLM Inference](https://arxiv.org/abs/2606.31903v1)** | 2026-06-30 |  |
+| **[Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing](https://arxiv.org/abs/2606.30599v2)** | 2026-06-30 | <details><summary>Proje...</summary><p>Project Page: https://flying-sky999.github.io/Goku.github.io/</p></details> |
+| **[Harnessing Textual Refusal Directions for Multimodal Safety](https://arxiv.org/abs/2606.31876v1)** | 2026-06-30 | Preprint |
+| **[Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning](https://arxiv.org/abs/2606.31825v1)** | 2026-06-30 |  |
+| **[Evo-PI: Aligning Medical Reasoning via Evolving Principle-Guided Supervision](https://arxiv.org/abs/2606.31800v1)** | 2026-06-30 |  |
+| **[Clearer Sight, Fewer Lies: Oriented Pickup Preference Optimization for Multimodal Hallucination Mitigation](https://arxiv.org/abs/2606.29805v2)** | 2026-06-30 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](https://arxiv.org/abs/2606.30645v1)** | 2026-06-29 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 4 tables</p></details> |
-| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v2)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://sakanaai.github.io/SearchCast/ 17 pages, 10 figures, and 5 tables</p></details> |
-| **[LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training](https://arxiv.org/abs/2606.30642v1)** | 2026-06-29 |  |
-| **[GROW$^2$: Grounding Which and Where for Robot Tool Use](https://arxiv.org/abs/2606.30632v1)** | 2026-06-29 |  |
-| **[Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models](https://arxiv.org/abs/2606.30627v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted in ICML 2026 workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning</p></details> |
-| **[Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion](https://arxiv.org/abs/2606.00616v3)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted in IROS 2026 (IEEE/RSJ International Conference on Intelligent Robots and Systems)</p></details> |
-| **[Tuning-Free Efficient Estimation for Multi-Source Data via Covariance-Aware Shrinkage](https://arxiv.org/abs/2606.30615v1)** | 2026-06-29 |  |
-| **[Sequential Planning via Anchored Robotic Keypoints](https://arxiv.org/abs/2606.30613v1)** | 2026-06-29 | 29 pages, 14 figures |
-| **[Reinforcement Fine-Tuning Naturally Mitigates Forgetting in Continual Post-Training](https://arxiv.org/abs/2507.05386v6)** | 2026-06-29 |  |
+| **[StreamEdit: Training-Free Video Editing via Few-Step Streaming Video Generation](https://arxiv.org/abs/2605.21466v2)** | 2026-06-30 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project Page: https://dsl-lab.github.io/StreamEdit/</p></details> |
+| **[SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE](https://arxiv.org/abs/2606.32033v1)** | 2026-06-30 |  |
+| **[Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032v1)** | 2026-06-30 | <details><summary>Code:...</summary><p>Code: https://github.com/yale-nlp/RLMF</p></details> |
+| **[When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](https://arxiv.org/abs/2606.32029v1)** | 2026-06-30 | ACL 2026 (Oral) |
+| **[Freeform Preference Learning for Robotic Manipulation](https://arxiv.org/abs/2606.32027v1)** | 2026-06-30 |  |
+| **[Generative Skill Composition for LLM Agents](https://arxiv.org/abs/2606.32025v1)** | 2026-06-30 |  |
+| **[FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data](https://arxiv.org/abs/2606.32023v1)** | 2026-06-30 |  |
 
