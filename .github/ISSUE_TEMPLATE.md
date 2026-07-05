@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 03, 2026
+title: Latest 15 Papers - July 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,46 +7,46 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Measuring the Gap Between Human and LLM Research Ideas](https://arxiv.org/abs/2607.01233v1)** | 2026-07-01 |  |
-| **[Language-Critique Imitation Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2607.01225v1)** | 2026-07-01 |  |
-| **[Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models](https://arxiv.org/abs/2607.01222v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://yuehan99.github.io/Ink3D-TextureGen/</p></details> |
-| **[The State-Prediction Separation Hypothesis](https://arxiv.org/abs/2607.01218v1)** | 2026-07-01 | Preprint |
-| **[Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education](https://arxiv.org/abs/2607.01214v1)** | 2026-07-01 |  |
-| **[FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model](https://arxiv.org/abs/2607.01212v1)** | 2026-07-01 | <details><summary>Proje...</summary><p>Project Page: https://dannymcy.github.io/furniturevla/</p></details> |
-| **[Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force](https://arxiv.org/abs/2606.30988v2)** | 2026-07-01 |  |
+| **[WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory](https://arxiv.org/abs/2607.02517v1)** | 2026-07-02 | <details><summary>Proje...</summary><p>Project Page: https://worlddirector.github.io/</p></details> |
+| **[Alignment Is All You Need For X-to-4D Generation](https://arxiv.org/abs/2607.02516v1)** | 2026-07-02 |  |
+| **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](https://arxiv.org/abs/2607.02513v1)** | 2026-07-02 |  |
+| **[From SRA to Self-Flow: Data Augmentation or Self-Supervision?](https://arxiv.org/abs/2607.02508v1)** | 2026-07-02 |  |
+| **[Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](https://arxiv.org/abs/2607.02504v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Building the Ipseome: Large, Free, Open, Human Identity Data](https://arxiv.org/abs/2607.02488v1)** | 2026-07-02 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Language-Critique Imitation Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2607.01225v1)** | 2026-07-01 |  |
-| **[Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models](https://arxiv.org/abs/2607.01222v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://yuehan99.github.io/Ink3D-TextureGen/</p></details> |
-| **[The State-Prediction Separation Hypothesis](https://arxiv.org/abs/2607.01218v1)** | 2026-07-01 | Preprint |
-| **[Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education](https://arxiv.org/abs/2607.01214v1)** | 2026-07-01 |  |
-| **[FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model](https://arxiv.org/abs/2607.01212v1)** | 2026-07-01 | <details><summary>Proje...</summary><p>Project Page: https://dannymcy.github.io/furniturevla/</p></details> |
-| **[Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force](https://arxiv.org/abs/2606.30988v2)** | 2026-07-01 |  |
+| **[Alignment Is All You Need For X-to-4D Generation](https://arxiv.org/abs/2607.02516v1)** | 2026-07-02 |  |
+| **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](https://arxiv.org/abs/2607.02513v1)** | 2026-07-02 |  |
+| **[ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning](https://arxiv.org/abs/2607.02509v1)** | 2026-07-02 |  |
+| **[From SRA to Self-Flow: Data Augmentation or Self-Supervision?](https://arxiv.org/abs/2607.02508v1)** | 2026-07-02 |  |
+| **[Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](https://arxiv.org/abs/2607.02504v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[DemoPSD: Disagreement-Modulated Policy Self-Distillation](https://arxiv.org/abs/2607.02502v1)** | 2026-07-02 |  |
+| **[Towards Robustness against Typographic Attack with Training-free Concept Localization](https://arxiv.org/abs/2607.02494v1)** | 2026-07-02 | <details><summary>15 pa...</summary><p>15 pages main text, provisionally accepted to ECCV 2026</p></details> |
+| **[Building the Ipseome: Large, Free, Open, Human Identity Data](https://arxiv.org/abs/2607.02488v1)** | 2026-07-02 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GeoSearcher: Anchor-Guided Progressive Reasoning for Remote Sensing Visual Grounding with Process Supervision](https://arxiv.org/abs/2607.01050v1)** | 2026-07-01 | <details><summary>14 pa...</summary><p>14 pages,11 figures,7 tables</p></details> |
-| **[Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off](https://arxiv.org/abs/2603.22607v3)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. Project page at https://aimagelab.github.io/Dress-ED/</p></details> |
-| **[OmniView-Space: Reinforcing Spatial Reasoning via Multi-Perspective Spatial Mapping](https://arxiv.org/abs/2607.00881v1)** | 2026-07-01 |  |
-| **[Towards High-Resolution Visual Perception via Hierarchical Entity Exploration](https://arxiv.org/abs/2607.00816v1)** | 2026-07-01 | Accepted by ECCV2026 |
-| **[SpatialMosaic: A Multiview VLM Dataset for Partial Visibility](https://arxiv.org/abs/2512.23365v4)** | 2026-07-01 |  |
-| **[Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs](https://arxiv.org/abs/2602.05275v2)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[RoadBench: Benchmarking MLLMs on Fine-Grained Spatial Understanding and Reasoning under Urban Road Scenarios](https://arxiv.org/abs/2511.18011v2)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, the code and data are publicly available at: https://github.com/tsinghua-fib-lab/RoadBench</p></details> |
-| **[Explicit Logic Channel for Validation and Enhancement of MLLMs on Zero-Shot Tasks](https://arxiv.org/abs/2603.11689v3)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[EgoGapBench: Benchmarking Egocentric Action Selection in Multi-Agent Scenes](https://arxiv.org/abs/2607.00547v1)** | 2026-07-01 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 8 tables. Code and benchmark are available at https://github.com/jhCOR/EgoGapBench</p></details> |
-| **[Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning](https://arxiv.org/abs/2607.00461v1)** | 2026-07-01 |  |
+| **[EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\circ$](https://arxiv.org/abs/2607.02479v1)** | 2026-07-02 | Preprint |
+| **[Learning to Evolve Scenes: Reasoning about Human Activities with Scene Graphs](https://arxiv.org/abs/2607.02425v1)** | 2026-07-02 | <details><summary>Proje...</summary><p>Project page at https://francescapistilli.github.io/GLEN</p></details> |
+| **[Wiki-R1: Incentivizing Multimodal Reasoning for Knowledge-based VQA via Data and Sampling Curriculum](https://arxiv.org/abs/2603.05256v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 26, code and weights are publicly available</p></details> |
+| **[Omni-DuplexEval: Evaluating Real-time Duplex Omni-modal Interaction](https://arxiv.org/abs/2605.17360v2)** | 2026-07-02 | 21 pages, 6 figures |
+| **[Graph it first! Enabling Reasoning on Long-form Egocentric Videos through Scene Graphs](https://arxiv.org/abs/2606.25842v2)** | 2026-07-02 |  |
+| **[Ophiuchus: Incentivizing Tool-augmented "Think with Images" for Joint Medical Segmentation, Understanding and Reasoning](https://arxiv.org/abs/2512.14157v2)** | 2026-07-02 |  |
+| **[SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models](https://arxiv.org/abs/2606.23041v2)** | 2026-07-02 | ECCV2026 |
+| **[Hidden Forgetting in Continual Multimodal Learning: When Accuracy Survives but Grounding Fails](https://arxiv.org/abs/2607.02020v1)** | 2026-07-02 |  |
+| **[Multimodal Knowledge Edit-Scoped Generalization for Online Recursive MLLM Editing](https://arxiv.org/abs/2607.01978v1)** | 2026-07-02 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Language-Critique Imitation Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2607.01225v1)** | 2026-07-01 |  |
-| **[Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models](https://arxiv.org/abs/2607.01222v1)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://yuehan99.github.io/Ink3D-TextureGen/</p></details> |
-| **[The State-Prediction Separation Hypothesis](https://arxiv.org/abs/2607.01218v1)** | 2026-07-01 | Preprint |
-| **[Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education](https://arxiv.org/abs/2607.01214v1)** | 2026-07-01 |  |
-| **[FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model](https://arxiv.org/abs/2607.01212v1)** | 2026-07-01 | <details><summary>Proje...</summary><p>Project Page: https://dannymcy.github.io/furniturevla/</p></details> |
-| **[Multisensory Continual Learning: Adapting Pretrained Visuomotor Policies to Force](https://arxiv.org/abs/2606.30988v2)** | 2026-07-01 |  |
-| **[BlowLive: Blow-Based Multi-Factor Biometrics with Liveness Detection and Revocability](https://arxiv.org/abs/2606.25998v2)** | 2026-07-01 |  |
+| **[Alignment Is All You Need For X-to-4D Generation](https://arxiv.org/abs/2607.02516v1)** | 2026-07-02 |  |
+| **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](https://arxiv.org/abs/2607.02513v1)** | 2026-07-02 |  |
+| **[From SRA to Self-Flow: Data Augmentation or Self-Supervision?](https://arxiv.org/abs/2607.02508v1)** | 2026-07-02 |  |
+| **[Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas](https://arxiv.org/abs/2607.02504v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Seek to Segment: Active Perception for Panoramic Referring Segmentation](https://arxiv.org/abs/2607.02497v1)** | 2026-07-02 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://henghuiding.com/APRS/</p></details> |
+| **[Building the Ipseome: Large, Free, Open, Human Identity Data](https://arxiv.org/abs/2607.02488v1)** | 2026-07-02 |  |
+| **[Uncertain but Useful: Leveraging CNN Training Variability into Data Augmentation](https://arxiv.org/abs/2509.05238v2)** | 2026-07-02 |  |
 
