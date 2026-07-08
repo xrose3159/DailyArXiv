@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2026
+title: Latest 15 Papers - July 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,47 +7,47 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model](https://arxiv.org/abs/2607.05396v1)** | 2026-07-06 |  |
-| **[Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification](https://arxiv.org/abs/2607.05393v1)** | 2026-07-06 | <details><summary>Submi...</summary><p>Submitted to Astronomy & Astrophysics, revised after first referee report</p></details> |
-| **[SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion](https://arxiv.org/abs/2607.05392v1)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project Page: https://research.paulengstler.com/syncity-3k/</p></details> |
-| **[Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models](https://arxiv.org/abs/2607.05390v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics](https://arxiv.org/abs/2607.05389v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[What Does a Discrete Diffusion Model Learn?](https://arxiv.org/abs/2607.05381v1)** | 2026-07-06 | 66 pages, 6 figures |
-| **[TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](https://arxiv.org/abs/2607.05380v1)** | 2026-07-06 | <details><summary>ICML ...</summary><p>ICML 2026. Code: https://github.com/yandex-research/tabpack</p></details> |
+| **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
+| **[Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563v1)** | 2026-07-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Proceedings of the 2026 International Conference on Robotic System and Artificial Intelligence (RSAI 2026), 10-12 July, 2026, Tokyo, Japan</p></details> |
+| **[VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](https://arxiv.org/abs/2510.13808v2)** | 2026-07-07 | ECCV 2026 |
+| **[Vision as Unified Multimodal Generation](https://arxiv.org/abs/2607.06560v1)** | 2026-07-07 | 48 pages,22 figures |
+| **[RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-4D</p></details> |
+| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
+| **[ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](https://arxiv.org/abs/2607.06555v1)** | 2026-07-07 | 23 pages, 6 figures |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model](https://arxiv.org/abs/2607.05396v1)** | 2026-07-06 |  |
-| **[Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification](https://arxiv.org/abs/2607.05393v1)** | 2026-07-06 | <details><summary>Submi...</summary><p>Submitted to Astronomy & Astrophysics, revised after first referee report</p></details> |
-| **[SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion](https://arxiv.org/abs/2607.05392v1)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project Page: https://research.paulengstler.com/syncity-3k/</p></details> |
-| **[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://arxiv.org/abs/2607.05391v1)** | 2026-07-06 | <details><summary>Code:...</summary><p>Code: https://github.com/llm-as-a-verifier/llm-as-a-verifier Website: https://llm-as-a-verifier.com</p></details> |
-| **[Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models](https://arxiv.org/abs/2607.05390v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics](https://arxiv.org/abs/2607.05389v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[What Does a Discrete Diffusion Model Learn?](https://arxiv.org/abs/2607.05381v1)** | 2026-07-06 | 66 pages, 6 figures |
+| **[ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation](https://arxiv.org/abs/2607.06565v1)** | 2026-07-07 |  |
+| **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
+| **[Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563v1)** | 2026-07-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Proceedings of the 2026 International Conference on Robotic System and Artificial Intelligence (RSAI 2026), 10-12 July, 2026, Tokyo, Japan</p></details> |
+| **[VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](https://arxiv.org/abs/2510.13808v2)** | 2026-07-07 | ECCV 2026 |
+| **[Vision as Unified Multimodal Generation](https://arxiv.org/abs/2607.06560v1)** | 2026-07-07 | 48 pages,22 figures |
+| **[RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-4D</p></details> |
+| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework](https://arxiv.org/abs/2601.06550v3)** | 2026-07-06 |  |
-| **[DGSeg: Dynamic Gating of Semantic-Spatial Guided Predictions for Reasoning Segmentation](https://arxiv.org/abs/2607.04779v1)** | 2026-07-06 | Accepted to ECCV2026 |
-| **[NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning](https://arxiv.org/abs/2606.27771v2)** | 2026-07-06 |  |
-| **[Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe](https://arxiv.org/abs/2605.03677v2)** | 2026-07-06 |  |
-| **[SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://arxiv.org/abs/2603.23483v2)** | 2026-07-06 | <details><summary>ECCV ...</summary><p>ECCV 2026, Code: https://github.com/MAC-AutoML/SpecEyes</p></details> |
-| **[Harnessing Textual Refusal Directions for Multimodal Safety](https://arxiv.org/abs/2606.31876v2)** | 2026-07-05 | Preprint |
-| **[ChartArena: Benchmarking Chart Parsing across Languages, Scenarios, and Formats](https://arxiv.org/abs/2606.01348v3)** | 2026-07-05 | 23 pages |
-| **[Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain](https://arxiv.org/abs/2510.17801v2)** | 2026-07-05 | <details><summary>ECCV ...</summary><p>ECCV 2026 Camera Ready</p></details> |
-| **[Beyond Scene Priors: Fine-Grained Traffic Scene Reasoning with Benchmarking and Query-Guided Small-Object Focus](https://arxiv.org/abs/2607.04149v1)** | 2026-07-05 |  |
-| **[Seeing Once is Enough? Online Geometry-Aware Token Pruning for 3D Question Answering](https://arxiv.org/abs/2607.04079v1)** | 2026-07-05 | <details><summary>publi...</summary><p>published at ICLR 2026 Workshop on Efficient Spatial Reasoning</p></details> |
+| **[UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation](https://arxiv.org/abs/2607.06537v1)** | 2026-07-07 |  |
+| **[HoloCount: A Holistic Visual Counting Benchmark for MLLMs](https://arxiv.org/abs/2607.06420v1)** | 2026-07-07 | Technical report |
+| **[Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis](https://arxiv.org/abs/2602.00846v2)** | 2026-07-07 | ECCV 2026 |
+| **[Decoding the Multimodal Mind: Generalizable Brain-to-Text Translation via Multimodal Alignment and Adaptive Routing](https://arxiv.org/abs/2505.10356v3)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
+| **[BabyVision: Visual Reasoning Beyond Language](https://arxiv.org/abs/2601.06521v2)** | 2026-07-07 | <details><summary>26 pa...</summary><p>26 pages, Homepage at https://unipat.ai/blog/BabyVision</p></details> |
+| **[EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving](https://arxiv.org/abs/2604.22851v2)** | 2026-07-07 | <details><summary>36 Pa...</summary><p>36 Pages, Accepted at ECCV 2026</p></details> |
+| **[MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding](https://arxiv.org/abs/2605.30794v2)** | 2026-07-07 | <details><summary>accep...</summary><p>accept by iclm2026, add github link</p></details> |
+| **[From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation](https://arxiv.org/abs/2603.15600v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 32 pages</p></details> |
+| **[Music I Care About: Automated Multimodal Benchmarking of LLM Music Perception Skills on (Almost) Any Music](https://arxiv.org/abs/2607.06015v1)** | 2026-07-07 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 4 tables</p></details> |
+| **[SparseCtrl-HOI: Sparse Temporal Control for Human-Object Interaction Video Generation](https://arxiv.org/abs/2607.05994v1)** | 2026-07-07 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://mpi-lab.github.io/SparseCtrl-HOI</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model](https://arxiv.org/abs/2607.05396v1)** | 2026-07-06 |  |
-| **[Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification](https://arxiv.org/abs/2607.05393v1)** | 2026-07-06 | <details><summary>Submi...</summary><p>Submitted to Astronomy & Astrophysics, revised after first referee report</p></details> |
-| **[SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion](https://arxiv.org/abs/2607.05392v1)** | 2026-07-06 | <details><summary>Proje...</summary><p>Project Page: https://research.paulengstler.com/syncity-3k/</p></details> |
-| **[Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models](https://arxiv.org/abs/2607.05390v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics](https://arxiv.org/abs/2607.05389v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[What Does a Discrete Diffusion Model Learn?](https://arxiv.org/abs/2607.05381v1)** | 2026-07-06 | 66 pages, 6 figures |
-| **[TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning](https://arxiv.org/abs/2607.05380v1)** | 2026-07-06 | <details><summary>ICML ...</summary><p>ICML 2026. Code: https://github.com/yandex-research/tabpack</p></details> |
+| **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
+| **[Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563v1)** | 2026-07-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Proceedings of the 2026 International Conference on Robotic System and Artificial Intelligence (RSAI 2026), 10-12 July, 2026, Tokyo, Japan</p></details> |
+| **[VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](https://arxiv.org/abs/2510.13808v2)** | 2026-07-07 | ECCV 2026 |
+| **[Vision as Unified Multimodal Generation](https://arxiv.org/abs/2607.06560v1)** | 2026-07-07 | 48 pages,22 figures |
+| **[RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-4D</p></details> |
+| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
+| **[ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](https://arxiv.org/abs/2607.06555v1)** | 2026-07-07 | 23 pages, 6 figures |
 
