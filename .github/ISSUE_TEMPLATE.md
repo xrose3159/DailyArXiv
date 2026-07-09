@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,47 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
-| **[Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563v1)** | 2026-07-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Proceedings of the 2026 International Conference on Robotic System and Artificial Intelligence (RSAI 2026), 10-12 July, 2026, Tokyo, Japan</p></details> |
-| **[VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](https://arxiv.org/abs/2510.13808v2)** | 2026-07-07 | ECCV 2026 |
-| **[Vision as Unified Multimodal Generation](https://arxiv.org/abs/2607.06560v1)** | 2026-07-07 | 48 pages,22 figures |
-| **[RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-4D</p></details> |
-| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
-| **[ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](https://arxiv.org/abs/2607.06555v1)** | 2026-07-07 | 23 pages, 6 figures |
+| **[Co-LMLM: Continuous-Query Limited Memory Language Models](https://arxiv.org/abs/2607.07707v1)** | 2026-07-08 | preprint |
+| **[Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials](https://arxiv.org/abs/2607.07699v1)** | 2026-07-08 | <details><summary>Prese...</summary><p>Presented at SAVI Conference 2026</p></details> |
+| **[Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at AIDB 2026 (co-located with VLDB)</p></details> |
+| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Agent Delivery Engineering Predictive Reliability Framework](https://arxiv.org/abs/2607.07689v1)** | 2026-07-08 | 117pages,83figures |
+| **[Fog Computing and Large Language Models: A vision for mutual beneficiaries](https://arxiv.org/abs/2606.29483v2)** | 2026-07-08 | <details><summary>Paper...</summary><p>Paper accepted for publication at IEEE Computer Magazine. During the final editing, title changed slightly ("The" is removed). PDF now has final DOI</p></details> |
+| **[MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware](https://arxiv.org/abs/2605.05945v7)** | 2026-07-08 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation](https://arxiv.org/abs/2607.06565v1)** | 2026-07-07 |  |
-| **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
-| **[Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563v1)** | 2026-07-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Proceedings of the 2026 International Conference on Robotic System and Artificial Intelligence (RSAI 2026), 10-12 July, 2026, Tokyo, Japan</p></details> |
-| **[VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](https://arxiv.org/abs/2510.13808v2)** | 2026-07-07 | ECCV 2026 |
-| **[Vision as Unified Multimodal Generation](https://arxiv.org/abs/2607.06560v1)** | 2026-07-07 | 48 pages,22 figures |
-| **[RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-4D</p></details> |
-| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
+| **[Co-LMLM: Continuous-Query Limited Memory Language Models](https://arxiv.org/abs/2607.07707v1)** | 2026-07-08 | preprint |
+| **[From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization](https://arxiv.org/abs/2607.07702v1)** | 2026-07-08 |  |
+| **[Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials](https://arxiv.org/abs/2607.07699v1)** | 2026-07-08 | <details><summary>Prese...</summary><p>Presented at SAVI Conference 2026</p></details> |
+| **[Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at AIDB 2026 (co-located with VLDB)</p></details> |
+| **[Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety](https://arxiv.org/abs/2607.07695v1)** | 2026-07-08 |  |
+| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF](https://arxiv.org/abs/2607.07693v1)** | 2026-07-08 | <details><summary>19 pa...</summary><p>19 pages, 18 figures, 4 tables. Submission under review. A shorter, non-archival 4-page abstract version of this work was accepted to CVPR 2026 Workshops (GCV, CVEU)</p></details> |
+| **[Agent Delivery Engineering Predictive Reliability Framework](https://arxiv.org/abs/2607.07689v1)** | 2026-07-08 | 117pages,83figures |
+| **[$C$-$ΔΘ$: Circuit-Restricted Weight Arithmetic for Selective Refusal](https://arxiv.org/abs/2602.04521v2)** | 2026-07-08 |  |
+| **[Fog Computing and Large Language Models: A vision for mutual beneficiaries](https://arxiv.org/abs/2606.29483v2)** | 2026-07-08 | <details><summary>Paper...</summary><p>Paper accepted for publication at IEEE Computer Magazine. During the final editing, title changed slightly ("The" is removed). PDF now has final DOI</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2602.23802v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[EgoExoMem: Cross-View Memory Reasoning over Synchronized Egocentric and Exocentric Videos](https://arxiv.org/abs/2605.18734v2)** | 2026-07-08 | <details><summary>The s...</summary><p>The source code and dataset can be found at https://github.com/RuipingL/EgoExoMem</p></details> |
+| **[What if? Emulative Simulation with World Models for Situated Reasoning](https://arxiv.org/abs/2603.06445v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. The data and code are available at: https://github.com/RuipingL/WanderDream</p></details> |
+| **[Thinking Ahead: Foresight Intelligence in MLLMs and World Model](https://arxiv.org/abs/2511.18735v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model](https://arxiv.org/abs/2607.06882v1)** | 2026-07-08 |  |
+| **[From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics](https://arxiv.org/abs/2603.26772v2)** | 2026-07-07 |  |
+| **[A Good Initialization is All You Need for Faithful Visual Attribution](https://arxiv.org/abs/2607.06726v1)** | 2026-07-07 |  |
 | **[UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation](https://arxiv.org/abs/2607.06537v1)** | 2026-07-07 |  |
+| **[POPS: Recovering Unlearned Multi-Modality Knowledge in MLLMs with Prompt-Optimized Parameter Shaking](https://arxiv.org/abs/2607.06649v1)** | 2026-07-07 |  |
 | **[HoloCount: A Holistic Visual Counting Benchmark for MLLMs](https://arxiv.org/abs/2607.06420v1)** | 2026-07-07 | Technical report |
-| **[Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis](https://arxiv.org/abs/2602.00846v2)** | 2026-07-07 | ECCV 2026 |
-| **[Decoding the Multimodal Mind: Generalizable Brain-to-Text Translation via Multimodal Alignment and Adaptive Routing](https://arxiv.org/abs/2505.10356v3)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings</p></details> |
-| **[BabyVision: Visual Reasoning Beyond Language](https://arxiv.org/abs/2601.06521v2)** | 2026-07-07 | <details><summary>26 pa...</summary><p>26 pages, Homepage at https://unipat.ai/blog/BabyVision</p></details> |
-| **[EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving](https://arxiv.org/abs/2604.22851v2)** | 2026-07-07 | <details><summary>36 Pa...</summary><p>36 Pages, Accepted at ECCV 2026</p></details> |
-| **[MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding](https://arxiv.org/abs/2605.30794v2)** | 2026-07-07 | <details><summary>accep...</summary><p>accept by iclm2026, add github link</p></details> |
-| **[From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation](https://arxiv.org/abs/2603.15600v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. 32 pages</p></details> |
-| **[Music I Care About: Automated Multimodal Benchmarking of LLM Music Perception Skills on (Almost) Any Music](https://arxiv.org/abs/2607.06015v1)** | 2026-07-07 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 4 tables</p></details> |
-| **[SparseCtrl-HOI: Sparse Temporal Control for Human-Object Interaction Video Generation](https://arxiv.org/abs/2607.05994v1)** | 2026-07-07 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://mpi-lab.github.io/SparseCtrl-HOI</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
-| **[Embodied Human-Robot Interaction via Acoustics: A MARL Approach with AcoustoBots for Spatial Data Physicalization](https://arxiv.org/abs/2607.06563v1)** | 2026-07-07 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Proceedings of the 2026 International Conference on Robotic System and Artificial Intelligence (RSAI 2026), 10-12 July, 2026, Tokyo, Japan</p></details> |
-| **[VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](https://arxiv.org/abs/2510.13808v2)** | 2026-07-07 | ECCV 2026 |
-| **[Vision as Unified Multimodal Generation](https://arxiv.org/abs/2607.06560v1)** | 2026-07-07 | 48 pages,22 figures |
-| **[RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-4D</p></details> |
-| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
-| **[ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](https://arxiv.org/abs/2607.06555v1)** | 2026-07-07 | 23 pages, 6 figures |
+| **[Co-LMLM: Continuous-Query Limited Memory Language Models](https://arxiv.org/abs/2607.07707v1)** | 2026-07-08 | preprint |
+| **[Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials](https://arxiv.org/abs/2607.07699v1)** | 2026-07-08 | <details><summary>Prese...</summary><p>Presented at SAVI Conference 2026</p></details> |
+| **[Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at AIDB 2026 (co-located with VLDB)</p></details> |
+| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Agent Delivery Engineering Predictive Reliability Framework](https://arxiv.org/abs/2607.07689v1)** | 2026-07-08 | 117pages,83figures |
+| **[Fog Computing and Large Language Models: A vision for mutual beneficiaries](https://arxiv.org/abs/2606.29483v2)** | 2026-07-08 | <details><summary>Paper...</summary><p>Paper accepted for publication at IEEE Computer Magazine. During the final editing, title changed slightly ("The" is removed). PDF now has final DOI</p></details> |
+| **[MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware](https://arxiv.org/abs/2605.05945v7)** | 2026-07-08 |  |
 
