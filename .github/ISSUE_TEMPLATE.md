@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Co-LMLM: Continuous-Query Limited Memory Language Models](https://arxiv.org/abs/2607.07707v1)** | 2026-07-08 | preprint |
-| **[Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials](https://arxiv.org/abs/2607.07699v1)** | 2026-07-08 | <details><summary>Prese...</summary><p>Presented at SAVI Conference 2026</p></details> |
-| **[Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at AIDB 2026 (co-located with VLDB)</p></details> |
-| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Agent Delivery Engineering Predictive Reliability Framework](https://arxiv.org/abs/2607.07689v1)** | 2026-07-08 | 117pages,83figures |
-| **[Fog Computing and Large Language Models: A vision for mutual beneficiaries](https://arxiv.org/abs/2606.29483v2)** | 2026-07-08 | <details><summary>Paper...</summary><p>Paper accepted for publication at IEEE Computer Magazine. During the final editing, title changed slightly ("The" is removed). PDF now has final DOI</p></details> |
-| **[MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware](https://arxiv.org/abs/2605.05945v7)** | 2026-07-08 |  |
+| **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. The dataset and code are available at https://github.com/LSXI7/Wat3R</p></details> |
+| **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/abs/2607.08770v1)** | 2026-07-09 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026. Project page: https://cdfan0627.github.io/LongE2V-page/</p></details> |
+| **[Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](https://arxiv.org/abs/2606.26428v2)** | 2026-07-09 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 4 tables. Project page: https://play2perfect.github.io</p></details> |
+| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project Webpage: https://insta360-research-team.github.io/GGPS-Website</p></details> |
+| **[OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/abs/2607.08766v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project page: https://meigen-ai.github.io/OPSD-V ; Code: https://github.com/MeiGen-AI/OPSD-V</p></details> |
+| **[Enhancing In-context Panoramic Generation via Geometric-aware Pretraining](https://arxiv.org/abs/2607.08765v1)** | 2026-07-09 |  |
+| **[Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling](https://arxiv.org/abs/2607.08757v1)** | 2026-07-09 | <details><summary>27 pa...</summary><p>27 pages, 2 figures, 1 table</p></details> |
+| **[HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion](https://arxiv.org/abs/2602.11117v2)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Website: https://boese0601.github.io/hairweaver/</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Co-LMLM: Continuous-Query Limited Memory Language Models](https://arxiv.org/abs/2607.07707v1)** | 2026-07-08 | preprint |
-| **[From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization](https://arxiv.org/abs/2607.07702v1)** | 2026-07-08 |  |
-| **[Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials](https://arxiv.org/abs/2607.07699v1)** | 2026-07-08 | <details><summary>Prese...</summary><p>Presented at SAVI Conference 2026</p></details> |
-| **[Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at AIDB 2026 (co-located with VLDB)</p></details> |
-| **[Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety](https://arxiv.org/abs/2607.07695v1)** | 2026-07-08 |  |
-| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF](https://arxiv.org/abs/2607.07693v1)** | 2026-07-08 | <details><summary>19 pa...</summary><p>19 pages, 18 figures, 4 tables. Submission under review. A shorter, non-archival 4-page abstract version of this work was accepted to CVPR 2026 Workshops (GCV, CVEU)</p></details> |
-| **[Agent Delivery Engineering Predictive Reliability Framework](https://arxiv.org/abs/2607.07689v1)** | 2026-07-08 | 117pages,83figures |
-| **[$C$-$ΔΘ$: Circuit-Restricted Weight Arithmetic for Selective Refusal](https://arxiv.org/abs/2602.04521v2)** | 2026-07-08 |  |
-| **[Fog Computing and Large Language Models: A vision for mutual beneficiaries](https://arxiv.org/abs/2606.29483v2)** | 2026-07-08 | <details><summary>Paper...</summary><p>Paper accepted for publication at IEEE Computer Magazine. During the final editing, title changed slightly ("The" is removed). PDF now has final DOI</p></details> |
+| **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. The dataset and code are available at https://github.com/LSXI7/Wat3R</p></details> |
+| **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/abs/2607.08770v1)** | 2026-07-09 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026. Project page: https://cdfan0627.github.io/LongE2V-page/</p></details> |
+| **[Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](https://arxiv.org/abs/2606.26428v2)** | 2026-07-09 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 4 tables. Project page: https://play2perfect.github.io</p></details> |
+| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project Webpage: https://insta360-research-team.github.io/GGPS-Website</p></details> |
+| **[OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/abs/2607.08766v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project page: https://meigen-ai.github.io/OPSD-V ; Code: https://github.com/MeiGen-AI/OPSD-V</p></details> |
+| **[Enhancing In-context Panoramic Generation via Geometric-aware Pretraining](https://arxiv.org/abs/2607.08765v1)** | 2026-07-09 |  |
+| **[Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](https://arxiv.org/abs/2607.08758v1)** | 2026-07-09 |  |
+| **[Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling](https://arxiv.org/abs/2607.08757v1)** | 2026-07-09 | <details><summary>27 pa...</summary><p>27 pages, 2 figures, 1 table</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniOPSD: Rationale-Privileged On-Policy Self-Distillation for Affective Computing](https://arxiv.org/abs/2606.15920v2)** | 2026-07-09 |  |
+| **[Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos](https://arxiv.org/abs/2512.01803v3)** | 2026-07-09 |  |
+| **[Switch-Reasoner: Learn When to Think in Multitask Mixtures via Reinforcement Learning](https://arxiv.org/abs/2607.08572v1)** | 2026-07-09 |  |
+| **[UniRef-UAV: A Multimodal Benchmark for Universal Referring in UAV Imagery](https://arxiv.org/abs/2607.08267v1)** | 2026-07-09 |  |
+| **[Scene Graph Thinking: Reinforcing Structured Visual Reasoning for Multimodal Large Language Models](https://arxiv.org/abs/2607.05716v2)** | 2026-07-09 | ICML 2026 |
+| **[Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](https://arxiv.org/abs/2605.24602v3)** | 2026-07-09 |  |
 | **[EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2602.23802v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[EgoExoMem: Cross-View Memory Reasoning over Synchronized Egocentric and Exocentric Videos](https://arxiv.org/abs/2605.18734v2)** | 2026-07-08 | <details><summary>The s...</summary><p>The source code and dataset can be found at https://github.com/RuipingL/EgoExoMem</p></details> |
 | **[What if? Emulative Simulation with World Models for Situated Reasoning](https://arxiv.org/abs/2603.06445v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. The data and code are available at: https://github.com/RuipingL/WanderDream</p></details> |
 | **[Thinking Ahead: Foresight Intelligence in MLLMs and World Model](https://arxiv.org/abs/2511.18735v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model](https://arxiv.org/abs/2607.06882v1)** | 2026-07-08 |  |
-| **[From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics](https://arxiv.org/abs/2603.26772v2)** | 2026-07-07 |  |
-| **[A Good Initialization is All You Need for Faithful Visual Attribution](https://arxiv.org/abs/2607.06726v1)** | 2026-07-07 |  |
-| **[UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation](https://arxiv.org/abs/2607.06537v1)** | 2026-07-07 |  |
-| **[POPS: Recovering Unlearned Multi-Modality Knowledge in MLLMs with Prompt-Optimized Parameter Shaking](https://arxiv.org/abs/2607.06649v1)** | 2026-07-07 |  |
-| **[HoloCount: A Holistic Visual Counting Benchmark for MLLMs](https://arxiv.org/abs/2607.06420v1)** | 2026-07-07 | Technical report |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Co-LMLM: Continuous-Query Limited Memory Language Models](https://arxiv.org/abs/2607.07707v1)** | 2026-07-08 | preprint |
-| **[Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials](https://arxiv.org/abs/2607.07699v1)** | 2026-07-08 | <details><summary>Prese...</summary><p>Presented at SAVI Conference 2026</p></details> |
-| **[Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at AIDB 2026 (co-located with VLDB)</p></details> |
-| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Agent Delivery Engineering Predictive Reliability Framework](https://arxiv.org/abs/2607.07689v1)** | 2026-07-08 | 117pages,83figures |
-| **[Fog Computing and Large Language Models: A vision for mutual beneficiaries](https://arxiv.org/abs/2606.29483v2)** | 2026-07-08 | <details><summary>Paper...</summary><p>Paper accepted for publication at IEEE Computer Magazine. During the final editing, title changed slightly ("The" is removed). PDF now has final DOI</p></details> |
-| **[MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware](https://arxiv.org/abs/2605.05945v7)** | 2026-07-08 |  |
+| **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. The dataset and code are available at https://github.com/LSXI7/Wat3R</p></details> |
+| **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/abs/2607.08770v1)** | 2026-07-09 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026. Project page: https://cdfan0627.github.io/LongE2V-page/</p></details> |
+| **[Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](https://arxiv.org/abs/2606.26428v2)** | 2026-07-09 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 4 tables. Project page: https://play2perfect.github.io</p></details> |
+| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project Webpage: https://insta360-research-team.github.io/GGPS-Website</p></details> |
+| **[OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/abs/2607.08766v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project page: https://meigen-ai.github.io/OPSD-V ; Code: https://github.com/MeiGen-AI/OPSD-V</p></details> |
+| **[Enhancing In-context Panoramic Generation via Geometric-aware Pretraining](https://arxiv.org/abs/2607.08765v1)** | 2026-07-09 |  |
+| **[Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](https://arxiv.org/abs/2607.08758v1)** | 2026-07-09 |  |
+| **[Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling](https://arxiv.org/abs/2607.08757v1)** | 2026-07-09 | <details><summary>27 pa...</summary><p>27 pages, 2 figures, 1 table</p></details> |
 
