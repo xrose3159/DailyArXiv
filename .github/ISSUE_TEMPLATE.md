@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 13, 2026
+title: Latest 15 Papers - July 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. The dataset and code are available at https://github.com/LSXI7/Wat3R</p></details> |
-| **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/abs/2607.08770v1)** | 2026-07-09 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026. Project page: https://cdfan0627.github.io/LongE2V-page/</p></details> |
-| **[Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](https://arxiv.org/abs/2606.26428v2)** | 2026-07-09 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 4 tables. Project page: https://play2perfect.github.io</p></details> |
-| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project Webpage: https://insta360-research-team.github.io/GGPS-Website</p></details> |
-| **[OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/abs/2607.08766v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project page: https://meigen-ai.github.io/OPSD-V ; Code: https://github.com/MeiGen-AI/OPSD-V</p></details> |
-| **[Enhancing In-context Panoramic Generation via Geometric-aware Pretraining](https://arxiv.org/abs/2607.08765v1)** | 2026-07-09 |  |
-| **[Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling](https://arxiv.org/abs/2607.08757v1)** | 2026-07-09 | <details><summary>27 pa...</summary><p>27 pages, 2 figures, 1 table</p></details> |
-| **[HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion](https://arxiv.org/abs/2602.11117v2)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026. Website: https://boese0601.github.io/hairweaver/</p></details> |
+| **[PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis](https://arxiv.org/abs/2607.09662v1)** | 2026-07-10 |  |
+| **[Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation](https://arxiv.org/abs/2502.08645v4)** | 2026-07-10 |  |
+| **[OpenLongTail: Generative Scaling of Long-Tail Driving Data](https://arxiv.org/abs/2607.09655v1)** | 2026-07-10 | <details><summary>Proje...</summary><p>Project page: https://openlongtail.github.io/</p></details> |
+| **[Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979v2)** | 2026-07-10 | <details><summary>A ver...</summary><p>A version of this work has been publicly available from September 2025 on OpenReview</p></details> |
+| **[Machine Learning for Network Attacks Classification and Statistical Evaluation of Adversarial Learning Methodologies for Synthetic Data Generation](https://arxiv.org/abs/2603.17717v4)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE ISCC 2026, Portugal</p></details> |
+| **[XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles](https://arxiv.org/abs/2605.13922v2)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE CITS 2026, Greece</p></details> |
+| **[Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection](https://arxiv.org/abs/2607.09641v1)** | 2026-07-10 | <details><summary>BRACI...</summary><p>BRACIS 2026 - 36th Brazilian Conference on Intelligent Systems</p></details> |
+| **[SPOT-IC: Improving prediction for interval-censored data via survival probability transfer](https://arxiv.org/abs/2607.09640v1)** | 2026-07-10 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. The dataset and code are available at https://github.com/LSXI7/Wat3R</p></details> |
-| **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/abs/2607.08770v1)** | 2026-07-09 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026. Project page: https://cdfan0627.github.io/LongE2V-page/</p></details> |
-| **[Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](https://arxiv.org/abs/2606.26428v2)** | 2026-07-09 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 4 tables. Project page: https://play2perfect.github.io</p></details> |
-| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project Webpage: https://insta360-research-team.github.io/GGPS-Website</p></details> |
-| **[OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/abs/2607.08766v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project page: https://meigen-ai.github.io/OPSD-V ; Code: https://github.com/MeiGen-AI/OPSD-V</p></details> |
-| **[Enhancing In-context Panoramic Generation via Geometric-aware Pretraining](https://arxiv.org/abs/2607.08765v1)** | 2026-07-09 |  |
-| **[Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](https://arxiv.org/abs/2607.08758v1)** | 2026-07-09 |  |
-| **[Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling](https://arxiv.org/abs/2607.08757v1)** | 2026-07-09 | <details><summary>27 pa...</summary><p>27 pages, 2 figures, 1 table</p></details> |
+| **[Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation](https://arxiv.org/abs/2502.08645v4)** | 2026-07-10 |  |
+| **[OpenLongTail: Generative Scaling of Long-Tail Driving Data](https://arxiv.org/abs/2607.09655v1)** | 2026-07-10 | <details><summary>Proje...</summary><p>Project page: https://openlongtail.github.io/</p></details> |
+| **[Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979v2)** | 2026-07-10 | <details><summary>A ver...</summary><p>A version of this work has been publicly available from September 2025 on OpenReview</p></details> |
+| **[ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI](https://arxiv.org/abs/2607.09649v1)** | 2026-07-10 |  |
+| **[Machine Learning for Network Attacks Classification and Statistical Evaluation of Adversarial Learning Methodologies for Synthetic Data Generation](https://arxiv.org/abs/2603.17717v4)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE ISCC 2026, Portugal</p></details> |
+| **[XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles](https://arxiv.org/abs/2605.13922v2)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE CITS 2026, Greece</p></details> |
+| **[Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection](https://arxiv.org/abs/2607.09641v1)** | 2026-07-10 | <details><summary>BRACI...</summary><p>BRACIS 2026 - 36th Brazilian Conference on Intelligent Systems</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](https://arxiv.org/abs/2607.09654v1)** | 2026-07-10 |  |
+| **[Diagnosing Long-Video Quantitative Reasoning in Multimodal LLMs via Enumeration and Counting](https://arxiv.org/abs/2603.29943v2)** | 2026-07-10 | <details><summary>The f...</summary><p>The first two authors are equally contributed. The data and code are publicly available at: https://github.com/matsuolab/EC-Bench</p></details> |
+| **[Multimodal Reward Hacking in Reinforcement Learning](https://arxiv.org/abs/2607.09492v1)** | 2026-07-10 |  |
+| **[SigLIP-HD by Fine-to-Coarse Supervision](https://arxiv.org/abs/2607.09488v1)** | 2026-07-10 | <details><summary>ICLR ...</summary><p>ICLR 2026. Code and model: https://github.com/LiheYoung/SigLIP-HD</p></details> |
+| **[Explaining is Harder Than Predicting Alone: Evaluating Concept-based Explanations of MLLMs as ICL Visual Classifiers](https://arxiv.org/abs/2605.28215v2)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted to the CompLearn Workshop at ICML 2026</p></details> |
+| **[Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback](https://arxiv.org/abs/2604.20730v3)** | 2026-07-10 |  |
+| **[Mixture of Probes: Learning from Privileged Modalities in Multimodal LLMs Through Probing](https://arxiv.org/abs/2607.08839v1)** | 2026-07-09 | Preprint (16 pages) |
 | **[OmniOPSD: Rationale-Privileged On-Policy Self-Distillation for Affective Computing](https://arxiv.org/abs/2606.15920v2)** | 2026-07-09 |  |
 | **[Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos](https://arxiv.org/abs/2512.01803v3)** | 2026-07-09 |  |
 | **[Switch-Reasoner: Learn When to Think in Multitask Mixtures via Reinforcement Learning](https://arxiv.org/abs/2607.08572v1)** | 2026-07-09 |  |
-| **[UniRef-UAV: A Multimodal Benchmark for Universal Referring in UAV Imagery](https://arxiv.org/abs/2607.08267v1)** | 2026-07-09 |  |
-| **[Scene Graph Thinking: Reinforcing Structured Visual Reasoning for Multimodal Large Language Models](https://arxiv.org/abs/2607.05716v2)** | 2026-07-09 | ICML 2026 |
-| **[Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](https://arxiv.org/abs/2605.24602v3)** | 2026-07-09 |  |
-| **[EMO-R3: Reflective Reinforcement Learning for Emotional Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2602.23802v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[EgoExoMem: Cross-View Memory Reasoning over Synchronized Egocentric and Exocentric Videos](https://arxiv.org/abs/2605.18734v2)** | 2026-07-08 | <details><summary>The s...</summary><p>The source code and dataset can be found at https://github.com/RuipingL/EgoExoMem</p></details> |
-| **[What if? Emulative Simulation with World Models for Situated Reasoning](https://arxiv.org/abs/2603.06445v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026. The data and code are available at: https://github.com/RuipingL/WanderDream</p></details> |
-| **[Thinking Ahead: Foresight Intelligence in MLLMs and World Model](https://arxiv.org/abs/2511.18735v3)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. The dataset and code are available at https://github.com/LSXI7/Wat3R</p></details> |
-| **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/abs/2607.08770v1)** | 2026-07-09 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026. Project page: https://cdfan0627.github.io/LongE2V-page/</p></details> |
-| **[Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](https://arxiv.org/abs/2606.26428v2)** | 2026-07-09 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 4 tables. Project page: https://play2perfect.github.io</p></details> |
-| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project Webpage: https://insta360-research-team.github.io/GGPS-Website</p></details> |
-| **[OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/abs/2607.08766v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project page: https://meigen-ai.github.io/OPSD-V ; Code: https://github.com/MeiGen-AI/OPSD-V</p></details> |
-| **[Enhancing In-context Panoramic Generation via Geometric-aware Pretraining](https://arxiv.org/abs/2607.08765v1)** | 2026-07-09 |  |
-| **[Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](https://arxiv.org/abs/2607.08758v1)** | 2026-07-09 |  |
-| **[Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling](https://arxiv.org/abs/2607.08757v1)** | 2026-07-09 | <details><summary>27 pa...</summary><p>27 pages, 2 figures, 1 table</p></details> |
+| **[Re$^3$Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation](https://arxiv.org/abs/2502.08645v4)** | 2026-07-10 |  |
+| **[OpenLongTail: Generative Scaling of Long-Tail Driving Data](https://arxiv.org/abs/2607.09655v1)** | 2026-07-10 | <details><summary>Proje...</summary><p>Project page: https://openlongtail.github.io/</p></details> |
+| **[Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](https://arxiv.org/abs/2607.09654v1)** | 2026-07-10 |  |
+| **[Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979v2)** | 2026-07-10 | <details><summary>A ver...</summary><p>A version of this work has been publicly available from September 2025 on OpenReview</p></details> |
+| **[Machine Learning for Network Attacks Classification and Statistical Evaluation of Adversarial Learning Methodologies for Synthetic Data Generation](https://arxiv.org/abs/2603.17717v4)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE ISCC 2026, Portugal</p></details> |
+| **[XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles](https://arxiv.org/abs/2605.13922v2)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE CITS 2026, Greece</p></details> |
+| **[Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection](https://arxiv.org/abs/2607.09641v1)** | 2026-07-10 | <details><summary>BRACI...</summary><p>BRACIS 2026 - 36th Brazilian Conference on Intelligent Systems</p></details> |
+| **[SPOT-IC: Improving prediction for interval-censored data via survival probability transfer](https://arxiv.org/abs/2607.09640v1)** | 2026-07-10 |  |
 
