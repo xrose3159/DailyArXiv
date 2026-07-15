@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2026
+title: Latest 15 Papers - July 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,40 +7,42 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data](https://arxiv.org/abs/2607.11883v1)** | 2026-07-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/shikaiqiu/requential-coding</p></details> |
-| **[Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks](https://arxiv.org/abs/2607.11875v1)** | 2026-07-13 |  |
-| **[A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873v1)** | 2026-07-13 | 12 pages, 2 figures |
-| **[Evidence-Backed Video Question Answering](https://arxiv.org/abs/2607.11862v1)** | 2026-07-13 |  |
+| **[DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website: https://dense-reward.github.io/</p></details> |
+| **[TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale](https://arxiv.org/abs/2607.13028v1)** | 2026-07-14 | <details><summary>Techn...</summary><p>Technical Report from Applied Intuition Research</p></details> |
+| **[PalmClaw: A Native On-Device Agent Framework for Mobile Phones](https://arxiv.org/abs/2607.13027v1)** | 2026-07-14 |  |
+| **[A Shortcut to Statistically Steady-State Turbulence with Flow Matching](https://arxiv.org/abs/2607.13022v1)** | 2026-07-14 |  |
+| **[Software Supply Chains are Dead: Use-Case-Oriented Regeneration](https://arxiv.org/abs/2607.13021v1)** | 2026-07-14 | <details><summary>[ESEM...</summary><p>[ESEM'26-ERVR] Proceedings of the 20th International Symposium on Empirical Software Engineering and Measurement (ESEM 2026 Emerging Results, Vision, and Reflection Papers)</p></details> |
+| **[Privacy Attacks on Stable Marriage](https://arxiv.org/abs/2607.13015v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted and presented at the 2026 IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent-Identity Tuning in Text-to-Image Personalization Models](https://arxiv.org/abs/2607.11885v1)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project page at: https://garibida.github.io/IdentityTuning/</p></details> |
-| **[Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation](https://arxiv.org/abs/2607.11884v1)** | 2026-07-13 |  |
-| **[Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data](https://arxiv.org/abs/2607.11883v1)** | 2026-07-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/shikaiqiu/requential-coding</p></details> |
-| **[Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks](https://arxiv.org/abs/2607.11875v1)** | 2026-07-13 |  |
-| **[A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873v1)** | 2026-07-13 | 12 pages, 2 figures |
+| **[DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website: https://dense-reward.github.io/</p></details> |
+| **[TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale](https://arxiv.org/abs/2607.13028v1)** | 2026-07-14 | <details><summary>Techn...</summary><p>Technical Report from Applied Intuition Research</p></details> |
+| **[PalmClaw: A Native On-Device Agent Framework for Mobile Phones](https://arxiv.org/abs/2607.13027v1)** | 2026-07-14 |  |
+| **[A Shortcut to Statistically Steady-State Turbulence with Flow Matching](https://arxiv.org/abs/2607.13022v1)** | 2026-07-14 |  |
+| **[Privacy Attacks on Stable Marriage](https://arxiv.org/abs/2607.13015v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted and presented at the 2026 IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation](https://arxiv.org/abs/2607.11886v1)** | 2026-07-13 |  |
-| **[Beyond the Single Camera: Agentic Multi-View Reasoning in Sports Video Understanding](https://arxiv.org/abs/2607.11844v1)** | 2026-07-13 |  |
-| **[ProAct: A Benchmark and Multimodal Framework for Structure-Aware Proactive Response](https://arxiv.org/abs/2602.03430v3)** | 2026-07-13 |  |
-| **[PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/abs/2604.22823v2)** | 2026-07-13 |  |
-| **[MAGIC: Transition-Aware Generation of Navigable Multi-Scene Game Worlds with Large Language Models](https://arxiv.org/abs/2607.11594v1)** | 2026-07-13 |  |
-| **[Actor as Its Own Critic: Unifying Region Understanding and Localization via CycleGRPO](https://arxiv.org/abs/2607.11581v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Sat2RealCity: Geometry-Aware and Appearance-Controllable 3D Urban Generation from Satellite Imagery](https://arxiv.org/abs/2511.11470v2)** | 2026-07-13 |  |
-| **[Parse, Search, and Confirmation: Training-Free Aerial Vision-and-Dialog Navigation with Chain-of-Thought Reasoning and Structured Spatial Memory](https://arxiv.org/abs/2607.11529v1)** | 2026-07-13 | <details><summary>10 pa...</summary><p>10 pages, 4 figures. Accepted to CVPR 2026</p></details> |
-| **[NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning](https://arxiv.org/abs/2606.27826v2)** | 2026-07-13 | <details><summary>This ...</summary><p>This revision updates two figures and adds the prompts used in the paper to the appendix</p></details> |
-| **[Scene Graph Thinking: Reinforcing Structured Visual Reasoning for Multimodal Large Language Models](https://arxiv.org/abs/2607.05716v3)** | 2026-07-13 | ICML 2026 |
+| **[FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation](https://arxiv.org/abs/2607.12982v1)** | 2026-07-14 |  |
+| **[Open-KNEAD: Knowledge-grounded Nutrition Estimation via Agentic Decomposition](https://arxiv.org/abs/2607.12911v1)** | 2026-07-14 | <details><summary>10 pa...</summary><p>10 pages main paper, 5 pages supplementary</p></details> |
+| **[Do We Really Need Multimodal Emotion Language Models Larger Than 1B Parameters?](https://arxiv.org/abs/2607.12787v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM2026</p></details> |
+| **[EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval](https://arxiv.org/abs/2607.12764v1)** | 2026-07-14 | <details><summary>10 pa...</summary><p>10 pages main paper, 6 figures. CVPR 2026 accepted paper</p></details> |
+| **[NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing](https://arxiv.org/abs/2603.16307v2)** | 2026-07-14 | Accepted by ECCV2026 |
+| **[Comparative Analysis of Inference-Time Defense Methods for Multimodal Large Language Models](https://arxiv.org/abs/2606.10904v2)** | 2026-07-14 |  |
+| **[DynTrace: Tracking Dynamic Object Evidence for 4D Spatio-Temporal Reasoning in MLLMs](https://arxiv.org/abs/2607.12503v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
+| **[Sat2RealCity: Geometry-Aware and Appearance-Controllable 3D Urban Generation from Satellite Imagery](https://arxiv.org/abs/2511.11470v3)** | 2026-07-14 | <details><summary>The f...</summary><p>The first two authors contributed equally. The fourth author is the corresponding author</p></details> |
+| **[Where Not to Learn: Prior-Aligned Training with Subset-based Attribution Constraints for Reliable Decision-Making](https://arxiv.org/abs/2602.07008v3)** | 2026-07-14 |  |
+| **[Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence](https://arxiv.org/abs/2607.12477v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website:https://choucisan.github.io/publications/self-in-space ; Code:https://github.com/IntelliSensing/Self-in-Space</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data](https://arxiv.org/abs/2607.11883v1)** | 2026-07-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/shikaiqiu/requential-coding</p></details> |
-| **[Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks](https://arxiv.org/abs/2607.11875v1)** | 2026-07-13 |  |
-| **[A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873v1)** | 2026-07-13 | 12 pages, 2 figures |
-| **[Evidence-Backed Video Question Answering](https://arxiv.org/abs/2607.11862v1)** | 2026-07-13 |  |
-| **[Causal Discovery in Mixtures of Populations](https://arxiv.org/abs/2311.07454v6)** | 2026-07-13 | Accepted to UAI 2026 |
+| **[DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website: https://dense-reward.github.io/</p></details> |
+| **[TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale](https://arxiv.org/abs/2607.13028v1)** | 2026-07-14 | <details><summary>Techn...</summary><p>Technical Report from Applied Intuition Research</p></details> |
+| **[PalmClaw: A Native On-Device Agent Framework for Mobile Phones](https://arxiv.org/abs/2607.13027v1)** | 2026-07-14 |  |
+| **[A Shortcut to Statistically Steady-State Turbulence with Flow Matching](https://arxiv.org/abs/2607.13022v1)** | 2026-07-14 |  |
+| **[Privacy Attacks on Stable Marriage](https://arxiv.org/abs/2607.13015v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted and presented at the 2026 IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
 
