@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 17, 2026
+title: Latest 15 Papers - July 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,46 +7,45 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Leveraging unlabelled data for generalizable neural population decoding](https://arxiv.org/abs/2607.14086v1)** | 2026-07-15 |  |
-| **[Linear Independent Component Analysis via Optimal Transport](https://arxiv.org/abs/2607.14081v1)** | 2026-07-15 |  |
-| **[Executing Discrete/Continuous Declarative Process Specifications via Complex Event Processing](https://arxiv.org/abs/2512.05653v2)** | 2026-07-15 | Preprint |
-| **[From Pixels to States: Rethinking Interactive World Models as Game Engines](https://arxiv.org/abs/2607.14076v1)** | 2026-07-15 |  |
-| **[MetaPerch: Learning from metadata for bioacoustics foundation models](https://arxiv.org/abs/2607.14072v1)** | 2026-07-15 | Accepted to ICML 26 |
-| **[Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes](https://arxiv.org/abs/2607.14070v1)** | 2026-07-15 |  |
-| **[Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization](https://arxiv.org/abs/2607.07513v2)** | 2026-07-15 | 23 pages, 2 figures |
+| **[Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278v1)** | 2026-07-16 |  |
+| **[Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](https://arxiv.org/abs/2607.15277v1)** | 2026-07-16 |  |
+| **[Online Neural Space Time Memory for Dynamic Novel View Synthesis](https://arxiv.org/abs/2607.15271v1)** | 2026-07-16 | <details><summary>15 pa...</summary><p>15 pages. Preprint. Project page with demos and video results: https://nst-mem.github.io</p></details> |
+| **[Pretraining Data Can Be Poisoned through Computational Propaganda](https://arxiv.org/abs/2607.15267v1)** | 2026-07-16 |  |
+| **[Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier](https://arxiv.org/abs/2607.15258v1)** | 2026-07-16 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at the IEEE International Symposium on Computers and Communications (ISCC 2026)</p></details> |
+| **[teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](https://arxiv.org/abs/2607.15254v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2025 Workshop on UrbanAI. 6 pages</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Leveraging unlabelled data for generalizable neural population decoding](https://arxiv.org/abs/2607.14086v1)** | 2026-07-15 |  |
-| **[Linear Independent Component Analysis via Optimal Transport](https://arxiv.org/abs/2607.14081v1)** | 2026-07-15 |  |
-| **[Executing Discrete/Continuous Declarative Process Specifications via Complex Event Processing](https://arxiv.org/abs/2512.05653v2)** | 2026-07-15 | Preprint |
-| **[From Pixels to States: Rethinking Interactive World Models as Game Engines](https://arxiv.org/abs/2607.14076v1)** | 2026-07-15 |  |
-| **[MetaPerch: Learning from metadata for bioacoustics foundation models](https://arxiv.org/abs/2607.14072v1)** | 2026-07-15 | Accepted to ICML 26 |
-| **[Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes](https://arxiv.org/abs/2607.14070v1)** | 2026-07-15 |  |
+| **[Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278v1)** | 2026-07-16 |  |
+| **[Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](https://arxiv.org/abs/2607.15277v1)** | 2026-07-16 |  |
+| **[Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography](https://arxiv.org/abs/2607.15268v1)** | 2026-07-16 |  |
+| **[Pretraining Data Can Be Poisoned through Computational Propaganda](https://arxiv.org/abs/2607.15267v1)** | 2026-07-16 |  |
+| **[Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents](https://arxiv.org/abs/2607.15263v1)** | 2026-07-16 |  |
+| **[Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier](https://arxiv.org/abs/2607.15258v1)** | 2026-07-16 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at the IEEE International Symposium on Computers and Communications (ISCC 2026)</p></details> |
+| **[teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](https://arxiv.org/abs/2607.15254v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2025 Workshop on UrbanAI. 6 pages</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair](https://arxiv.org/abs/2607.14075v1)** | 2026-07-15 | <details><summary>The p...</summary><p>The paper was completed in March 2026 and is currently under review. The code will be released upon acceptance</p></details> |
-| **[Advancing Multimodal Judge Models through a Capability-Oriented Benchmark and MCTS-Driven Data Generation](https://arxiv.org/abs/2603.00546v2)** | 2026-07-15 |  |
-| **[Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild](https://arxiv.org/abs/2607.13881v1)** | 2026-07-15 |  |
-| **[Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models](https://arxiv.org/abs/2607.13860v1)** | 2026-07-15 |  |
-| **[Fre-Res: Frequency-Residual Video Token Compression for Efficient Video MLLMs](https://arxiv.org/abs/2605.16366v2)** | 2026-07-15 | 24 pages, 5 figures |
-| **[EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent](https://arxiv.org/abs/2607.13792v1)** | 2026-07-15 |  |
-| **[Inverting the Streaming-Diffusion Bottleneck: Video-Rate MLLM-Conditioned Edit Diffusion on a Consumer GPU](https://arxiv.org/abs/2606.05981v2)** | 2026-07-15 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 13 tables. Code, evaluation harness, and the released Temporal LLLite adapter weights are at https://github.com/otanl/dreamlite-stream (also mirrored to Hugging Face and Zenodo)</p></details> |
-| **[Groc-PO: Grounded Context Preference Optimization for Truthful Multimodal LLMs](https://arxiv.org/abs/2607.13712v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted by ACM-MM 2026</p></details> |
-| **[Evidence Recomposition and Predictive Context Residualization for Visual Attribution in Multimodal Large Language Models](https://arxiv.org/abs/2509.22415v4)** | 2026-07-15 |  |
-| **[Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents](https://arxiv.org/abs/2511.18685v4)** | 2026-07-15 | Accepted to ECCV2026 |
+| **[Symbal: Detecting Systematic Misalignments in Model-Generated Captions](https://arxiv.org/abs/2607.15216v1)** | 2026-07-16 | ICML 2026 |
+| **[Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](https://arxiv.org/abs/2607.15176v1)** | 2026-07-16 |  |
+| **[Beyond Single Expert: Harmonizing Diverse Visual Priors in MLLMs for Spatial Understanding](https://arxiv.org/abs/2607.15054v1)** | 2026-07-16 |  |
+| **[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935v1)** | 2026-07-16 |  |
+| **[When Models Meet Users An Empirical Study of Perceptions of General LLMs and Multimodal LLMs on Hugging Face](https://arxiv.org/abs/2604.05782v2)** | 2026-07-16 |  |
+| **[Auditing Inference-Time Defense Evaluation for Multimodal Large Language Models](https://arxiv.org/abs/2606.10904v3)** | 2026-07-16 |  |
+| **[Toward Robust In-Context Segmentation via Concept Guidance](https://arxiv.org/abs/2606.28149v2)** | 2026-07-16 | ECCV 2026 |
+| **[ReBind: Multi-Reference Video Editing via Structured Instructions with Explicit Reference Relationships](https://arxiv.org/abs/2607.14681v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project Page: https://rebind-mrv2v.github.io/</p></details> |
+| **[VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance](https://arxiv.org/abs/2607.14660v1)** | 2026-07-16 |  |
+| **[TopoAgent: A Self-Evolving Topological Agent for Multimodal Scientific Reasoning](https://arxiv.org/abs/2607.14658v1)** | 2026-07-16 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Leveraging unlabelled data for generalizable neural population decoding](https://arxiv.org/abs/2607.14086v1)** | 2026-07-15 |  |
-| **[Linear Independent Component Analysis via Optimal Transport](https://arxiv.org/abs/2607.14081v1)** | 2026-07-15 |  |
-| **[Executing Discrete/Continuous Declarative Process Specifications via Complex Event Processing](https://arxiv.org/abs/2512.05653v2)** | 2026-07-15 | Preprint |
-| **[From Pixels to States: Rethinking Interactive World Models as Game Engines](https://arxiv.org/abs/2607.14076v1)** | 2026-07-15 |  |
-| **[MetaPerch: Learning from metadata for bioacoustics foundation models](https://arxiv.org/abs/2607.14072v1)** | 2026-07-15 | Accepted to ICML 26 |
-| **[Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes](https://arxiv.org/abs/2607.14070v1)** | 2026-07-15 |  |
-| **[Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization](https://arxiv.org/abs/2607.07513v2)** | 2026-07-15 | 23 pages, 2 figures |
+| **[Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278v1)** | 2026-07-16 |  |
+| **[Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](https://arxiv.org/abs/2607.15277v1)** | 2026-07-16 |  |
+| **[Pretraining Data Can Be Poisoned through Computational Propaganda](https://arxiv.org/abs/2607.15267v1)** | 2026-07-16 |  |
+| **[SceneBind: Binding What and Where Across Vision, Audio and Language](https://arxiv.org/abs/2607.15265v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project website: https://scenebind.github.io/</p></details> |
+| **[Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier](https://arxiv.org/abs/2607.15258v1)** | 2026-07-16 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at the IEEE International Symposium on Computers and Communications (ISCC 2026)</p></details> |
+| **[teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](https://arxiv.org/abs/2607.15254v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2025 Workshop on UrbanAI. 6 pages</p></details> |
 
