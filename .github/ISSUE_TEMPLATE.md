@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 24, 2026
+title: Latest 15 Papers - July 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,42 +7,44 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion](https://arxiv.org/abs/2607.20417v1)** | 2026-07-22 |  |
-| **[Mapped ADMM: A Robust Algorithm for 1-Bit mMIMO Detection](https://arxiv.org/abs/2607.20414v1)** | 2026-07-22 |  |
-| **[GapFuzz: Cross-Plane Divergence Fuzzing for Distributed SDN Controllers](https://arxiv.org/abs/2606.11035v3)** | 2026-07-22 |  |
-| **[Is Randomness Necessary for Adaptive Data Analysis?](https://arxiv.org/abs/2607.07085v2)** | 2026-07-22 |  |
-| **[Fara-1.5: Scalable Learning Environments for Computer Use Agents](https://arxiv.org/abs/2606.20785v2)** | 2026-07-22 |  |
+| **[Unified Video Dense Prediction from Disjoint Data](https://arxiv.org/abs/2607.21592v1)** | 2026-07-23 | ECCV 2026 |
+| **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
+| **[Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation](https://arxiv.org/abs/2607.21582v1)** | 2026-07-23 |  |
+| **[GraphVid: Interactive Graph-Controllable Video Generation](https://arxiv.org/abs/2607.21580v1)** | 2026-07-23 |  |
+| **[Synthetic data generation framework for quality control automation in gravure printing](https://arxiv.org/abs/2607.21577v1)** | 2026-07-23 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. To be submitted to Journal of Engineering Research (Elsevier). Certain TeX commands are supported</p></details> |
+| **[Self-Supervised Learning of Structured Dynamics from Videos](https://arxiv.org/abs/2607.21576v1)** | 2026-07-23 | <details><summary>prepr...</summary><p>preprint, Project page: https://lukasknobel.github.io/projects/StructuredDynamics</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pure-DP Statistical Query Release at the Conjectured Square-Root Rate](https://arxiv.org/abs/2607.20418v1)** | 2026-07-22 | <details><summary>23 pa...</summary><p>23 pages; companion Lean 4 formalization included as ancillary material</p></details> |
-| **[ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion](https://arxiv.org/abs/2607.20417v1)** | 2026-07-22 |  |
-| **[Mapped ADMM: A Robust Algorithm for 1-Bit mMIMO Detection](https://arxiv.org/abs/2607.20414v1)** | 2026-07-22 |  |
-| **[GapFuzz: Cross-Plane Divergence Fuzzing for Distributed SDN Controllers](https://arxiv.org/abs/2606.11035v3)** | 2026-07-22 |  |
-| **[Is Randomness Necessary for Adaptive Data Analysis?](https://arxiv.org/abs/2607.07085v2)** | 2026-07-22 |  |
-| **[Fara-1.5: Scalable Learning Environments for Computer Use Agents](https://arxiv.org/abs/2606.20785v2)** | 2026-07-22 |  |
+| **[Unified Video Dense Prediction from Disjoint Data](https://arxiv.org/abs/2607.21592v1)** | 2026-07-23 | ECCV 2026 |
+| **[Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning](https://arxiv.org/abs/2607.21591v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project page: https://www.vision.caltech.edu/psp. Code: https://github.com/rogerioagjr/psp</p></details> |
+| **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
+| **[Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation](https://arxiv.org/abs/2607.21582v1)** | 2026-07-23 |  |
+| **[GraphVid: Interactive Graph-Controllable Video Generation](https://arxiv.org/abs/2607.21580v1)** | 2026-07-23 |  |
+| **[Synthetic data generation framework for quality control automation in gravure printing](https://arxiv.org/abs/2607.21577v1)** | 2026-07-23 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. To be submitted to Journal of Engineering Research (Elsevier). Certain TeX commands are supported</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PercepCap: Video Captioner with Structured Spatio-Temporal Perception](https://arxiv.org/abs/2607.20389v1)** | 2026-07-22 |  |
-| **[Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs](https://arxiv.org/abs/2607.20357v1)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[Diverse-Intent Multi-Turn Fashion Image Retrieval](https://arxiv.org/abs/2607.20291v1)** | 2026-07-22 |  |
-| **[Multimodal Large Language Models for Remote Sensing Image Understanding: Domain-Specific or General-Purpose?](https://arxiv.org/abs/2607.20284v1)** | 2026-07-22 | 27 pages, 11 figures |
-| **[Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework](https://arxiv.org/abs/2601.06550v4)** | 2026-07-22 |  |
-| **[RS-RIE-Bench: Benchmarking Reasoning-Guided Remote Sensing Image Editing](https://arxiv.org/abs/2607.20197v1)** | 2026-07-22 |  |
-| **[Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2606.21863v2)** | 2026-07-22 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted for publication in IEEE Geoscience and Remote Sensing Letters (GRSL)</p></details> |
-| **[Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection](https://arxiv.org/abs/2512.16300v3)** | 2026-07-22 | 18 pages, 7 figures |
-| **[MV-Bench: Benchmarking Multimodal Large Language Models for Coordinated Multi-View Interface Construction](https://arxiv.org/abs/2607.19910v1)** | 2026-07-22 | <details><summary>Submi...</summary><p>Submitted to IEEE VIS 2026</p></details> |
-| **[Memory-Augmented Multimodal Large Language Models for Small Object Understanding in Streaming Aerial Videos](https://arxiv.org/abs/2607.19857v1)** | 2026-07-22 |  |
+| **[VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method](https://arxiv.org/abs/2607.21400v1)** | 2026-07-23 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 2 tables. Project page: https://admire-ljb.github.io/VoLN-UAV/</p></details> |
+| **[Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance](https://arxiv.org/abs/2602.05774v5)** | 2026-07-23 |  |
+| **[Unlearning Under Imbalance: Benchmarking Fairness in Multimodal LLM Unlearning](https://arxiv.org/abs/2607.21300v1)** | 2026-07-23 | 33 pages |
+| **[HalluScope: Fine-grained Hallucination Diagnosis for Multimodal Large Language Models](https://arxiv.org/abs/2607.21105v1)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2026 (ACM MM 2026). This is not the camera-ready version. 18 pages, 7 figures, 12 tables</p></details> |
+| **[Geo3R: Mitigating Spatial Reasoning Hallucination in Multimodal Large Language Models](https://arxiv.org/abs/2607.21085v1)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026. This is the arXiv preprint version, not the camera-ready</p></details> |
+| **[C-PTQ: Fisher-weighted Channel-wise Sensitivity for Post-training Quantization of MLLMs](https://arxiv.org/abs/2607.21076v1)** | 2026-07-23 | 7 pages |
+| **[MVEI & EmObserver: Empowering MLLM-Oriented Visual Emotional Intelligence via Emotion Statement Judgement](https://arxiv.org/abs/2607.21061v1)** | 2026-07-23 |  |
+| **[EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization](https://arxiv.org/abs/2607.21013v1)** | 2026-07-23 |  |
+| **[Cambrian-P: Pose-Grounded Video Understanding](https://arxiv.org/abs/2605.22819v2)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Page: https://cambrian-mllm.github.io/</p></details> |
+| **[ViSTR-Bench: Can MLLMs Reason from Continuous Visual Cues in Dynamic Scenes?](https://arxiv.org/abs/2607.20868v1)** | 2026-07-23 | 37 pages, 37 figures |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mapped ADMM: A Robust Algorithm for 1-Bit mMIMO Detection](https://arxiv.org/abs/2607.20414v1)** | 2026-07-22 |  |
-| **[GapFuzz: Cross-Plane Divergence Fuzzing for Distributed SDN Controllers](https://arxiv.org/abs/2606.11035v3)** | 2026-07-22 |  |
-| **[Is Randomness Necessary for Adaptive Data Analysis?](https://arxiv.org/abs/2607.07085v2)** | 2026-07-22 |  |
-| **[Fara-1.5: Scalable Learning Environments for Computer Use Agents](https://arxiv.org/abs/2606.20785v2)** | 2026-07-22 |  |
-| **[SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data](https://arxiv.org/abs/2607.20402v1)** | 2026-07-22 |  |
+| **[Unified Video Dense Prediction from Disjoint Data](https://arxiv.org/abs/2607.21592v1)** | 2026-07-23 | ECCV 2026 |
+| **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
+| **[Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation](https://arxiv.org/abs/2607.21582v1)** | 2026-07-23 |  |
+| **[GraphVid: Interactive Graph-Controllable Video Generation](https://arxiv.org/abs/2607.21580v1)** | 2026-07-23 |  |
+| **[Synthetic data generation framework for quality control automation in gravure printing](https://arxiv.org/abs/2607.21577v1)** | 2026-07-23 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. To be submitted to Journal of Engineering Research (Elsevier). Certain TeX commands are supported</p></details> |
+| **[Self-Supervised Learning of Structured Dynamics from Videos](https://arxiv.org/abs/2607.21576v1)** | 2026-07-23 | <details><summary>prepr...</summary><p>preprint, Project page: https://lukasknobel.github.io/projects/StructuredDynamics</p></details> |
 
