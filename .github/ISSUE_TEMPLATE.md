@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2026
+title: Latest 15 Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,40 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?](https://arxiv.org/abs/2607.27203v1)** | 2026-07-29 |  |
-| **[From Classification to Regression: Using a Fruitfly to Solve Equations](https://arxiv.org/abs/2607.27196v1)** | 2026-07-29 |  |
-| **[VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion](https://arxiv.org/abs/2607.27194v1)** | 2026-07-29 |  |
-| **[The Fidelity and Feedback Traps: The Case for Health Digital Twins as Modular Evolving Causal Systems](https://arxiv.org/abs/2607.27192v1)** | 2026-07-29 |  |
-| **[Self-Configurable Mesh-Networks for Scalable Distributed Submodular Bandit Optimization](https://arxiv.org/abs/2602.19366v2)** | 2026-07-29 |  |
-| **[Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction](https://arxiv.org/abs/2603.21809v2)** | 2026-07-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables. Under review at MICCAI 2026</p></details> |
-| **[DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search](https://arxiv.org/abs/2607.27178v1)** | 2026-07-29 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables</p></details> |
-| **[Wasserstein gradient flows for Coulomb discrepancies](https://arxiv.org/abs/2607.12579v2)** | 2026-07-29 | <details><summary>50 pa...</summary><p>50 pages, v2: (i) Added a global metric PL inequality on the torus for near-uniform targets, with the implied exponential convergence for the gradient flows. (ii) Proved rigidity of Lagrangian critical points when the positive part of the source-target discrepancy is absolutely continuous, and obtained qualitative convergence of finite-energy solutions on R^2 via logarithmic-capacity tightness</p></details> |
+| **[ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine](https://arxiv.org/abs/2607.28625v1)** | 2026-07-30 | <details><summary>Proje...</summary><p>Project Page: https://ace-data-engine.github.io/ACE-Data-0/</p></details> |
+| **[AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](https://arxiv.org/abs/2607.28618v1)** | 2026-07-30 |  |
+| **[Neurosymbolic Imitation Learning with Human Guidance: A Privileged Information Approach](https://arxiv.org/abs/2605.07166v2)** | 2026-07-30 | <details><summary>Prepr...</summary><p>Preprint Accepted at IJCLR 2026</p></details> |
+| **[Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers](https://arxiv.org/abs/2607.28611v1)** | 2026-07-30 | 40 pages |
+| **[OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://arxiv.org/abs/2607.28609v1)** | 2026-07-30 | Work in progress |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?](https://arxiv.org/abs/2607.27203v1)** | 2026-07-29 |  |
-| **[From Classification to Regression: Using a Fruitfly to Solve Equations](https://arxiv.org/abs/2607.27196v1)** | 2026-07-29 |  |
-| **[VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion](https://arxiv.org/abs/2607.27194v1)** | 2026-07-29 |  |
-| **[The Fidelity and Feedback Traps: The Case for Health Digital Twins as Modular Evolving Causal Systems](https://arxiv.org/abs/2607.27192v1)** | 2026-07-29 |  |
-| **[Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes](https://arxiv.org/abs/2607.27188v1)** | 2026-07-29 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, 2 tables. Submitted to the 7th ACM International Conference on AI in Finance (ICAIF 2026)</p></details> |
-| **[Self-Configurable Mesh-Networks for Scalable Distributed Submodular Bandit Optimization](https://arxiv.org/abs/2602.19366v2)** | 2026-07-29 |  |
-| **[Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction](https://arxiv.org/abs/2603.21809v2)** | 2026-07-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables. Under review at MICCAI 2026</p></details> |
-| **[DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search](https://arxiv.org/abs/2607.27178v1)** | 2026-07-29 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables</p></details> |
+| **[ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](https://arxiv.org/abs/2607.28627v1)** | 2026-07-30 | <details><summary>Code:...</summary><p>Code: https://github.com/avaxiao/ReToken</p></details> |
+| **[ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine](https://arxiv.org/abs/2607.28625v1)** | 2026-07-30 | <details><summary>Proje...</summary><p>Project Page: https://ace-data-engine.github.io/ACE-Data-0/</p></details> |
+| **[Neurosymbolic Imitation Learning with Human Guidance: A Privileged Information Approach](https://arxiv.org/abs/2605.07166v2)** | 2026-07-30 | <details><summary>Prepr...</summary><p>Preprint Accepted at IJCLR 2026</p></details> |
+| **[Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers](https://arxiv.org/abs/2607.28611v1)** | 2026-07-30 | 40 pages |
+| **[OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://arxiv.org/abs/2607.28609v1)** | 2026-07-30 | Work in progress |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications](https://arxiv.org/abs/2607.27145v1)** | 2026-07-29 | 14 pages |
-| **[Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection](https://arxiv.org/abs/2607.27113v1)** | 2026-07-29 |  |
-| **[Visual Credit Audit for Multimodal Spatial Reasoning](https://arxiv.org/abs/2607.27069v1)** | 2026-07-29 | <details><summary>"`tex...</summary><p>"`text 20 pages, 2 figures. Code: https://github.com/SouthWinter/VCA</p></details> |
-| **[Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic Multimodal Reasoning](https://arxiv.org/abs/2508.16129v3)** | 2026-07-29 |  |
-| **[Progressive Multimodal Alignment for Continual Instruction Tuning](https://arxiv.org/abs/2607.26947v1)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted by ACM MM2026</p></details> |
-| **[VistaHop: Benchmarking Long-Horizon Visual DeepSearch](https://arxiv.org/abs/2606.03273v2)** | 2026-07-29 |  |
-| **[ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM](https://arxiv.org/abs/2506.14766v3)** | 2026-07-29 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[SMSP: A Plug-and-Play Strategy of Multi-Scale Perception for MLLMs to Perceive Visual Illusions](https://arxiv.org/abs/2603.23118v2)** | 2026-07-29 |  |
-| **[Ouroboros-Spatial: Closing the Data-Model Loop for Spatial Reasoning](https://arxiv.org/abs/2606.11719v2)** | 2026-07-29 |  |
-| **[MapTab: A Diagnostic Benchmark for Long-Horizon Multi-Criteria Multimodal Reasoning on Heterogeneous Topological Graphs](https://arxiv.org/abs/2602.18600v5)** | 2026-07-29 |  |
+| **[Beacon: Knowing When and How to Perform Agentic Visual Reasoning](https://arxiv.org/abs/2607.28595v1)** | 2026-07-30 | 33 pages |
+| **[Beyond Frame Selection: Generative Latent Evidence Aggregation for Long-Video Understanding](https://arxiv.org/abs/2607.28516v1)** | 2026-07-30 |  |
+| **[LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structured Evidence Ledger](https://arxiv.org/abs/2607.28374v1)** | 2026-07-30 |  |
+| **[Capturing Token Tendencies for Training-Free Token Pruning in Multimodal Large Language Models](https://arxiv.org/abs/2607.28341v1)** | 2026-07-30 |  |
+| **[PathView-Bench: Can Multimodal Large Language Models Achieve Fine-grained Multiscale Understanding of Pathology Images?](https://arxiv.org/abs/2607.28318v1)** | 2026-07-30 |  |
+| **[FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval](https://arxiv.org/abs/2607.27959v1)** | 2026-07-30 |  |
+| **[LAST: The Last Query Token Guides Visual Token Pruning for Edge-Cloud Collaborative MLLM Inference](https://arxiv.org/abs/2607.27952v1)** | 2026-07-30 |  |
+| **[VizPilot: Automated Onboarding for SVG-based Composite Visualizations using Multimodal LLMs](https://arxiv.org/abs/2607.27938v1)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted by IEEE VIS 2026</p></details> |
+| **[One Patch Is Enough: Reinforcement-Optimized Visual Token Grounding for MLLM-Based Scene Text Spotting](https://arxiv.org/abs/2607.27902v1)** | 2026-07-30 | <details><summary>15 pa...</summary><p>15 pages, 11 figures. Accepted to ACM Multimedia 2026</p></details> |
+| **[MMHBench: A Multi-Perspective Benchmark for Mental Health Understanding in Long-Form Videos](https://arxiv.org/abs/2607.27895v1)** | 2026-07-30 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?](https://arxiv.org/abs/2607.27203v1)** | 2026-07-29 |  |
-| **[From Classification to Regression: Using a Fruitfly to Solve Equations](https://arxiv.org/abs/2607.27196v1)** | 2026-07-29 |  |
-| **[VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion](https://arxiv.org/abs/2607.27194v1)** | 2026-07-29 |  |
-| **[The Fidelity and Feedback Traps: The Case for Health Digital Twins as Modular Evolving Causal Systems](https://arxiv.org/abs/2607.27192v1)** | 2026-07-29 |  |
-| **[Self-Configurable Mesh-Networks for Scalable Distributed Submodular Bandit Optimization](https://arxiv.org/abs/2602.19366v2)** | 2026-07-29 |  |
-| **[Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction](https://arxiv.org/abs/2603.21809v2)** | 2026-07-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables. Under review at MICCAI 2026</p></details> |
-| **[DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search](https://arxiv.org/abs/2607.27178v1)** | 2026-07-29 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 12 tables</p></details> |
-| **[Wasserstein gradient flows for Coulomb discrepancies](https://arxiv.org/abs/2607.12579v2)** | 2026-07-29 | <details><summary>50 pa...</summary><p>50 pages, v2: (i) Added a global metric PL inequality on the torus for near-uniform targets, with the implied exponential convergence for the gradient flows. (ii) Proved rigidity of Lagrangian critical points when the positive part of the source-target discrepancy is absolutely continuous, and obtained qualitative convergence of finite-energy solutions on R^2 via logarithmic-capacity tightness</p></details> |
+| **[ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine](https://arxiv.org/abs/2607.28625v1)** | 2026-07-30 | <details><summary>Proje...</summary><p>Project Page: https://ace-data-engine.github.io/ACE-Data-0/</p></details> |
+| **[Neurosymbolic Imitation Learning with Human Guidance: A Privileged Information Approach](https://arxiv.org/abs/2605.07166v2)** | 2026-07-30 | <details><summary>Prepr...</summary><p>Preprint Accepted at IJCLR 2026</p></details> |
+| **[Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers](https://arxiv.org/abs/2607.28611v1)** | 2026-07-30 | 40 pages |
+| **[OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](https://arxiv.org/abs/2607.28609v1)** | 2026-07-30 | Work in progress |
 
