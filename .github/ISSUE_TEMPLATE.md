@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,43 +7,45 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation](https://arxiv.org/abs/2608.07463v1)** | 2026-08-07 | <details><summary>Proje...</summary><p>Project Page: https://youjunzhao.github.io/MirrorWorld/</p></details> |
-| **[SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation](https://arxiv.org/abs/2608.07462v1)** | 2026-08-07 |  |
-| **[Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages](https://arxiv.org/abs/2605.02608v2)** | 2026-08-07 |  |
-| **[Strategy-first synthesis planning for complex natural products](https://arxiv.org/abs/2608.07454v1)** | 2026-08-07 |  |
-| **[An Analysis of Architectural and Operational Dynamics of Phishkits in the Wild](https://arxiv.org/abs/2608.07451v1)** | 2026-08-07 |  |
-| **[OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557v3)** | 2026-08-07 | added github link |
-| **[AfriNLLB: Efficient Translation Models for African Languages](https://arxiv.org/abs/2602.09373v2)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted at AfricaNLP 2026 (oral, spotlight)</p></details> |
+| **[Multilingual Agent-Based World Modeling for Social Science](https://arxiv.org/abs/2512.07195v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
+| **[From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](https://arxiv.org/abs/2608.09925v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at AIES 2026</p></details> |
+| **[GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](https://arxiv.org/abs/2608.09921v1)** | 2026-08-10 |  |
+| **[WhichTok? Comparing Three TikTok Data Acquisition Tools](https://arxiv.org/abs/2608.09917v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This paper has been accepted for the upcoming 21st International AAAI Conference on Web and Social Media (ICWSM'27)</p></details> |
+| **[Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation](https://arxiv.org/abs/2608.09914v1)** | 2026-08-10 |  |
+| **[Price of Censorship: Censorship Resistance and Throughput under Rational Concurrent Proposers](https://arxiv.org/abs/2607.16995v3)** | 2026-08-10 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages](https://arxiv.org/abs/2605.02608v2)** | 2026-08-07 |  |
-| **[An Analysis of Architectural and Operational Dynamics of Phishkits in the Wild](https://arxiv.org/abs/2608.07451v1)** | 2026-08-07 |  |
-| **[OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557v3)** | 2026-08-07 | added github link |
-| **[AfriNLLB: Efficient Translation Models for African Languages](https://arxiv.org/abs/2602.09373v2)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted at AfricaNLP 2026 (oral, spotlight)</p></details> |
-| **[PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents](https://arxiv.org/abs/2608.07438v1)** | 2026-08-07 | <details><summary>12 pa...</summary><p>12 pages main paper + 10 pages supplementary material; supplementary material included</p></details> |
+| **[Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions](https://arxiv.org/abs/2608.09930v1)** | 2026-08-10 | Work in progress |
+| **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v1)** | 2026-08-10 | <details><summary>Prepr...</summary><p>Preprint. Accepted at ICML 2026 Trustworthy AI for Good Workshop</p></details> |
+| **[Multilingual Agent-Based World Modeling for Social Science](https://arxiv.org/abs/2512.07195v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
+| **[From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](https://arxiv.org/abs/2608.09925v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at AIES 2026</p></details> |
+| **[GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](https://arxiv.org/abs/2608.09921v1)** | 2026-08-10 |  |
+| **[WhichTok? Comparing Three TikTok Data Acquisition Tools](https://arxiv.org/abs/2608.09917v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This paper has been accepted for the upcoming 21st International AAAI Conference on Web and Social Media (ICWSM'27)</p></details> |
+| **[Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation](https://arxiv.org/abs/2608.09914v1)** | 2026-08-10 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning](https://arxiv.org/abs/2608.07417v1)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ACM Multimedia 2026 (MM '26). 6 figures, 5 tables</p></details> |
-| **[An AI4AI Framework for Visual Token Pruning](https://arxiv.org/abs/2608.07193v1)** | 2026-08-07 |  |
-| **[HFS: Holistic Query-Aware Frame Selection for Efficient Video Understanding](https://arxiv.org/abs/2512.11534v2)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to the Main Track of ACM Multimedia 2026 (ACM MM '26)</p></details> |
-| **[RoRA: Role-Oriented Regional Allocation for Visual Token Pruning in MLLMs](https://arxiv.org/abs/2608.07088v1)** | 2026-08-07 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 4 tables. Code is available at https://github.com/LukieLuu/RoRA</p></details> |
-| **[Debias in Text, Believe Your Eyes: Text-Anchored Cross-Modal Transfer for Visual Counter-Commonsense Reasoning](https://arxiv.org/abs/2608.06938v1)** | 2026-08-07 |  |
-| **[Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931v1)** | 2026-08-07 |  |
-| **[Judge a Book by its Cover: Investigating Multi-Modal LLMs for Multi-Page Handwritten Document Transcription](https://arxiv.org/abs/2502.20295v3)** | 2026-08-07 | <details><summary>10 pa...</summary><p>10 pages (36 including references and appendices), 11 figures, accepted at COLM 2026, earlier version accepted at AAAI 2025 Workshop on Document Understanding and Intelligence</p></details> |
-| **[Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection](https://arxiv.org/abs/2608.06865v1)** | 2026-08-07 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 14 tables</p></details> |
-| **[Text2Villa: Hierarchical Generation of 3D Indoor Environments with Physics-Aware Analysis-by-Synthesis](https://arxiv.org/abs/2607.17145v2)** | 2026-08-07 | <details><summary>17 pa...</summary><p>17 pages, 12 figures, Project page: https://xdlbw.github.io/Text2Villa/</p></details> |
+| **[Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots](https://arxiv.org/abs/2608.09931v1)** | 2026-08-10 | BMVC 2026 |
+| **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v1)** | 2026-08-10 | <details><summary>Prepr...</summary><p>Preprint. Accepted at ICML 2026 Trustworthy AI for Good Workshop</p></details> |
+| **[DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning](https://arxiv.org/abs/2608.09907v1)** | 2026-08-10 |  |
+| **[Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains](https://arxiv.org/abs/2608.09873v1)** | 2026-08-10 | COLM 2026 |
+| **[VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs](https://arxiv.org/abs/2510.16598v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2026</p></details> |
+| **[ADOPD: Reference-Privileged On-Policy Distillation for MLLM-Based Industrial Anomaly Detection](https://arxiv.org/abs/2608.09789v1)** | 2026-08-10 |  |
+| **[HFS: Holistic Query-Aware Frame Selection for Efficient Video Understanding](https://arxiv.org/abs/2512.11534v3)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted to the Main Track of ACM Multimedia 2026 (ACM MM '26)</p></details> |
+| **[Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching](https://arxiv.org/abs/2608.09654v1)** | 2026-08-10 |  |
+| **[SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding](https://arxiv.org/abs/2608.05137v3)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
+| **[VideoVIBE: A Video-Grounded Diagnostic Benchmark for One-Shot Interactive Website Generation](https://arxiv.org/abs/2608.09573v1)** | 2026-08-10 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages](https://arxiv.org/abs/2605.02608v2)** | 2026-08-07 |  |
-| **[An Analysis of Architectural and Operational Dynamics of Phishkits in the Wild](https://arxiv.org/abs/2608.07451v1)** | 2026-08-07 |  |
-| **[OpenForgeRL: Train Harness-native Agents in Any Environment](https://arxiv.org/abs/2607.21557v3)** | 2026-08-07 | added github link |
-| **[AfriNLLB: Efficient Translation Models for African Languages](https://arxiv.org/abs/2602.09373v2)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted at AfricaNLP 2026 (oral, spotlight)</p></details> |
-| **[Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing](https://arxiv.org/abs/2608.07437v1)** | 2026-08-07 |  |
-| **[SABRE: Scalable and Automated Benchmarking of VLMs under Stress](https://arxiv.org/abs/2608.07435v1)** | 2026-08-07 | <details><summary>22 pa...</summary><p>22 pages, 10 figures. Code and resources will be available at https://zesearch.github.io/vlm-SABRE/</p></details> |
+| **[Multilingual Agent-Based World Modeling for Social Science](https://arxiv.org/abs/2512.07195v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
+| **[From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](https://arxiv.org/abs/2608.09925v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at AIES 2026</p></details> |
+| **[GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](https://arxiv.org/abs/2608.09921v1)** | 2026-08-10 |  |
+| **[WhichTok? Comparing Three TikTok Data Acquisition Tools](https://arxiv.org/abs/2608.09917v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This paper has been accepted for the upcoming 21st International AAAI Conference on Web and Social Media (ICWSM'27)</p></details> |
+| **[Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation](https://arxiv.org/abs/2608.09914v1)** | 2026-08-10 |  |
+| **[Price of Censorship: Censorship Resistance and Throughput under Rational Concurrent Proposers](https://arxiv.org/abs/2607.16995v3)** | 2026-08-10 |  |
 
