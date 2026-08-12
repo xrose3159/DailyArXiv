@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,45 +7,47 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multilingual Agent-Based World Modeling for Social Science](https://arxiv.org/abs/2512.07195v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
-| **[From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](https://arxiv.org/abs/2608.09925v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at AIES 2026</p></details> |
-| **[GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](https://arxiv.org/abs/2608.09921v1)** | 2026-08-10 |  |
-| **[WhichTok? Comparing Three TikTok Data Acquisition Tools](https://arxiv.org/abs/2608.09917v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This paper has been accepted for the upcoming 21st International AAAI Conference on Web and Social Media (ICWSM'27)</p></details> |
-| **[Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation](https://arxiv.org/abs/2608.09914v1)** | 2026-08-10 |  |
-| **[Price of Censorship: Censorship Resistance and Throughput under Rational Concurrent Proposers](https://arxiv.org/abs/2607.16995v3)** | 2026-08-10 |  |
+| **[Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning](https://arxiv.org/abs/2608.11204v1)** | 2026-08-11 |  |
+| **[Capturing Uncertainty in Human Motion for Representation Learning in Soccer](https://arxiv.org/abs/2608.11203v1)** | 2026-08-11 |  |
+| **[VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics](https://arxiv.org/abs/2608.11201v1)** | 2026-08-11 | 27 pages, 15 figures |
+| **[ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls](https://arxiv.org/abs/2608.11200v1)** | 2026-08-11 |  |
+| **[OpenVisTool: An Open Recipe for Synthesizing Instructive Visual Tool-Use Trajectories](https://arxiv.org/abs/2608.08557v2)** | 2026-08-11 |  |
+| **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v4)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
+| **[HERITRACE: a domain-agnostic framework for SHACL-driven RDF curation with provenance and change tracking](https://arxiv.org/abs/2605.01941v2)** | 2026-08-11 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. Accepted at ISWC 2026</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions](https://arxiv.org/abs/2608.09930v1)** | 2026-08-10 | Work in progress |
-| **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v1)** | 2026-08-10 | <details><summary>Prepr...</summary><p>Preprint. Accepted at ICML 2026 Trustworthy AI for Good Workshop</p></details> |
-| **[Multilingual Agent-Based World Modeling for Social Science](https://arxiv.org/abs/2512.07195v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
-| **[From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](https://arxiv.org/abs/2608.09925v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at AIES 2026</p></details> |
-| **[GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](https://arxiv.org/abs/2608.09921v1)** | 2026-08-10 |  |
-| **[WhichTok? Comparing Three TikTok Data Acquisition Tools](https://arxiv.org/abs/2608.09917v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This paper has been accepted for the upcoming 21st International AAAI Conference on Web and Social Media (ICWSM'27)</p></details> |
-| **[Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation](https://arxiv.org/abs/2608.09914v1)** | 2026-08-10 |  |
+| **[Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning](https://arxiv.org/abs/2608.11204v1)** | 2026-08-11 |  |
+| **[Capturing Uncertainty in Human Motion for Representation Learning in Soccer](https://arxiv.org/abs/2608.11203v1)** | 2026-08-11 |  |
+| **[VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics](https://arxiv.org/abs/2608.11201v1)** | 2026-08-11 | 27 pages, 15 figures |
+| **[ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls](https://arxiv.org/abs/2608.11200v1)** | 2026-08-11 |  |
+| **[OpenVisTool: An Open Recipe for Synthesizing Instructive Visual Tool-Use Trajectories](https://arxiv.org/abs/2608.08557v2)** | 2026-08-11 |  |
+| **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v4)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
+| **[HERITRACE: a domain-agnostic framework for SHACL-driven RDF curation with provenance and change tracking](https://arxiv.org/abs/2605.01941v2)** | 2026-08-11 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. Accepted at ISWC 2026</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots](https://arxiv.org/abs/2608.09931v1)** | 2026-08-10 | BMVC 2026 |
-| **[Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v1)** | 2026-08-10 | <details><summary>Prepr...</summary><p>Preprint. Accepted at ICML 2026 Trustworthy AI for Good Workshop</p></details> |
-| **[DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning](https://arxiv.org/abs/2608.09907v1)** | 2026-08-10 |  |
-| **[Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains](https://arxiv.org/abs/2608.09873v1)** | 2026-08-10 | COLM 2026 |
-| **[VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs](https://arxiv.org/abs/2510.16598v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2026</p></details> |
-| **[ADOPD: Reference-Privileged On-Policy Distillation for MLLM-Based Industrial Anomaly Detection](https://arxiv.org/abs/2608.09789v1)** | 2026-08-10 |  |
-| **[HFS: Holistic Query-Aware Frame Selection for Efficient Video Understanding](https://arxiv.org/abs/2512.11534v3)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted to the Main Track of ACM Multimedia 2026 (ACM MM '26)</p></details> |
-| **[Hallucination-Free GUI Grounding via Regression-Free Layout-Aware Matching](https://arxiv.org/abs/2608.09654v1)** | 2026-08-10 |  |
-| **[SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding](https://arxiv.org/abs/2608.05137v3)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2026</p></details> |
-| **[VideoVIBE: A Video-Grounded Diagnostic Benchmark for One-Shot Interactive Website Generation](https://arxiv.org/abs/2608.09573v1)** | 2026-08-10 |  |
+| **[VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics](https://arxiv.org/abs/2608.11201v1)** | 2026-08-11 | 27 pages, 15 figures |
+| **[Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation](https://arxiv.org/abs/2608.11191v1)** | 2026-08-11 |  |
+| **[MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment](https://arxiv.org/abs/2608.11167v1)** | 2026-08-11 |  |
+| **[PRMU: A Corpus-Free Benchmark for Person-Centric Knowledge Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2608.11149v1)** | 2026-08-11 |  |
+| **[PinpointQA: A Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos](https://arxiv.org/abs/2604.08991v3)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshop on Embodied Multimodal Reasoning in Physical Environments (EMR)</p></details> |
+| **[Covert Visual Prompt Injection against Commercial Multimodal Large Language Models](https://arxiv.org/abs/2603.29418v2)** | 2026-08-11 |  |
+| **[CARE: Confidence-Aware Reasoning for Reliable Medical VQA](https://arxiv.org/abs/2608.10964v1)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
+| **[Evidence-Grounded Trustworthy Multimodal Reasoning and Evaluation Benchmark in Complex Urban Scenes](https://arxiv.org/abs/2608.10954v1)** | 2026-08-11 | Accepted by IJCV |
+| **[StreamFlow: Dynamic Memory Flows for Streaming Video Understanding](https://arxiv.org/abs/2608.10949v1)** | 2026-08-11 |  |
+| **[Temporally Grounded Compositional Camera Motion Understanding via Geometric Knowledge Distillation](https://arxiv.org/abs/2608.10932v1)** | 2026-08-11 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multilingual Agent-Based World Modeling for Social Science](https://arxiv.org/abs/2512.07195v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
-| **[From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](https://arxiv.org/abs/2608.09925v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at AIES 2026</p></details> |
-| **[GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](https://arxiv.org/abs/2608.09921v1)** | 2026-08-10 |  |
-| **[WhichTok? Comparing Three TikTok Data Acquisition Tools](https://arxiv.org/abs/2608.09917v1)** | 2026-08-10 | <details><summary>This ...</summary><p>This paper has been accepted for the upcoming 21st International AAAI Conference on Web and Social Media (ICWSM'27)</p></details> |
-| **[Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation](https://arxiv.org/abs/2608.09914v1)** | 2026-08-10 |  |
-| **[Price of Censorship: Censorship Resistance and Throughput under Rational Concurrent Proposers](https://arxiv.org/abs/2607.16995v3)** | 2026-08-10 |  |
+| **[Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning](https://arxiv.org/abs/2608.11204v1)** | 2026-08-11 |  |
+| **[Capturing Uncertainty in Human Motion for Representation Learning in Soccer](https://arxiv.org/abs/2608.11203v1)** | 2026-08-11 |  |
+| **[VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics](https://arxiv.org/abs/2608.11201v1)** | 2026-08-11 | 27 pages, 15 figures |
+| **[ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls](https://arxiv.org/abs/2608.11200v1)** | 2026-08-11 |  |
+| **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v4)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
+| **[HERITRACE: a domain-agnostic framework for SHACL-driven RDF curation with provenance and change tracking](https://arxiv.org/abs/2605.01941v2)** | 2026-08-11 | <details><summary>20 pa...</summary><p>20 pages, 5 figures. Accepted at ISWC 2026</p></details> |
+| **[HyWA: Architecture-Preserving Personalized Voice Activity Detection for Full-Duplex Voice Assistants](https://arxiv.org/abs/2510.12947v3)** | 2026-08-11 | <details><summary>Submi...</summary><p>Submitted to AAAI/IAAI 2027. Hamed, Amin, and Mahsa contributed equally to this work</p></details> |
 
