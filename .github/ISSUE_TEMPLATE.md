@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2026
+title: Latest 15 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,43 +7,50 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generation-Powered Inference for Distribution-Valued Outcomes](https://arxiv.org/abs/2608.14542v1)** | 2026-08-14 | 36 pages, 5 figures |
-| **[Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](https://arxiv.org/abs/2608.14539v1)** | 2026-08-14 |  |
-| **[Why we need an AI-resilient society](https://arxiv.org/abs/1912.08786v3)** | 2026-08-14 | <details><summary>Versi...</summary><p>Version 3. 21 pages. For associated TEDx video, see https://youtu.be/f6c2ngp7rqY</p></details> |
-| **[Visualizing Uncertainty in Non-linear Projections with Ensembles](https://arxiv.org/abs/2608.14513v1)** | 2026-08-14 |  |
-| **[A Two-Branch Finite-Field Construction for Regular CSS LDPC Bases](https://arxiv.org/abs/2605.23894v2)** | 2026-08-14 | <details><summary>v2: C...</summary><p>v2: Corrected the coordinate lists of the explicit weight-32 X- and Z-type logical representatives. The corrected supports have zero syndrome and increase the corresponding stabilizer-row rank from 3066 to 3067; the bounds 10<=d_X,d_Z,d<=32 are unchanged</p></details> |
-| **[RecipeNet: A Hierarchical Transformer for Recipe Data](https://arxiv.org/abs/2608.14505v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
+| **[Q-based Variational Inverse Reinforcement Learning](https://arxiv.org/abs/2608.16888v1)** | 2026-08-17 |  |
+| **[An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models](https://arxiv.org/abs/2608.16887v1)** | 2026-08-17 | <details><summary>Z-Ima...</summary><p>Z-Image-Pixel & Empirical Insight of Training Pixel-Space Diffusion Models</p></details> |
+| **[The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](https://arxiv.org/abs/2607.18237v2)** | 2026-08-17 | <details><summary>Proje...</summary><p>Project Webpage: https://peterwang512.github.io/TPIPS Code: https://github.com/adobe-research/TPIPS</p></details> |
+| **[$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](https://arxiv.org/abs/2608.16885v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Project page: https://tau0-vla.github.io/</p></details> |
+| **[Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers](https://arxiv.org/abs/2607.23811v2)** | 2026-08-17 | 11 pages, ICASSP |
+| **[AutoSR: Automatic Symbolic Regression by Searching Research States](https://arxiv.org/abs/2608.16876v1)** | 2026-08-17 |  |
+| **[An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators](https://arxiv.org/abs/2608.16873v1)** | 2026-08-17 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 1 table</p></details> |
+| **[Impression Share Prediction: An Offline Evaluation Task for Ranking Systems](https://arxiv.org/abs/2608.16872v1)** | 2026-08-17 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generation-Powered Inference for Distribution-Valued Outcomes](https://arxiv.org/abs/2608.14542v1)** | 2026-08-14 | 36 pages, 5 figures |
-| **[Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](https://arxiv.org/abs/2608.14539v1)** | 2026-08-14 |  |
-| **[Why we need an AI-resilient society](https://arxiv.org/abs/1912.08786v3)** | 2026-08-14 | <details><summary>Versi...</summary><p>Version 3. 21 pages. For associated TEDx video, see https://youtu.be/f6c2ngp7rqY</p></details> |
-| **[Visualizing Uncertainty in Non-linear Projections with Ensembles](https://arxiv.org/abs/2608.14513v1)** | 2026-08-14 |  |
-| **[Bayesian Optimization of Crossbar-Based Compute-In-Memory System Design for Efficient DNN Inference](https://arxiv.org/abs/2605.08461v2)** | 2026-08-14 |  |
+| **[Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](https://arxiv.org/abs/2608.16889v1)** | 2026-08-17 |  |
+| **[Q-based Variational Inverse Reinforcement Learning](https://arxiv.org/abs/2608.16888v1)** | 2026-08-17 |  |
+| **[An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models](https://arxiv.org/abs/2608.16887v1)** | 2026-08-17 | <details><summary>Z-Ima...</summary><p>Z-Image-Pixel & Empirical Insight of Training Pixel-Space Diffusion Models</p></details> |
+| **[The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](https://arxiv.org/abs/2607.18237v2)** | 2026-08-17 | <details><summary>Proje...</summary><p>Project Webpage: https://peterwang512.github.io/TPIPS Code: https://github.com/adobe-research/TPIPS</p></details> |
+| **[$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](https://arxiv.org/abs/2608.16885v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Project page: https://tau0-vla.github.io/</p></details> |
+| **[AutoSR: Automatic Symbolic Regression by Searching Research States](https://arxiv.org/abs/2608.16876v1)** | 2026-08-17 |  |
+| **[An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators](https://arxiv.org/abs/2608.16873v1)** | 2026-08-17 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 1 table</p></details> |
+| **[Impression Share Prediction: An Offline Evaluation Task for Ranking Systems](https://arxiv.org/abs/2608.16872v1)** | 2026-08-17 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CVT-Bench: Probing Spatial-State Integrity through Counterfactual Viewpoint Transformations](https://arxiv.org/abs/2603.21114v2)** | 2026-08-14 | <details><summary>Refra...</summary><p>Reframed CVT-Bench around spatial-state integrity, added real-world benchmark derived from 3dSGG, context controls and other minor changes. 21 pages, 10 figures, 15 tables. Project page: https://shanmukha-here.github.io/CVT-Bench</p></details> |
-| **[Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination](https://arxiv.org/abs/2608.14391v1)** | 2026-08-14 | <details><summary>63 pa...</summary><p>63 pages, 20 figures, 32 tables</p></details> |
-| **[Spatial Message Passing in Language Space for Pathology Image Interpretation](https://arxiv.org/abs/2608.14309v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 Workshop (Oral)</p></details> |
-| **[ActFER: Agentic Facial Expression Recognition via Active Tool-Augmented Visual Reasoning](https://arxiv.org/abs/2604.08990v2)** | 2026-08-14 | 10 pages, 7 figures |
-| **[Seeing is Coding: On the Effectiveness of Vision Language Models in Code Understanding](https://arxiv.org/abs/2602.01785v3)** | 2026-08-14 | <details><summary>ISSTA...</summary><p>ISSTA 2026 camera ready. Code and data are available at https://github.com/YerbaPage/CodeOCR</p></details> |
-| **[Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions](https://arxiv.org/abs/2608.14132v1)** | 2026-08-14 |  |
-| **[InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors](https://arxiv.org/abs/2608.14070v1)** | 2026-08-14 | <details><summary>23 pa...</summary><p>23 pages, 10 figures. Dingbao Shao and Song Wu contributed equally. Zili Yi is the corresponding author</p></details> |
-| **[Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling](https://arxiv.org/abs/2607.15740v2)** | 2026-08-14 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, ECCV 2026 Workshop FAILED</p></details> |
-| **[Beyond Text Conditioning: A Systematic Study of MLLM-DiT Fusion for Video Generation](https://arxiv.org/abs/2608.14043v1)** | 2026-08-14 |  |
-| **[MMDynOpt-Agent: Dynamic Optimization for Multimodal Large Language Model Reasoning via Reinforcement Learning](https://arxiv.org/abs/2608.14026v1)** | 2026-08-14 |  |
+| **[SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](https://arxiv.org/abs/2508.09105v3)** | 2026-08-17 |  |
+| **[AnchorScore: A CLIP-Based Diagnostic of MLLM Annotation Difficulty](https://arxiv.org/abs/2608.16690v1)** | 2026-08-17 | <details><summary>37 pa...</summary><p>37 pages, 7 figures, 12 tables</p></details> |
+| **[Douyin Multimodal Embedding Model Technical Report](https://arxiv.org/abs/2608.02148v2)** | 2026-08-17 | Technical Report |
+| **[Matched Outcomes, Divergent Gaze: How Foveated MLLMs Search Compared to Humans](https://arxiv.org/abs/2608.16514v1)** | 2026-08-17 | <details><summary>Paper...</summary><p>Paper accepted at 3rd HCV workshop at ECCV 2026. 12 pages main text, 16 pages supp</p></details> |
+| **[MLLM-Guided Semantic Correction for Text-to-Video Generation](https://arxiv.org/abs/2608.16513v1)** | 2026-08-17 |  |
+| **[Remote-Sensing City Layout Extraction with MLLM](https://arxiv.org/abs/2608.16484v1)** | 2026-08-17 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, 4 tables. Accepted to IEEE APGARSS 2026</p></details> |
+| **[RISE: Roadside Infrastructure Sequence Understanding across 3D Tracking and Structured Vision-Language Reasoning](https://arxiv.org/abs/2608.16480v1)** | 2026-08-17 |  |
+| **[mR$^2$AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://arxiv.org/abs/2411.15041v2)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Multimedia (TMM)</p></details> |
+| **[Defake-o3: From Speculative Rationales to Verifiable Evidence for Explainable AIGI Detection](https://arxiv.org/abs/2608.16259v1)** | 2026-08-17 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
+| **[Benchmarking Foundation and Large Language Models for Few-Shot Medical Image Segmentation](https://arxiv.org/abs/2607.27856v2)** | 2026-08-17 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generation-Powered Inference for Distribution-Valued Outcomes](https://arxiv.org/abs/2608.14542v1)** | 2026-08-14 | 36 pages, 5 figures |
-| **[Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](https://arxiv.org/abs/2608.14539v1)** | 2026-08-14 |  |
-| **[Why we need an AI-resilient society](https://arxiv.org/abs/1912.08786v3)** | 2026-08-14 | <details><summary>Versi...</summary><p>Version 3. 21 pages. For associated TEDx video, see https://youtu.be/f6c2ngp7rqY</p></details> |
-| **[Visualizing Uncertainty in Non-linear Projections with Ensembles](https://arxiv.org/abs/2608.14513v1)** | 2026-08-14 |  |
-| **[A Two-Branch Finite-Field Construction for Regular CSS LDPC Bases](https://arxiv.org/abs/2605.23894v2)** | 2026-08-14 | <details><summary>v2: C...</summary><p>v2: Corrected the coordinate lists of the explicit weight-32 X- and Z-type logical representatives. The corrected supports have zero syndrome and increase the corresponding stabilizer-row rank from 3066 to 3067; the bounds 10<=d_X,d_Z,d<=32 are unchanged</p></details> |
-| **[RecipeNet: A Hierarchical Transformer for Recipe Data](https://arxiv.org/abs/2608.14505v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
+| **[Q-based Variational Inverse Reinforcement Learning](https://arxiv.org/abs/2608.16888v1)** | 2026-08-17 |  |
+| **[An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models](https://arxiv.org/abs/2608.16887v1)** | 2026-08-17 | <details><summary>Z-Ima...</summary><p>Z-Image-Pixel & Empirical Insight of Training Pixel-Space Diffusion Models</p></details> |
+| **[The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](https://arxiv.org/abs/2607.18237v2)** | 2026-08-17 | <details><summary>Proje...</summary><p>Project Webpage: https://peterwang512.github.io/TPIPS Code: https://github.com/adobe-research/TPIPS</p></details> |
+| **[$τ_0$-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation](https://arxiv.org/abs/2608.16885v1)** | 2026-08-17 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Project page: https://tau0-vla.github.io/</p></details> |
+| **[AutoSR: Automatic Symbolic Regression by Searching Research States](https://arxiv.org/abs/2608.16876v1)** | 2026-08-17 |  |
+| **[An Analytical-Prior Framework for Data-Efficient Prediction of Sound-Reduction Frequencies in Rectangular Side-Branch Helmholtz Resonators](https://arxiv.org/abs/2608.16873v1)** | 2026-08-17 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, 1 table</p></details> |
+| **[Impression Share Prediction: An Offline Evaluation Task for Ranking Systems](https://arxiv.org/abs/2608.16872v1)** | 2026-08-17 |  |
+| **[Biophysics-informed deep operator learning for inverse problems with application to electrophysiological source reconstruction](https://arxiv.org/abs/2608.16871v1)** | 2026-08-17 |  |
 
