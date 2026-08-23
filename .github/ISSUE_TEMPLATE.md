@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2026
+title: Latest 15 Papers - August 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications](https://arxiv.org/abs/2608.19191v1)** | 2026-08-19 |  |
-| **[SiNMULI: Novel Signed Network Approach for Malicious URL Identification](https://arxiv.org/abs/2608.19190v1)** | 2026-08-19 | <details><summary>31 Pa...</summary><p>31 Pages , 13 Figures</p></details> |
-| **[Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture](https://arxiv.org/abs/2608.19177v1)** | 2026-08-19 |  |
-| **[AMPLIFAI: A Multiphase CT Dataset for Benchmarking Clinical Reasoning in LI-RADS Assessment of Liver Lesions](https://arxiv.org/abs/2608.14778v2)** | 2026-08-19 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 3 tables</p></details> |
-| **[Cell-Probe Lower Bounds and Complexity-Preserving Reductions for Suffix Array Queries](https://arxiv.org/abs/2608.19172v1)** | 2026-08-19 |  |
-| **[Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention](https://arxiv.org/abs/2608.19171v1)** | 2026-08-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures. Under review at TMLR</p></details> |
-| **[Cross-Cohort Spectral-Temporal Dissociation in Frozen EEG Foundation-Model Representations](https://arxiv.org/abs/2607.24834v3)** | 2026-08-19 | <details><summary>I fou...</summary><p>I found a computational error in one of the tables that needs to be fixed; and it may take 2-3 weeks</p></details> |
-| **[ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos](https://arxiv.org/abs/2608.19165v1)** | 2026-08-19 |  |
+| **[WithEveryone: Unified Planning and Identity Grounding for Group Image Generation](https://arxiv.org/abs/2608.20336v1)** | 2026-08-20 | <details><summary>Proje...</summary><p>Project Page: doby-xu.github.io/WithEveryone/ ;Code will be released: github.com/Doby-Xu/WithEveryone/</p></details> |
+| **[Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/abs/2608.20334v1)** | 2026-08-20 | 28 pages, 11 figures |
+| **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
+| **[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](https://arxiv.org/abs/2608.20320v1)** | 2026-08-20 |  |
+| **[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](https://arxiv.org/abs/2608.20318v1)** | 2026-08-20 |  |
+| **[Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records](https://arxiv.org/abs/2608.20315v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted at MLHC 2026; to appear in Proceedings of Machine Learning Research (PMLR)</p></details> |
+| **[MidTool: Mid-training Data Synthesis for Agentic Tool Use](https://arxiv.org/abs/2608.20314v1)** | 2026-08-20 | <details><summary>Data ...</summary><p>Data & Model: https://hf.co/collections/MidTool/midtool-release</p></details> |
+| **[Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis](https://arxiv.org/abs/2608.20312v1)** | 2026-08-20 | 24 pages, 10 figures |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications](https://arxiv.org/abs/2608.19191v1)** | 2026-08-19 |  |
-| **[SiNMULI: Novel Signed Network Approach for Malicious URL Identification](https://arxiv.org/abs/2608.19190v1)** | 2026-08-19 | <details><summary>31 Pa...</summary><p>31 Pages , 13 Figures</p></details> |
-| **[Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture](https://arxiv.org/abs/2608.19177v1)** | 2026-08-19 |  |
-| **[AMPLIFAI: A Multiphase CT Dataset for Benchmarking Clinical Reasoning in LI-RADS Assessment of Liver Lesions](https://arxiv.org/abs/2608.14778v2)** | 2026-08-19 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 3 tables</p></details> |
-| **[Cell-Probe Lower Bounds and Complexity-Preserving Reductions for Suffix Array Queries](https://arxiv.org/abs/2608.19172v1)** | 2026-08-19 |  |
-| **[Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention](https://arxiv.org/abs/2608.19171v1)** | 2026-08-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures. Under review at TMLR</p></details> |
-| **[Cross-Cohort Spectral-Temporal Dissociation in Frozen EEG Foundation-Model Representations](https://arxiv.org/abs/2607.24834v3)** | 2026-08-19 | <details><summary>I fou...</summary><p>I found a computational error in one of the tables that needs to be fixed; and it may take 2-3 weeks</p></details> |
+| **[ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](https://arxiv.org/abs/2608.20338v1)** | 2026-08-20 | <details><summary>Submi...</summary><p>Submitted to NeurIPS E&D Track 2026; 17 pages, 9 figures</p></details> |
+| **[WithEveryone: Unified Planning and Identity Grounding for Group Image Generation](https://arxiv.org/abs/2608.20336v1)** | 2026-08-20 | <details><summary>Proje...</summary><p>Project Page: doby-xu.github.io/WithEveryone/ ;Code will be released: github.com/Doby-Xu/WithEveryone/</p></details> |
+| **[Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/abs/2608.20334v1)** | 2026-08-20 | 28 pages, 11 figures |
+| **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
+| **[$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval](https://arxiv.org/abs/2608.20326v1)** | 2026-08-20 |  |
+| **[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](https://arxiv.org/abs/2608.20320v1)** | 2026-08-20 |  |
+| **[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](https://arxiv.org/abs/2608.20318v1)** | 2026-08-20 |  |
+| **[Projecting BrowseComp-Plus onto ClimbMix: Toward More Realistic Corpora for Agentic Search](https://arxiv.org/abs/2608.20317v1)** | 2026-08-20 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models](https://arxiv.org/abs/2608.20237v1)** | 2026-08-20 |  |
+| **[Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation](https://arxiv.org/abs/2607.14497v2)** | 2026-08-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures. Chi Kit Wong and Ye Pan contributed equally. Code: https://github.com/Chikit-WONG/spatialGraph</p></details> |
+| **[Projector Is All You Train](https://arxiv.org/abs/2608.19726v1)** | 2026-08-20 |  |
+| **[CharTool: Tool-Integrated Visual Reasoning for Chart Understanding](https://arxiv.org/abs/2604.02794v2)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
+| **[PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment](https://arxiv.org/abs/2608.19598v1)** | 2026-08-20 |  |
+| **[Extended to Reality: Prompt Injection in 3D Environments](https://arxiv.org/abs/2602.07104v2)** | 2026-08-19 |  |
 | **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v2)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
+| **[Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis](https://arxiv.org/abs/2608.19297v1)** | 2026-08-19 |  |
 | **[MedUAG: Unified Understanding and Generation for Medical Multimodal Models](https://arxiv.org/abs/2608.18937v1)** | 2026-08-19 |  |
 | **[Trace, Verify, and Correct: A Training-Free Framework for Spatial Reasoning in Multimodal LLMs](https://arxiv.org/abs/2608.04759v2)** | 2026-08-19 | 19 pages, 7 figures |
-| **[VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?](https://arxiv.org/abs/2608.15265v2)** | 2026-08-19 | preprint |
-| **[OmniHandwritingOCR: A Diagnostic Benchmark for Evaluating Multimodal LLMs in Handwritten OCR Scenarios](https://arxiv.org/abs/2608.18586v1)** | 2026-08-19 | CIKM 2026 |
-| **[MR-IQA-2: Faithful Image Quality Reflection via Fine-Grained Credit Assignment](https://arxiv.org/abs/2608.18579v1)** | 2026-08-19 |  |
-| **[PATE-Forensics: Perception-as-Tool for Explainable Deepfake Forensics with General-Purpose MLLMs](https://arxiv.org/abs/2608.18573v1)** | 2026-08-19 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 2 tables; DDL-X Track 3, IJCAI 2026 AI Safety Workshop</p></details> |
-| **[UMER: Unifying Embedding and Ranking via Pair-Aware Discriminative Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2608.18504v1)** | 2026-08-19 |  |
-| **[EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding](https://arxiv.org/abs/2605.09874v2)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted by COLM2026. The first two authors contributed equally. Project website: https://egomemreason.github.io/</p></details> |
-| **[BEAR-Bench: A Bilingual Enterprise and Academic Reasoning Benchmark for Multimodal Models](https://arxiv.org/abs/2608.17895v1)** | 2026-08-18 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197v1)** | 2026-08-19 | <details><summary>Work ...</summary><p>Work in progress. Project page: https://spade-rl.github.io ; Code: https://github.com/spade-rl/spade</p></details> |
-| **[Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act](https://arxiv.org/abs/2608.19194v1)** | 2026-08-19 |  |
-| **[The Structured Totient Preimage Problem: Reconstruction, Collisions, and Cryptographic Implications](https://arxiv.org/abs/2608.19191v1)** | 2026-08-19 |  |
-| **[SiNMULI: Novel Signed Network Approach for Malicious URL Identification](https://arxiv.org/abs/2608.19190v1)** | 2026-08-19 | <details><summary>31 Pa...</summary><p>31 Pages , 13 Figures</p></details> |
-| **[Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture](https://arxiv.org/abs/2608.19177v1)** | 2026-08-19 |  |
-| **[AMPLIFAI: A Multiphase CT Dataset for Benchmarking Clinical Reasoning in LI-RADS Assessment of Liver Lesions](https://arxiv.org/abs/2608.14778v2)** | 2026-08-19 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 3 tables</p></details> |
-| **[Cell-Probe Lower Bounds and Complexity-Preserving Reductions for Suffix Array Queries](https://arxiv.org/abs/2608.19172v1)** | 2026-08-19 |  |
-| **[Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention](https://arxiv.org/abs/2608.19171v1)** | 2026-08-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures. Under review at TMLR</p></details> |
-| **[Cross-Cohort Spectral-Temporal Dissociation in Frozen EEG Foundation-Model Representations](https://arxiv.org/abs/2607.24834v3)** | 2026-08-19 | <details><summary>I fou...</summary><p>I found a computational error in one of the tables that needs to be fixed; and it may take 2-3 weeks</p></details> |
+| **[Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/abs/2608.20334v1)** | 2026-08-20 | 28 pages, 11 figures |
+| **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
+| **[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](https://arxiv.org/abs/2608.20320v1)** | 2026-08-20 |  |
+| **[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](https://arxiv.org/abs/2608.20318v1)** | 2026-08-20 |  |
+| **[Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records](https://arxiv.org/abs/2608.20315v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted at MLHC 2026; to appear in Proceedings of Machine Learning Research (PMLR)</p></details> |
+| **[MidTool: Mid-training Data Synthesis for Agentic Tool Use](https://arxiv.org/abs/2608.20314v1)** | 2026-08-20 | <details><summary>Data ...</summary><p>Data & Model: https://hf.co/collections/MidTool/midtool-release</p></details> |
+| **[Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis](https://arxiv.org/abs/2608.20312v1)** | 2026-08-20 | 24 pages, 10 figures |
 
