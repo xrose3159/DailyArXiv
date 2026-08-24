@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 24, 2026
+title: Latest 15 Papers - August 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,49 +7,53 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WithEveryone: Unified Planning and Identity Grounding for Group Image Generation](https://arxiv.org/abs/2608.20336v1)** | 2026-08-20 | <details><summary>Proje...</summary><p>Project Page: doby-xu.github.io/WithEveryone/ ;Code will be released: github.com/Doby-Xu/WithEveryone/</p></details> |
-| **[Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/abs/2608.20334v1)** | 2026-08-20 | 28 pages, 11 figures |
-| **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
-| **[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](https://arxiv.org/abs/2608.20320v1)** | 2026-08-20 |  |
-| **[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](https://arxiv.org/abs/2608.20318v1)** | 2026-08-20 |  |
-| **[Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records](https://arxiv.org/abs/2608.20315v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted at MLHC 2026; to appear in Proceedings of Machine Learning Research (PMLR)</p></details> |
-| **[MidTool: Mid-training Data Synthesis for Agentic Tool Use](https://arxiv.org/abs/2608.20314v1)** | 2026-08-20 | <details><summary>Data ...</summary><p>Data & Model: https://hf.co/collections/MidTool/midtool-release</p></details> |
-| **[Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis](https://arxiv.org/abs/2608.20312v1)** | 2026-08-20 | 24 pages, 10 figures |
+| **[Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction](https://arxiv.org/abs/2608.21358v1)** | 2026-08-21 |  |
+| **[ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations](https://arxiv.org/abs/2608.21355v1)** | 2026-08-21 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. Project page: https://vitacphys.github.io/ViTacPhys/</p></details> |
+| **[AIRL-S: Unifying Reinforcement Learning and Search-Based Test-Time Scaling via Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/2508.14313v4)** | 2026-08-21 |  |
+| **[PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction](https://arxiv.org/abs/2608.21349v1)** | 2026-08-21 |  |
+| **[Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution](https://arxiv.org/abs/2608.21341v1)** | 2026-08-21 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
+| **[Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories](https://arxiv.org/abs/2608.21334v1)** | 2026-08-21 | 24 pages |
+| **[Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation](https://arxiv.org/abs/2608.21332v1)** | 2026-08-21 | <details><summary>42 pa...</summary><p>42 pages, 10 figures, 4 tables</p></details> |
+| **[NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility](https://arxiv.org/abs/2608.21330v1)** | 2026-08-21 |  |
+| **[Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa](https://arxiv.org/abs/2608.21326v1)** | 2026-08-21 | 10 pages, 4 figures |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](https://arxiv.org/abs/2608.20338v1)** | 2026-08-20 | <details><summary>Submi...</summary><p>Submitted to NeurIPS E&D Track 2026; 17 pages, 9 figures</p></details> |
-| **[WithEveryone: Unified Planning and Identity Grounding for Group Image Generation](https://arxiv.org/abs/2608.20336v1)** | 2026-08-20 | <details><summary>Proje...</summary><p>Project Page: doby-xu.github.io/WithEveryone/ ;Code will be released: github.com/Doby-Xu/WithEveryone/</p></details> |
-| **[Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/abs/2608.20334v1)** | 2026-08-20 | 28 pages, 11 figures |
-| **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
-| **[$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval](https://arxiv.org/abs/2608.20326v1)** | 2026-08-20 |  |
-| **[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](https://arxiv.org/abs/2608.20320v1)** | 2026-08-20 |  |
-| **[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](https://arxiv.org/abs/2608.20318v1)** | 2026-08-20 |  |
-| **[Projecting BrowseComp-Plus onto ClimbMix: Toward More Realistic Corpora for Agentic Search](https://arxiv.org/abs/2608.20317v1)** | 2026-08-20 |  |
+| **[Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction](https://arxiv.org/abs/2608.21358v1)** | 2026-08-21 |  |
+| **[ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations](https://arxiv.org/abs/2608.21355v1)** | 2026-08-21 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. Project page: https://vitacphys.github.io/ViTacPhys/</p></details> |
+| **[AIRL-S: Unifying Reinforcement Learning and Search-Based Test-Time Scaling via Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/2508.14313v4)** | 2026-08-21 |  |
+| **[Generalization Measures under Controlled Covariate Shift: A Regime-Aware Benchmark](https://arxiv.org/abs/2602.01718v2)** | 2026-08-21 | Accepted to TMLR |
+| **[PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction](https://arxiv.org/abs/2608.21349v1)** | 2026-08-21 |  |
+| **[Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution](https://arxiv.org/abs/2608.21341v1)** | 2026-08-21 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
+| **[Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory](https://arxiv.org/abs/2510.09930v2)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at IEEE ICDM 2026</p></details> |
+| **[Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories](https://arxiv.org/abs/2608.21334v1)** | 2026-08-21 | 24 pages |
+| **[Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation](https://arxiv.org/abs/2608.21332v1)** | 2026-08-21 | <details><summary>42 pa...</summary><p>42 pages, 10 figures, 4 tables</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models](https://arxiv.org/abs/2608.20237v1)** | 2026-08-20 |  |
-| **[Reinforcing Egocentric Spatial Perception in Multimodal Large Language Models via Ego Scene Augmentation](https://arxiv.org/abs/2607.14497v2)** | 2026-08-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures. Chi Kit Wong and Ye Pan contributed equally. Code: https://github.com/Chikit-WONG/spatialGraph</p></details> |
-| **[Projector Is All You Train](https://arxiv.org/abs/2608.19726v1)** | 2026-08-20 |  |
-| **[CharTool: Tool-Integrated Visual Reasoning for Chart Understanding](https://arxiv.org/abs/2604.02794v2)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted by ACMMM 2026</p></details> |
-| **[PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment](https://arxiv.org/abs/2608.19598v1)** | 2026-08-20 |  |
-| **[Extended to Reality: Prompt Injection in 3D Environments](https://arxiv.org/abs/2602.07104v2)** | 2026-08-19 |  |
-| **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v2)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
-| **[Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis](https://arxiv.org/abs/2608.19297v1)** | 2026-08-19 |  |
-| **[MedUAG: Unified Understanding and Generation for Medical Multimodal Models](https://arxiv.org/abs/2608.18937v1)** | 2026-08-19 |  |
-| **[Trace, Verify, and Correct: A Training-Free Framework for Spatial Reasoning in Multimodal LLMs](https://arxiv.org/abs/2608.04759v2)** | 2026-08-19 | 19 pages, 7 figures |
+| **[ReFrame: Evidence-Guided Test-Time Safety Alignment in Multimodal Large Language Models](https://arxiv.org/abs/2608.21100v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026. 22 pages, 7 figures, 5 tables</p></details> |
+| **[COMET: Contrastive Motion-Enhanced Temporal Reasoning for Video Multimodal Large Language Models](https://arxiv.org/abs/2608.21030v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on Multimedia (ACM MM 2026)</p></details> |
+| **[Recognition-Conditioned Reasoning: A Training-Free Multimodal-LLM Pipeline for Fine-Grained Micro-Action Understanding](https://arxiv.org/abs/2608.21022v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accept at ACM Multimedia 2026</p></details> |
+| **[Latent Ordinal Evidence, Misaligned Outputs: Inference-Time Ordinal Lens Alignment for Multimodal LLMs](https://arxiv.org/abs/2608.20999v1)** | 2026-08-21 | <details><summary>EMNLP...</summary><p>EMNLP 2026 (Main Conference)</p></details> |
+| **[Enhancing Localized Reasoning for Long Video Understanding via Efficient Segment-to-Video Supervision](https://arxiv.org/abs/2608.20814v1)** | 2026-08-21 |  |
+| **[What Color Is the Text? A Benchmark for Hallucination Induced by Image-Embedded Prompt](https://arxiv.org/abs/2511.13400v3)** | 2026-08-21 |  |
+| **[Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2608.20756v1)** | 2026-08-21 | <details><summary>Findi...</summary><p>Findings of EMNLP, 2026</p></details> |
+| **[AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation](https://arxiv.org/abs/2608.20713v1)** | 2026-08-21 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted by ACM Multimedia 2026</p></details> |
+| **[Benchmarking Commercial Speech Recognition and Multimodal Large Language Models on Dysarthric Speech: Severity-Stratified Baselines and Architecture-Specific Prompting Effects](https://arxiv.org/abs/2512.17474v2)** | 2026-08-20 | <details><summary>32 pa...</summary><p>32 pages. Revised peer-reviewed version. Updated dataset filtering and transcript normalization, expanded four-condition prompting ablation and error analysis, and revised statistical reporting. Published in International Journal of Intelligent Systems</p></details> |
+| **[Volumetric Radiology AI in the Era of Multimodal Large Language Models](https://arxiv.org/abs/2608.20549v1)** | 2026-08-20 | 9 Figures, 6 tables |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models](https://arxiv.org/abs/2608.20334v1)** | 2026-08-20 | 28 pages, 11 figures |
-| **[Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection](https://arxiv.org/abs/2501.14728v2)** | 2026-08-20 | 15 pages, 11 figures |
-| **[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](https://arxiv.org/abs/2608.20320v1)** | 2026-08-20 |  |
-| **[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](https://arxiv.org/abs/2608.20318v1)** | 2026-08-20 |  |
-| **[Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records](https://arxiv.org/abs/2608.20315v1)** | 2026-08-20 | <details><summary>Accep...</summary><p>Accepted at MLHC 2026; to appear in Proceedings of Machine Learning Research (PMLR)</p></details> |
-| **[MidTool: Mid-training Data Synthesis for Agentic Tool Use](https://arxiv.org/abs/2608.20314v1)** | 2026-08-20 | <details><summary>Data ...</summary><p>Data & Model: https://hf.co/collections/MidTool/midtool-release</p></details> |
-| **[Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis](https://arxiv.org/abs/2608.20312v1)** | 2026-08-20 | 24 pages, 10 figures |
+| **[Mining beyond Earth with Space Robots: Exploration, Sampling, and Extraction](https://arxiv.org/abs/2608.21358v1)** | 2026-08-21 |  |
+| **[ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations](https://arxiv.org/abs/2608.21355v1)** | 2026-08-21 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. Project page: https://vitacphys.github.io/ViTacPhys/</p></details> |
+| **[AIRL-S: Unifying Reinforcement Learning and Search-Based Test-Time Scaling via Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/2508.14313v4)** | 2026-08-21 |  |
+| **[PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction](https://arxiv.org/abs/2608.21349v1)** | 2026-08-21 |  |
+| **[Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution](https://arxiv.org/abs/2608.21341v1)** | 2026-08-21 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
+| **[Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories](https://arxiv.org/abs/2608.21334v1)** | 2026-08-21 | 24 pages |
+| **[Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation](https://arxiv.org/abs/2608.21332v1)** | 2026-08-21 | <details><summary>42 pa...</summary><p>42 pages, 10 figures, 4 tables</p></details> |
+| **[NeSAM: Neuro-Symbolic Kinodynamics with Soil Adaptation for Off-Road Mobility](https://arxiv.org/abs/2608.21330v1)** | 2026-08-21 |  |
+| **[Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa](https://arxiv.org/abs/2608.21326v1)** | 2026-08-21 | 10 pages, 4 figures |
 
