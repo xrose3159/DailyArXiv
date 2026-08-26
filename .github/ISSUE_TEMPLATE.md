@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - August 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,49 +7,44 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReWorld: An Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2608.23565v1)** | 2026-08-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures. Project page: https://zhifeichen097.github.io/ReWorld/</p></details> |
-| **[Chimera: Efficient Multi-Vector Retrieval via GPU-CPU Co-Processing](https://arxiv.org/abs/2608.23553v1)** | 2026-08-24 |  |
-| **[ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings](https://arxiv.org/abs/2608.23551v1)** | 2026-08-24 |  |
-| **[An offline approach to fNIRS-guided reinforcement learning for robot behavior](https://arxiv.org/abs/2607.14393v2)** | 2026-08-24 | Preliminary results |
-| **[Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination](https://arxiv.org/abs/2608.23547v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted and to appear in IEEE CASCON 2026. Code is available at: https://github.com/ANTS-OntarioTechU/Robustness-Anomaly-Detection-ICS-Data-Contamination</p></details> |
-| **[VLM- and LLM-Driven Multi-Agent System for PET Image Denoising](https://arxiv.org/abs/2608.13791v2)** | 2026-08-24 |  |
-| **[Conformal Prediction for Dyadic Regression Under Complex Missingness](https://arxiv.org/abs/2606.11136v3)** | 2026-08-24 |  |
-| **[The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams](https://arxiv.org/abs/2608.23541v1)** | 2026-08-24 | <details><summary>14 pa...</summary><p>14 pages, 3 figures. Accepted at ICML 2026 (PMLR 306)</p></details> |
-| **[Interpretable AI with Local Distillation](https://arxiv.org/abs/2608.23538v1)** | 2026-08-24 |  |
+| **[Latent Action as Intention Enables Efficient Future Imagination for World Action Models](https://arxiv.org/abs/2608.24882v1)** | 2026-08-25 |  |
+| **[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](https://arxiv.org/abs/2608.24881v1)** | 2026-08-25 |  |
+| **[From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms](https://arxiv.org/abs/2608.24877v1)** | 2026-08-25 | <details><summary>Proje...</summary><p>Project at https://github.com/zhangzjn/awesome-smart-glasses</p></details> |
+| **[QABBA: Error-Guaranteed Symbolic Time-Series Compression via Integer-Quantized Aggregation](https://arxiv.org/abs/2411.15209v3)** | 2026-08-25 |  |
+| **[Research Methodologies for Cybersecurity in Enterprise Environments: A Narrative Review, Synthesis and Executable Guide](https://arxiv.org/abs/2608.24850v1)** | 2026-08-25 | <details><summary>31 pa...</summary><p>31 pages, 16 figures, 4 tables</p></details> |
+| **[BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](https://arxiv.org/abs/2608.24848v1)** | 2026-08-25 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReWorld: An Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2608.23565v1)** | 2026-08-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures. Project page: https://zhifeichen097.github.io/ReWorld/</p></details> |
-| **[Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography](https://arxiv.org/abs/2608.23562v1)** | 2026-08-24 |  |
-| **[Chimera: Efficient Multi-Vector Retrieval via GPU-CPU Co-Processing](https://arxiv.org/abs/2608.23553v1)** | 2026-08-24 |  |
-| **[ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings](https://arxiv.org/abs/2608.23551v1)** | 2026-08-24 |  |
-| **[An offline approach to fNIRS-guided reinforcement learning for robot behavior](https://arxiv.org/abs/2607.14393v2)** | 2026-08-24 | Preliminary results |
+| **[Latent Action as Intention Enables Efficient Future Imagination for World Action Models](https://arxiv.org/abs/2608.24882v1)** | 2026-08-25 |  |
+| **[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](https://arxiv.org/abs/2608.24881v1)** | 2026-08-25 |  |
+| **[From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms](https://arxiv.org/abs/2608.24877v1)** | 2026-08-25 | <details><summary>Proje...</summary><p>Project at https://github.com/zhangzjn/awesome-smart-glasses</p></details> |
+| **[Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](https://arxiv.org/abs/2608.24876v1)** | 2026-08-25 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/Recuris</p></details> |
+| **[QABBA: Error-Guaranteed Symbolic Time-Series Compression via Integer-Quantized Aggregation](https://arxiv.org/abs/2411.15209v3)** | 2026-08-25 |  |
+| **[Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning](https://arxiv.org/abs/2608.24858v1)** | 2026-08-25 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 4 tables</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Comprehensive Basketball Understanding](https://arxiv.org/abs/2608.23435v1)** | 2026-08-24 | 26 pages, 3 figures |
-| **[Dual-Grained Agent Memory and Shapley Context Attribution for Multimodal Agentic Learner](https://arxiv.org/abs/2608.23268v1)** | 2026-08-24 |  |
-| **[Mind the Couch! Eliciting MLLM Reasoning in Interior Design via Weak-to-Strong Task Vector Injection](https://arxiv.org/abs/2608.23242v1)** | 2026-08-24 |  |
-| **[MLLM-Assisted Audio VOS: A 3rd Place Report for the MeViS-Audio Track, 8th LSVOS Challenge](https://arxiv.org/abs/2608.23234v1)** | 2026-08-24 | 5 pages |
-| **[Specialist-Generalist Fusion with Outcome-Supervised Rationales for Deepfake Detection](https://arxiv.org/abs/2605.31192v2)** | 2026-08-24 |  |
-| **[Sa2VA: Marrying SAM2 with MLLM for Dense Grounded Understanding of Images and Videos](https://arxiv.org/abs/2501.04001v4)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by IEEE TPAMI. Code: https://github.com/Bytedance/Sa2VA</p></details> |
-| **[Buried in Textual Debt: Context Pruning with Visual Evidence Preservation for MLLM Agents](https://arxiv.org/abs/2608.22963v1)** | 2026-08-24 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 tables</p></details> |
-| **[WildHandBench: A Benchmark for Handwritten Text Understanding that Challenges MLLMs and Humans](https://arxiv.org/abs/2608.22959v1)** | 2026-08-24 |  |
-| **[DRAgent: Discriminative Reasoning Agent for Referring Expression Segmentation](https://arxiv.org/abs/2608.22885v1)** | 2026-08-24 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 4 tables</p></details> |
-| **[$φ$-Scene: Physically Grounded Image-to-3D Scene Reconstruction](https://arxiv.org/abs/2606.21596v2)** | 2026-08-24 | <details><summary>Proje...</summary><p>Project page: https://phi-scene.github.io/</p></details> |
+| **[MMDynOpt-Agent: Dynamic Optimization for Multimodal Large Language Model Reasoning via Reinforcement Learning](https://arxiv.org/abs/2608.14026v3)** | 2026-08-25 |  |
+| **[Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion](https://arxiv.org/abs/2608.24730v1)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2026 Workshop (MRAC '26)</p></details> |
+| **[PhysMLLMs: Spatial Priors for Unified Referring Segmentation and Grounded Reasoning of Images and Videos](https://arxiv.org/abs/2608.24574v1)** | 2026-08-25 |  |
+| **[HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learning for E-commerce Representation Learning](https://arxiv.org/abs/2608.24467v1)** | 2026-08-25 |  |
+| **[Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs](https://arxiv.org/abs/2608.24354v1)** | 2026-08-25 |  |
+| **[SonarLLM: A Native Sonar--Optical Multimodal Large Language Model for Underwater Perception](https://arxiv.org/abs/2608.24325v1)** | 2026-08-25 |  |
+| **[NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212v1)** | 2026-08-25 |  |
+| **[Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes](https://arxiv.org/abs/2601.07737v3)** | 2026-08-25 |  |
+| **[Code-Switching Reveals Language Anchoring in Multilingual LLMs](https://arxiv.org/abs/2606.19668v2)** | 2026-08-25 | EMNLP 2026 Findings |
+| **[TangramPuzzle: Evaluating Multimodal Large Language Models with Compositional Spatial Reasoning](https://arxiv.org/abs/2601.16520v2)** | 2026-08-25 | EMNLP 2026 Findings |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197v2)** | 2026-08-24 | <details><summary>Work ...</summary><p>Work in progress. Project page: https://spade-rl.github.io ; Code: https://github.com/spade-rl/spade</p></details> |
-| **[ReWorld: An Interactive World Model with Long-Horizon Memory](https://arxiv.org/abs/2608.23565v1)** | 2026-08-24 | <details><summary>21 pa...</summary><p>21 pages, 9 figures. Project page: https://zhifeichen097.github.io/ReWorld/</p></details> |
-| **[Chimera: Efficient Multi-Vector Retrieval via GPU-CPU Co-Processing](https://arxiv.org/abs/2608.23553v1)** | 2026-08-24 |  |
-| **[ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings](https://arxiv.org/abs/2608.23551v1)** | 2026-08-24 |  |
-| **[An offline approach to fNIRS-guided reinforcement learning for robot behavior](https://arxiv.org/abs/2607.14393v2)** | 2026-08-24 | Preliminary results |
-| **[Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination](https://arxiv.org/abs/2608.23547v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted and to appear in IEEE CASCON 2026. Code is available at: https://github.com/ANTS-OntarioTechU/Robustness-Anomaly-Detection-ICS-Data-Contamination</p></details> |
-| **[VLM- and LLM-Driven Multi-Agent System for PET Image Denoising](https://arxiv.org/abs/2608.13791v2)** | 2026-08-24 |  |
-| **[Conformal Prediction for Dyadic Regression Under Complex Missingness](https://arxiv.org/abs/2606.11136v3)** | 2026-08-24 |  |
-| **[Interpretable AI with Local Distillation](https://arxiv.org/abs/2608.23538v1)** | 2026-08-24 |  |
+| **[Latent Action as Intention Enables Efficient Future Imagination for World Action Models](https://arxiv.org/abs/2608.24882v1)** | 2026-08-25 |  |
+| **[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](https://arxiv.org/abs/2608.24881v1)** | 2026-08-25 |  |
+| **[From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms](https://arxiv.org/abs/2608.24877v1)** | 2026-08-25 | <details><summary>Proje...</summary><p>Project at https://github.com/zhangzjn/awesome-smart-glasses</p></details> |
+| **[QABBA: Error-Guaranteed Symbolic Time-Series Compression via Integer-Quantized Aggregation](https://arxiv.org/abs/2411.15209v3)** | 2026-08-25 |  |
+| **[BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](https://arxiv.org/abs/2608.24848v1)** | 2026-08-25 |  |
+| **[FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](https://arxiv.org/abs/2608.24846v1)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at ISWC 2026 (Research Track). To appear in the Proceedings of the 25th International Semantic Web Conference</p></details> |
 
