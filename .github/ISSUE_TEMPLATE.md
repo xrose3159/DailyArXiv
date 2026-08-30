@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2026
+title: Latest 15 Papers - August 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,43 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent Action as Intention Enables Efficient Future Imagination for World Action Models](https://arxiv.org/abs/2608.24882v1)** | 2026-08-25 |  |
-| **[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](https://arxiv.org/abs/2608.24881v1)** | 2026-08-25 |  |
-| **[From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms](https://arxiv.org/abs/2608.24877v1)** | 2026-08-25 | <details><summary>Proje...</summary><p>Project at https://github.com/zhangzjn/awesome-smart-glasses</p></details> |
-| **[QABBA: Error-Guaranteed Symbolic Time-Series Compression via Integer-Quantized Aggregation](https://arxiv.org/abs/2411.15209v3)** | 2026-08-25 |  |
-| **[Research Methodologies for Cybersecurity in Enterprise Environments: A Narrative Review, Synthesis and Executable Guide](https://arxiv.org/abs/2608.24850v1)** | 2026-08-25 | <details><summary>31 pa...</summary><p>31 pages, 16 figures, 4 tables</p></details> |
-| **[BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](https://arxiv.org/abs/2608.24848v1)** | 2026-08-25 |  |
+| **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/abs/2608.27456v1)** | 2026-08-27 | <details><summary>35 pa...</summary><p>35 pages, 11 figures, 7 tables. Project Page: https://urbanground.github.io, Code Repository: https://github.com/UrbanGround/UrbanGround</p></details> |
+| **[More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation](https://arxiv.org/abs/2608.23730v2)** | 2026-08-27 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables. v2: corrects the external-source measurements in Sec. 3.4 and Fig. 3; conclusions unchanged</p></details> |
+| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
+| **[SWE-Prime: Fewer Trajectories, Better Performance](https://arxiv.org/abs/2608.27449v1)** | 2026-08-27 | 9 pages, 5 figures |
+| **[Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](https://arxiv.org/abs/2608.27443v1)** | 2026-08-27 | 15 pages, 5 figures |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent Action as Intention Enables Efficient Future Imagination for World Action Models](https://arxiv.org/abs/2608.24882v1)** | 2026-08-25 |  |
-| **[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](https://arxiv.org/abs/2608.24881v1)** | 2026-08-25 |  |
-| **[From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms](https://arxiv.org/abs/2608.24877v1)** | 2026-08-25 | <details><summary>Proje...</summary><p>Project at https://github.com/zhangzjn/awesome-smart-glasses</p></details> |
-| **[Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](https://arxiv.org/abs/2608.24876v1)** | 2026-08-25 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/Recuris</p></details> |
-| **[QABBA: Error-Guaranteed Symbolic Time-Series Compression via Integer-Quantized Aggregation](https://arxiv.org/abs/2411.15209v3)** | 2026-08-25 |  |
-| **[Bellman Calibration for Marginalized Importance Weighting in Offline Reinforcement Learning](https://arxiv.org/abs/2608.24858v1)** | 2026-08-25 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 4 tables</p></details> |
+| **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/abs/2608.27456v1)** | 2026-08-27 | <details><summary>35 pa...</summary><p>35 pages, 11 figures, 7 tables. Project Page: https://urbanground.github.io, Code Repository: https://github.com/UrbanGround/UrbanGround</p></details> |
+| **[More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation](https://arxiv.org/abs/2608.23730v2)** | 2026-08-27 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables. v2: corrects the external-source measurements in Sec. 3.4 and Fig. 3; conclusions unchanged</p></details> |
+| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
+| **[SWE-Prime: Fewer Trajectories, Better Performance](https://arxiv.org/abs/2608.27449v1)** | 2026-08-27 | 9 pages, 5 figures |
+| **[TTPO: Test-Time Policy Optimization](https://arxiv.org/abs/2608.27448v1)** | 2026-08-27 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/TTPO Code: https://github.com/ZJU-REAL/TTPO</p></details> |
+| **[Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](https://arxiv.org/abs/2608.27443v1)** | 2026-08-27 | 15 pages, 5 figures |
+| **[Selective State-Space Adaptation and Retrieval for Language Model Reasoning](https://arxiv.org/abs/2607.19326v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 22 pages, 5 figures, 20 tables. Code: https://github.com/atahandokme/malora-mara</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MMDynOpt-Agent: Dynamic Optimization for Multimodal Large Language Model Reasoning via Reinforcement Learning](https://arxiv.org/abs/2608.14026v3)** | 2026-08-25 |  |
-| **[Learning to Prefer Reliably: Error-Augmented Emotion Preference Optimization with Calibrated Fusion](https://arxiv.org/abs/2608.24730v1)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at ACM MM 2026 Workshop (MRAC '26)</p></details> |
-| **[PhysMLLMs: Spatial Priors for Unified Referring Segmentation and Grounded Reasoning of Images and Videos](https://arxiv.org/abs/2608.24574v1)** | 2026-08-25 |  |
-| **[HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learning for E-commerce Representation Learning](https://arxiv.org/abs/2608.24467v1)** | 2026-08-25 |  |
-| **[Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs](https://arxiv.org/abs/2608.24354v1)** | 2026-08-25 |  |
-| **[SonarLLM: A Native Sonar--Optical Multimodal Large Language Model for Underwater Perception](https://arxiv.org/abs/2608.24325v1)** | 2026-08-25 |  |
-| **[NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212v1)** | 2026-08-25 |  |
-| **[Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes](https://arxiv.org/abs/2601.07737v3)** | 2026-08-25 |  |
-| **[Code-Switching Reveals Language Anchoring in Multilingual LLMs](https://arxiv.org/abs/2606.19668v2)** | 2026-08-25 | EMNLP 2026 Findings |
-| **[TangramPuzzle: Evaluating Multimodal Large Language Models with Compositional Spatial Reasoning](https://arxiv.org/abs/2601.16520v2)** | 2026-08-25 | EMNLP 2026 Findings |
+| **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/abs/2608.27456v1)** | 2026-08-27 | <details><summary>35 pa...</summary><p>35 pages, 11 figures, 7 tables. Project Page: https://urbanground.github.io, Code Repository: https://github.com/UrbanGround/UrbanGround</p></details> |
+| **[ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs](https://arxiv.org/abs/2608.01979v2)** | 2026-08-27 | <details><summary>Code ...</summary><p>Code and supplementary material is at https://github.com/Labyrinth0419/ET-Prune</p></details> |
+| **[MineExplorer: Evaluating Open-World Exploration of MLLM Agents in Minecraft](https://arxiv.org/abs/2605.30931v3)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Main)</p></details> |
+| **[Buried in Textual Debt: Context Pruning with Visual Evidence Preservation for MLLM Agents](https://arxiv.org/abs/2608.22963v2)** | 2026-08-27 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Aphanta: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning](https://arxiv.org/abs/2608.26993v1)** | 2026-08-27 |  |
+| **[RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing](https://arxiv.org/abs/2608.26956v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
+| **[From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation](https://arxiv.org/abs/2608.26856v1)** | 2026-08-27 | <details><summary>accep...</summary><p>accepted by ECCV 2026</p></details> |
+| **[LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning](https://arxiv.org/abs/2608.26820v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2026 (ACM MM 2026)</p></details> |
+| **[CRAM: Centroid-Routing and Adaptive MoE for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2606.02502v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). Code is available at [this URL](https://github.com/LAMDA-CL/EMNLP2026-CRAM)</p></details> |
+| **[UniGeo: A Multi-modal Large Language Model for Text-Guided Cross-View Geo-Localization](https://arxiv.org/abs/2608.26722v1)** | 2026-08-27 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent Action as Intention Enables Efficient Future Imagination for World Action Models](https://arxiv.org/abs/2608.24882v1)** | 2026-08-25 |  |
-| **[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](https://arxiv.org/abs/2608.24881v1)** | 2026-08-25 |  |
-| **[From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms](https://arxiv.org/abs/2608.24877v1)** | 2026-08-25 | <details><summary>Proje...</summary><p>Project at https://github.com/zhangzjn/awesome-smart-glasses</p></details> |
-| **[QABBA: Error-Guaranteed Symbolic Time-Series Compression via Integer-Quantized Aggregation](https://arxiv.org/abs/2411.15209v3)** | 2026-08-25 |  |
-| **[BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](https://arxiv.org/abs/2608.24848v1)** | 2026-08-25 |  |
-| **[FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](https://arxiv.org/abs/2608.24846v1)** | 2026-08-25 | <details><summary>Accep...</summary><p>Accepted at ISWC 2026 (Research Track). To appear in the Proceedings of the 25th International Semantic Web Conference</p></details> |
+| **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/abs/2608.27456v1)** | 2026-08-27 | <details><summary>35 pa...</summary><p>35 pages, 11 figures, 7 tables. Project Page: https://urbanground.github.io, Code Repository: https://github.com/UrbanGround/UrbanGround</p></details> |
+| **[More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation](https://arxiv.org/abs/2608.23730v2)** | 2026-08-27 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables. v2: corrects the external-source measurements in Sec. 3.4 and Fig. 3; conclusions unchanged</p></details> |
+| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
+| **[SWE-Prime: Fewer Trajectories, Better Performance](https://arxiv.org/abs/2608.27449v1)** | 2026-08-27 | 9 pages, 5 figures |
+| **[Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](https://arxiv.org/abs/2608.27443v1)** | 2026-08-27 | 15 pages, 5 figures |
 
