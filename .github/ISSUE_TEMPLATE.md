@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,43 +7,52 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/abs/2608.27456v1)** | 2026-08-27 | <details><summary>35 pa...</summary><p>35 pages, 11 figures, 7 tables. Project Page: https://urbanground.github.io, Code Repository: https://github.com/UrbanGround/UrbanGround</p></details> |
-| **[More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation](https://arxiv.org/abs/2608.23730v2)** | 2026-08-27 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables. v2: corrects the external-source measurements in Sec. 3.4 and Fig. 3; conclusions unchanged</p></details> |
-| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
-| **[SWE-Prime: Fewer Trajectories, Better Performance](https://arxiv.org/abs/2608.27449v1)** | 2026-08-27 | 9 pages, 5 figures |
-| **[Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](https://arxiv.org/abs/2608.27443v1)** | 2026-08-27 | 15 pages, 5 figures |
+| **[QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs](https://arxiv.org/abs/2608.28589v1)** | 2026-08-28 |  |
+| **[Learning a Size-Weight Frontier for Synthetic-Augmented Inference](https://arxiv.org/abs/2608.28576v1)** | 2026-08-28 | 19 pages, 5 figures |
+| **[Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy](https://arxiv.org/abs/2608.28564v1)** | 2026-08-28 |  |
+| **[Autotune: fast, accurate, and automatic tuning parameter selection for Lasso](https://arxiv.org/abs/2512.11139v3)** | 2026-08-28 | 53 pages, 35 figures |
+| **[Blog: Survey of Optimizers](https://arxiv.org/abs/2608.28557v1)** | 2026-08-28 |  |
+| **[Does Finetuning with Scientific Data Increase Hallucinations? A Multi-domain Factuality Evaluation of LLMs](https://arxiv.org/abs/2606.21359v2)** | 2026-08-28 | Camera-ready version |
+| **[PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection](https://arxiv.org/abs/2502.12119v5)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 and selected for the ACL 2026 Best Paper Consideration</p></details> |
+| **[Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining](https://arxiv.org/abs/2608.28552v1)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 2 tables, submitted for journal review</p></details> |
+| **[Video Generative Models as Geometry Learner](https://arxiv.org/abs/2608.28549v1)** | 2026-08-28 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 5 tables. Project page: https://happy-hsy.github.io/projects/GeoNeXt/</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/abs/2608.27456v1)** | 2026-08-27 | <details><summary>35 pa...</summary><p>35 pages, 11 figures, 7 tables. Project Page: https://urbanground.github.io, Code Repository: https://github.com/UrbanGround/UrbanGround</p></details> |
-| **[More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation](https://arxiv.org/abs/2608.23730v2)** | 2026-08-27 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables. v2: corrects the external-source measurements in Sec. 3.4 and Fig. 3; conclusions unchanged</p></details> |
-| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
-| **[SWE-Prime: Fewer Trajectories, Better Performance](https://arxiv.org/abs/2608.27449v1)** | 2026-08-27 | 9 pages, 5 figures |
-| **[TTPO: Test-Time Policy Optimization](https://arxiv.org/abs/2608.27448v1)** | 2026-08-27 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/TTPO Code: https://github.com/ZJU-REAL/TTPO</p></details> |
-| **[Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](https://arxiv.org/abs/2608.27443v1)** | 2026-08-27 | 15 pages, 5 figures |
-| **[Selective State-Space Adaptation and Retrieval for Language Model Reasoning](https://arxiv.org/abs/2607.19326v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). 22 pages, 5 figures, 20 tables. Code: https://github.com/atahandokme/malora-mara</p></details> |
+| **[QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs](https://arxiv.org/abs/2608.28589v1)** | 2026-08-28 |  |
+| **[Learning a Size-Weight Frontier for Synthetic-Augmented Inference](https://arxiv.org/abs/2608.28576v1)** | 2026-08-28 | 19 pages, 5 figures |
+| **[Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy](https://arxiv.org/abs/2608.28564v1)** | 2026-08-28 |  |
+| **[Autotune: fast, accurate, and automatic tuning parameter selection for Lasso](https://arxiv.org/abs/2512.11139v3)** | 2026-08-28 | 53 pages, 35 figures |
+| **[Blog: Survey of Optimizers](https://arxiv.org/abs/2608.28557v1)** | 2026-08-28 |  |
+| **[Does Finetuning with Scientific Data Increase Hallucinations? A Multi-domain Factuality Evaluation of LLMs](https://arxiv.org/abs/2606.21359v2)** | 2026-08-28 | Camera-ready version |
+| **[PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection](https://arxiv.org/abs/2502.12119v5)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 and selected for the ACL 2026 Best Paper Consideration</p></details> |
+| **[Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining](https://arxiv.org/abs/2608.28552v1)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 2 tables, submitted for journal review</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/abs/2608.27456v1)** | 2026-08-27 | <details><summary>35 pa...</summary><p>35 pages, 11 figures, 7 tables. Project Page: https://urbanground.github.io, Code Repository: https://github.com/UrbanGround/UrbanGround</p></details> |
-| **[ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs](https://arxiv.org/abs/2608.01979v2)** | 2026-08-27 | <details><summary>Code ...</summary><p>Code and supplementary material is at https://github.com/Labyrinth0419/ET-Prune</p></details> |
-| **[MineExplorer: Evaluating Open-World Exploration of MLLM Agents in Minecraft](https://arxiv.org/abs/2605.30931v3)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Main)</p></details> |
-| **[Buried in Textual Debt: Context Pruning with Visual Evidence Preservation for MLLM Agents](https://arxiv.org/abs/2608.22963v2)** | 2026-08-27 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[Aphanta: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning](https://arxiv.org/abs/2608.26993v1)** | 2026-08-27 |  |
-| **[RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing](https://arxiv.org/abs/2608.26956v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
-| **[From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation](https://arxiv.org/abs/2608.26856v1)** | 2026-08-27 | <details><summary>accep...</summary><p>accepted by ECCV 2026</p></details> |
-| **[LLaVAFlow: Preserving Latent Alignment Flow for Parameter-Efficient Multimodal Fine-Tuning](https://arxiv.org/abs/2608.26820v1)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2026 (ACM MM 2026)</p></details> |
-| **[CRAM: Centroid-Routing and Adaptive MoE for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2606.02502v2)** | 2026-08-27 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). Code is available at [this URL](https://github.com/LAMDA-CL/EMNLP2026-CRAM)</p></details> |
-| **[UniGeo: A Multi-modal Large Language Model for Text-Guided Cross-View Geo-Localization](https://arxiv.org/abs/2608.26722v1)** | 2026-08-27 |  |
+| **[PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection](https://arxiv.org/abs/2502.12119v5)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 and selected for the ACL 2026 Best Paper Consideration</p></details> |
+| **[Steering Multimodal Large Language Models Decoding for Context-Aware Safety](https://arxiv.org/abs/2509.19212v2)** | 2026-08-28 | EMNLP 2026 Main |
+| **[Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2608.20756v2)** | 2026-08-28 | <details><summary>Findi...</summary><p>Findings of EMNLP, 2026</p></details> |
+| **[AIM: Anchor Identity Features, Then Match for Multimodal Large Language Model Unlearning](https://arxiv.org/abs/2608.28312v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
+| **[CoCoBench: A Cooperative Coordination Benchmark for Embodied Multi-Agent Task Planning](https://arxiv.org/abs/2608.28266v1)** | 2026-08-28 |  |
+| **[Do Medical Vision Models Reason About Anatomy? Probing the Spatial Inductive Biases of Learned Visual Representations](https://arxiv.org/abs/2608.28092v1)** | 2026-08-28 |  |
+| **[WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents](https://arxiv.org/abs/2608.28062v1)** | 2026-08-28 |  |
+| **[Visual Token Coding for Video Multimodal Large Language Models](https://arxiv.org/abs/2608.28008v1)** | 2026-08-28 | 9 pages, 4 figures |
+| **[OceanGym: A Benchmark Environment for Underwater Embodied Agents](https://arxiv.org/abs/2509.26536v3)** | 2026-08-28 | EMNLP 2026 |
+| **[Temporal Tree of Thought: Reasoning-Guided Visual Cue Search for Long-Video Understanding](https://arxiv.org/abs/2608.27871v1)** | 2026-08-28 | Accept by EMNLP2026 |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/abs/2608.27456v1)** | 2026-08-27 | <details><summary>35 pa...</summary><p>35 pages, 11 figures, 7 tables. Project Page: https://urbanground.github.io, Code Repository: https://github.com/UrbanGround/UrbanGround</p></details> |
-| **[More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation](https://arxiv.org/abs/2608.23730v2)** | 2026-08-27 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 5 tables. v2: corrects the external-source measurements in Sec. 3.4 and Fig. 3; conclusions unchanged</p></details> |
-| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
-| **[SWE-Prime: Fewer Trajectories, Better Performance](https://arxiv.org/abs/2608.27449v1)** | 2026-08-27 | 9 pages, 5 figures |
-| **[Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](https://arxiv.org/abs/2608.27443v1)** | 2026-08-27 | 15 pages, 5 figures |
+| **[QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs](https://arxiv.org/abs/2608.28589v1)** | 2026-08-28 |  |
+| **[Learning a Size-Weight Frontier for Synthetic-Augmented Inference](https://arxiv.org/abs/2608.28576v1)** | 2026-08-28 | 19 pages, 5 figures |
+| **[Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy](https://arxiv.org/abs/2608.28564v1)** | 2026-08-28 |  |
+| **[Autotune: fast, accurate, and automatic tuning parameter selection for Lasso](https://arxiv.org/abs/2512.11139v3)** | 2026-08-28 | 53 pages, 35 figures |
+| **[Blog: Survey of Optimizers](https://arxiv.org/abs/2608.28557v1)** | 2026-08-28 |  |
+| **[Does Finetuning with Scientific Data Increase Hallucinations? A Multi-domain Factuality Evaluation of LLMs](https://arxiv.org/abs/2606.21359v2)** | 2026-08-28 | Camera-ready version |
+| **[PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection](https://arxiv.org/abs/2502.12119v5)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 and selected for the ACL 2026 Best Paper Consideration</p></details> |
+| **[Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining](https://arxiv.org/abs/2608.28552v1)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 2 tables, submitted for journal review</p></details> |
+| **[Video Generative Models as Geometry Learner](https://arxiv.org/abs/2608.28549v1)** | 2026-08-28 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 5 tables. Project page: https://happy-hsy.github.io/projects/GeoNeXt/</p></details> |
 
