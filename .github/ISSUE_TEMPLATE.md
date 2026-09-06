@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2026
+title: Latest 15 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,44 +7,47 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://arxiv.org/abs/2609.02886v1)** | 2026-09-02 | <details><summary>https...</summary><p>https://junchao-cs.github.io/SolarWM-Web/</p></details> |
-| **[Learning CNN Filters via Generalized Stein's Method](https://arxiv.org/abs/2609.02875v1)** | 2026-09-02 |  |
-| **[CliPS -- How to identify cluster distributions in Bayesian mixture models](https://arxiv.org/abs/2603.00277v2)** | 2026-09-02 |  |
-| **[Differentiable Randers-Finsler Eikonal Solvers](https://arxiv.org/abs/2603.00035v2)** | 2026-09-02 |  |
-| **[Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation](https://arxiv.org/abs/2609.02864v1)** | 2026-09-02 |  |
-| **[Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework](https://arxiv.org/abs/2609.02861v1)** | 2026-09-02 | <details><summary>7 pag...</summary><p>7 pages. Accepted version. Published in SoutheastCon 2026, IEEE, pp. 1-6</p></details> |
+| **[TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation](https://arxiv.org/abs/2609.04202v1)** | 2026-09-03 | <details><summary>25 pa...</summary><p>25 pages, 13 figures and 12 tables; project page: https://4dqv.mpi-inf.mpg.de/TokenMatch/</p></details> |
+| **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](https://arxiv.org/abs/2609.04198v1)** | 2026-09-03 |  |
+| **[PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models](https://arxiv.org/abs/2603.28763v2)** | 2026-09-03 |  |
+| **[Robust PAC Learning of Concurrent Stochastic Games](https://arxiv.org/abs/2609.04189v1)** | 2026-09-03 | <details><summary>Main ...</summary><p>Main text: 10 pages, 1 figure, 2 tables; Appendix: 22 pages, 2 figures, 1 table</p></details> |
+| **[Semiparametric Estimation of Delayed-Outcome Treatment Effects Using Short-Term Surrogates under Administrative Censoring](https://arxiv.org/abs/2603.10405v5)** | 2026-09-03 | <details><summary>2 fig...</summary><p>2 figures,1 supplement</p></details> |
+| **[Toward Frontier-Quality Declarative UI Generation at Small-Model Cost](https://arxiv.org/abs/2609.04184v1)** | 2026-09-03 |  |
+| **[Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](https://arxiv.org/abs/2609.04180v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Common Measure of Communication for Speech Brain-Computer Interfaces](https://arxiv.org/abs/2609.02887v1)** | 2026-09-02 | <details><summary>Code ...</summary><p>Code and OVMI Explorer available from the project page at https://neural-processing-lab.github.io/OVMI/</p></details> |
-| **[SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://arxiv.org/abs/2609.02886v1)** | 2026-09-02 | <details><summary>https...</summary><p>https://junchao-cs.github.io/SolarWM-Web/</p></details> |
-| **[Discriminative World Models for Web Agents](https://arxiv.org/abs/2609.02885v1)** | 2026-09-02 |  |
-| **[Learning CNN Filters via Generalized Stein's Method](https://arxiv.org/abs/2609.02875v1)** | 2026-09-02 |  |
-| **[CliPS -- How to identify cluster distributions in Bayesian mixture models](https://arxiv.org/abs/2603.00277v2)** | 2026-09-02 |  |
-| **[Mediocrity is the key for LLM as a Judge Anchor Selection](https://arxiv.org/abs/2603.16848v2)** | 2026-09-02 | ACL 2026 |
-| **[Differentiable Randers-Finsler Eikonal Solvers](https://arxiv.org/abs/2603.00035v2)** | 2026-09-02 |  |
+| **[TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation](https://arxiv.org/abs/2609.04202v1)** | 2026-09-03 | <details><summary>25 pa...</summary><p>25 pages, 13 figures and 12 tables; project page: https://4dqv.mpi-inf.mpg.de/TokenMatch/</p></details> |
+| **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](https://arxiv.org/abs/2609.04198v1)** | 2026-09-03 |  |
+| **[ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](https://arxiv.org/abs/2609.04197v1)** | 2026-09-03 | EMNLP 2026 |
+| **[PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models](https://arxiv.org/abs/2603.28763v2)** | 2026-09-03 |  |
+| **[Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter](https://arxiv.org/abs/2609.04195v1)** | 2026-09-03 | <details><summary>30 pa...</summary><p>30 pages, 4 figures, under preparation for PLOS Computational Biology</p></details> |
+| **[Robust PAC Learning of Concurrent Stochastic Games](https://arxiv.org/abs/2609.04189v1)** | 2026-09-03 | <details><summary>Main ...</summary><p>Main text: 10 pages, 1 figure, 2 tables; Appendix: 22 pages, 2 figures, 1 table</p></details> |
+| **[Semiparametric Estimation of Delayed-Outcome Treatment Effects Using Short-Term Surrogates under Administrative Censoring](https://arxiv.org/abs/2603.10405v5)** | 2026-09-03 | <details><summary>2 fig...</summary><p>2 figures,1 supplement</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding](https://arxiv.org/abs/2609.02780v1)** | 2026-09-02 | Work in Progress |
-| **[Deeply Interleaved Text-Image Contexts for Multimodal LLMs Assessment](https://arxiv.org/abs/2609.02573v1)** | 2026-09-02 |  |
-| **[Beauty is in the AI of the beholder: MLLMs systematically overrate facial attractiveness](https://arxiv.org/abs/2609.02512v1)** | 2026-09-02 |  |
-| **[Blending Concepts: Benchmarking Visual Metaphor Generation in Text-to-Image Models](https://arxiv.org/abs/2609.02502v1)** | 2026-09-02 |  |
-| **[PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2606.23092v2)** | 2026-09-02 |  |
-| **[LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory](https://arxiv.org/abs/2609.02350v1)** | 2026-09-02 | <details><summary>19 Pa...</summary><p>19 Pages, 7 Figures. Accepted in EMNLP 2026 Main</p></details> |
-| **[YesTrack: Referring Multi-Object Tracking via MLLM-based Yes/No Verification](https://arxiv.org/abs/2609.02318v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Bernini: Latent Semantic Planning for Video Diffusion](https://arxiv.org/abs/2605.22344v2)** | 2026-09-02 | <details><summary>Proje...</summary><p>Project Page: https://bernini-ai.github.io/</p></details> |
-| **[Beyond Appearance: Can Multimodal Large Language Models Exploit Vertical Structure for Remote Sensing Natural Scene Understanding?](https://arxiv.org/abs/2605.25784v2)** | 2026-09-02 |  |
-| **[Evidence-Guided Detection, Localization and Explanation for Text-Centric Image Forensics](https://arxiv.org/abs/2609.02097v1)** | 2026-09-02 |  |
+| **[Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding](https://arxiv.org/abs/2609.04131v1)** | 2026-09-03 |  |
+| **[CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation](https://arxiv.org/abs/2609.04083v1)** | 2026-09-03 |  |
+| **[Causal Probing for Internal Visual Representations in Multimodal Large Language Models](https://arxiv.org/abs/2605.05593v3)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main</p></details> |
+| **[InSituMeasure: Probing Situated Measurement Grounding in Industrial Scenes with Multimodal Large Language Models](https://arxiv.org/abs/2609.04014v1)** | 2026-09-03 |  |
+| **[GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs](https://arxiv.org/abs/2609.03892v1)** | 2026-09-03 |  |
+| **[Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs](https://arxiv.org/abs/2609.03820v1)** | 2026-09-03 | <details><summary>16 pa...</summary><p>16 pages, 6 figures. Code and data: https://github.com/codeprakhar25/omp-keyframe-sampling</p></details> |
+| **[NeoRed: A Knowledge-Logic-Alignment Multimodal Large Language Model for Neonatal Respiratory Disease Diagnosis](https://arxiv.org/abs/2609.03527v1)** | 2026-09-03 | 9 pages 10 figures |
+| **[Transfer Safety Awareness for Cross-Modal Safety Drift in Multimodal Large Language Models](https://arxiv.org/abs/2609.02082v2)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
+| **[StrixAE: An Intelligent Agent for Audio Enhancement under Complex Distortion Coupling in Real-World Scenarios](https://arxiv.org/abs/2609.03414v1)** | 2026-09-03 |  |
+| **[VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs](https://arxiv.org/abs/2511.20272v3)** | 2026-09-03 | <details><summary>Code:...</summary><p>Code: https://github.com/OpenGVLab/VKnowU</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://arxiv.org/abs/2609.02886v1)** | 2026-09-02 | <details><summary>https...</summary><p>https://junchao-cs.github.io/SolarWM-Web/</p></details> |
-| **[Learning CNN Filters via Generalized Stein's Method](https://arxiv.org/abs/2609.02875v1)** | 2026-09-02 |  |
-| **[CliPS -- How to identify cluster distributions in Bayesian mixture models](https://arxiv.org/abs/2603.00277v2)** | 2026-09-02 |  |
-| **[Differentiable Randers-Finsler Eikonal Solvers](https://arxiv.org/abs/2603.00035v2)** | 2026-09-02 |  |
-| **[Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation](https://arxiv.org/abs/2609.02864v1)** | 2026-09-02 |  |
+| **[TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation](https://arxiv.org/abs/2609.04202v1)** | 2026-09-03 | <details><summary>25 pa...</summary><p>25 pages, 13 figures and 12 tables; project page: https://4dqv.mpi-inf.mpg.de/TokenMatch/</p></details> |
+| **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](https://arxiv.org/abs/2609.04198v1)** | 2026-09-03 |  |
+| **[PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models](https://arxiv.org/abs/2603.28763v2)** | 2026-09-03 |  |
+| **[Robust PAC Learning of Concurrent Stochastic Games](https://arxiv.org/abs/2609.04189v1)** | 2026-09-03 | <details><summary>Main ...</summary><p>Main text: 10 pages, 1 figure, 2 tables; Appendix: 22 pages, 2 figures, 1 table</p></details> |
+| **[Semiparametric Estimation of Delayed-Outcome Treatment Effects Using Short-Term Surrogates under Administrative Censoring](https://arxiv.org/abs/2603.10405v5)** | 2026-09-03 | <details><summary>2 fig...</summary><p>2 figures,1 supplement</p></details> |
+| **[Toward Frontier-Quality Declarative UI Generation at Small-Model Cost](https://arxiv.org/abs/2609.04184v1)** | 2026-09-03 |  |
+| **[Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](https://arxiv.org/abs/2609.04180v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
 
