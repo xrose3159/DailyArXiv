@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 07, 2026
+title: Latest 15 Papers - September 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,47 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation](https://arxiv.org/abs/2609.04202v1)** | 2026-09-03 | <details><summary>25 pa...</summary><p>25 pages, 13 figures and 12 tables; project page: https://4dqv.mpi-inf.mpg.de/TokenMatch/</p></details> |
-| **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](https://arxiv.org/abs/2609.04198v1)** | 2026-09-03 |  |
-| **[PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models](https://arxiv.org/abs/2603.28763v2)** | 2026-09-03 |  |
-| **[Robust PAC Learning of Concurrent Stochastic Games](https://arxiv.org/abs/2609.04189v1)** | 2026-09-03 | <details><summary>Main ...</summary><p>Main text: 10 pages, 1 figure, 2 tables; Appendix: 22 pages, 2 figures, 1 table</p></details> |
-| **[Semiparametric Estimation of Delayed-Outcome Treatment Effects Using Short-Term Surrogates under Administrative Censoring](https://arxiv.org/abs/2603.10405v5)** | 2026-09-03 | <details><summary>2 fig...</summary><p>2 figures,1 supplement</p></details> |
-| **[Toward Frontier-Quality Declarative UI Generation at Small-Model Cost](https://arxiv.org/abs/2609.04184v1)** | 2026-09-03 |  |
-| **[Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](https://arxiv.org/abs/2609.04180v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
+| **[Towards Scaling Quantum Fine-Tuning of Foundational Time Series Models for Classification](https://arxiv.org/abs/2609.05408v1)** | 2026-09-04 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 6 tables</p></details> |
+| **[Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief](https://arxiv.org/abs/2609.05406v1)** | 2026-09-04 | <details><summary>20 pa...</summary><p>20 pages, 18 figures, 5 tables. Code and derived data: https://doi.org/10.5281/zenodo.22308423</p></details> |
+| **[WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](https://arxiv.org/abs/2609.05405v1)** | 2026-09-04 |  |
+| **[RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments](https://arxiv.org/abs/2609.05403v1)** | 2026-09-04 |  |
+| **[A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks](https://arxiv.org/abs/2609.05400v1)** | 2026-09-04 | <details><summary>26 pa...</summary><p>26 pages (excluding the references section), 7 figures (excluding sub-figures)</p></details> |
+| **[Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe](https://arxiv.org/abs/2609.05395v1)** | 2026-09-04 | <details><summary>30 pa...</summary><p>30 pages, 7 figures, 26 tables. Accepted to EMNLP 2026 Industry Track</p></details> |
+| **[Reflection-aware Generative Novel View Synthesis](https://arxiv.org/abs/2609.05382v1)** | 2026-09-04 | <details><summary>ECCV2...</summary><p>ECCV2026, Project page: https://kim-geonu.github.io/Ref-GeNVS/</p></details> |
+| **[Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v2)** | 2026-09-04 | preprint, 12 pages |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation](https://arxiv.org/abs/2609.04202v1)** | 2026-09-03 | <details><summary>25 pa...</summary><p>25 pages, 13 figures and 12 tables; project page: https://4dqv.mpi-inf.mpg.de/TokenMatch/</p></details> |
-| **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](https://arxiv.org/abs/2609.04198v1)** | 2026-09-03 |  |
-| **[ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](https://arxiv.org/abs/2609.04197v1)** | 2026-09-03 | EMNLP 2026 |
-| **[PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models](https://arxiv.org/abs/2603.28763v2)** | 2026-09-03 |  |
-| **[Axonal delay dispersion decides whether a neuron detects an event or a sequence, and predicts cortical column diameter](https://arxiv.org/abs/2609.04195v1)** | 2026-09-03 | <details><summary>30 pa...</summary><p>30 pages, 4 figures, under preparation for PLOS Computational Biology</p></details> |
-| **[Robust PAC Learning of Concurrent Stochastic Games](https://arxiv.org/abs/2609.04189v1)** | 2026-09-03 | <details><summary>Main ...</summary><p>Main text: 10 pages, 1 figure, 2 tables; Appendix: 22 pages, 2 figures, 1 table</p></details> |
-| **[Semiparametric Estimation of Delayed-Outcome Treatment Effects Using Short-Term Surrogates under Administrative Censoring](https://arxiv.org/abs/2603.10405v5)** | 2026-09-03 | <details><summary>2 fig...</summary><p>2 figures,1 supplement</p></details> |
+| **[Towards Scaling Quantum Fine-Tuning of Foundational Time Series Models for Classification](https://arxiv.org/abs/2609.05408v1)** | 2026-09-04 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 6 tables</p></details> |
+| **[Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief](https://arxiv.org/abs/2609.05406v1)** | 2026-09-04 | <details><summary>20 pa...</summary><p>20 pages, 18 figures, 5 tables. Code and derived data: https://doi.org/10.5281/zenodo.22308423</p></details> |
+| **[WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](https://arxiv.org/abs/2609.05405v1)** | 2026-09-04 |  |
+| **[RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments](https://arxiv.org/abs/2609.05403v1)** | 2026-09-04 |  |
+| **[A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks](https://arxiv.org/abs/2609.05400v1)** | 2026-09-04 | <details><summary>26 pa...</summary><p>26 pages (excluding the references section), 7 figures (excluding sub-figures)</p></details> |
+| **[Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe](https://arxiv.org/abs/2609.05395v1)** | 2026-09-04 | <details><summary>30 pa...</summary><p>30 pages, 7 figures, 26 tables. Accepted to EMNLP 2026 Industry Track</p></details> |
+| **[Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v2)** | 2026-09-04 | preprint, 12 pages |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MineExplorer: Evaluating Open-World Exploration of MLLM Agents in Minecraft](https://arxiv.org/abs/2605.30931v4)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Main)</p></details> |
+| **[First Things First: Teaching LLM-Based Agents to Prioritize Must-Haves before Nice-to-Haves](https://arxiv.org/abs/2609.05224v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Findings)</p></details> |
+| **[LookStep: Efficient Vision-Language Navigation with Linguistic Foresight and Event Driven Memory](https://arxiv.org/abs/2609.02350v2)** | 2026-09-04 | <details><summary>19 Pa...</summary><p>19 Pages, 7 Figures. Accepted in EMNLP 2026 Main. Project Page: https://kunyang-yu.github.io/LookStep/</p></details> |
+| **[PRISM-Bench: An Audio-Centric Diagnostic Benchmark for Text-to-Audio-Video Generation](https://arxiv.org/abs/2609.04867v1)** | 2026-09-04 | <details><summary>19 pa...</summary><p>19 pages, 10 figures, 4 tables. Accepted at ACM Multimedia 2026 (MM '26). This arXiv version includes supplementary appendices not included in the conference proceedings version</p></details> |
+| **[CustomDance: Customized 3D Dance Generation with Coarse-to-Fine Human-Centered Interactive Control](https://arxiv.org/abs/2608.06722v3)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026</p></details> |
 | **[Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding](https://arxiv.org/abs/2609.04131v1)** | 2026-09-03 |  |
 | **[CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation](https://arxiv.org/abs/2609.04083v1)** | 2026-09-03 |  |
 | **[Causal Probing for Internal Visual Representations in Multimodal Large Language Models](https://arxiv.org/abs/2605.05593v3)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main</p></details> |
 | **[InSituMeasure: Probing Situated Measurement Grounding in Industrial Scenes with Multimodal Large Language Models](https://arxiv.org/abs/2609.04014v1)** | 2026-09-03 |  |
 | **[GraFT: A Training-Free Framework for Spatial Reasoning in Multimodal Large Language Models via 3D Scene Graphs](https://arxiv.org/abs/2609.03892v1)** | 2026-09-03 |  |
-| **[Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs](https://arxiv.org/abs/2609.03820v1)** | 2026-09-03 | <details><summary>16 pa...</summary><p>16 pages, 6 figures. Code and data: https://github.com/codeprakhar25/omp-keyframe-sampling</p></details> |
-| **[NeoRed: A Knowledge-Logic-Alignment Multimodal Large Language Model for Neonatal Respiratory Disease Diagnosis](https://arxiv.org/abs/2609.03527v1)** | 2026-09-03 | 9 pages 10 figures |
-| **[Transfer Safety Awareness for Cross-Modal Safety Drift in Multimodal Large Language Models](https://arxiv.org/abs/2609.02082v2)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
-| **[StrixAE: An Intelligent Agent for Audio Enhancement under Complex Distortion Coupling in Real-World Scenarios](https://arxiv.org/abs/2609.03414v1)** | 2026-09-03 |  |
-| **[VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs](https://arxiv.org/abs/2511.20272v3)** | 2026-09-03 | <details><summary>Code:...</summary><p>Code: https://github.com/OpenGVLab/VKnowU</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation](https://arxiv.org/abs/2609.04202v1)** | 2026-09-03 | <details><summary>25 pa...</summary><p>25 pages, 13 figures and 12 tables; project page: https://4dqv.mpi-inf.mpg.de/TokenMatch/</p></details> |
-| **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](https://arxiv.org/abs/2609.04198v1)** | 2026-09-03 |  |
-| **[PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models](https://arxiv.org/abs/2603.28763v2)** | 2026-09-03 |  |
-| **[Robust PAC Learning of Concurrent Stochastic Games](https://arxiv.org/abs/2609.04189v1)** | 2026-09-03 | <details><summary>Main ...</summary><p>Main text: 10 pages, 1 figure, 2 tables; Appendix: 22 pages, 2 figures, 1 table</p></details> |
-| **[Semiparametric Estimation of Delayed-Outcome Treatment Effects Using Short-Term Surrogates under Administrative Censoring](https://arxiv.org/abs/2603.10405v5)** | 2026-09-03 | <details><summary>2 fig...</summary><p>2 figures,1 supplement</p></details> |
-| **[Toward Frontier-Quality Declarative UI Generation at Small-Model Cost](https://arxiv.org/abs/2609.04184v1)** | 2026-09-03 |  |
-| **[Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](https://arxiv.org/abs/2609.04180v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
+| **[UniMate: One Unified Model to Animate Diverse Skeletons](https://arxiv.org/abs/2609.05415v1)** | 2026-09-04 | <details><summary>SIGGR...</summary><p>SIGGRAPH Asia 2026. Project page: https://linzhanmou.com/unimate/</p></details> |
+| **[Towards Scaling Quantum Fine-Tuning of Foundational Time Series Models for Classification](https://arxiv.org/abs/2609.05408v1)** | 2026-09-04 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 6 tables</p></details> |
+| **[Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief](https://arxiv.org/abs/2609.05406v1)** | 2026-09-04 | <details><summary>20 pa...</summary><p>20 pages, 18 figures, 5 tables. Code and derived data: https://doi.org/10.5281/zenodo.22308423</p></details> |
+| **[WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](https://arxiv.org/abs/2609.05405v1)** | 2026-09-04 |  |
+| **[RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments](https://arxiv.org/abs/2609.05403v1)** | 2026-09-04 |  |
+| **[A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks](https://arxiv.org/abs/2609.05400v1)** | 2026-09-04 | <details><summary>26 pa...</summary><p>26 pages (excluding the references section), 7 figures (excluding sub-figures)</p></details> |
+| **[Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe](https://arxiv.org/abs/2609.05395v1)** | 2026-09-04 | <details><summary>30 pa...</summary><p>30 pages, 7 figures, 26 tables. Accepted to EMNLP 2026 Industry Track</p></details> |
+| **[Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](https://arxiv.org/abs/2609.00184v2)** | 2026-09-04 | preprint, 12 pages |
 
