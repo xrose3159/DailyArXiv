@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,52 +7,45 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Gap-free Differentially Private PCA for Gaussian Data](https://arxiv.org/abs/2609.31614v1)** | 2026-09-25 |  |
-| **[First-Order Stationarity of Reverse Diffusions](https://arxiv.org/abs/2609.31612v1)** | 2026-09-25 |  |
-| **[Statistical attribute alignment for black-box generative AI via output post-processing](https://arxiv.org/abs/2609.31607v1)** | 2026-09-25 |  |
-| **[New LoRA Skills Should Read but Never Write](https://arxiv.org/abs/2609.31600v1)** | 2026-09-25 |  |
-| **[Distribution-Conditioned Transport](https://arxiv.org/abs/2603.04736v2)** | 2026-09-25 |  |
-| **[WEECFP-SuRGE: A Position-Aware Substructure Encoding Method for Molecular Property Prediction](https://arxiv.org/abs/2609.04672v2)** | 2026-09-25 |  |
-| **[Trust Guided Decision Transformer](https://arxiv.org/abs/2609.31586v1)** | 2026-09-25 | <details><summary>To ap...</summary><p>To appear in Neurips 2026</p></details> |
-| **[Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators](https://arxiv.org/abs/2609.31577v1)** | 2026-09-25 | 12 pages |
-| **[Strategically Diverse Sampling for Self-Training](https://arxiv.org/abs/2609.31571v1)** | 2026-09-25 |  |
+| **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](https://arxiv.org/abs/2609.35770v1)** | 2026-09-28 | <details><summary>14 pa...</summary><p>14 pages, 13 figures, 4 tables. Project page: https://toshi2k2.github.io/fure</p></details> |
+| **[Telescopic Language Models](https://arxiv.org/abs/2609.35769v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. Code: https://github.com/ZhilinGuo/telescopic-language-models</p></details> |
+| **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](https://arxiv.org/abs/2609.35768v1)** | 2026-09-28 |  |
+| **[Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose](https://arxiv.org/abs/2609.35764v1)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables. Code: https://github.com/ZhilinGuo/reliability-gated-imu-fusion</p></details> |
+| **[Neural Harmonic Measure Operator](https://arxiv.org/abs/2609.35752v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). 30 pages, 11 figures, 19 tables</p></details> |
+| **[Squeeze3D: Extreme Neural Compression with Latent Space Bridging](https://arxiv.org/abs/2506.07932v2)** | 2026-09-28 | <details><summary>Proje...</summary><p>Project Page: https://squeeze3d.github.io/</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders](https://arxiv.org/abs/2609.31620v1)** | 2026-09-25 |  |
-| **[Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](https://arxiv.org/abs/2609.31619v1)** | 2026-09-25 |  |
-| **[Beyond Forecasting: Recasting Volatility Control as a Routing Problem](https://arxiv.org/abs/2608.10375v2)** | 2026-09-25 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, ACM ICAIF</p></details> |
-| **[Gap-free Differentially Private PCA for Gaussian Data](https://arxiv.org/abs/2609.31614v1)** | 2026-09-25 |  |
-| **[First-Order Stationarity of Reverse Diffusions](https://arxiv.org/abs/2609.31612v1)** | 2026-09-25 |  |
-| **[Statistical attribute alignment for black-box generative AI via output post-processing](https://arxiv.org/abs/2609.31607v1)** | 2026-09-25 |  |
-| **[New LoRA Skills Should Read but Never Write](https://arxiv.org/abs/2609.31600v1)** | 2026-09-25 |  |
-| **[Distribution-Conditioned Transport](https://arxiv.org/abs/2603.04736v2)** | 2026-09-25 |  |
+| **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](https://arxiv.org/abs/2609.35770v1)** | 2026-09-28 | <details><summary>14 pa...</summary><p>14 pages, 13 figures, 4 tables. Project page: https://toshi2k2.github.io/fure</p></details> |
+| **[Telescopic Language Models](https://arxiv.org/abs/2609.35769v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. Code: https://github.com/ZhilinGuo/telescopic-language-models</p></details> |
+| **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](https://arxiv.org/abs/2609.35768v1)** | 2026-09-28 |  |
+| **[Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales](https://arxiv.org/abs/2609.35765v1)** | 2026-09-28 |  |
+| **[Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose](https://arxiv.org/abs/2609.35764v1)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables. Code: https://github.com/ZhilinGuo/reliability-gated-imu-fusion</p></details> |
+| **[Neural Harmonic Measure Operator](https://arxiv.org/abs/2609.35752v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). 30 pages, 11 figures, 19 tables</p></details> |
+| **[Robust Active Learning for Few-Shot Example Selection in Text-to-SQL](https://arxiv.org/abs/2606.10125v2)** | 2026-09-28 | <details><summary>42 pa...</summary><p>42 pages, 7 figures. Major revision</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ChemMLLM: Chemical Multimodal Large Language Model](https://arxiv.org/abs/2505.16326v3)** | 2026-09-25 | 19 pages |
-| **[EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models](https://arxiv.org/abs/2609.31551v1)** | 2026-09-25 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 7 tables. Accepted to PACT 2026</p></details> |
-| **[OSPO: Object-Centric Self-Improving Preference Optimization for Text-to-Image Generation](https://arxiv.org/abs/2506.02015v4)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (camera-ready version)</p></details> |
-| **[Q-Probe: Scaling Image Quality Assessment to High Resolution via Context-Aware Agentic Probing](https://arxiv.org/abs/2601.15356v6)** | 2026-09-25 | NeurIPS 2026 |
-| **[ManiVid: Unified and Explainable Forensic Analysis of Manipulated Videos](https://arxiv.org/abs/2609.30934v1)** | 2026-09-25 |  |
-| **[Where to Focus: Query-Modulated Multimodal Keyframe Selection for Long Video Understanding](https://arxiv.org/abs/2604.17422v2)** | 2026-09-25 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. To appear in Proceedings of the 34th ACM International Conference on Multimedia (MM '26)</p></details> |
-| **[PhysElite: How Far Are LLMs from Solving Olympiad-Level Physics Problems?](https://arxiv.org/abs/2608.25097v2)** | 2026-09-25 | <details><summary>Annua...</summary><p>Annual Conference on Neural Information Processing Systems (NeurIPS) 2026</p></details> |
-| **[Skip the Talk, Re-Focus on Vision: Latent Reasoning for Reasoning Segmentation in Multimodal Large Language Models](https://arxiv.org/abs/2609.30783v1)** | 2026-09-25 |  |
-| **[The Alignment Illusion in Multimodal Large Language Models](https://arxiv.org/abs/2609.30210v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
-| **[Q-CueGraph: Query-Conditioned Visual Evidence Graphs for Multimodal Reasoning](https://arxiv.org/abs/2608.04452v2)** | 2026-09-24 |  |
+| **[FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching](https://arxiv.org/abs/2609.35673v1)** | 2026-09-28 |  |
+| **[Look Before You Judge: Training-Free Region Mining for Grounded and Explainable Deepfake Detection](https://arxiv.org/abs/2609.35536v1)** | 2026-09-28 |  |
+| **[ReVA: A Scene-Centric Dataset Beyond Repetition for Remote Sensing Video Question Answering](https://arxiv.org/abs/2609.35507v1)** | 2026-09-28 |  |
+| **[How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://arxiv.org/abs/2609.35457v1)** | 2026-09-28 |  |
+| **[Automated Species Identification in Camera Trap Images for Wildlife Conservation](https://arxiv.org/abs/2609.35420v1)** | 2026-09-28 | <details><summary>52 pa...</summary><p>52 pages. B.Sc. thesis, Department of Computer Science and Engineering, Brac University, June 2025</p></details> |
+| **[USS: Unifying Spatial-Semantic Prompting for End to End Embodied Visual Tracking](https://arxiv.org/abs/2606.25880v2)** | 2026-09-28 |  |
+| **[Mitigating Multimodal LLMs Hallucinations via Relevance Propagation at Inference Time](https://arxiv.org/abs/2605.01766v2)** | 2026-09-28 |  |
+| **[SPIDER: Multi-Layer Semantic Token Pruning and Adaptive Sub-Layer Skipping in Multimodal Large Language Models](https://arxiv.org/abs/2609.34977v1)** | 2026-09-28 |  |
+| **[Just MLPs: Efficient Visual State Reconstruction for Multimodal Language Models](https://arxiv.org/abs/2609.34972v1)** | 2026-09-28 | 21 pages, 5 figures |
+| **[NavJev: Efficient Vision-Language Navigation via Action-Centric Visual Compression and Discriminative Action-Semantic Memory](https://arxiv.org/abs/2609.34969v1)** | 2026-09-28 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Gap-free Differentially Private PCA for Gaussian Data](https://arxiv.org/abs/2609.31614v1)** | 2026-09-25 |  |
-| **[First-Order Stationarity of Reverse Diffusions](https://arxiv.org/abs/2609.31612v1)** | 2026-09-25 |  |
-| **[Statistical attribute alignment for black-box generative AI via output post-processing](https://arxiv.org/abs/2609.31607v1)** | 2026-09-25 |  |
-| **[New LoRA Skills Should Read but Never Write](https://arxiv.org/abs/2609.31600v1)** | 2026-09-25 |  |
-| **[Distribution-Conditioned Transport](https://arxiv.org/abs/2603.04736v2)** | 2026-09-25 |  |
-| **[WEECFP-SuRGE: A Position-Aware Substructure Encoding Method for Molecular Property Prediction](https://arxiv.org/abs/2609.04672v2)** | 2026-09-25 |  |
-| **[ChemMLLM: Chemical Multimodal Large Language Model](https://arxiv.org/abs/2505.16326v3)** | 2026-09-25 | 19 pages |
-| **[Trust Guided Decision Transformer](https://arxiv.org/abs/2609.31586v1)** | 2026-09-25 | <details><summary>To ap...</summary><p>To appear in Neurips 2026</p></details> |
-| **[Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators](https://arxiv.org/abs/2609.31577v1)** | 2026-09-25 | 12 pages |
+| **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](https://arxiv.org/abs/2609.35770v1)** | 2026-09-28 | <details><summary>14 pa...</summary><p>14 pages, 13 figures, 4 tables. Project page: https://toshi2k2.github.io/fure</p></details> |
+| **[Telescopic Language Models](https://arxiv.org/abs/2609.35769v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. Code: https://github.com/ZhilinGuo/telescopic-language-models</p></details> |
+| **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](https://arxiv.org/abs/2609.35768v1)** | 2026-09-28 |  |
+| **[Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose](https://arxiv.org/abs/2609.35764v1)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables. Code: https://github.com/ZhilinGuo/reliability-gated-imu-fusion</p></details> |
+| **[Neural Harmonic Measure Operator](https://arxiv.org/abs/2609.35752v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). 30 pages, 11 figures, 19 tables</p></details> |
+| **[Squeeze3D: Extreme Neural Compression with Latent Space Bridging](https://arxiv.org/abs/2506.07932v2)** | 2026-09-28 | <details><summary>Proje...</summary><p>Project Page: https://squeeze3d.github.io/</p></details> |
 
