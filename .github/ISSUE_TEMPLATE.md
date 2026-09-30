@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,45 +7,53 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](https://arxiv.org/abs/2609.35770v1)** | 2026-09-28 | <details><summary>14 pa...</summary><p>14 pages, 13 figures, 4 tables. Project page: https://toshi2k2.github.io/fure</p></details> |
-| **[Telescopic Language Models](https://arxiv.org/abs/2609.35769v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. Code: https://github.com/ZhilinGuo/telescopic-language-models</p></details> |
-| **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](https://arxiv.org/abs/2609.35768v1)** | 2026-09-28 |  |
-| **[Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose](https://arxiv.org/abs/2609.35764v1)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables. Code: https://github.com/ZhilinGuo/reliability-gated-imu-fusion</p></details> |
-| **[Neural Harmonic Measure Operator](https://arxiv.org/abs/2609.35752v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). 30 pages, 11 figures, 19 tables</p></details> |
-| **[Squeeze3D: Extreme Neural Compression with Latent Space Bridging](https://arxiv.org/abs/2506.07932v2)** | 2026-09-28 | <details><summary>Proje...</summary><p>Project Page: https://squeeze3d.github.io/</p></details> |
+| **[In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks](https://arxiv.org/abs/2609.38173v1)** | 2026-09-29 |  |
+| **[Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.38172v1)** | 2026-09-29 | <details><summary>publi...</summary><p>published at CoRL 2026. Project page: https://prism-real2sim2real.github.io/</p></details> |
+| **[Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data](https://arxiv.org/abs/2609.38165v1)** | 2026-09-29 | <details><summary>Main ...</summary><p>Main body: 19 pages, 7 figures; Appendices: 15 pages, 16 figures. All code and models associated with this work are available at https://github.com/JoeMetc/CroplandPAtteRNS , along with preparation guides for the two publicly available crop segmentation datasets used in this work</p></details> |
+| **[Rho: A Foundation for Efficiently Adaptable VLA Models](https://arxiv.org/abs/2609.38164v1)** | 2026-09-29 |  |
+| **[Rethinking Representations for World-Action Modeling](https://arxiv.org/abs/2609.38163v1)** | 2026-09-29 | <details><summary>https...</summary><p>https://github.com/hustvl/ReWAM</p></details> |
+| **[Goodness-of-fit for distributions on metric spaces](https://arxiv.org/abs/2609.38158v1)** | 2026-09-29 | 6 figures |
+| **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](https://arxiv.org/abs/2609.38157v1)** | 2026-09-29 | <details><summary>Work ...</summary><p>Work done at Meta. Code at https://github.com/facebookresearch/EmoRES-TTS</p></details> |
+| **[DMA$^2$: Pixel-space Distribution Matching with Adversarial and Anchor Losses](https://arxiv.org/abs/2609.38156v1)** | 2026-09-29 |  |
+| **[GTRL: Grounding Divide-and-Conquer Value Learning with Temporal Differences](https://arxiv.org/abs/2609.33259v2)** | 2026-09-29 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](https://arxiv.org/abs/2609.35770v1)** | 2026-09-28 | <details><summary>14 pa...</summary><p>14 pages, 13 figures, 4 tables. Project page: https://toshi2k2.github.io/fure</p></details> |
-| **[Telescopic Language Models](https://arxiv.org/abs/2609.35769v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. Code: https://github.com/ZhilinGuo/telescopic-language-models</p></details> |
-| **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](https://arxiv.org/abs/2609.35768v1)** | 2026-09-28 |  |
-| **[Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales](https://arxiv.org/abs/2609.35765v1)** | 2026-09-28 |  |
-| **[Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose](https://arxiv.org/abs/2609.35764v1)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables. Code: https://github.com/ZhilinGuo/reliability-gated-imu-fusion</p></details> |
-| **[Neural Harmonic Measure Operator](https://arxiv.org/abs/2609.35752v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). 30 pages, 11 figures, 19 tables</p></details> |
-| **[Robust Active Learning for Few-Shot Example Selection in Text-to-SQL](https://arxiv.org/abs/2606.10125v2)** | 2026-09-28 | <details><summary>42 pa...</summary><p>42 pages, 7 figures. Major revision</p></details> |
+| **[In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks](https://arxiv.org/abs/2609.38173v1)** | 2026-09-29 |  |
+| **[Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.38172v1)** | 2026-09-29 | <details><summary>publi...</summary><p>published at CoRL 2026. Project page: https://prism-real2sim2real.github.io/</p></details> |
+| **[Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data](https://arxiv.org/abs/2609.38165v1)** | 2026-09-29 | <details><summary>Main ...</summary><p>Main body: 19 pages, 7 figures; Appendices: 15 pages, 16 figures. All code and models associated with this work are available at https://github.com/JoeMetc/CroplandPAtteRNS , along with preparation guides for the two publicly available crop segmentation datasets used in this work</p></details> |
+| **[Rho: A Foundation for Efficiently Adaptable VLA Models](https://arxiv.org/abs/2609.38164v1)** | 2026-09-29 |  |
+| **[Rethinking Representations for World-Action Modeling](https://arxiv.org/abs/2609.38163v1)** | 2026-09-29 | <details><summary>https...</summary><p>https://github.com/hustvl/ReWAM</p></details> |
+| **[Goodness-of-fit for distributions on metric spaces](https://arxiv.org/abs/2609.38158v1)** | 2026-09-29 | 6 figures |
+| **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](https://arxiv.org/abs/2609.38157v1)** | 2026-09-29 | <details><summary>Work ...</summary><p>Work done at Meta. Code at https://github.com/facebookresearch/EmoRES-TTS</p></details> |
+| **[DMA$^2$: Pixel-space Distribution Matching with Adversarial and Anchor Losses](https://arxiv.org/abs/2609.38156v1)** | 2026-09-29 |  |
+| **[GTRL: Grounding Divide-and-Conquer Value Learning with Temporal Differences](https://arxiv.org/abs/2609.33259v2)** | 2026-09-29 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching](https://arxiv.org/abs/2609.35673v1)** | 2026-09-28 |  |
-| **[Look Before You Judge: Training-Free Region Mining for Grounded and Explainable Deepfake Detection](https://arxiv.org/abs/2609.35536v1)** | 2026-09-28 |  |
-| **[ReVA: A Scene-Centric Dataset Beyond Repetition for Remote Sensing Video Question Answering](https://arxiv.org/abs/2609.35507v1)** | 2026-09-28 |  |
-| **[How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining](https://arxiv.org/abs/2609.35457v1)** | 2026-09-28 |  |
-| **[Automated Species Identification in Camera Trap Images for Wildlife Conservation](https://arxiv.org/abs/2609.35420v1)** | 2026-09-28 | <details><summary>52 pa...</summary><p>52 pages. B.Sc. thesis, Department of Computer Science and Engineering, Brac University, June 2025</p></details> |
-| **[USS: Unifying Spatial-Semantic Prompting for End to End Embodied Visual Tracking](https://arxiv.org/abs/2606.25880v2)** | 2026-09-28 |  |
-| **[Mitigating Multimodal LLMs Hallucinations via Relevance Propagation at Inference Time](https://arxiv.org/abs/2605.01766v2)** | 2026-09-28 |  |
-| **[SPIDER: Multi-Layer Semantic Token Pruning and Adaptive Sub-Layer Skipping in Multimodal Large Language Models](https://arxiv.org/abs/2609.34977v1)** | 2026-09-28 |  |
-| **[Just MLPs: Efficient Visual State Reconstruction for Multimodal Language Models](https://arxiv.org/abs/2609.34972v1)** | 2026-09-28 | 21 pages, 5 figures |
-| **[NavJev: Efficient Vision-Language Navigation via Action-Centric Visual Compression and Discriminative Action-Semantic Memory](https://arxiv.org/abs/2609.34969v1)** | 2026-09-28 |  |
+| **[Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](https://arxiv.org/abs/2609.38177v1)** | 2026-09-29 | <details><summary>NeurI...</summary><p>NeurIPS 2026; Project Page: https://cvlab-kaist.github.io/Imagine3D-LLM</p></details> |
+| **[Does Local Video Understanding Transfer Across Encounters? The EgoGears Benchmark](https://arxiv.org/abs/2609.37938v1)** | 2026-09-29 |  |
+| **[WayFinder: Hierarchical Visual-Language-Action for Zero-Shot Waypoint Generation and Low-Level Kinematic Control](https://arxiv.org/abs/2609.37922v1)** | 2026-09-29 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 5 tables, Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
+| **[OmniVCBench: Benchmarking Evidence-Grounded Multimodal Reasoning Towards AI Virtual Cells](https://arxiv.org/abs/2609.37773v1)** | 2026-09-29 | <details><summary>45 pa...</summary><p>45 pages, 16 figures;</p></details> |
+| **[Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding](https://arxiv.org/abs/2609.37655v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 33 pages, 11 figures, 11 tables</p></details> |
+| **[SAM Meets VLM: Parameter-Decoupled Full-Parameter Training for Unified Medical Reasoning and Segmentation](https://arxiv.org/abs/2609.37283v1)** | 2026-09-29 |  |
+| **[UniAfford: Token-Routed Multitask Learning for Generalizable 2D-3D Affordance Perception](https://arxiv.org/abs/2609.37264v1)** | 2026-09-29 |  |
+| **[ResComEmb: Effective and Efficient Multimodal Embedding via Residual Homogeneity Compression](https://arxiv.org/abs/2609.37225v1)** | 2026-09-29 | 19 pages |
+| **[Beyond Pixels: A Vector-to-Graph Framework for Reliable Schematic Auditing](https://arxiv.org/abs/2602.11678v2)** | 2026-09-29 | <details><summary>4 pag...</summary><p>4 pages, 3 figures. Published in ICASSP 2026</p></details> |
+| **[Constructive Distortion: Improving MLLMs with Attention-Guided Image Warping](https://arxiv.org/abs/2510.09741v4)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](https://arxiv.org/abs/2609.35770v1)** | 2026-09-28 | <details><summary>14 pa...</summary><p>14 pages, 13 figures, 4 tables. Project page: https://toshi2k2.github.io/fure</p></details> |
-| **[Telescopic Language Models](https://arxiv.org/abs/2609.35769v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. Code: https://github.com/ZhilinGuo/telescopic-language-models</p></details> |
-| **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](https://arxiv.org/abs/2609.35768v1)** | 2026-09-28 |  |
-| **[Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose](https://arxiv.org/abs/2609.35764v1)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables. Code: https://github.com/ZhilinGuo/reliability-gated-imu-fusion</p></details> |
-| **[Neural Harmonic Measure Operator](https://arxiv.org/abs/2609.35752v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). 30 pages, 11 figures, 19 tables</p></details> |
-| **[Squeeze3D: Extreme Neural Compression with Latent Space Bridging](https://arxiv.org/abs/2506.07932v2)** | 2026-09-28 | <details><summary>Proje...</summary><p>Project Page: https://squeeze3d.github.io/</p></details> |
+| **[In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks](https://arxiv.org/abs/2609.38173v1)** | 2026-09-29 |  |
+| **[Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation](https://arxiv.org/abs/2609.38172v1)** | 2026-09-29 | <details><summary>publi...</summary><p>published at CoRL 2026. Project page: https://prism-real2sim2real.github.io/</p></details> |
+| **[Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data](https://arxiv.org/abs/2609.38165v1)** | 2026-09-29 | <details><summary>Main ...</summary><p>Main body: 19 pages, 7 figures; Appendices: 15 pages, 16 figures. All code and models associated with this work are available at https://github.com/JoeMetc/CroplandPAtteRNS , along with preparation guides for the two publicly available crop segmentation datasets used in this work</p></details> |
+| **[Rho: A Foundation for Efficiently Adaptable VLA Models](https://arxiv.org/abs/2609.38164v1)** | 2026-09-29 |  |
+| **[Rethinking Representations for World-Action Modeling](https://arxiv.org/abs/2609.38163v1)** | 2026-09-29 | <details><summary>https...</summary><p>https://github.com/hustvl/ReWAM</p></details> |
+| **[Goodness-of-fit for distributions on metric spaces](https://arxiv.org/abs/2609.38158v1)** | 2026-09-29 | 6 figures |
+| **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](https://arxiv.org/abs/2609.38157v1)** | 2026-09-29 | <details><summary>Work ...</summary><p>Work done at Meta. Code at https://github.com/facebookresearch/EmoRES-TTS</p></details> |
+| **[DMA$^2$: Pixel-space Distribution Matching with Adversarial and Anchor Losses](https://arxiv.org/abs/2609.38156v1)** | 2026-09-29 |  |
+| **[GTRL: Grounding Divide-and-Conquer Value Learning with Temporal Differences](https://arxiv.org/abs/2609.33259v2)** | 2026-09-29 |  |
 
