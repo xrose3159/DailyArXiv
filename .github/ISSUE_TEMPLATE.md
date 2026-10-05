@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,50 +7,49 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/abs/2601.22153v2)** | 2026-10-01 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Project Page: https://www.infinitescript.com/project/dynamic-vla/</p></details> |
-| **[DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation](https://arxiv.org/abs/2610.02188v1)** | 2026-10-01 | <details><summary>28 pa...</summary><p>28 pages, 15 figures. Project page: https://yzmblog.github.io/projects/DMAD</p></details> |
-| **[Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](https://arxiv.org/abs/2604.01151v3)** | 2026-10-01 |  |
-| **[OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://arxiv.org/abs/2610.02181v1)** | 2026-10-01 |  |
-| **[A Multi-Fidelity Tensor Emulator for Spatiotemporal Outputs: Emulation of Arctic Sea-Ice Dynamics](https://arxiv.org/abs/2603.04697v2)** | 2026-10-01 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 1 table</p></details> |
-| **[AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents](https://arxiv.org/abs/2610.02163v1)** | 2026-10-01 |  |
-| **[Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation](https://arxiv.org/abs/2610.02148v1)** | 2026-10-01 | <details><summary>Findi...</summary><p>Findings of EMNLP 2026. 26 pages, 8 figures, 14 tables. Project page: https://omniembed.cvmbzuai.com</p></details> |
-| **[MonoPhysics: Estimating Geometry, Appearance, and Physical Parameters from Monocular Videos](https://arxiv.org/abs/2605.30320v2)** | 2026-10-01 | NeurIPS 2026 |
+| **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](https://arxiv.org/abs/2610.03717v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[MoSE3: Learning World-Space SE(3) at Every Pixel](https://arxiv.org/abs/2610.03716v1)** | 2026-10-02 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Spotlight. Project page: https://mose3-tracker.github.io/</p></details> |
+| **[What Should World Models Forget? Stratified Retention for Continual Adaptation](https://arxiv.org/abs/2610.03713v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Continual World Models Workshop</p></details> |
+| **[RNADyn: A Benchmark for Generating and Understanding RNA Dynamics](https://arxiv.org/abs/2610.03712v1)** | 2026-10-02 |  |
+| **[EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras](https://arxiv.org/abs/2610.03710v1)** | 2026-10-02 | <details><summary>Proje...</summary><p>Project Page: https://eyerobot2.github.io/</p></details> |
+| **[Unitary complexity in polynomial space](https://arxiv.org/abs/2610.03705v1)** | 2026-10-02 | 42 pages |
+| **[LESSER: Post-Training Data Selection with Output-Layer Gradients](https://arxiv.org/abs/2610.03702v1)** | 2026-10-02 |  |
+| **[Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies](https://arxiv.org/abs/2610.03693v1)** | 2026-10-02 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](https://arxiv.org/abs/2610.02206v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 Evaluations and Datasets Track. Project page: https://risys-lab.github.io/KaliBench/ | Github: https://github.com/RISys-Lab/KaliBench</p></details> |
-| **[TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning](https://arxiv.org/abs/2610.02199v1)** | 2026-10-01 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 10 tables. Code available at https://github.com/Jichao2357/TACO_optimizer</p></details> |
-| **[The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2610.02191v1)** | 2026-10-01 | 27 pages |
-| **[DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/abs/2601.22153v2)** | 2026-10-01 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Project Page: https://www.infinitescript.com/project/dynamic-vla/</p></details> |
-| **[Trust the Direction, Search the Step: Zero-and-First-Order Methods for LLM Fine-Tuning](https://arxiv.org/abs/2610.02190v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to 40th Conference on Neural Information Processing Systems (NeurIPS 2026). Code: https://github.com/nizswan/Zeroth-First-Order-Framework</p></details> |
-| **[DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation](https://arxiv.org/abs/2610.02188v1)** | 2026-10-01 | <details><summary>28 pa...</summary><p>28 pages, 15 figures. Project page: https://yzmblog.github.io/projects/DMAD</p></details> |
-| **[Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](https://arxiv.org/abs/2604.01151v3)** | 2026-10-01 |  |
-| **[Decoding Looped Transformers Better for (Almost) Free](https://arxiv.org/abs/2610.02185v1)** | 2026-10-01 | 32 pages, 19 figures |
+| **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](https://arxiv.org/abs/2610.03717v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[MoSE3: Learning World-Space SE(3) at Every Pixel](https://arxiv.org/abs/2610.03716v1)** | 2026-10-02 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Spotlight. Project page: https://mose3-tracker.github.io/</p></details> |
+| **[Mitigating Watermark Forgery in Generative Models via Randomized Key Selection](https://arxiv.org/abs/2507.07871v5)** | 2026-10-02 |  |
+| **[What Should World Models Forget? Stratified Retention for Continual Adaptation](https://arxiv.org/abs/2610.03713v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Continual World Models Workshop</p></details> |
+| **[RNADyn: A Benchmark for Generating and Understanding RNA Dynamics](https://arxiv.org/abs/2610.03712v1)** | 2026-10-02 |  |
+| **[EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras](https://arxiv.org/abs/2610.03710v1)** | 2026-10-02 | <details><summary>Proje...</summary><p>Project Page: https://eyerobot2.github.io/</p></details> |
+| **[LESSER: Post-Training Data Selection with Output-Layer Gradients](https://arxiv.org/abs/2610.03702v1)** | 2026-10-02 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes](https://arxiv.org/abs/2610.02117v1)** | 2026-10-01 |  |
-| **[Form and Void: Entangled Composition through an Autonomous AI Agent](https://arxiv.org/abs/2610.02045v1)** | 2026-10-01 |  |
-| **[Walking the Embedding Space: Datastore Extraction from Multimodal RAG](https://arxiv.org/abs/2610.01871v1)** | 2026-10-01 |  |
-| **[Fewer Tokens, More Self-Teaching: On-Policy Self-Distillation for Extreme Visual Token Reduction](https://arxiv.org/abs/2609.32353v2)** | 2026-10-01 | <details><summary>Code ...</summary><p>Code is at https://github.com/Yrxxxxxxxx1007/LT-OPD</p></details> |
-| **[Beyond Localization: A Comprehensive Benchmark of Perspective-Conditioned Spatial Reasoning in MLLMs from Omnidirectional Images](https://arxiv.org/abs/2605.12413v5)** | 2026-10-01 | 10pages, 4 figures |
-| **[SONIC-O1: A Real-World Benchmark for Evaluating Multimodal Large Language Models on Audio-Video Understanding](https://arxiv.org/abs/2601.21666v3)** | 2026-10-01 |  |
-| **[Do MLLM Judges Judge the Edit? Auditing Bias in Image Editing Evaluation with Verified Quality Preservation](https://arxiv.org/abs/2610.01670v1)** | 2026-10-01 | 30 pages, 9 figures |
-| **[MWOP: Modality-aware Width-wise Operation Pruning for Efficient MLLMs](https://arxiv.org/abs/2610.01434v1)** | 2026-10-01 |  |
-| **[FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering](https://arxiv.org/abs/2603.04349v2)** | 2026-10-01 |  |
-| **[Aligned but Not Partner-Specific: How Multimodal LLM Agents Succeed in Reference Games Without Forming Conceptual Pacts](https://arxiv.org/abs/2606.08081v2)** | 2026-10-01 |  |
+| **[CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2610.03421v1)** | 2026-10-02 | EMNLP 2026 Findings |
+| **[The Percept-V Challenge: Can Multimodal LLMs Crack Simple Perception Problems?](https://arxiv.org/abs/2508.21143v4)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
+| **[Architecture-Dependent Fusion Pathways in MLLMs](https://arxiv.org/abs/2610.03289v1)** | 2026-10-02 |  |
+| **[Behavior Pack Optimization for Video MLLM Post-Training](https://arxiv.org/abs/2610.03141v1)** | 2026-10-02 | NeurIPS 2026 poster |
+| **[Move-Then-Operate: Behavioral Phasing for Human-Like Robotic Manipulation](https://arxiv.org/abs/2604.23620v3)** | 2026-10-02 | 15 pages, 10 figures |
+| **[Gaze Attention: Query-Adaptive Visual Routing for Efficient Multimodal LLMs](https://arxiv.org/abs/2605.13080v2)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to CoLM 2026. Project page: https://june-page.github.io/gaze-attention</p></details> |
+| **[TerraVis: Towards Evaluation of World-Grounded Visual Consistency in Text-to-Image Generation via MLLM Workflows](https://arxiv.org/abs/2610.02959v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 (ED Track)</p></details> |
+| **[Last But Not Least: Boundary Attention CalibratiON for Multimodal KV Cache Compression](https://arxiv.org/abs/2606.14782v4)** | 2026-10-02 | EMNLP 2026 Oral |
+| **[What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning](https://arxiv.org/abs/2604.06995v3)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
+| **[Revealing Epistemic Uncertainty in MLLMs via Causal-Invariant Masking](https://arxiv.org/abs/2610.02887v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/abs/2601.22153v2)** | 2026-10-01 | <details><summary>NeurI...</summary><p>NeurIPS 2026. Project Page: https://www.infinitescript.com/project/dynamic-vla/</p></details> |
-| **[Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features](https://arxiv.org/abs/2610.02189v1)** | 2026-10-01 |  |
-| **[DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation](https://arxiv.org/abs/2610.02188v1)** | 2026-10-01 | <details><summary>28 pa...</summary><p>28 pages, 15 figures. Project page: https://yzmblog.github.io/projects/DMAD</p></details> |
-| **[Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](https://arxiv.org/abs/2604.01151v3)** | 2026-10-01 |  |
-| **[Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry](https://arxiv.org/abs/2610.02186v1)** | 2026-10-01 |  |
-| **[OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://arxiv.org/abs/2610.02181v1)** | 2026-10-01 |  |
-| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v2)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
-| **[A Multi-Fidelity Tensor Emulator for Spatiotemporal Outputs: Emulation of Arctic Sea-Ice Dynamics](https://arxiv.org/abs/2603.04697v2)** | 2026-10-01 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 1 table</p></details> |
+| **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](https://arxiv.org/abs/2610.03717v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[MoSE3: Learning World-Space SE(3) at Every Pixel](https://arxiv.org/abs/2610.03716v1)** | 2026-10-02 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Spotlight. Project page: https://mose3-tracker.github.io/</p></details> |
+| **[4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](https://arxiv.org/abs/2610.03715v1)** | 2026-10-02 | <details><summary>https...</summary><p>https://4dcodebench.com/</p></details> |
+| **[What Should World Models Forget? Stratified Retention for Continual Adaptation](https://arxiv.org/abs/2610.03713v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Continual World Models Workshop</p></details> |
+| **[RNADyn: A Benchmark for Generating and Understanding RNA Dynamics](https://arxiv.org/abs/2610.03712v1)** | 2026-10-02 |  |
+| **[EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras](https://arxiv.org/abs/2610.03710v1)** | 2026-10-02 | <details><summary>Proje...</summary><p>Project Page: https://eyerobot2.github.io/</p></details> |
+| **[LESSER: Post-Training Data Selection with Output-Layer Gradients](https://arxiv.org/abs/2610.03702v1)** | 2026-10-02 |  |
+| **[Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies](https://arxiv.org/abs/2610.03693v1)** | 2026-10-02 |  |
 
