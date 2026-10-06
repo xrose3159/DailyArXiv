@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,49 +7,52 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](https://arxiv.org/abs/2610.03717v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
-| **[MoSE3: Learning World-Space SE(3) at Every Pixel](https://arxiv.org/abs/2610.03716v1)** | 2026-10-02 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Spotlight. Project page: https://mose3-tracker.github.io/</p></details> |
-| **[What Should World Models Forget? Stratified Retention for Continual Adaptation](https://arxiv.org/abs/2610.03713v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Continual World Models Workshop</p></details> |
-| **[RNADyn: A Benchmark for Generating and Understanding RNA Dynamics](https://arxiv.org/abs/2610.03712v1)** | 2026-10-02 |  |
-| **[EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras](https://arxiv.org/abs/2610.03710v1)** | 2026-10-02 | <details><summary>Proje...</summary><p>Project Page: https://eyerobot2.github.io/</p></details> |
-| **[Unitary complexity in polynomial space](https://arxiv.org/abs/2610.03705v1)** | 2026-10-02 | 42 pages |
-| **[LESSER: Post-Training Data Selection with Output-Layer Gradients](https://arxiv.org/abs/2610.03702v1)** | 2026-10-02 |  |
-| **[Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies](https://arxiv.org/abs/2610.03693v1)** | 2026-10-02 |  |
+| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v3)** | 2026-10-05 | 56 pages |
+| **[Base Models Can Reason By Taking a Cue From Training Data](https://arxiv.org/abs/2610.06851v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project page: https://www.sophielwang.com/cues Code: https://github.com/sophicle/cues</p></details> |
+| **[InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation](https://arxiv.org/abs/2610.06850v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project Page: https://sirui-xu.github.io/InterMimicGen</p></details> |
+| **[TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify](https://arxiv.org/abs/2610.06848v1)** | 2026-10-05 |  |
+| **[S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation](https://arxiv.org/abs/2610.06847v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project Page: https://jefequien.github.io/S2PD/</p></details> |
+| **[BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance](https://arxiv.org/abs/2610.06846v1)** | 2026-10-05 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, including appendices</p></details> |
+| **[Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment](https://arxiv.org/abs/2605.15168v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the Pacific Symposium on Biocomputing (PSB) 2027. Sayantan Kumar, Shahriar Noroozizadeh, Juyong Kim (authors contributed equally)</p></details> |
+| **[Robustness of quantum spectrum estimation: weak Schur sampling under noisy inputs](https://arxiv.org/abs/2610.03582v2)** | 2026-10-05 | <details><summary>v2: m...</summary><p>v2: minor corrections in the phrasing of the results, abstract revised</p></details> |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](https://arxiv.org/abs/2610.03717v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
-| **[MoSE3: Learning World-Space SE(3) at Every Pixel](https://arxiv.org/abs/2610.03716v1)** | 2026-10-02 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Spotlight. Project page: https://mose3-tracker.github.io/</p></details> |
-| **[Mitigating Watermark Forgery in Generative Models via Randomized Key Selection](https://arxiv.org/abs/2507.07871v5)** | 2026-10-02 |  |
-| **[What Should World Models Forget? Stratified Retention for Continual Adaptation](https://arxiv.org/abs/2610.03713v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Continual World Models Workshop</p></details> |
-| **[RNADyn: A Benchmark for Generating and Understanding RNA Dynamics](https://arxiv.org/abs/2610.03712v1)** | 2026-10-02 |  |
-| **[EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras](https://arxiv.org/abs/2610.03710v1)** | 2026-10-02 | <details><summary>Proje...</summary><p>Project Page: https://eyerobot2.github.io/</p></details> |
-| **[LESSER: Post-Training Data Selection with Output-Layer Gradients](https://arxiv.org/abs/2610.03702v1)** | 2026-10-02 |  |
+| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v3)** | 2026-10-05 | 56 pages |
+| **[Base Models Can Reason By Taking a Cue From Training Data](https://arxiv.org/abs/2610.06851v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project page: https://www.sophielwang.com/cues Code: https://github.com/sophicle/cues</p></details> |
+| **[InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation](https://arxiv.org/abs/2610.06850v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project Page: https://sirui-xu.github.io/InterMimicGen</p></details> |
+| **[TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify](https://arxiv.org/abs/2610.06848v1)** | 2026-10-05 |  |
+| **[S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation](https://arxiv.org/abs/2610.06847v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project Page: https://jefequien.github.io/S2PD/</p></details> |
+| **[BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance](https://arxiv.org/abs/2610.06846v1)** | 2026-10-05 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, including appendices</p></details> |
+| **[Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment](https://arxiv.org/abs/2605.15168v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the Pacific Symposium on Biocomputing (PSB) 2027. Sayantan Kumar, Shahriar Noroozizadeh, Juyong Kim (authors contributed equally)</p></details> |
+| **[Robustness of quantum spectrum estimation: weak Schur sampling under noisy inputs](https://arxiv.org/abs/2610.03582v2)** | 2026-10-05 | <details><summary>v2: m...</summary><p>v2: minor corrections in the phrasing of the results, abstract revised</p></details> |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2610.03421v1)** | 2026-10-02 | EMNLP 2026 Findings |
-| **[The Percept-V Challenge: Can Multimodal LLMs Crack Simple Perception Problems?](https://arxiv.org/abs/2508.21143v4)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted at COLM 2026</p></details> |
-| **[Architecture-Dependent Fusion Pathways in MLLMs](https://arxiv.org/abs/2610.03289v1)** | 2026-10-02 |  |
-| **[Behavior Pack Optimization for Video MLLM Post-Training](https://arxiv.org/abs/2610.03141v1)** | 2026-10-02 | NeurIPS 2026 poster |
-| **[Move-Then-Operate: Behavioral Phasing for Human-Like Robotic Manipulation](https://arxiv.org/abs/2604.23620v3)** | 2026-10-02 | 15 pages, 10 figures |
-| **[Gaze Attention: Query-Adaptive Visual Routing for Efficient Multimodal LLMs](https://arxiv.org/abs/2605.13080v2)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to CoLM 2026. Project page: https://june-page.github.io/gaze-attention</p></details> |
-| **[TerraVis: Towards Evaluation of World-Grounded Visual Consistency in Text-to-Image Generation via MLLM Workflows](https://arxiv.org/abs/2610.02959v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 (ED Track)</p></details> |
-| **[Last But Not Least: Boundary Attention CalibratiON for Multimodal KV Cache Compression](https://arxiv.org/abs/2606.14782v4)** | 2026-10-02 | EMNLP 2026 Oral |
-| **[What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning](https://arxiv.org/abs/2604.06995v3)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Findings</p></details> |
-| **[Revealing Epistemic Uncertainty in MLLMs via Causal-Invariant Masking](https://arxiv.org/abs/2610.02887v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
+| **[MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA Tasks](https://arxiv.org/abs/2610.06695v1)** | 2026-10-05 |  |
+| **[UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Affordance Segmentation](https://arxiv.org/abs/2603.23478v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[CVIF: A Criticality-Driven Visual Intervention Framework for Geometric Diagram Understanding in MLLMs](https://arxiv.org/abs/2610.06399v1)** | 2026-10-05 |  |
+| **[Func-R1: Incentivizing Mathematical Function Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2609.14779v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (2026 Conference on Empirical Methods in Natural Language Processing)</p></details> |
+| **[Harnessing Multimodal Large Language Models for Training-Free Human-Object Interaction Detection](https://arxiv.org/abs/2610.06394v1)** | 2026-10-05 |  |
+| **[Readout Blindness: VLM Scores Miss the Spatial Direction Their Frozen Encoders Retain](https://arxiv.org/abs/2610.06324v1)** | 2026-10-05 |  |
+| **[VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction](https://arxiv.org/abs/2610.06293v1)** | 2026-10-05 |  |
+| **[Re-purposing Multimodal Large Language Models for Audio-Text Retrieval](https://arxiv.org/abs/2602.18010v2)** | 2026-10-05 | CBMI 2026 |
+| **[Agent Planning Benchmark: A Diagnostic Framework for Planning Capabilities in LLM Agents](https://arxiv.org/abs/2606.04874v3)** | 2026-10-05 |  |
+| **[FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow](https://arxiv.org/abs/2505.17399v3)** | 2026-10-05 |  |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](https://arxiv.org/abs/2610.03717v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
-| **[MoSE3: Learning World-Space SE(3) at Every Pixel](https://arxiv.org/abs/2610.03716v1)** | 2026-10-02 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Spotlight. Project page: https://mose3-tracker.github.io/</p></details> |
-| **[4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](https://arxiv.org/abs/2610.03715v1)** | 2026-10-02 | <details><summary>https...</summary><p>https://4dcodebench.com/</p></details> |
-| **[What Should World Models Forget? Stratified Retention for Continual Adaptation](https://arxiv.org/abs/2610.03713v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026 Continual World Models Workshop</p></details> |
-| **[RNADyn: A Benchmark for Generating and Understanding RNA Dynamics](https://arxiv.org/abs/2610.03712v1)** | 2026-10-02 |  |
-| **[EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras](https://arxiv.org/abs/2610.03710v1)** | 2026-10-02 | <details><summary>Proje...</summary><p>Project Page: https://eyerobot2.github.io/</p></details> |
-| **[LESSER: Post-Training Data Selection with Output-Layer Gradients](https://arxiv.org/abs/2610.03702v1)** | 2026-10-02 |  |
-| **[Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies](https://arxiv.org/abs/2610.03693v1)** | 2026-10-02 |  |
+| **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v3)** | 2026-10-05 | 56 pages |
+| **[One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline](https://arxiv.org/abs/2610.06852v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project page: https://onefigureeverycanvas.vercel.app/</p></details> |
+| **[Base Models Can Reason By Taking a Cue From Training Data](https://arxiv.org/abs/2610.06851v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project page: https://www.sophielwang.com/cues Code: https://github.com/sophicle/cues</p></details> |
+| **[InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation](https://arxiv.org/abs/2610.06850v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project Page: https://sirui-xu.github.io/InterMimicGen</p></details> |
+| **[TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify](https://arxiv.org/abs/2610.06848v1)** | 2026-10-05 |  |
+| **[S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation](https://arxiv.org/abs/2610.06847v1)** | 2026-10-05 | <details><summary>Proje...</summary><p>Project Page: https://jefequien.github.io/S2PD/</p></details> |
+| **[BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance](https://arxiv.org/abs/2610.06846v1)** | 2026-10-05 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, including appendices</p></details> |
+| **[Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment](https://arxiv.org/abs/2605.15168v2)** | 2026-10-05 | <details><summary>Accep...</summary><p>Accepted for oral presentation at the Pacific Symposium on Biocomputing (PSB) 2027. Sayantan Kumar, Shahriar Noroozizadeh, Juyong Kim (authors contributed equally)</p></details> |
+| **[Robustness of quantum spectrum estimation: weak Schur sampling under noisy inputs](https://arxiv.org/abs/2610.03582v2)** | 2026-10-05 | <details><summary>v2: m...</summary><p>v2: minor corrections in the phrasing of the results, abstract revised</p></details> |
+| **[MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://arxiv.org/abs/2610.06830v1)** | 2026-10-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/MemPilot</p></details> |
 
