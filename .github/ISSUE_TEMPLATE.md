@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2026
+title: Latest 15 Papers - October 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,48 +7,48 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Building Rome from a Single Image](https://arxiv.org/abs/2610.08790v1)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project page: https://build-rome.github.io/</p></details> |
-| **[Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective](https://arxiv.org/abs/2610.08785v1)** | 2026-10-06 |  |
-| **[IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](https://arxiv.org/abs/2610.08781v1)** | 2026-10-06 |  |
-| **[DepthWorld: 3D World Model for Robot Manipulation](https://arxiv.org/abs/2610.08780v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the Conference on Robot Learning (CoRL) 2026. Project page: https://www.jaibardhan.com/depthworld. 32 pages including supplementary material, 15 figures, 7 tables</p></details> |
-| **[Sherpa: Teaching LLMs to Teach Adaptively](https://arxiv.org/abs/2610.08778v1)** | 2026-10-06 | <details><summary>32 pa...</summary><p>32 pages, 6 figures. Code and model are available at https://github.com/SALT-NLP/Sherpa</p></details> |
-| **[Data Leakage in Patch-Based Hyperspectral Image Classification: Quantifying the Impact of Spatial Overlap](https://arxiv.org/abs/2610.08770v1)** | 2026-10-06 | <details><summary>paper...</summary><p>paper accepted for presentation at IEEE-WHISPERS</p></details> |
-| **[Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion](https://arxiv.org/abs/2610.08764v1)** | 2026-10-06 | 46 pages |
-| **[VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning](https://arxiv.org/abs/2610.08761v1)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project Website: https://veri-fine.github.io/</p></details> |
+| **[Decoupling Exploration from Optimization in RLVR](https://arxiv.org/abs/2610.10536v1)** | 2026-10-07 | <details><summary>20 pa...</summary><p>20 pages, 16 figures, 9 tables. Code: https://github.com/SaifPunjwani/Exploration-Distillation. Checkpoints: https://huggingface.co/SaifPunjwani/expdis-checkpoints</p></details> |
+| **[RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input](https://arxiv.org/abs/2610.10534v1)** | 2026-10-07 | 8 pages |
+| **[Why Forget-Only Unlearning Needs Memorization](https://arxiv.org/abs/2610.10519v1)** | 2026-10-07 |  |
+| **[Unsupervised Maneuver-Aware Acoustic Fault Detection for Autonomous Drones](https://arxiv.org/abs/2610.10517v1)** | 2026-10-07 |  |
+| **[RoboJEPA: Scaling Robotic Latent World Models](https://arxiv.org/abs/2610.10515v1)** | 2026-10-07 |  |
+| **[Collective Behavior of AI Agents: the Case of Moltbook](https://arxiv.org/abs/2602.09270v2)** | 2026-10-07 |  |
+| **[Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data](https://arxiv.org/abs/2609.11917v2)** | 2026-10-07 |  |
+| **[Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning](https://arxiv.org/abs/2610.10499v1)** | 2026-10-07 |  |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Building Rome from a Single Image](https://arxiv.org/abs/2610.08790v1)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project page: https://build-rome.github.io/</p></details> |
-| **[Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective](https://arxiv.org/abs/2610.08785v1)** | 2026-10-06 |  |
-| **[DepthWorld: 3D World Model for Robot Manipulation](https://arxiv.org/abs/2610.08780v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the Conference on Robot Learning (CoRL) 2026. Project page: https://www.jaibardhan.com/depthworld. 32 pages including supplementary material, 15 figures, 7 tables</p></details> |
-| **[Sherpa: Teaching LLMs to Teach Adaptively](https://arxiv.org/abs/2610.08778v1)** | 2026-10-06 | <details><summary>32 pa...</summary><p>32 pages, 6 figures. Code and model are available at https://github.com/SALT-NLP/Sherpa</p></details> |
-| **[CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching](https://arxiv.org/abs/2610.08777v1)** | 2026-10-06 | <details><summary>18 pa...</summary><p>18 pages. Project page: https://wrecklong.github.io/CtrlCache/</p></details> |
-| **[Data Leakage in Patch-Based Hyperspectral Image Classification: Quantifying the Impact of Spatial Overlap](https://arxiv.org/abs/2610.08770v1)** | 2026-10-06 | <details><summary>paper...</summary><p>paper accepted for presentation at IEEE-WHISPERS</p></details> |
+| **[Decoupling Exploration from Optimization in RLVR](https://arxiv.org/abs/2610.10536v1)** | 2026-10-07 | <details><summary>20 pa...</summary><p>20 pages, 16 figures, 9 tables. Code: https://github.com/SaifPunjwani/Exploration-Distillation. Checkpoints: https://huggingface.co/SaifPunjwani/expdis-checkpoints</p></details> |
+| **[RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input](https://arxiv.org/abs/2610.10534v1)** | 2026-10-07 | 8 pages |
+| **[Why Forget-Only Unlearning Needs Memorization](https://arxiv.org/abs/2610.10519v1)** | 2026-10-07 |  |
+| **[Unsupervised Maneuver-Aware Acoustic Fault Detection for Autonomous Drones](https://arxiv.org/abs/2610.10517v1)** | 2026-10-07 |  |
+| **[RoboJEPA: Scaling Robotic Latent World Models](https://arxiv.org/abs/2610.10515v1)** | 2026-10-07 |  |
+| **[Collective Behavior of AI Agents: the Case of Moltbook](https://arxiv.org/abs/2602.09270v2)** | 2026-10-07 |  |
+| **[Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data](https://arxiv.org/abs/2609.11917v2)** | 2026-10-07 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RSJEV: Discriminative Remote Sensing Scene Classification with Multimodal Large Language Models](https://arxiv.org/abs/2610.08539v1)** | 2026-10-06 |  |
-| **[AssemState: Manual and Physical-State-Guided Reasoning for Zero-shot Furniture Assembly](https://arxiv.org/abs/2610.08446v1)** | 2026-10-06 |  |
-| **[DIPrune: Task-Aware Token Pruning with Dual Importance for Efficient Multimodal Language Models](https://arxiv.org/abs/2610.08341v1)** | 2026-10-06 |  |
-| **[Real-Time Generation of Game Video Commentary with Multimodal LLMs: Pause-Aware Decoding Approaches](https://arxiv.org/abs/2603.02655v2)** | 2026-10-06 | Accepted at LREC2026 |
-| **[FindIt: A Format-Informed Visual Detection Benchmark for Generalist Multimodal LLMs](https://arxiv.org/abs/2606.04282v2)** | 2026-10-06 |  |
-| **[MedHorizon: Towards Long-context Medical Video Understanding in the Wild](https://arxiv.org/abs/2605.06537v2)** | 2026-10-06 | NeurIPS 2026 |
-| **[ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications](https://arxiv.org/abs/2610.08106v1)** | 2026-10-06 | 9 pages, 2 figures |
-| **[DSV-Mem: Evaluating Multimodal Memory in Professional Workflows for MLLM Agents](https://arxiv.org/abs/2610.08102v1)** | 2026-10-06 |  |
-| **[VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs](https://arxiv.org/abs/2610.07987v1)** | 2026-10-06 |  |
-| **[SAE++: Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs](https://arxiv.org/abs/2606.16193v2)** | 2026-10-06 |  |
+| **[VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification](https://arxiv.org/abs/2604.01569v2)** | 2026-10-07 |  |
+| **[Self-correction Optimization for Interleaved Multimodal Generation](https://arxiv.org/abs/2610.10400v1)** | 2026-10-07 | 20 pages, 10 figures |
+| **[TaoD2C-Bench: Benchmarking MLLMs for Industrial UI Code Generation Beyond Visual Fidelity](https://arxiv.org/abs/2610.10374v1)** | 2026-10-07 | 26 pages |
+| **[Open-MMUnlearning: Unifying Methods and Evaluation for MLLM Unlearning](https://arxiv.org/abs/2610.10358v1)** | 2026-10-07 |  |
+| **[Beyond Anonymous Captions: Grounding Character Identity in Video Captioning and Question Answering](https://arxiv.org/abs/2610.10163v1)** | 2026-10-07 |  |
+| **[From Pixel to Coding: Evaluating the Figure Reproduction Capabilities of MLLMs](https://arxiv.org/abs/2610.10066v1)** | 2026-10-07 | 46 pages, 18 figures |
+| **[Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models](https://arxiv.org/abs/2501.07972v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
+| **[FiRe: Fine-grained Multimodal Reasoning for Enhanced Image Generation](https://arxiv.org/abs/2604.13491v4)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[Mixture of Layers: Dynamic Layer Routing for Visual Reasoning](https://arxiv.org/abs/2610.09440v1)** | 2026-10-07 | NeurIPS 2026 |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Building Rome from a Single Image](https://arxiv.org/abs/2610.08790v1)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project page: https://build-rome.github.io/</p></details> |
-| **[Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective](https://arxiv.org/abs/2610.08785v1)** | 2026-10-06 |  |
-| **[DepthWorld: 3D World Model for Robot Manipulation](https://arxiv.org/abs/2610.08780v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the Conference on Robot Learning (CoRL) 2026. Project page: https://www.jaibardhan.com/depthworld. 32 pages including supplementary material, 15 figures, 7 tables</p></details> |
-| **[ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing](https://arxiv.org/abs/2610.08779v1)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project page: https://real-time-video-research.github.io/alive/</p></details> |
-| **[Sherpa: Teaching LLMs to Teach Adaptively](https://arxiv.org/abs/2610.08778v1)** | 2026-10-06 | <details><summary>32 pa...</summary><p>32 pages, 6 figures. Code and model are available at https://github.com/SALT-NLP/Sherpa</p></details> |
-| **[Data Leakage in Patch-Based Hyperspectral Image Classification: Quantifying the Impact of Spatial Overlap](https://arxiv.org/abs/2610.08770v1)** | 2026-10-06 | <details><summary>paper...</summary><p>paper accepted for presentation at IEEE-WHISPERS</p></details> |
-| **[Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion](https://arxiv.org/abs/2610.08764v1)** | 2026-10-06 | 46 pages |
-| **[VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning](https://arxiv.org/abs/2610.08761v1)** | 2026-10-06 | <details><summary>Proje...</summary><p>Project Website: https://veri-fine.github.io/</p></details> |
+| **[Decoupling Exploration from Optimization in RLVR](https://arxiv.org/abs/2610.10536v1)** | 2026-10-07 | <details><summary>20 pa...</summary><p>20 pages, 16 figures, 9 tables. Code: https://github.com/SaifPunjwani/Exploration-Distillation. Checkpoints: https://huggingface.co/SaifPunjwani/expdis-checkpoints</p></details> |
+| **[RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input](https://arxiv.org/abs/2610.10534v1)** | 2026-10-07 | 8 pages |
+| **[A Dataset for Modeling Iterative Problem-Solving](https://arxiv.org/abs/2609.00940v2)** | 2026-10-07 | EMNLP 2026 Findings |
+| **[Why Forget-Only Unlearning Needs Memorization](https://arxiv.org/abs/2610.10519v1)** | 2026-10-07 |  |
+| **[Unsupervised Maneuver-Aware Acoustic Fault Detection for Autonomous Drones](https://arxiv.org/abs/2610.10517v1)** | 2026-10-07 |  |
+| **[RoboJEPA: Scaling Robotic Latent World Models](https://arxiv.org/abs/2610.10515v1)** | 2026-10-07 |  |
+| **[Collective Behavior of AI Agents: the Case of Moltbook](https://arxiv.org/abs/2602.09270v2)** | 2026-10-07 |  |
+| **[Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data](https://arxiv.org/abs/2609.11917v2)** | 2026-10-07 |  |
 
