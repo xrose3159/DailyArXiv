@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2026
+title: Latest 15 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,41 +7,55 @@ labels: documentation
 ## data synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Splat2Act: From Captured Scenes to Personalized VLA Manipulation](https://arxiv.org/abs/2610.13945v1)** | 2026-10-09 | <details><summary>Proje...</summary><p>Project page: https://splat2act.github.io</p></details> |
-| **[Chronos Policy: Learning Robot Policies on Physical Time](https://arxiv.org/abs/2610.13929v1)** | 2026-10-09 | <details><summary>Proje...</summary><p>Project website: https://changhaowang.github.io/chronospolicy/</p></details> |
-| **[Designing Protein Structures from Natural Language](https://arxiv.org/abs/2610.13917v1)** | 2026-10-09 | <details><summary>53 pa...</summary><p>53 pages, 9 figures. Code, data, and model weights: https://github.com/jleechung/prompteina</p></details> |
-| **[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://arxiv.org/abs/2610.13912v1)** | 2026-10-09 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/RSI-Anything</p></details> |
-| **[Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping](https://arxiv.org/abs/2610.13909v1)** | 2026-10-09 |  |
+| **[Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs](https://arxiv.org/abs/2610.18870v1)** | 2026-10-13 |  |
+| **[What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study](https://arxiv.org/abs/2610.18869v1)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project Website: https://axis-bench.github.io/</p></details> |
+| **[Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://arxiv.org/abs/2610.18868v1)** | 2026-10-13 | <details><summary>https...</summary><p>https://tev-agent.github.io/</p></details> |
+| **[PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning](https://arxiv.org/abs/2610.18865v1)** | 2026-10-13 |  |
+| **[Data Free Training of Diffusion Models for Lattice Field Theories](https://arxiv.org/abs/2610.18863v1)** | 2026-10-13 |  |
+| **[Hybrid Reasoning Agents](https://arxiv.org/abs/2610.18861v1)** | 2026-10-13 | 45 pages, 12 figures |
+| **[Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception](https://arxiv.org/abs/2610.12445v2)** | 2026-10-13 | <details><summary>11 pa...</summary><p>11 pages main text, 98 pages total; 18 figures, 18 tables. Code and data: https://github.com/AlignmentResearch/caught-in-the-act-probes</p></details> |
+| **[ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation](https://arxiv.org/abs/2610.18852v1)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project page: https://force-wam.github.io/</p></details> |
+| **[Dex4D: Task-Agnostic Point Track Policy for Zero-Shot Dexterous Manipulation](https://arxiv.org/abs/2602.15828v2)** | 2026-10-13 | <details><summary>CoRL ...</summary><p>CoRL 2026. Project page: https://dex4d.github.io/</p></details> |
+| **[Scaling Online Optimal Transport Minibatches for Flow Matching](https://arxiv.org/abs/2610.18838v1)** | 2026-10-13 | 37 pages |
 
 ## data selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Splat2Act: From Captured Scenes to Personalized VLA Manipulation](https://arxiv.org/abs/2610.13945v1)** | 2026-10-09 | <details><summary>Proje...</summary><p>Project page: https://splat2act.github.io</p></details> |
-| **[Chronos Policy: Learning Robot Policies on Physical Time](https://arxiv.org/abs/2610.13929v1)** | 2026-10-09 | <details><summary>Proje...</summary><p>Project website: https://changhaowang.github.io/chronospolicy/</p></details> |
-| **[Designing Protein Structures from Natural Language](https://arxiv.org/abs/2610.13917v1)** | 2026-10-09 | <details><summary>53 pa...</summary><p>53 pages, 9 figures. Code, data, and model weights: https://github.com/jleechung/prompteina</p></details> |
-| **[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://arxiv.org/abs/2610.13912v1)** | 2026-10-09 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/RSI-Anything</p></details> |
-| **[Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping](https://arxiv.org/abs/2610.13909v1)** | 2026-10-09 |  |
+| **[Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs](https://arxiv.org/abs/2610.18870v1)** | 2026-10-13 |  |
+| **[What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study](https://arxiv.org/abs/2610.18869v1)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project Website: https://axis-bench.github.io/</p></details> |
+| **[Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://arxiv.org/abs/2610.18868v1)** | 2026-10-13 | <details><summary>https...</summary><p>https://tev-agent.github.io/</p></details> |
+| **[PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning](https://arxiv.org/abs/2610.18865v1)** | 2026-10-13 |  |
+| **[Data Free Training of Diffusion Models for Lattice Field Theories](https://arxiv.org/abs/2610.18863v1)** | 2026-10-13 |  |
+| **[Hybrid Reasoning Agents](https://arxiv.org/abs/2610.18861v1)** | 2026-10-13 | 45 pages, 12 figures |
+| **[Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception](https://arxiv.org/abs/2610.12445v2)** | 2026-10-13 | <details><summary>11 pa...</summary><p>11 pages main text, 98 pages total; 18 figures, 18 tables. Code and data: https://github.com/AlignmentResearch/caught-in-the-act-probes</p></details> |
+| **[ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation](https://arxiv.org/abs/2610.18852v1)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project page: https://force-wam.github.io/</p></details> |
+| **[Collaborative Planning for UAV-UGV Teams under Operational Constraints via Masked Error-bounded Neuro-Symbolic Diffusion](https://arxiv.org/abs/2610.18850v1)** | 2026-10-13 |  |
 
 ## MLLMs
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models](https://arxiv.org/abs/2603.18048v3)** | 2026-10-09 | 14 pages,6 figures |
-| **[S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://arxiv.org/abs/2610.13527v1)** | 2026-10-09 | <details><summary>Proje...</summary><p>Project Page: https://mirros.ai/blog/s-space</p></details> |
-| **[When MLLMs miss what humans read: diagnosing and learning to read squint text](https://arxiv.org/abs/2610.13465v1)** | 2026-10-09 |  |
-| **[VITAL: Visual-Semantic Dual Supervision for Enhanced and Interpretable Latent Reasoning in Medical MLLMs](https://arxiv.org/abs/2605.28422v2)** | 2026-10-09 | EMNLP 2026 Oral |
-| **[Monarch-MoE: Structured Experts for Multimodal Continual Instruction Tuning](https://arxiv.org/abs/2610.13215v1)** | 2026-10-09 | 25 pages, 3 figures |
-| **[AdaC-GRPO: Towards Mastering Long-Horizon Visual Sudoku Puzzles via Adaptive Curriculum Learning](https://arxiv.org/abs/2610.13184v1)** | 2026-10-09 |  |
-| **[Cognition-Oriented Emotion Tracing from Causes to Consequences in Real-World Social Scenes](https://arxiv.org/abs/2610.11410v2)** | 2026-10-09 |  |
-| **[From Glance to Focus: Mitigating Recognition Laziness in MLLMs for Fine-Grained Recognition](https://arxiv.org/abs/2610.13154v1)** | 2026-10-09 | <details><summary>21 pa...</summary><p>21 pages, 18 figures, 5 tables. Includes supplementary material</p></details> |
-| **[Measurable Semantic 3D Gaussian Splatting with Joint Region and Depth Supervision for Interactive Building Inspection](https://arxiv.org/abs/2610.13143v1)** | 2026-10-09 |  |
-| **[GraphVerse: A Comprehensive Visual Graph Reasoning Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2608.06769v2)** | 2026-10-09 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
+| **[PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning](https://arxiv.org/abs/2610.18865v1)** | 2026-10-13 |  |
+| **[Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs](https://arxiv.org/abs/2610.18858v1)** | 2026-10-13 |  |
+| **[OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding](https://arxiv.org/abs/2610.18829v1)** | 2026-10-13 | <details><summary>Homep...</summary><p>Homepage: https://omnicompass.netlify.app/</p></details> |
+| **[VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615v1)** | 2026-10-13 | <details><summary>23 pa...</summary><p>23 pages. Project page: https://mcg-nju.github.io/VideoJev</p></details> |
+| **[EmoGenie: Benchmarking and Evaluating Expressed and Evoked Emotion in T2I Generation with MLLMs](https://arxiv.org/abs/2610.18455v1)** | 2026-10-13 | <details><summary>Comme...</summary><p>Comments: Corresponding author: Xiongkuo Min. Equal contribution: Zixuan Xing and Lancheng Gao</p></details> |
+| **[P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning](https://arxiv.org/abs/2606.11152v3)** | 2026-10-13 | <details><summary>26 pa...</summary><p>26 pages, including appendix. Revised version with updated model evaluations, fixed 100-case evaluation subsets per task, and revised score aggregation. Project page: https://spatiaos.github.io/projects/P3D-Bench/</p></details> |
+| **[Bifocal: Training-Free Mixed Granularity Visual Token Pruning for Multimodal LLMs](https://arxiv.org/abs/2610.18399v1)** | 2026-10-13 |  |
+| **[ReDiS: Reasoning-Diagnosis Self-Evolution for Multimodal Reasoning in Remote Sensing](https://arxiv.org/abs/2610.18388v1)** | 2026-10-13 |  |
+| **[Hallucination-aware Faithful Reasoning in Remote Sensing](https://arxiv.org/abs/2610.18369v1)** | 2026-10-13 |  |
+| **[PACT: A Pragmatic Prompting Framework for Expressive and Voice-Preserving Speech-to-Speech Translation](https://arxiv.org/abs/2610.18247v1)** | 2026-10-13 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables</p></details> |
 
 ## data curation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Splat2Act: From Captured Scenes to Personalized VLA Manipulation](https://arxiv.org/abs/2610.13945v1)** | 2026-10-09 | <details><summary>Proje...</summary><p>Project page: https://splat2act.github.io</p></details> |
-| **[Chronos Policy: Learning Robot Policies on Physical Time](https://arxiv.org/abs/2610.13929v1)** | 2026-10-09 | <details><summary>Proje...</summary><p>Project website: https://changhaowang.github.io/chronospolicy/</p></details> |
-| **[Designing Protein Structures from Natural Language](https://arxiv.org/abs/2610.13917v1)** | 2026-10-09 | <details><summary>53 pa...</summary><p>53 pages, 9 figures. Code, data, and model weights: https://github.com/jleechung/prompteina</p></details> |
-| **[RSI-Anything: Unlocking Recursive Self-Improvement with World Models](https://arxiv.org/abs/2610.13912v1)** | 2026-10-09 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/RSI-Anything</p></details> |
-| **[Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping](https://arxiv.org/abs/2610.13909v1)** | 2026-10-09 |  |
+| **[Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs](https://arxiv.org/abs/2610.18870v1)** | 2026-10-13 |  |
+| **[What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study](https://arxiv.org/abs/2610.18869v1)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project Website: https://axis-bench.github.io/</p></details> |
+| **[Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](https://arxiv.org/abs/2610.18868v1)** | 2026-10-13 | <details><summary>https...</summary><p>https://tev-agent.github.io/</p></details> |
+| **[PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning](https://arxiv.org/abs/2610.18865v1)** | 2026-10-13 |  |
+| **[Data Free Training of Diffusion Models for Lattice Field Theories](https://arxiv.org/abs/2610.18863v1)** | 2026-10-13 |  |
+| **[Hybrid Reasoning Agents](https://arxiv.org/abs/2610.18861v1)** | 2026-10-13 | 45 pages, 12 figures |
+| **[Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception](https://arxiv.org/abs/2610.12445v2)** | 2026-10-13 | <details><summary>11 pa...</summary><p>11 pages main text, 98 pages total; 18 figures, 18 tables. Code and data: https://github.com/AlignmentResearch/caught-in-the-act-probes</p></details> |
+| **[ForceWAM: Decoupling Future and Response Learning from Demo and Play Data for Contact-Rich Manipulation](https://arxiv.org/abs/2610.18852v1)** | 2026-10-13 | <details><summary>Proje...</summary><p>Project page: https://force-wam.github.io/</p></details> |
+| **[Dex4D: Task-Agnostic Point Track Policy for Zero-Shot Dexterous Manipulation](https://arxiv.org/abs/2602.15828v2)** | 2026-10-13 | <details><summary>CoRL ...</summary><p>CoRL 2026. Project page: https://dex4d.github.io/</p></details> |
+| **[Scaling Online Optimal Transport Minibatches for Flow Matching](https://arxiv.org/abs/2610.18838v1)** | 2026-10-13 | 37 pages |
 
